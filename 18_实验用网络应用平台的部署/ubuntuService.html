@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ubuntuService</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>  
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>  
+   
+<script>hljs.initHighlightingOnLoad();</script>  
+<script type="text/javascript">  
+ $(document).ready(function(){  
+      $("h2,h3,h4,h5,h6").each(function(i,item){  
+        var tag = $(item).get(0).localName;  
+        $(item).attr("id","wow"+i);  
+        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');  
+        $(".newh2").css("margin-left",0);  
+        $(".newh3").css("margin-left",20);  
+        $(".newh4").css("margin-left",40);  
+        $(".newh5").css("margin-left",60);  
+        $(".newh6").css("margin-left",80);  
+      });  
+ });  
+</script>  
+<a href="javascript:scroll(0,0)" style="position:fixed;float:right;right:32px;top:30%">返回顶部</a>   
+<div id="category"></div>  
+</head>
+<body>
+<blockquote>
+<p><a href="http://cadesign.cn/caDesignS/" rel="nofollow">caDesign设计</a></p>
+</blockquote>
+<h2>Ubuntu系统</h2>
+<ol>
+<li>准备额外的电脑，此次实验使用的是英特尔（Intel） NUC6I7KYK NUC。</li>
+<li>从<a href="https://www.ubuntu.com/index_kylin" rel="nofollow">Ubuntu官网</a>下载系统安装程序，此次实验使用的版本为Ubuntu 14.04.5 Desktop (64-bit)LTS，可以自行下载使用最新版本。</li>
+<li>在<a href="https://universal-usb-installer.en.softonic.com/" rel="nofollow">Universal USB Installer</a>站点下载(可能需要翻墙)Universal USB Installer，制作Ubuntu启动U盘。<br>
+<a href="https://camo.githubusercontent.com/3b95b1bec1f1aff4e67961b42cd4d92e7d7aaa91/68747470733a2f2f692e696d6775722e636f6d2f3071684a704f792e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/3b95b1bec1f1aff4e67961b42cd4d92e7d7aaa91/68747470733a2f2f692e696d6775722e636f6d2f3071684a704f792e6a7067" alt="" data-canonical-src="https://i.imgur.com/0qhJpOy.jpg" style="max-width:100%;"></a></li>
+<li>制作完启动盘后，将U版插入预备的电脑中，安装Ubuntu系统。</li>
+</ol>
+<h2>VNC配置</h2>
+<p>很多时候主机并不需要直接连接显示器，例如作为服务器或者机器人的主机时，但是很多时候希望直接通过常用的电脑(win、maxOS或者Linux系统，甚至ios、Android、Raspberry Pi)来控制，就可以在Ubuntu系统下安装X11VNC Server。</p>
+<ol>
+<li>在Terminal终端安装X11VNC Server</li>
+</ol>
+<pre lang="terminal"><code>sudo apt-get install x11vnc
+</code></pre>
+<ol start="2">
+<li>设置VNC密码</li>
+</ol>
+<pre lang="terminla"><code>x11vnc -storepasswd
+</code></pre>
+<ol start="3">
+<li>避免每次手工启动X11VNC,则执行以下代码。</li>
+</ol>
+<pre lang="terminal"><code>sudo x11vnc -storepasswd in /etc/x11vnc.pass
+sudo cp ~/.vnc/passwd /etc/x11vnc.pass (被认为为非root的其它管理员)
+sudo vim /etc/init/x11vnc.conf （如果没有该文件则创建该文件）
+</code></pre>
+<p>将下述代码，复制到x11vnc.conf文件中。</p>
+<pre><code>start on login-session-start
+script
+x11vnc -display :0 -auth /var/run/lightdm/root/:0 -forever -bg -o /var/log/x11vnc.log -rfbauth /etc/x11vnc.pass -rfbport 5900
+end script
+</code></pre>
+<ol start="3">
+<li>在windows系统下或其它系统，下载<a href="https://www.realvnc.com/en/connect/download/viewer/" rel="nofollow">VNC Viewer</a>，安装后打开输入预备的电脑在局域网中的地址，以及账户和密码，登录到预备电脑中。(在Ubuntu系统终端中执行ifconfig中查看地址)。<br>
+<a href="https://camo.githubusercontent.com/8fbf4b0a2ced2926e17d62d34d48b34393604b05/68747470733a2f2f692e696d6775722e636f6d2f6f37706e7075582e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/8fbf4b0a2ced2926e17d62d34d48b34393604b05/68747470733a2f2f692e696d6775722e636f6d2f6f37706e7075582e6a7067" alt="" data-canonical-src="https://i.imgur.com/o7pnpuX.jpg" style="max-width:100%;"></a></li>
+</ol>
+<blockquote>
+<p>如果希望在iphone中控制，则可以在其手机App Store中下载VNC Viewer-Remote Desktop应用，使用方法同前。</p>
+</blockquote>
+<p>如果不在Ubuntu的终端中安装VNC，则可以在其Ubuntu Software Center中搜索VNC并直接安装。<br>
+<a href="https://camo.githubusercontent.com/7fc9b55db1e61961d352eacc809fed52c9f746cd/68747470733a2f2f692e696d6775722e636f6d2f384f466d44797a2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/7fc9b55db1e61961d352eacc809fed52c9f746cd/68747470733a2f2f692e696d6775722e636f6d2f384f466d44797a2e6a7067" alt="" data-canonical-src="https://i.imgur.com/8OFmDyz.jpg" style="max-width:100%;"></a><br>
+推荐使用的Terminal终端Terminator:<br>
+<a href="https://camo.githubusercontent.com/f3726ab8a9abbd4b2abc3904668f54d41d6b4a89/68747470733a2f2f692e696d6775722e636f6d2f4d3176624748312e706e67" target="_blank"><img src="https://camo.githubusercontent.com/f3726ab8a9abbd4b2abc3904668f54d41d6b4a89/68747470733a2f2f692e696d6775722e636f6d2f4d3176624748312e706e67" alt="" data-canonical-src="https://i.imgur.com/M1vbGH1.png" style="max-width:100%;"></a></p>
+<h2>在Linux(Ubuntu)下搭建Nginx+uWSGI服务器</h2>
+<p>Nginx (engine x) 是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP服务器。<br>
+uWSGI是一个Web服务器，它实现了WSGI协议、uwsgi、http等协议。</p>
+<h3>1. 更新本地包，安装pip和nginx。</h3>
+<p>(Terminal中执行)</p>
+<pre lang="terminal"><code>sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install python-pip python-dev nginx
+</code></pre>
+<h3>2. 建立python虚拟环境，并配置环境(安装所需包)</h3>
+<p>首先安装virtualenv包。然后建立父级文件夹'myproject'，并进入到该文件夹下。文件夹名可自行定义。</p>
+<pre lang="terminal"><code>sudo pip install virtualenv
+mkdir ~/myproject
+cd ~/myproject
+</code></pre>
+<p>通过<code>python -V</code>查看当前系统下python版本，如果当前版本为Python 2.7.13，而在本地pycharm中建立的flask网站所使用的python版本为<br>
+Python 3.6.2，则需要再在Linux系统下安装python3.6.2版本。如果安装python的多版本，则首先安装版本管理工具pyenv。(python 3支持更多的库，尤其此次实验中涉及到的OpenCV，因此需要较高版本的python。)并设置环境变量。</p>
+<pre lang="terminal"><code>git clone git://github.com/yyuu/pyenv.git ~/.pyenv
+echo 'export PYENV_ROOT="$HOME/.pyenv"' &gt;&gt; ~/.bashrc
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' &gt;&gt; ~/.bashrc
+echo 'eval "$(pyenv init -)"' &gt;&gt; ~/.bashrc
+exec $SHELL -l
+</code></pre>
+<p>同时需要安装依赖包，否则后续执行会出现错误。</p>
+<pre lang="terminal"><code>sudo apt-get install libc6-dev gcc
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm
+</code></pre>
+<p>查看可以安装的python版本并安装对应Pycharm的python版本。基本包括的所有版本。</p>
+<pre lang="terminal"><code>pyenv install --list
+pyenv install 3.6.2 -v
+</code></pre>
+<p>安装Python 3.6.2后，需要更新数据库。</p>
+<pre lang="terminal"><code>pyenv rehash
+</code></pre>
+<p>可以查看当前安装的python版本。</p>
+<pre lang="terminal"><code>pyenv versions
+* system (set by /home/richie/.pyenv/version)
+  3.6.2
+</code></pre>
+<p>星号代表当前系统正在使用的python版本，为系统自带的。可以设置全局的python版本为Python 3.6.2，并再次查看,当前版本已变更。</p>
+<pre lang="terminal"><code>pyenv global 3.6.2
+pyenv rehash
+pyenv versions
+  system
+* 3.6.2 (set by /home/richie/.pyenv/version)
+</code></pre>
+<blockquote>
+<p>系统自带的脚本会以/usr/bin/python的方式直接调用老版本的python，因而不会对系统脚本产生影响；<br>
+使用pip安装第三方模块时会安装到~/.pyenv/versions/3.6.2下，不会和系统模块发生冲突；<br>
+使用pip安装模块后，可能需要执行pyenv rehash更新数据库。</p>
+</blockquote>
+<p>在定义的'myproject'文件夹下，执行下述代码可以建立虚拟环境。其中给定-p参数，指定python版本。</p>
+<pre lang="terminal"><code>virtualenv -p /home/richie/.pyenv/versions/3.6.2/bin/python3.6 venv
+</code></pre>
+<blockquote>
+<p>如何要查看pyenv的安装的路径，可以执行<code>which pyenv</code>返回查询对象的路径为/home/richie/.pyenv/bin/pyenv。如果查看Ubuntu下隐藏的文件夹可以按Ctrl+H。</p>
+</blockquote>
+<p>所建立的虚拟关键包含了如下主要的包。<br>
+<a href="https://camo.githubusercontent.com/77a0f493a70a062d119b3d839aa1b0e80adc934d/68747470733a2f2f692e696d6775722e636f6d2f6e4d54575430522e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/77a0f493a70a062d119b3d839aa1b0e80adc934d/68747470733a2f2f692e696d6775722e636f6d2f6e4d54575430522e6a7067" alt="" data-canonical-src="https://i.imgur.com/nMTWT0R.jpg" style="max-width:100%;"></a><br>
+进入虚拟环境,在命令行前多了(venv)，即已经进入虚拟环境：</p>
+<pre lang="terminal"><code>source venv/bin/activate
+(venv) richie@richie-nuc:~/myproject$ 
+</code></pre>
+<p>如果退出虚拟环境，则执行<code>deactivate</code>。<br>
+此时raspi虚拟环境并没有包括pycharm本地网站需要的所有包。首先在pycharm的Terminal终端中执行下述语句。获得当前虚拟环境下所有pip安装包名录，并保存于requirements.txt文件中。</p>
+<pre lang="terminal"><code>pip freeze &gt; requirements.txt
+</code></pre>
+<p>此次实验中所包含的包有：</p>
+<blockquote>
+<p>alembic==0.9.7<br>
+certifi==2018.1.18<br>
+chardet==3.0.4<br>
+click==6.7<br>
+cycler==0.10.0<br>
+decorator==4.2.1<br>
+echarts==0.0.0<br>
+echarts-python==0.1.3<br>
+Flask==0.12.2<br>
+Flask-Migrate==2.1.1<br>
+Flask-Script==2.0.6<br>
+Flask-SQLAlchemy==2.3.2<br>
+idna==2.6<br>
+itsdangerous==0.24<br>
+Jinja2==2.10<br>
+Mako==1.0.7<br>
+MarkupSafe==1.0<br>
+matplotlib==2.1.2<br>
+networkx==2.1<br>
+numpy==1.14.0<br>
+opencv-python==3.4.0+contrib<br>
+pandas==0.22.0<br>
+peppercorn==0.5<br>
+Pillow==5.0.0<br>
+pyparsing==2.2.0<br>
+python-dateutil==2.6.1<br>
+python-editor==1.0.3<br>
+pytz==2017.3<br>
+PyWavelets==0.5.2<br>
+requests==2.18.4<br>
+scikit-learn==0.19.1<br>
+scipy==1.0.0<br>
+six==1.11.0<br>
+sklearn==0.0<br>
+SQLAlchemy==1.2.2<br>
+urllib3==1.22<br>
+Werkzeug==0.14.1</p>
+</blockquote>
+<p>把requirements.txt文件通过realVNC传入预备电脑中(需要预备电脑的Ubuntu系统下同样安装了realVNC Server)，但是此时使用的是X11VNC Server，因此realVNC不支持文件传输。其中一种方法是执行以下代码,将windows下requirements.txt中的内容复制黏贴到Ubuntu下所建立的requirements.txt文件中。</p>
+<pre lang="terminal"><code>(venv) richie@richie-nuc:~/myproject$ vim requirements.txt
+(venv) richie@richie-nuc:~/myproject$ ls
+requirements.txt  venv
+(venv) richie@richie-nuc:~/myproject$ 
+</code></pre>
+<p>进入虚拟环境，执行下述代码，在虚拟环境中安装requirements.txt文件中所有的包。</p>
+<blockquote>
+<p>需要注意opencv-python==3.4.0+contrib包要单独安装，否则提示无法找到该安装包。因此要在requirements.txt文件中删除该行。</p>
+</blockquote>
+<pre lang="terminal"><code>pip install -r requirements.txt
+</code></pre>
+<p>关于opencv-python，不要用pip install opencv-python自动安装，需要自行从<a href="https://www.lfd.uci.edu/%7Egohlke/pythonlibs/#opencv" rel="nofollow">https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv</a>下载对应版本，本pycharm对应的opencv为opencv_python-3.4.0+contrib-cp36-cp36m-win32.whl，下载后放置于~/myproject/venv/lib/python3.6/site-packages$目录下，使用pip install opencv_python-3.4.0+contrib-cp36-cp36m-win32.whl本地安装，即可解决ImportError:DLL load failed:找不到指定模块等问题。</p>
+<blockquote>
+<p>注：需下载+contrib版本，其中包含要使用的一些模块，例如cv2.xfeatures2d.StarDetector_create()。</p>
+</blockquote>
+<blockquote>
+<p>如果提示opencv_python-3.4.0+contrib-cp36-cp36m-win32.whl is not a supported wheel on this platform.错误。则可以在<a href="https://pypi.python.org/pypi/opencv-contrib-python" rel="nofollow">opencv-contrib-python </a>站点下载opencv_contrib_python-3.4.0.12-cp36-cp36m-manylinux1_x86_64.whl (md5)文件，并执行上述代码。</p>
+</blockquote>
+<p>如果从x86_64 + ubuntu14.04 + python3.6中import cv2(opencv3.3), 遇到以下错误：</p>
+<pre><code>[plain] view plain copy
+ImportError: libSM.so.6: cannot open shared object file: No such file or directory  
+ImportError: libXrender.so.1: cannot open shared object file: No such file or directory  
+ImportError: libXext.so.6: cannot open shared object file: No such file or directory  
+</code></pre>
+<p>安装对应的软件包解决：</p>
+<pre><code>[plain] view plain copy
+apt-get install libsm6  
+apt-get install libxrender1  
+apt-get install libxext-dev 
+</code></pre>
+<h3>3. uWSGI</h3>
+<p>在虚拟环境下安装uwsgi和flask</p>
+<pre lang="terminal"><code>sudo pip install uwsgi flask
+</code></pre>
+<p>可以<code>uwsgi -version</code>查看安装的uwsgi的版本。</p>
+<pre lang="terminal"><code>(venv) richie@richie-nuc:~/myproject$ uwsgi -version
+*** Starting uWSGI 2.0.16 (64bit) on [Tue Feb 20 14:12:10 2018] ***
+compiled with version: 4.8.4 on 20 February 2018 06:11:08
+os: Linux-4.4.0-31-generic #50~14.04.1-Ubuntu SMP Wed Jul 13 01:07:32 UTC 2016
+nodename: richie-nuc
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/richie/myproject
+detected binary path: /usr/local/bin/uwsgi
+dropping root privileges as early as possible
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31401
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+dropping root privileges after socket binding
+dropping root privileges after plugin initialization
+The -s/--socket option is missing and stdin is not a socket.
+</code></pre>
+<p>建立一个简单的App应用。测试程序。在myproject文件夹下，建立一个myproject.py文件(可自行定义文件名称)，并在该.py文件下，写入简单的flask程序。</p>
+<pre lang="terminal"><code>nano myproject.py
+</code></pre>
+<p>myproject.py文件内容。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> flask <span class="pl-k">import</span> Flask
+application <span class="pl-k">=</span> Flask(<span class="pl-c1">__name__</span>)
+
+<span class="pl-en">@application.route</span>(<span class="pl-s"><span class="pl-pds">"</span>/<span class="pl-pds">"</span></span>)
+<span class="pl-k">def</span> <span class="pl-en">hello</span>():
+    <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">"</span>&lt;h1 style='color:blue'&gt;Hello There!&lt;/h1&gt;<span class="pl-pds">"</span></span>
+
+<span class="pl-k">if</span> <span class="pl-c1">__name__</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">"</span>__main__<span class="pl-pds">"</span></span>:
+    application.run(<span class="pl-v">host</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>0.0.0.0<span class="pl-pds">'</span></span>)</pre></div>
+<blockquote>
+<p>在Ubutnu系统Terminal终端中常使用的编辑器有Linux GNU nano 和Vim,关于这两个编辑器的使用方法可以自行搜索。</p>
+</blockquote>
+<p>在虚拟环境下，执行<code>python myproject.py</code>将运行服务器。因为myproject.py文件中定义<code>application.run(host='0.0.0.0')</code>中host为'0.0.0.0'，因此不仅可以在Ubuntu服务器中通过 <code>http://0.0.0.0:5000/</code>在浏览器中查看，也可以在同一WIFI环境下的其它电脑中，使用<code>http://192.168.1.7:5000/</code>查看。</p>
+<pre lang="terminal"><code>(venv) richie@richie-nuc:~/myproject$ python myproject.py
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Feb/2018 14:26:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Feb/2018 14:26:49] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Feb/2018 14:26:50] "GET / HTTP/1.1" 200 -
+192.168.1.12 - - [20/Feb/2018 14:28:19] "GET / HTTP/1.1" 200 -
+192.168.1.12 - - [20/Feb/2018 14:28:20] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.1.12 - - [20/Feb/2018 14:28:28] "GET / HTTP/1.1" 200 -
+</code></pre>
+<p>在预备电脑(服务器)中查看网页，地址<code>http://0.0.0.0:5000/</code><br>
+<a href="https://camo.githubusercontent.com/20ae0fffffb1e4bf4a6c914b8040b640db7fb568/68747470733a2f2f692e696d6775722e636f6d2f38386d456655302e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/20ae0fffffb1e4bf4a6c914b8040b640db7fb568/68747470733a2f2f692e696d6775722e636f6d2f38386d456655302e6a7067" alt="" data-canonical-src="https://i.imgur.com/88mEfU0.jpg" style="max-width:100%;"></a><br>
+在同一WIFI网络来中，其它电脑中查看，地址<code>http://192.168.1.7:5000/</code><br>
+<a href="https://camo.githubusercontent.com/1377afd4ee935dc2730c62d9f5d1d0b19d1a4677/68747470733a2f2f692e696d6775722e636f6d2f51566d5a694f672e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/1377afd4ee935dc2730c62d9f5d1d0b19d1a4677/68747470733a2f2f692e696d6775722e636f6d2f51566d5a694f672e6a7067" alt="" data-canonical-src="https://i.imgur.com/QVmZiOg.jpg" style="max-width:100%;"></a></p>
+<h3>4. 部署flask App应用</h3>
+<h4>1. 本地项目上传至服务器虚拟环境目录下</h4>
+<p>将本地pycharm中调试好的项目下所有文件复制到服务器的myproject文件夹下，即虚拟环境中。通常使用GIT版本控制的方法来上传项目。此次实验则直接复制到指定目录下。主要不要复制本地项目中的even虚拟环境文件夹。<br>
+<a href="https://camo.githubusercontent.com/049271ab0d753dcaa0eebb5ebed10d85c6d9100c/68747470733a2f2f692e696d6775722e636f6d2f683136446652572e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/049271ab0d753dcaa0eebb5ebed10d85c6d9100c/68747470733a2f2f692e696d6775722e636f6d2f683136446652572e6a7067" alt="" data-canonical-src="https://i.imgur.com/h16DfRW.jpg" style="max-width:100%;"></a><br>
+一般直接在Terminal终端中使用<code>ls</code>命令查看<br>
+<a href="https://camo.githubusercontent.com/45651600c1faa543ceb0faac6c1e07f707f3ffb3/68747470733a2f2f692e696d6775722e636f6d2f4e4c73644c4b762e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/45651600c1faa543ceb0faac6c1e07f707f3ffb3/68747470733a2f2f692e696d6775722e636f6d2f4e4c73644c4b762e6a7067" alt="" data-canonical-src="https://i.imgur.com/NLsdLKv.jpg" style="max-width:100%;"></a><br>
+此时执行<code>python manage.py runserver --host 0.0.0.0 --port 8000</code>，将会在<code>http://192.168.1.7:8000/</code>网址打开该项目主页。或者执行<code>python lAEVAL.py</code>,将会在<code>http://0.0.0.0:5000/</code>地址打开网页。<br>
+<a href="https://camo.githubusercontent.com/1d424b9710d7e8531812d3f3e251d7c91230c018/68747470733a2f2f692e696d6775722e636f6d2f424138574937652e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/1d424b9710d7e8531812d3f3e251d7c91230c018/68747470733a2f2f692e696d6775722e636f6d2f424138574937652e6a7067" alt="" data-canonical-src="https://i.imgur.com/BA8WI7e.jpg" style="max-width:100%;"></a></p>
+<h4>2. 建立uWSGI入口点(entry points)</h4>
+<p>建立wsgi.py文件，作为应用程序App的入口点，这将告诉uWSGI服务器如何与应用程序进行交互。</p>
+<pre lang="terminal"><code>nano wsgi.py
+</code></pre>
+<p>wsgi.py文件代码。从flask项目中主文件lAEVAL.py中调入app应用。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> lAEVAL <span class="pl-k">import</span> app
+
+<span class="pl-k">if</span> <span class="pl-c1">__name__</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">"</span>__main__<span class="pl-pds">"</span></span>:
+    app.run()</pre></div>
+<h4>3. 配置uWSGI</h4>
+<p><code>nano laeval_uwsgi.ini</code>建立laeval_uwsgi.ini配置文件，使得uWSGI知道应用这些设置。<br>
+laeval_uwsgi.ini文件配置内容</p>
+<pre lang="init"><code>[uwsgi]
+module = wsgi
+master = true
+processes = 5
+socket = laeval.sock
+chmod-socket = 666
+vacuum = true
+die-on-term = true
+
+callable = app
+threads = 2
+thunder-lock=True
+enable-threads=True
+
+http = 0.0.0.0:9800
+
+chdir=/home/richie/myproject
+home= /home/richie/myproject/vevn
+</code></pre>
+<p><code>[uwsgi]</code>标识让uWSGI知道应用这些配置。并通过<code>module = wsgi</code>指定模块(去除wsgi.py中.py的扩展名)。master = true为主模式启动，<code>processes = 5</code>为产生5个工作进程来处理实际的请求。在生成环境下是使用Nginx处理实际与客户端的连接，让后将请求传递给uWSGI。因为这些组件在同一服务器上运行，首选Unix套接字socket保证安全与速度<code>socket = laeval.sock</code>。并同时修改套接字上的权限<code>chmod-socket = 666</code>，确保读取与写入。<code>vacuum = true</code>则可以在进程停止时清理套接字。<code>die-on-term = true</code>可以对其Upstart init系统和uWSGI系统组件，实现预期行为。<code>callable = app</code>为可调用的应用名，默认为“application”，因此需要设置该参数。并<code>enable-threads=True</code>使能线程。<code>chdir=/home/richie/myproject</code>为App应用目录，<code>home= /home/richie/myproject/vevn</code>为App应用虚拟环境目录。</p>
+<blockquote>
+<p>在Ubuntu命令行中可以使用<code>pwd</code>查看当前路径。</p>
+</blockquote>
+<p>使用<code>uwsgi --ini laeval_uwsgi.ini</code>执行uWSGI Web 服务器，可以在<code>http://192.168.1.7:9800/</code>地址中打开主页。<br>
+如果调出“预测图像分数”<code>http://192.168.1.7:9800/imgprediction/</code>模板，将会提示错误<code>ValueError: Buffer dtype mismatch, expected 'SIZE_t' but got 'int'</code>。这是因为在机器学习部分，在本地通过pickle.dump()保存的模型clf.pkl、erf.pkl、feartK.pkl和feature_map.pkl，在服务器端无法读取该格式。因此需要直接在服务器端移除这个4个.pkl文件，再执行<code>python imgPred_buildFeatures.py</code>,<code>python imgPred_training.py</code>,重新生成.pkl文件。</p>
+<h4>4. 建立Upstart Script</h4>
+<p>Upstart脚本将允许Ubuntu的初始化init系统在服务器引导时自动启动uWSGI,并未flask应用程序提供服务。在/etc/init目录下建立.conf结尾的脚本文件.</p>
+<pre lang="terminal"><code>sudo nano /etc/init/myproject.conf
+</code></pre>
+<p>myproject.conf文件内容：</p>
+<pre lang="conf"><code>description "uWSGI server instance configured to serve myproject"
+
+start on runlevel [2345]
+stop on runlevel [!2345]
+
+setuid user
+setgid www-data
+
+env PATH=/home/richie/myproject/venv/bin
+chdir /home/richie/myproject
+exec uwsgi --ini laeval_uwsgi.ini
+</code></pre>
+<p><code>start on runlevel [2345]</code>定义系统启动脚本的条件。正常的系统运行时间数是2,3,4和5,因此告知系统在达到其中一个运行级时启动脚本。而<code>stop on runlevel [!2345]</code>告知在其它运行级别时停止。例如服务器的重新启动，关闭或者单用户模式时。<code>setuid user</code>和<code>setgid www-data</code>定义运行uWSGI的用户和组。Nginx服务器在www-data组下运行，因此给定读写权限。为正确查找到项目文件，需要设置PATH虚拟环境路径和chdir项目目录，并调用uWSGI可执行文件传入到前文配置的laeval_uwsgi.ini配置文件。<br>
+执行下述代码，启动uWSGI。</p>
+<pre><code>sudo start myproject
+</code></pre>
+<h4>5. 配置Nginx</h4>
+<p>uWSGI应用程序服务器启动运行后，等待项目目录中套接字文件的请求。需要配置Nginx，使用uwsgi协议将Web请求传递给套接字。<br>
+在<code>/etc/nginx/sites-available/</code>下建立配置文件myproject，文件名一般和App项目名同。</p>
+<pre lang="termianl"><code>sudo nano /etc/nginx/sites-available/laeval
+</code></pre>
+<p>myproject文件内容为：</p>
+<div class="highlight highlight-source-ini"><pre>server {
+    listen 80<span class="pl-c"><span class="pl-c">;</span></span>
+    server_name 192.168.1.7<span class="pl-c"><span class="pl-c">;</span></span>
+
+    location / {
+        include uwsgi_params<span class="pl-c"><span class="pl-c">;</span></span>
+        uwsgi_pass unix:/home/richie/myproject/laeval.sock<span class="pl-c"><span class="pl-c">;</span></span>
+    }
+}</pre></div>
+<p><code>listen 80;</code>设置Nginx监听默认端口。<code>server_name 192.168.1.7;</code>设置请求服务器的端口或服务器域名。<code>location /</code>事件为一个匹配每个请求的位置块。其中包含<code>include uwsgi_params;</code>uwsgi_params文件指定了一些需要设置的通用uWSGI参数。然后将请求传递给使用 <code>uwsgi_pass</code>指令定义的套接字。<br>
+启用创建的Nginx服务器配置文件，将其链接到站点目录。</p>
+<pre lang="terminal"><code>sudo ln -s /etc/nginx/sites-available/laeval /etc/nginx/sites-enabled
+</code></pre>
+<p>可以通过<code>sudo nginx -t</code>命令测试配置文件是否存在语法错误。</p>
+<pre lang="terminal"><code>richie@richie-nuc:~/myproject$ sudo nginx -t
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+</code></pre>
+<p>如果返回提示successful，则重启Nginx进程读取新配置。</p>
+<pre lang="termianl"><code>sudo service nginx restart
+</code></pre>
+<blockquote>
+<p>Nginx启动、停止与重启命令</p>
+</blockquote>
+<pre lang="termianl"><code>sudo service nginx start
+sudo service nginx stop
+sudo service nginx restart
+</code></pre>
+<p>通过<code>sudo service nginx restar</code>启动Nginx，通过<code>uwsgi --ini laeval_uwsgi.ini</code>启动uWSGI，则可以直接在WIFI局域网中在<code>http://192.168.1.7/</code>地址打开网站。</p>
+<h4>6. supervisor进程守护程序</h4>
+<p>部署完之后，虽然网站已经正常运行的，但是总会有意外情况发生，因此可以使用supervisor守护进程，在程序崩溃时，可以重新启动。<br>
+首先安装supervisor程序</p>
+<pre lang="terminal"><code>sudo apt-get install supervisor
+</code></pre>
+<p>在<code>/etc/supervisor</code>文件夹下，可以看到<code>supervisord.conf</code>配置文件,和conf.d文件夹，因为<code>supervisord.conf</code>文件下包含<code>[include]files = /etc/supervisor/conf.d/*.conf ;</code>语句，引入<code>/etc/supervisor/conf.d/</code> 下的 <code>.conf</code> 文件，因此可以在conf.d文件夹下增加配置文件 。</p>
+<pre lang="terminal"><code>cd /etc/supervisor
+root@richie-nuc:/etc/supervisor# ls
+conf.d  supervisord.conf
+</code></pre>
+<p>在conf.d文件夹下<code>sudo nano myproject.conf</code>建立myproject.conf文件，在增加下述代码。</p>
+<pre lang="conf"><code>[program:myproject]          
+command = uwsgi --ini /home/richie/myproject/laeval_uwsgi.ini 
+directory = /home/richie/myproject
+user = www-data
+stopsignal=QUIT
+autostart=true
+autorestart=true
+stdout_logfile=/var/log/uwsgi/supervisor_flask.log     
+stderr_logfile=/var/log/uwsgi/supervisor_flask_err.log  
+</code></pre>
+<p>启动supervisord</p>
+<pre><code>sudo supervisorctl reload
+</code></pre>
+<p>可以通过<code>ps aux | grep uwsgi</code>查看uWSGI进程。</p>
+<pre lang="terminal"><code>root@richie-nuc:/etc/supervisor# ps aux | grep uwsgi
+root     10234  0.1  1.6 951532 135024 ?       S    01:55   0:01 uwsgi --ini laeval_uwsgi.ini
+root     10245  0.0  1.1 1017456 91492 ?       Sl   01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10247  0.0  1.1 1017324 90688 ?       Sl   01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10249  0.0  1.1 1017472 91148 ?       Sl   01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10251  0.0  1.1 1017324 89848 ?       Sl   01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10253  0.0  1.1 1017324 89964 ?       Sl   01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10255  0.0  1.0 951532 87672 ?        S    01:55   0:00 uwsgi --ini laeval_uwsgi.ini
+root     10300  0.0  0.0  15956  2420 pts/0    S+   02:14   0:00 grep --color=auto uwsgi
+</code></pre>
+<p><code>sudo killall uwsgi</code> 杀掉uwsgi进程，自动重新启动uWSGI，可通过<code>ps aux | grep uwsgi</code>查看uWSGI进程。</p>
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
