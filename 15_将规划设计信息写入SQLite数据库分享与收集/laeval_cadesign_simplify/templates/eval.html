@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block title %}图像打分{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+{% endblock %}
+
+{% block main %}
+
+    <div class="jumbotron">
+        <h3>景观评估项目-实验-A</h3>
+        <p>通过点击每张图片对应的评分按钮，提交评分。评分分为3个等级，分别为<b>好、中、差</b>，对于每张图片只能选择一项。感谢您对caDesign设计该实验项目的支持！！！</p>
+        <p><a class="btn btn-primary btn-lg" href="{{ url_for('eval') }}" role="button">参与图像打分</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="{{ url_for('results') }}" role="button">查看评估结果</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="{{ url_for('imgprediction') }}" role="button">预测图像分数</a>
+        </p>
+    </div>
+
+    <ul class="question-list-group">
+        {% for imginfo in imgEval %}
+            <li style="float:left">
+                <div class="row">
+                    <div class=" col-md-10">
+                        <div class="thumbnail">
+                            <img src="{{ url_for('static',filename=imginfo.imagename[7:]) }}" alt="">
+                            <div class="caption">
+                                <h3>ID：{{ imginfo.index }}</h3>
+                                <p></p>
+                                <p>
+                                    <iframe name="formDestination" class="iframe"></iframe>
+                                    <form action="" method="post" target="formDestination">
+                                    <input type="radio" name="eval" value="1"/>好&nbsp
+                                    <input type="radio" name="eval" value="0"/>中&nbsp
+                                    <input type="radio" name="eval" value="-1"/>差
+                                    <input type="hidden" name="image_id" value="{{ imginfo.index }}">
+                                    <input type="hidden" name="image_path" value="{{ imginfo.imagename }}">
+
+                                    <input type="submit" value="提交" class="btn btn-default"
+                                           onclick="javascript:{this.disabled=true;document.form1.submit();}"/></input></a>
+
+                                </form>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

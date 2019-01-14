@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %}实验{% endblock %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block main %}
+    <div class="jumbotron">
+        <h1>景观评估项目-实验-A</h1>
+        <p>随着网络技术的发展，及其应用的大幅度普及，更多的线下工具逐步由网络提供，直接在网页上操作，实时存储数据。<a href="http://cadesign.cn/">caDesign设计</a>各项实验的开展，也因此需要在线下和线上同时展开，满足不同的需要。
+            实际上，结合python的数据分析(机器/深度学习)，使用Flask轻量级Web应用框架(自由性)，结合SQLite/MySQL数据库，并应用echats/hicharts等图表库，可以实现规划设计行业相关探索，也必定是该行业目前及未来发展的一个
+            主要分支。
+        </p>
+        <p><a class="btn btn-primary btn-lg" href="{{ url_for('eval') }}" role="button">参与图像打分</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="{{ url_for('results') }}" role="button">查看评估结果</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="{{ url_for('imgprediction') }}" role="button">预测图像分数</a>
+        </p>
+        <p>本地时间：{{ moment(current_time).format('LLL') }}</p>
+        <p>{{ moment(current_time).fromNow(refresh=True) }}</p>
+    </div>
+{% endblock %}
