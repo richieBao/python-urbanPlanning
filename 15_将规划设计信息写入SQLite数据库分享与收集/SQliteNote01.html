@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SQliteNote01</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>  
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>  
+   
+<script>hljs.initHighlightingOnLoad();</script>  
+<script type="text/javascript">  
+ $(document).ready(function(){  
+      $("h2,h3,h4,h5,h6").each(function(i,item){  
+        var tag = $(item).get(0).localName;  
+        $(item).attr("id","wow"+i);  
+        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');  
+        $(".newh2").css("margin-left",0);  
+        $(".newh3").css("margin-left",20);  
+        $(".newh4").css("margin-left",40);  
+        $(".newh5").css("margin-left",60);  
+        $(".newh6").css("margin-left",80);  
+      });  
+ });  
+</script>  
+<a href="javascript:scroll(0,0)" style="position:fixed;float:right;right:32px;top:30%">返回顶部</a>   
+<div id="category"></div>  
+</head>
+<body>
+<h1>SQLite-Note-基础</h1>
+<blockquote>
+<p>caDesign设计-沐本学堂</p>
+</blockquote>
+<p>数据库安装一定规则保存数据，并通过查询取回程序所需数据。关系型数据库是基于关系模型的数据库，也称为SQL(Structured Query Language)数据库，即使用结构化查询语言操作数据库。关系型数据库把数据存储在表中，表的列colunm为字段field，每一字段为“样本”的属性，行row为每一“样本”数据。<br>
+对于数据库的操作，包含通过SQLite命令执行，通过python等语言执行(大多数数据库引擎都有对应的python包)。对于python在caDesign设计实验中，使用两个库，一个是sqlite3操作SQLite数据库的库，另一是SQLAlchemy(flask_sqlalchemy)库(数据库抽象层代码包，可以直接处理高等级的python对象，而不用关注表、文档或查询语言等数据库实体)。<br>
+其中SQL语句和sqlite3库在阐述中交互对应阐述，而SQLAlchemy在最后单独阐述，需注意之前的分割，避免混淆。另外，对于SQL语句一般在"sqlite&gt;"交互模式下执行，对于python库则在"&gt;&gt;&gt;"交互模式下执行。</p>
+<h2>关于 SQLite</h2>
+<p><a href="http://www.sqlite.org/index.html" rel="nofollow">SQLite官网</a><br>
+<a href="http://www.compileonline.com/execute_sql_online.php" rel="nofollow">codingground(Execute SQL Online)</a> 可以此处练习使用操作数据库的命令。</p>
+<ol>
+<li>不需要一个单独的服务器进程或操作的系统（无服务器的）。</li>
+<li>SQLite 不需要配置，不需要安装或管理。</li>
+<li>一个完整的 SQLite 数据库是存储在一个单一跨平台的磁盘文件。</li>
+<li>SQLite 非常小，轻量级的，完全配置时小于 400KiB，省略可选功能配置时小于250KiB。</li>
+<li>SQLite 自给自足，这意味着不需要任何外部的依赖。</li>
+<li>SQLite 事务完全兼容 ACID 的，允许从多个进程或线程安全访问.</li>
+<li>SQLite 支持 SQL92（SQL2）标准的大多数查询语言的功能。</li>
+<li>SQLite 使用 ANSI-C 编写的，并提供了简单和易于使用的 API。</li>
+<li>SQLite 可在 UNIX（Linux, Mac OS-X, Android, iOS）和 Windows（Win32, WinCE, WinRT）中运行。</li>
+</ol>
+<p>pycharm安装后带有SQLite。<br>
+<a href="https://camo.githubusercontent.com/b2347582c33f31770bd2c5226ec46a24f6477938/68747470733a2f2f692e696d6775722e636f6d2f4f53304656444d2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/b2347582c33f31770bd2c5226ec46a24f6477938/68747470733a2f2f692e696d6775722e636f6d2f4f53304656444d2e6a7067" data-canonical-src="https://i.imgur.com/OS0FVDM.jpg" style="max-width:100%;"></a><br>
+如果不安装pycharm可自行查看官网或自行搜索。</p>
+<h2>与关系数据库交互的标准SQLite命令：</h2>
+<p><strong>DDL(Data Definition Language) 数据定义语言/DML(Data Manipulation Language)数据操作语言/DQL(Data Query Language)数据查询语言</strong></p>
+<table width="100%">
+<thead>
+<tr>
+  <th>命令</th>
+  <th>描述</th>
+  <th>类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>CREATE</td>
+  <td>创建一个新的表，一个表的视图，或者数据库中的其他对象。</td>
+  <td>DDL</td>
+</tr>
+<tr>
+  <td>ALTER</td>
+  <td>修改数据库中的某个已有的数据库对象，比如一个表。</td>
+  <td>DDL</td>
+</tr>
+<tr>
+  <td>DROP</td>
+  <td>删除整个表，或者表的视图，或者数据库中的其他对象。</td>
+  <td>DDL</td>
+</tr>
+<tr>
+  <td>INSERT</td>
+  <td>创建一条记录。</td>
+  <td>DML</td>
+</tr>
+<tr>
+  <td>UPDATE</td>
+  <td>修改记录。</td>
+  <td>DML</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>删除记录。</td>
+  <td>DML</td>
+</tr>
+<tr>
+  <td>SELECT</td>
+  <td>从一个或多个表中检索某些记录。</td>
+  <td>DQL</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong></p>
+<table width="100%">
+<thead>
+<tr>
+  <th>序号</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>
+<b>sqlite3.connect(database [,timeout ,other optional arguments])</b><br>
+连接SQLite数据库,如果不存在则建立该数据库。可以使用:memory:将其在RAM中打开。如果连接成功则返回一个连接对象。当多个连接访问同一个数据库，且其中一个修改了数据库，则此时该数据库被锁定，直到事务提交后解锁。timeout参数表示连接等待锁定的持续时间，发生异常时断开。timeout参数默认值5.0s。如果不再默认当前路径下创建数据库，可以指定路径。
+</td></tr><tr>
+  <td>2</td>
+  <td>
+<b>connection.cursor([cursorClass])</b><br>
+建立一个cursor（指针），在python数据库编程中使用。参数cursorClass为来sqlite3.Cursor自定义的cursor类。
+</td></tr><tr>
+  <td>3</td>
+  <td>
+<b>cursor.execute(sql [, optional parameters])</b><br>
+执行SQL语句。可以使用占位符代替SQL文本。占位符有问号(?)和命名占位符。例如：cursor.execute("insert into imagesinfodf values (?,?,?)", (imgindex,long,lat))
+</td></tr><tr>
+  <td>4</td>
+  <td>
+<b>connection.execute(sql [, optional parameters])</b><br>
+connection.cursor([cursorClass])和cursor.execute(sql [, optional parameters])合为1步的快捷方法。
+</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>
+<b>cursor.executemany(sql, seq_of_parameters)</b><br>
+对seq_of_parameters参数或映射，执行一个SQL命令。
+</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>
+<b>connection.executemany(sql[, parameters])</b><br>
+类似于connection.execute(sql [, optional parameters])，但是执行executemany方法。
+</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>
+<b>cursor.executescript(sql_script)</b><br>
+接收到脚本，执行多个SQL语句。首先执行commit语句，然后执行作为参数传入的SQL脚本。所有SQL语句用(;)分隔。
+</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>
+<b>connection.executescript(sql_script)</b><br>
+由调用指针cursor方法创建的中间指针的快捷方法，通过给定参数调用光标的executescript 方法。
+</td></tr><tr>
+  <td>9</td>
+  <td>
+<b>connection.total_changes()</b><br>
+返回自数据库连接打开后被修改、插入或删除数据的总行数。
+</td></tr><tr>
+  <td>10</td>
+  <td>
+<b>connection.commit()</b><br>
+提交当前事务。如果未调用该方法，则自前次调用commit()以来，所有动作对其数据库不可见，即数据库中查询不到表数据的变化。
+</td></tr><tr>
+  <td>11</td>
+  <td>
+<b>connection.rollback()</b><br>
+回滚自上一次调用 commit() 以来对数据库所做的更改。
+</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>
+<b>connection.close()</b><br>
+关闭数据库连接。此方法不调用commit()，如果之前未调用commit()方法，而直接关闭数据库连接，则所有更改不执行。
+</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>
+<b>cursor.fetchone()</b><br>
+该方法获取查询结果集中的下一行，返回一个单一的序列，当没有更多可用的数据时，则返回 None。
+</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>
+<b>cursor.fetchmany([size=cursor.arraysize])</b><br>
+获取查询结果集中的下一行组，返回一个列表。当没有更多的可用的行时，则返回一个空的列表。该方法尝试获取由 size 参数指定的尽可能多的行。
+</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>
+<b>cursor.fetchall()</b><br>
+获取查询结果集中所有剩余的行，返回一个列表。当没有可用的行时，则返回一个空的列表。
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>数据库示例</h2>
+<p>在pycharm中查看SQLite数据库。下图为景观评估实验项目收集的评估数据，存储于SQLite数据库中。<br>
+<a href="https://camo.githubusercontent.com/b94314b284357c8a5e5f1fa16455e367bac846ab/68747470733a2f2f692e696d6775722e636f6d2f67724832394b462e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/b94314b284357c8a5e5f1fa16455e367bac846ab/68747470733a2f2f692e696d6775722e636f6d2f67724832394b462e6a7067" alt="" data-canonical-src="https://i.imgur.com/grH29KF.jpg" style="max-width:100%;"></a></p>
+<h2>SQLite 数据类型</h2>
+<p>一般关系型数据库使用静态数据类型，即字段存储数据类型在声明时确定，而SQLite采用动态数据类型，会根据存入值字段判断。</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>存储类</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>NULL</td>
+  <td>值是一个 NULL 值。</td>
+</tr>
+<tr>
+  <td>INTEGER</td>
+  <td>值是一个带符号的整数，根据值的大小存储在 1、2、3、4、6 或 8 字节中。</td>
+</tr>
+<tr>
+  <td>REAL</td>
+  <td>值是一个浮点值，存储为 8 字节的 IEEE 浮点数字。</td>
+</tr>
+<tr>
+  <td>TEXT</td>
+  <td>值是一个文本字符串，使用数据库编码（UTF-8、UTF-16BE 或 UTF-16LE）存储。</td>
+</tr>
+<tr>
+  <td>BLOB</td>
+  <td>值是一个 blob 数据(二进制对象)，完全根据它的输入存储。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SQLite类型亲原性</strong><br>
+SQLite提出的 “类型亲缘性Type Affinity”的概念，是为了最大化SQLite和其它数据库引擎之间的数据类型兼容性。在表字段声明后，根据字段声明时的类型为其选择一种亲缘类型，当数据插入时，该字段优先采用亲缘类型作为存储方式，除非其无法转换或匹配。下表为可使用的各种数据类型名称：</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>数据类型</th>
+  <th>亲和类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+•	INT
+•	INTEGER
+•	TINYINT
+•	SMALLINT
+•	MEDIUMINT
+•	BIGINT
+•	UNSIGNED BIG INT
+•	INT2
+•	INT8
+</td>
+  <td>INTEGER</td>
+</tr>
+<tr>
+  <td>
+•	CHARACTER(20)
+•	VARCHAR(255)
+•	VARYING CHARACTER(255)
+•	NCHAR(55)
+•	NATIVE CHARACTER(70)
+•	NVARCHAR(100)
+•	TEXT
+•	CLOB
+</td>
+  <td>TEXT</td>
+</tr>
+<tr>
+  <td>
+•	BLOB
+•	no datatype specified
+</td>
+  <td>NONE</td>
+</tr>
+<tr>
+  <td>
+•	REAL
+•	DOUBLE
+•	DOUBLE PRECISION
+•	FLOAT
+</td>
+  <td>REAL</td>
+</tr>
+<tr>
+  <td>
+•	NUMERIC
+•	DECIMAL(10,5)
+•	BOOLEAN
+•	DATE
+•	DATETIME
+</td>
+  <td>NUMERIC</td>
+</tr>
+</tbody>
+</table>
+<h2>创建数据库</h2>
+<pre><code>sqlite3 databaseName.db
+</code></pre>
+<p>在pycharm的Terminal终端中操作<br>
+<a href="https://camo.githubusercontent.com/0ac2d2a08e9ca59c2ebcda70087ee6f3296d5e12/68747470733a2f2f692e696d6775722e636f6d2f6a7a54474a62712e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/0ac2d2a08e9ca59c2ebcda70087ee6f3296d5e12/68747470733a2f2f692e696d6775722e636f6d2f6a7a54474a62712e6a7067" alt="" data-canonical-src="https://i.imgur.com/jzTGJbq.jpg" style="max-width:100%;"></a></p>
+<div class="highlight highlight-source-sql"><pre>Microsoft Windows [版本 <span class="pl-c1">10</span>.<span class="pl-c1">0</span>.<span class="pl-c1">16299</span>.<span class="pl-c1">192</span>]
+(c) <span class="pl-c1">2017</span> Microsoft Corporation。保留所有权利。
+
+(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span>sqlite3 <span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">db</span>
+SQLite version <span class="pl-c1">3</span>.<span class="pl-c1">21</span>.<span class="pl-c1">0</span> <span class="pl-c1">2017</span><span class="pl-k">-</span><span class="pl-c1">10</span><span class="pl-k">-</span><span class="pl-c1">24</span> <span class="pl-c1">18</span>:<span class="pl-c1">55</span>:<span class="pl-c1">49</span>
+Enter <span class="pl-s"><span class="pl-pds">"</span>.help<span class="pl-pds">"</span></span> for usage hints.
+sqlite<span class="pl-k">&gt;</span> .databases
+main: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\<span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">db</span>
+sqlite<span class="pl-k">&gt;</span>
+</pre></div>
+<p>可以在pycharm的Database下“+”加载该数据库。<br>
+<a href="https://camo.githubusercontent.com/99239f89a6c181dd9c207a351d70d0fbf113af28/68747470733a2f2f692e696d6775722e636f6d2f4b5037527039702e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/99239f89a6c181dd9c207a351d70d0fbf113af28/68747470733a2f2f692e696d6775722e636f6d2f4b5037527039702e6a7067" alt="" data-canonical-src="https://i.imgur.com/KP7Rp9p.jpg" style="max-width:100%;"></a><br>
+加载后，可以通过窗口直接查看数据库。<br>
+<a href="https://camo.githubusercontent.com/d7358f8160f5df4cb50464be84d43abbc8b0f464/68747470733a2f2f692e696d6775722e636f6d2f386c444e505a4f2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/d7358f8160f5df4cb50464be84d43abbc8b0f464/68747470733a2f2f692e696d6775722e636f6d2f386c444e505a4f2e6a7067" alt="" data-canonical-src="https://i.imgur.com/8lDNPZO.jpg" style="max-width:100%;"></a><br>
+&lt;在sqlite&gt;命令行交互模式下操作&gt;查看数据库是否已经建立。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .databases
+main: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\<span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">db</span></pre></div>
+<p>退出sqlite&gt;交互模式/提示符。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .quit
+(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span></pre></div>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong><br>
+首先需要调入sqlite3库，然后执行sqlite3.connect()方法连接数据库，如果数据库不存在则创建该数据库。可以把数据库名称复制为特定的名称:memory:，则在RAM中创建数据库。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)</pre></div>
+<p>此时在(虚拟环境)根目录下可以查看到sqliteOperation_sql3.db文件。并同样加载到pycharm的Database目录标签下。<br>
+<a href="https://camo.githubusercontent.com/ab122c8d9f11e83701a700a1dd8f572ce4ed7a32/68747470733a2f2f692e696d6775722e636f6d2f726871626277332e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/ab122c8d9f11e83701a700a1dd8f572ce4ed7a32/68747470733a2f2f692e696d6775722e636f6d2f726871626277332e6a7067" alt="" data-canonical-src="https://i.imgur.com/rhqbbw3.jpg" style="max-width:100%;"></a></p>
+<hr>
+<h2>附加与分离数据库</h2>
+<p><strong>附加</strong><br>
+当存在多个数据库时，可以使用 ATTACH DATABASE 语句选择一个特定数据库，并设置别名，把数据库名称与逻辑数据库别名绑定。</p>
+<pre><code>ATTACH DATABASE 'databaseName' As 'alias-Name';
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> ATTACH DATABASE <span class="pl-s"><span class="pl-pds">'</span>sqliteOperation<span class="pl-pds">'</span></span> <span class="pl-k">as</span> <span class="pl-s"><span class="pl-pds">'</span>sqlOper<span class="pl-pds">'</span></span>;
+sqlite<span class="pl-k">&gt;</span> .databases
+main:
+sqlOper: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\sqliteOperation
+sqlite<span class="pl-k">&gt;</span> ATTACH DATABASE <span class="pl-s"><span class="pl-pds">'</span>sqliteOperation<span class="pl-pds">'</span></span> <span class="pl-k">as</span> <span class="pl-s"><span class="pl-pds">'</span>sqlOperTemp<span class="pl-pds">'</span></span>；
+sqlite<span class="pl-k">&gt;</span> .databases
+main:
+sqlOper: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\sqliteOperation
+sqlOperTemp: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\sqliteOperation
+sqlite<span class="pl-k">&gt;</span></pre></div>
+<blockquote>
+<p>'TEMP'和'main'被保留用于主数据库和存储临时表及其他临时数据对象的数据库，因此不应用于别名。</p>
+</blockquote>
+<p><strong>分离</strong><br>
+DETACH DTABASE 语句可以将上述附加的数据库，根据指定的别名分离出来断开连接，而其余的仍旧有效。main和temp无法分离。</p>
+<pre><code>DETACH DATABASE 'Alias-Name';
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> DETACH DATABASE <span class="pl-s"><span class="pl-pds">'</span>sqlOperTemp<span class="pl-pds">'</span></span>;
+sqlite<span class="pl-k">&gt;</span> .databases
+main:
+sqlOper: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\sqliteOperation</pre></div>
+<blockquote>
+<p>在sqlite&gt;中操作命令时，部分以';'符合结束，需注意，'.'命令则无结束符号。</p>
+</blockquote>
+<h2>创建表</h2>
+<p>CREATE TABLE语句基本语法。第1列一般为ID，含主键PRIMARY KEY。</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">database_name</span>.table_name(
+   column1 datatype  <span class="pl-k">PRIMARY KEY</span>(one <span class="pl-k">or</span> more columns),
+   column2 datatype,
+   column3 datatype,
+   .....
+   columnN datatype,
+);</pre></div>
+<p>例如在前文所建立的数据库'sqliteOperation'中创建表'imageseval'。</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">imagesinfodf</span>(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imgindex <span class="pl-k">INTEGER</span>,
+long <span class="pl-k">REAL</span>,
+lat <span class="pl-k">REAL</span>
+);</pre></div>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">imageseval</span>(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imagename <span class="pl-k">TEXT</span> <span class="pl-k">NOT NULL</span>,
+good <span class="pl-k">INTEGER</span>,
+poor <span class="pl-k">INTEGER</span>,
+moderate <span class="pl-k">INTEGER</span>,
+eval <span class="pl-k">TEXT</span>,
+trackimg <span class="pl-k">INTEGER</span>,
+<span class="pl-k">FOREIGN KEY</span>(trackimg) <span class="pl-k">REFERENCES</span> imagesinfodf(imgindex)
+);</pre></div>
+<p>具体执行过程：</p>
+<div class="highlight highlight-source-sql"><pre>(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span>sqlite3 <span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">db</span>
+SQLite version <span class="pl-c1">3</span>.<span class="pl-c1">21</span>.<span class="pl-c1">0</span> <span class="pl-c1">2017</span><span class="pl-k">-</span><span class="pl-c1">10</span><span class="pl-k">-</span><span class="pl-c1">24</span> <span class="pl-c1">18</span>:<span class="pl-c1">55</span>:<span class="pl-c1">49</span>
+Enter <span class="pl-s"><span class="pl-pds">"</span>.help<span class="pl-pds">"</span></span> for usage hints.
+sqlite<span class="pl-k">&gt;</span> CREATE TABLE imagesinfodf(
+   ...<span class="pl-k">&gt;</span> ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+   ...<span class="pl-k">&gt;</span> imgindex <span class="pl-k">INTEGER</span>,
+   ...<span class="pl-k">&gt;</span> long <span class="pl-k">REAL</span>,
+   ...<span class="pl-k">&gt;</span> lat <span class="pl-k">REAL</span>
+   ...<span class="pl-k">&gt;</span> );
+sqlite<span class="pl-k">&gt;</span> .tables
+imagesinfodf
+sqlite<span class="pl-k">&gt;</span> CREATE TABLE imageseval(
+   ...<span class="pl-k">&gt;</span> ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+   ...<span class="pl-k">&gt;</span> imagename <span class="pl-k">TEXT</span> <span class="pl-k">NOT NULL</span>,
+   ...<span class="pl-k">&gt;</span> good <span class="pl-k">INTEGER</span>,
+   ...<span class="pl-k">&gt;</span> poor <span class="pl-k">INTEGER</span>,
+   ...<span class="pl-k">&gt;</span> moderate <span class="pl-k">INTEGER</span>,
+   ...<span class="pl-k">&gt;</span> eval <span class="pl-k">TEXT</span>,
+   ...<span class="pl-k">&gt;</span> trackimg <span class="pl-k">INTEGER</span>,
+   ...<span class="pl-k">&gt;</span> <span class="pl-k">FOREIGN KEY</span>(trackimg) <span class="pl-k">REFERENCES</span> imagesinfodf(imgindex)
+   ...<span class="pl-k">&gt;</span> );
+sqlite<span class="pl-k">&gt;</span> .tables
+imageseval    imagesinfodf</pre></div>
+<blockquote>
+<p>通过.tables可以查看所建立的表。并使用了外键约束FOREIGN KEY，强制两个表之间“存在”的关联。对于imageseval里的每一行，在imagesinfodf表都存在一个对应的行。在imageseval表中插入行，如果在imagesinfodf表中没有对应的数据记录，插入就会失败。如果imageseval表中存在依赖于imagesinfodf表中某行的记录，尝试从imagesinfodf表中删除行，则会失败。</p>
+</blockquote>
+<p>在pycharm的Database标签下GUI窗口查看数据库中新建的表：<br>
+<a href="https://camo.githubusercontent.com/f8ef40728fd4c2fa273e5ea263fb8645fcac51cc/68747470733a2f2f692e696d6775722e636f6d2f3578376175486c2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/f8ef40728fd4c2fa273e5ea263fb8645fcac51cc/68747470733a2f2f692e696d6775722e636f6d2f3578376175486c2e706e67" alt="" data-canonical-src="https://i.imgur.com/5x7auHl.png" style="max-width:100%;"></a><br>
+另外通过GUI查看SQLite数据库，可以使用Navicat for SQLite等工具。<br>
+<a href="https://camo.githubusercontent.com/2f286b21293058062cc5950c63ade4688eaf3d0b/68747470733a2f2f692e696d6775722e636f6d2f4c564866696e312e706e67" target="_blank"><img src="https://camo.githubusercontent.com/2f286b21293058062cc5950c63ade4688eaf3d0b/68747470733a2f2f692e696d6775722e636f6d2f4c564866696e312e706e67" alt="" data-canonical-src="https://i.imgur.com/LVHfin1.png" style="max-width:100%;"></a><br>
+可以使用.schema tableName查看表的完整信息。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .schema imageseval
+<span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">imageseval</span>(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imagename <span class="pl-k">TEXT</span> <span class="pl-k">NOT NULL</span>,
+good <span class="pl-k">INTEGER</span>,
+poor <span class="pl-k">INTEGER</span>,
+moderate <span class="pl-k">INTEGER</span>,
+eval <span class="pl-k">TEXT</span>,
+trackimg <span class="pl-k">INTEGER</span>,
+<span class="pl-k">FOREIGN KEY</span>(trackimg) <span class="pl-k">REFERENCES</span> imagesinfodf(imgindex)
+);</pre></div>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong><br>
+连接数据库之后，使用<code>connection.cursor([cursorClass])</code>方法创建一个cursor(指针)，用该cursor执行<code>cursor.execute(sql [, optional parameters])</code>方法，执行SQL语句。''' '''之间的内容是原封不动的SQL语句。亦可以使用<code>connection.execute(sql [, optional parameters])</code>方法，将上述两步合成一步执行。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+c.execute(<span class="pl-s"><span class="pl-pds">'''</span>CREATE TABLE imagesinfodf</span>
+<span class="pl-s">   (ID INTEGER PRIMARY KEY AUTOINCREMENT,</span>
+<span class="pl-s">   imgindex INTEGER,</span>
+<span class="pl-s">   long REAL,</span>
+<span class="pl-s">   lat REAL</span>
+<span class="pl-s">   );<span class="pl-pds">'''</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">'''</span>CREATE TABLE imageseval</span>
+<span class="pl-s">  (ID INTEGER PRIMARY KEY AUTOINCREMENT,</span>
+<span class="pl-s">   imagename TEXT NOT NULL,</span>
+<span class="pl-s">   good INTEGER,</span>
+<span class="pl-s">   poor INTEGER,</span>
+<span class="pl-s">   moderate INTEGER,</span>
+<span class="pl-s">   eval TEXT,</span>
+<span class="pl-s">   trackimg INTEGER,</span>
+<span class="pl-s">   FOREIGN KEY(trackimg) REFERENCES imagesinfodf(imgindex)</span>
+<span class="pl-s">   );<span class="pl-pds">'''</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">'''</span><span class="pl-pds">'''</span></span>)</pre></div>
+<p>可以查看数据库，生成两个表imagesinfodf和imageseval。<br>
+<a href="https://camo.githubusercontent.com/12e2e9e1524d71abb07551d9a02e86c9bd669ee3/68747470733a2f2f692e696d6775722e636f6d2f594d74474b58572e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/12e2e9e1524d71abb07551d9a02e86c9bd669ee3/68747470733a2f2f692e696d6775722e636f6d2f594d74474b58572e6a7067" alt="" data-canonical-src="https://i.imgur.com/YMtGKXW.jpg" style="max-width:100%;"></a></p>
+<hr>
+<h2>删除表</h2>
+<p>DROP TABLE 语句删除表定义及其所有相关数据、索引、触发器、约束和该表的权限规范。一旦删除表，表中所有数据将永远丢失，需谨慎操作。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> CREATE TABLE t(x <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> <span class="pl-k">DESC</span>, y, z);
+sqlite<span class="pl-k">&gt;</span> .tables
+imageseval    imagesinfodf  t
+sqlite<span class="pl-k">&gt;</span> .schema t
+<span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">t</span>(x <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> <span class="pl-k">DESC</span>, y, z);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">DROP</span> <span class="pl-k">TABLE</span> <span class="pl-en">t</span>;
+sqlite<span class="pl-k">&gt;</span> .tables
+imageseval    imagesinfodf</pre></div>
+<h2>向表中插入数据</h2>
+<p>INSERT INTO 语句有两种基本语法：<br>
+No.1,其中column为字段/列索引，values为插入的值。</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">INSERT INTO</span> TABLE_NAME (column1, column2, column3,...columnN)
+<span class="pl-k">VALUES</span> (value1, value2, value3,...valueN);</pre></div>
+<p>No.2，直接对应字段插入值。</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">INSERT INTO</span> TABLE_NAME <span class="pl-k">VALUES</span> (value1,value2,value3,...valueN);</pre></div>
+<p>例如接上述案例：</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+<span class="pl-k">VALUES</span> (<span class="pl-c1">1</span>,<span class="pl-c1">10</span>,<span class="pl-c1">111</span>.<span class="pl-c1">23</span>,<span class="pl-c1">39</span>.<span class="pl-c1">90</span>);
+<span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+<span class="pl-k">VALUES</span> (<span class="pl-c1">2</span>,<span class="pl-c1">12</span>,<span class="pl-c1">111</span>.<span class="pl-c1">24</span>,<span class="pl-c1">39</span>.<span class="pl-c1">91</span>);
+<span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+<span class="pl-k">VALUES</span> (<span class="pl-c1">3</span>,<span class="pl-c1">15</span>,<span class="pl-c1">111</span>.<span class="pl-c1">26</span>,<span class="pl-c1">39</span>.<span class="pl-c1">98</span>);
+<span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">1</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0321.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">3</span>,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>,<span class="pl-s"><span class="pl-pds">'</span>好<span class="pl-pds">'</span></span>,<span class="pl-c1">15</span>);
+<span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">2</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0322.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">0</span>,<span class="pl-c1">1</span>,<span class="pl-c1">0</span>,<span class="pl-s"><span class="pl-pds">'</span>中<span class="pl-pds">'</span></span>,<span class="pl-c1">12</span>);
+<span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">3</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0323.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>,<span class="pl-c1">2</span>,<span class="pl-s"><span class="pl-pds">'</span>差<span class="pl-pds">'</span></span>,<span class="pl-c1">3</span>);</pre></div>
+<p>具体执行过程：</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+   ...<span class="pl-k">&gt;</span> <span class="pl-k">VALUES</span> (<span class="pl-c1">1</span>,<span class="pl-c1">10</span>,<span class="pl-c1">111</span>.<span class="pl-c1">23</span>,<span class="pl-c1">39</span>.<span class="pl-c1">90</span>);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+   ...<span class="pl-k">&gt;</span> <span class="pl-k">VALUES</span> (<span class="pl-c1">2</span>,<span class="pl-c1">12</span>,<span class="pl-c1">111</span>.<span class="pl-c1">24</span>,<span class="pl-c1">39</span>.<span class="pl-c1">91</span>);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imagesinfodf (ID,imgindex,long,lat)
+   ...<span class="pl-k">&gt;</span> <span class="pl-k">VALUES</span> (<span class="pl-c1">3</span>,<span class="pl-c1">15</span>,<span class="pl-c1">111</span>.<span class="pl-c1">26</span>,<span class="pl-c1">39</span>.<span class="pl-c1">98</span>);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">1</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0321.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">3</span>,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>,<span class="pl-s"><span class="pl-pds">'</span>好<span class="pl-pds">'</span></span>,<span class="pl-c1">15</span>);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">2</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0322.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">0</span>,<span class="pl-c1">1</span>,<span class="pl-c1">0</span>,<span class="pl-s"><span class="pl-pds">'</span>中<span class="pl-pds">'</span></span>,<span class="pl-c1">12</span>);
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">3</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0323.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>,<span class="pl-c1">2</span>,<span class="pl-s"><span class="pl-pds">'</span>差<span class="pl-pds">'</span></span>,<span class="pl-c1">3</span>);</pre></div>
+<p>从GUI中查看数据插入结果。<br>
+<strong>imagesinfodf表数据</strong><br>
+<a href="https://camo.githubusercontent.com/ce0fd2773ce79f83f6fd9ccb6f8e00e533ee49bf/68747470733a2f2f692e696d6775722e636f6d2f377a45643036522e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/ce0fd2773ce79f83f6fd9ccb6f8e00e533ee49bf/68747470733a2f2f692e696d6775722e636f6d2f377a45643036522e6a7067" alt="" data-canonical-src="https://i.imgur.com/7zEd06R.jpg" style="max-width:100%;"></a><br>
+<strong>imageseval表数据</strong><br>
+<a href="https://camo.githubusercontent.com/ebf6f63ccadbf3454ae1face45dde3ed52adad07/68747470733a2f2f692e696d6775722e636f6d2f3153616b7951692e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/ebf6f63ccadbf3454ae1face45dde3ed52adad07/68747470733a2f2f692e696d6775722e636f6d2f3153616b7951692e6a7067" alt="" data-canonical-src="https://i.imgur.com/1SakyQi.jpg" style="max-width:100%;"></a><br>
+外键默认是关闭的，如果开启外键：<code>sqlite&gt; PRAGMA foreign_keys = ON;</code> 当向imageseval标准插入数据，如果tracking字段数值在imagesinfodf表的'imgindex'字段下并未出现，则提示错误。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">INSERT INTO</span> imageseval <span class="pl-k">VALUES</span>(<span class="pl-c1">4</span>,<span class="pl-s"><span class="pl-pds">'</span>static/images/imresize/img_0323.jpg<span class="pl-pds">'</span></span>,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>,<span class="pl-c1">2</span>,<span class="pl-s"><span class="pl-pds">'</span>差<span class="pl-pds">'</span></span>,<span class="pl-c1">9</span>);
+Error: <span class="pl-k">foreign key</span> mismatch <span class="pl-k">-</span> <span class="pl-s"><span class="pl-pds">"</span>imageseval<span class="pl-pds">"</span></span> referencing <span class="pl-s"><span class="pl-pds">"</span>imagesinfodf<span class="pl-pds">"</span></span></pre></div>
+<p>使用一个表填充另一个表字段值，语法如下：</p>
+<div class="highlight highlight-source-sql"><pre><span class="pl-k">INSERT INTO</span> first_table_name [(column1, column2, ... columnN)] 
+   <span class="pl-k">SELECT</span> column1, column2, ...columnN <span class="pl-k">FROM</span> second_table_name [<span class="pl-k">WHERE</span> condition];</pre></div>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong><br>
+仍然使用<code>cursor.execute(sql [, optional parameters])</code>方法，但是执行的SQL语句是向表中插入数据，需要注意，此时SQL语句被置于" "中，同时末尾并无';'结束符号。 只有执行<code>connection.commit()</code>方法后，才提交当前事务，本例中为插入表数据。通过<code>connection.close()</code>方法关闭数据库连接。注意，关闭数据库之前如果未执行<code>connection.commit()</code>方法，则所有更改将丢失。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imagesinfodf (ID,imgindex,long,lat) VALUES (1,10,111.23,39.90)<span class="pl-pds">"</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imagesinfodf (ID,imgindex,long,lat) VALUES (2,12,111.24,39.91)<span class="pl-pds">"</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imagesinfodf (ID,imgindex,long,lat) VALUES (3,15,111.26,39.98)<span class="pl-pds">"</span></span>)
+conn.commit()
+conn.close()
+
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imageseval VALUES(1,'static/images/imresize/img_0321.jpg',3,0,0,'好',15)<span class="pl-pds">"</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imageseval VALUES(2,'static/images/imresize/img_0322.jpg',0,1,0,'中',12)<span class="pl-pds">"</span></span>)
+c.execute(<span class="pl-s"><span class="pl-pds">"</span>INSERT INTO imageseval VALUES(3,'static/images/imresize/img_0323.jpg',0,0,2,'差',3)<span class="pl-pds">"</span></span>)
+conn.commit()
+conn.close()</pre></div>
+<hr>
+<h2>从数据库中提取数据</h2>
+<p>No.1,根据指定的字段提取值。</p>
+<pre><code>SELECT column1, column2, columnN FROM table_name;
+</code></pre>
+<p>No.2，获取所有可用字段的值。</p>
+<pre><code>SELECT * FROM table_name;
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  imageseval;
+<span class="pl-c1">1</span>|static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>|<span class="pl-c1">3</span>|<span class="pl-c1">0</span>|<span class="pl-c1">0</span>|好|<span class="pl-c1">15</span>
+<span class="pl-c1">2</span>|static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>|<span class="pl-c1">0</span>|<span class="pl-c1">1</span>|<span class="pl-c1">0</span>|中|<span class="pl-c1">12</span>
+<span class="pl-c1">3</span>|static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>|<span class="pl-c1">0</span>|<span class="pl-c1">0</span>|<span class="pl-c1">2</span>|差|<span class="pl-c1">3</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> imagename,eval <span class="pl-k">FROM</span> imageseval;
+static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>|好
+static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>|中
+static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>|差</pre></div>
+<p><strong>格式化输出字符串</strong></p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .header <span class="pl-k">on</span>
+sqlite<span class="pl-k">&gt;</span> .mode column
+sqlite<span class="pl-k">&gt;</span>  <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  imageseval;
+ID          imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>--------  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">1</span>           static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">3</span>           <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           好           <span class="pl-c1">15</span>
+<span class="pl-c1">2</span>           static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span>
+<span class="pl-c1">3</span>           static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           <span class="pl-c1">2</span>           差           <span class="pl-c1">3</span></pre></div>
+<blockquote>
+<p>因为.mode column格式化，如果输出行过长，输出将被截断，可以使用 <code>.width num, num....</code>设置显示列宽度。</p>
+</blockquote>
+<p>SQLite数据库中都有一个sqlite_master的表，定义数据库的模式，可以通过<code>SELECT * FROM sqlite_temp_master</code> 查看表内具体内容。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> sqlite_master
+   ...<span class="pl-k">&gt;</span> ;
+type        name          tbl_name      rootpage    sql
+<span class="pl-c"><span class="pl-c">--</span>--------  ------------  ------------  ----------  --------------------------------------------------------------------------------------------------------</span>
+table       imagesinfodf  imagesinfodf  <span class="pl-c1">2</span>           CREATE TABLE imagesinfodf(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imgindex <span class="pl-k">INTEGER</span>,
+long <span class="pl-k">REAL</span>,
+lat <span class="pl-k">REAL</span>
+)
+table       sqlite_seque  sqlite_seque  <span class="pl-c1">3</span>           CREATE TABLE sqlite_sequence(name,seq)
+table       imageseval    imageseval    <span class="pl-c1">4</span>           CREATE TABLE imageseval(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imagename <span class="pl-k">TEXT</span> <span class="pl-k">NOT NULL</span>,
+good <span class="pl-k">INTEGER</span>,
+po</pre></div>
+<p>因此，可以通过<code>SELECT name FROM sqlite_master WHERE type='table' ORDER BY name;</code>获取数据库中所有的表名称。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> name <span class="pl-k">FROM</span> sqlite_master <span class="pl-k">WHERE</span> type<span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>table<span class="pl-pds">'</span></span> <span class="pl-k">ORDER BY</span> name;
+name
+<span class="pl-c"><span class="pl-c">--</span>--------</span>
+imageseval
+imagesinfo
+sqlite_seq
+sqlite<span class="pl-k">&gt;</span> .width <span class="pl-c1">20</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> name <span class="pl-k">FROM</span> sqlite_master <span class="pl-k">WHERE</span> type<span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>table<span class="pl-pds">'</span></span> <span class="pl-k">ORDER BY</span> name;
+name
+<span class="pl-c"><span class="pl-c">--</span>------------------</span>
+imageseval
+imagesinfodf
+sqlite_sequence</pre></div>
+<blockquote>
+<p>从打印的结果看到未设置<code>.width 20</code>之前，表名'imagesinfodf'被截断，设置宽度后正常显示。</p>
+</blockquote>
+<p>通过<code>sqlite_master</code>查看表的具体结构。</p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .width <span class="pl-c1">100</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> sql <span class="pl-k">FROM</span> sqlite_master <span class="pl-k">WHERE</span> type <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>table<span class="pl-pds">'</span></span> <span class="pl-k">AND</span> tbl_name <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>imagesinfodf<span class="pl-pds">'</span></span>;
+sql
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------</span>
+<span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-en">imagesinfodf</span>(
+ID <span class="pl-k">INTEGER</span> <span class="pl-k">PRIMARY KEY</span> AUTOINCREMENT,
+imgindex <span class="pl-k">INTEGER</span>,
+long <span class="pl-k">REAL</span>,
+lat RE</pre></div>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong><br>
+在提取数据时，获得一个cursor，通过循环可提取具体指定数值。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+cursor<span class="pl-k">=</span>c.execute(<span class="pl-s"><span class="pl-pds">"</span>SELECT imagename,eval  FROM  imageseval<span class="pl-pds">"</span></span>)
+<span class="pl-c1">print</span>([[value <span class="pl-k">for</span> value <span class="pl-k">in</span> row] <span class="pl-k">for</span> row <span class="pl-k">in</span> cursor])
+conn.close()</pre></div>
+<p>返回值为：</p>
+<pre><code>[['static/images/imresize/img_0321.jpg', '好'], ['static/images/imresize/img_0322.jpg', '中'], ['static/images/imresize/img_0323.jpg', '差']]
+</code></pre>
+<hr>
+<h2>SQLite 运算符</h2>
+<p>运算符主要作为条件用于SQLite语句中WHERE子句，例如比较及算数运算。运算符细分为：算数运算符(+、-、*、/、%)、比较运算符(==、=、！=、&lt;&gt;、&gt;、&lt;、&gt;=、&lt;=、！&lt;、！&gt;)、逻辑运算符(AND、BETWEEN、EXISTS、IN、NOT IN、LIKE、GLOB、NOT、OR、IS NULL、IS、IS NOT、||、UNIQUE)和位运算符(&amp;、|、~、&lt;&lt;、&gt;&gt;)。<br>
+大部分运算符含义与python同，并能够通过符号本身一目了然其用途。此处仅对逻辑运算符和位运算符加以描述。</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>逻辑运算符</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>AND</td>
+  <td>满足多个条件。`SELECT column1, column2, columnN FROM table_name WHERE [condition1] AND [condition2]...AND [conditionN];`</td>
+</tr>
+<tr>
+  <td>BETWEEN</td>
+  <td>在给定最小、最大值范围内搜索值。</td>
+</tr>
+<tr>
+  <td>EXISTS</td>
+  <td>在满足一定条件的指定表中搜索行的存在。</td>
+</tr>
+<tr>
+  <td>IN</td>
+  <td>值是否在给定的列表中。</td>
+</tr>
+<tr>
+  <td>NOT IN</td>
+  <td>与IN相反。</td>
+</tr>
+<tr>
+  <td>LIKE</td>
+  <td>将某个值与使用通配符的相似值比较。</td>
+</tr>
+<tr>
+  <td>GLOB</td>
+  <td>将某个值与使用通配符的相似值比较。大小写敏感</td>
+</tr>
+<tr>
+  <td>NOT</td>
+  <td>所用逻辑运算符的对立面。例如NOT EXISTS、NOT BETWEEN、NOT IN等。</td>
+</tr>
+<tr>
+  <td>OR</td>
+  <td>满足其中一个条件。`SELECT column1, column2, columnN FROM table_name WHERE [condition1] OR [condition2]...OR [conditionN];`</td>
+</tr>
+<tr>
+  <td>IS NULL</td>
+  <td>值是否为空值。</td>
+</tr>
+<tr>
+  <td>IS</td>
+  <td>判断一个值是否为另一值。</td>
+</tr>
+<tr>
+  <td>IS NOT</td>
+  <td>与IS相反。</td>
+</tr>
+<tr>
+  <td>||</td>
+  <td>连接两个不同字符串，得到一个新字符串。</td>
+</tr>
+<tr>
+  <td>UNIQUE</td>
+  <td>搜索指定表中的每一行，确保唯一性/无重复。</td>
+</tr>
+</tbody><thead>
+<tr>
+  <th>位运算符</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>&amp;</td>
+  <td>都为1时才为1.</td>
+</tr>
+<tr>
+  <td>|</td>
+  <td>都为0时才为0。</td>
+</tr>
+<tr>
+  <td>~</td>
+  <td>取反。</td>
+</tr>
+<tr>
+  <td>&lt;&lt;</td>
+  <td>左移。</td>
+</tr>
+<tr>
+  <td>&gt;&gt;</td>
+  <td>右移。</td>
+</tr>
+</tbody>
+</table>
+案例示意：
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">select</span> <span class="pl-c1">20</span><span class="pl-k">+</span><span class="pl-c1">9</span>;
+<span class="pl-c1">20</span><span class="pl-k">+</span><span class="pl-c1">9</span>
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------</span>
+<span class="pl-c1">29</span>
+sqlite<span class="pl-k">&gt;</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> imagename,eval <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> good<span class="pl-k">&gt;</span><span class="pl-c1">0</span>;
+imagename                                                                                             eval
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------  ----------</span>
+static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>                                                                   好
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> imagename,eval <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> good<span class="pl-k">=</span><span class="pl-c1">0</span> <span class="pl-k">and</span> poor<span class="pl-k">=</span><span class="pl-c1">1</span>;
+imagename                                                                                             eval
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------  ----------</span>
+static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>                                                                   中
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">select</span> <span class="pl-c1">15</span> &amp; <span class="pl-c1">60</span>;
+<span class="pl-c1">15</span> &amp; <span class="pl-c1">60</span>
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------</span>
+<span class="pl-c1">12</span></pre></div>
+<blockquote>
+<p>其中15二进制为0000 1111,60二进制为0011 1100，而12二进制为0000 1100。二进制BIN、八进制OCT、十进制DEC和十六进制HEX转换可以查看系统计算器。</p>
+</blockquote>
+<p><a href="https://camo.githubusercontent.com/c57222b0b2ff782687dd55d7e7c2a56e843aa7bb/68747470733a2f2f692e696d6775722e636f6d2f794154566364732e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/c57222b0b2ff782687dd55d7e7c2a56e843aa7bb/68747470733a2f2f692e696d6775722e636f6d2f794154566364732e6a7067" alt="" data-canonical-src="https://i.imgur.com/yATVcds.jpg" style="max-width:100%;"></a><br>
+<strong>内置函数avg()、sum()、count()，对一个表或一个特定列汇总数据计算。</strong></p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-c1">COUNT</span>(<span class="pl-k">*</span>) <span class="pl-k">AS</span> <span class="pl-s"><span class="pl-pds">"</span>RECORDS<span class="pl-pds">"</span></span> <span class="pl-k">FROM</span> imageseval;
+RECORDS
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------</span>
+<span class="pl-c1">3</span></pre></div>
+<p><strong>SQLite日期表达式。</strong></p>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-c1">CURRENT_TIMESTAMP</span>;
+<span class="pl-c1">CURRENT_TIMESTAMP</span>
+<span class="pl-c"><span class="pl-c">--</span>--------------------------------------------------------------------------------------------------</span>
+<span class="pl-c1">2018</span><span class="pl-k">-</span><span class="pl-c1">02</span><span class="pl-k">-</span><span class="pl-c1">05</span> <span class="pl-c1">14</span>:<span class="pl-c1">44</span>:<span class="pl-c1">05</span></pre></div>
+<h2>WHERE 子句</h2>
+<p>WHERE子句用于从一个表或多个表中获取给定条件的数据。常结合前文运算符操作。</p>
+<pre><code>SELECT column1, column2, columnN FROM table_name WHERE [condition]
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> .width <span class="pl-c1">5</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> imagename GLOB <span class="pl-s"><span class="pl-pds">'</span>static/*<span class="pl-pds">'</span></span>;
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">1</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">3</span>           <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           好           <span class="pl-c1">15</span>
+<span class="pl-c1">2</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span>
+<span class="pl-c1">3</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           <span class="pl-c1">2</span>           差           <span class="pl-c1">3</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> trackimg <span class="pl-k">IN</span> (<span class="pl-c1">3</span>,<span class="pl-c1">12</span>);
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">2</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span>
+<span class="pl-c1">3</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           <span class="pl-c1">2</span>           差           <span class="pl-c1">3</span>
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> trackimg BETWEEN <span class="pl-c1">11</span> <span class="pl-k">and</span> <span class="pl-c1">14</span>;
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">2</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span></pre></div>
+<h2>更新表</h2>
+<p>UPDATE用于修改表中已有记录。一般配合WHERE子句查询更新选定行，否则所有行均被更新。</p>
+<pre><code>UPDATE table_name SET column1 = value1, column2 = value2...., columnN = valueN WHERE [condition];
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">UPDATE</span> imageseval <span class="pl-k">SET</span> eval<span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>中<span class="pl-pds">'</span></span> <span class="pl-k">WHERE</span> trackimg<span class="pl-k">=</span><span class="pl-c1">3</span>;
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> trackimg<span class="pl-k">=</span><span class="pl-c1">3</span>;
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">3</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0323</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           <span class="pl-c1">2</span>           中           <span class="pl-c1">3</span></pre></div>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong></p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+cursor<span class="pl-k">=</span>c.execute(<span class="pl-s"><span class="pl-pds">"</span>UPDATE imageseval SET eval='更新' WHERE trackimg=3<span class="pl-pds">"</span></span>)
+conn.commit()
+cursor<span class="pl-k">=</span>c.execute(<span class="pl-s"><span class="pl-pds">"</span>SELECT imagename,eval  FROM  imageseval WHERE trackimg=3<span class="pl-pds">"</span></span>)
+<span class="pl-c1">print</span>([[value <span class="pl-k">for</span> value <span class="pl-k">in</span> row] <span class="pl-k">for</span> row <span class="pl-k">in</span> cursor])
+conn.close()</pre></div>
+<p>print结果为：<code>[['static/images/imresize/img_0323.jpg', '更新']]</code></p>
+<hr>
+<h2>删除表中记录</h2>
+<p>DELETE 用于删除表中已有记录。一般配合WHERE子句查询删除选定行，否则所有行均被删除。</p>
+<pre><code>DELETE FROM table_name WHERE [condition];
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">DELETE</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> trackimg<span class="pl-k">=</span><span class="pl-c1">3</span>;
+Error: <span class="pl-k">foreign key</span> mismatch <span class="pl-k">-</span> <span class="pl-s"><span class="pl-pds">"</span>imageseval<span class="pl-pds">"</span></span> referencing <span class="pl-s"><span class="pl-pds">"</span>imagesinfodf<span class="pl-pds">"</span></span>
+sqlite<span class="pl-k">&gt;</span> PRAGMA foreign_keys<span class="pl-k">=</span>OFF;
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">DELETE</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> trackimg<span class="pl-k">=</span><span class="pl-c1">3</span>;
+sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval;
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">1</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0321</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">3</span>           <span class="pl-c1">0</span>           <span class="pl-c1">0</span>           好           <span class="pl-c1">15</span>
+<span class="pl-c1">2</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span></pre></div>
+<blockquote>
+<p>此处关闭了外键后<code>PRAGMA foreign_keys=OFF;</code>，正确删除指定条件的行。</p>
+</blockquote>
+<hr>
+<p><strong>&lt;sqlite3 库&gt;</strong></p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">import</span> sqlite3
+conn<span class="pl-k">=</span>sqlite3.connect(<span class="pl-s"><span class="pl-pds">'</span>sqliteOperation_sql3.db<span class="pl-pds">'</span></span>)
+c<span class="pl-k">=</span>conn.cursor()
+cursor<span class="pl-k">=</span>c.execute(<span class="pl-s"><span class="pl-pds">"</span>DELETE FROM imageseval WHERE trackimg=3<span class="pl-pds">"</span></span>)
+conn.commit()
+cursor<span class="pl-k">=</span>c.execute(<span class="pl-s"><span class="pl-pds">"</span>SELECT imagename,eval  FROM  imageseval<span class="pl-pds">"</span></span>)
+<span class="pl-c1">print</span>([[value <span class="pl-k">for</span> value <span class="pl-k">in</span> row] <span class="pl-k">for</span> row <span class="pl-k">in</span> cursor])
+conn.close()</pre></div>
+<p>print结果为：</p>
+<pre><code>[['static/images/imresize/img_0321.jpg', '好'], ['static/images/imresize/img_0322.jpg', '中']]
+</code></pre>
+<hr>
+<h2>LIKE 子句</h2>
+<p>LIKE运算符用于匹配通配符指定模式的字符串/文本值。如果搜索表达式与模式表达式匹配，LIKE返回True，即1。通配符有:</p>
+<ul>
+<li>百分号(%):代表0个、1个或多个数字或字符。</li>
+<li>下划线(_):代表1个单一的数字或字符。</li>
+</ul>
+<p>通配符一般组合使用。示例：</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>通配符组合</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>LIKE '200%'</td>
+  <td>查找以200开头的任意值</td>
+</tr>
+<tr>
+  <td>LIKE'%200%'</td>
+  <td>查找任意位置包含200的任意值</td>
+</tr>
+<tr>
+  <td>LIKE '_00%'</td>
+  <td>查找第二位和第三位为00的任意值</td>
+</tr>
+<tr>
+  <td>LIKE'2_%_%'</td>
+  <td>查找以2开头，且长度至少为3个字符的任意值</td>
+</tr>
+<tr>
+  <td> LIKE '%2</td>
+  <td>查找以2结尾的任意值</td>
+</tr>
+<tr>
+  <td> LIKE '_2%3'</td>
+  <td>查找第二位为2，且以3结尾的任意值</td>
+</tr>
+<tr>
+  <td>LIKE '2___3</td>
+  <td>查找长度为5位数，且以2开头以3结尾的任意值</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imageseval <span class="pl-k">WHERE</span> imagename <span class="pl-k">LIKE</span> <span class="pl-s"><span class="pl-pds">'</span>%0322%<span class="pl-pds">'</span></span>;
+ID     imagename                            good        poor        moderate    eval        trackimg
+<span class="pl-c"><span class="pl-c">--</span>---  -----------------------------------  ----------  ----------  ----------  ----------  ----------</span>
+<span class="pl-c1">2</span>      static<span class="pl-k">/</span>images<span class="pl-k">/</span>imresize<span class="pl-k">/</span><span class="pl-c1">img_0322</span>.<span class="pl-c1">jpg</span>  <span class="pl-c1">0</span>           <span class="pl-c1">1</span>           <span class="pl-c1">0</span>           中           <span class="pl-c1">12</span></pre></div>
+<h2>GLOB 子句</h2>
+<p>GLOB运算符用于匹配通配符指定模式的字符串/文本值。如果搜索表达式与模式表达式匹配，GLOB返回True，即1。通配符有:</p>
+<ul>
+<li>星号(*):代表0个、1个或多个数字或字符。</li>
+<li>问号(?):代表1个单一的数字或字符。</li>
+</ul>
+<p>GLOB运算符与LIKE预算符不同的是，大小写敏感。因为具体语法与LIKE基本同，此处不赘述。</p>
+<h2>LIMIT 子句</h2>
+<p>LIMIT子句用于限制由SELECT语句返回的数据数量。</p>
+<pre><code>SELECT column1, column2, columnN FROM table_name LIMIT [no of rows];
+SELECT column1, column2, columnN FROM table_name LIMIT [no of rows] OFFSET [row num];
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imagesinfodf <span class="pl-k">LIMIT</span> <span class="pl-c1">2</span> OFFSET <span class="pl-c1">1</span>;
+ID     imgindex    long        lat
+<span class="pl-c"><span class="pl-c">--</span>---  ----------  ----------  ----------</span>
+<span class="pl-c1">2</span>      <span class="pl-c1">12</span>          <span class="pl-c1">111</span>.<span class="pl-c1">24</span>      <span class="pl-c1">39</span>.<span class="pl-c1">91</span>
+<span class="pl-c1">3</span>      <span class="pl-c1">15</span>          <span class="pl-c1">111</span>.<span class="pl-c1">26</span>      <span class="pl-c1">39</span>.<span class="pl-c1">98</span></pre></div>
+<h2>ORDER BY 子句</h2>
+<p>ORDER BY子句基于1个或多个列升序或降序排列数据。</p>
+<pre><code>SELECT column-list FROM table_name [WHERE condition] [ORDER BY column1, column2, .. columnN] [ASC | DESC];
+</code></pre>
+<div class="highlight highlight-source-sql"><pre>sqlite<span class="pl-k">&gt;</span> <span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span> imagesinfodf <span class="pl-k">ORDER BY</span> lat <span class="pl-k">DESC</span>;
+ID     imgindex    long        lat
+<span class="pl-c"><span class="pl-c">--</span>---  ----------  ----------  ----------</span>
+<span class="pl-c1">3</span>      <span class="pl-c1">15</span>          <span class="pl-c1">111</span>.<span class="pl-c1">26</span>      <span class="pl-c1">39</span>.<span class="pl-c1">98</span>
+<span class="pl-c1">2</span>      <span class="pl-c1">12</span>          <span class="pl-c1">111</span>.<span class="pl-c1">24</span>      <span class="pl-c1">39</span>.<span class="pl-c1">91</span>
+<span class="pl-c1">1</span>      <span class="pl-c1">10</span>          <span class="pl-c1">111</span>.<span class="pl-c1">23</span>      <span class="pl-c1">39</span>.<span class="pl-c1">9</span></pre></div>
+<h2>GROUP BY 子句</h2>
+<p>GROUP BY子句配合SELECT，对相同的数据分组。在SELECT语句中，GROUP BY子句置于WHERER子句之后，ORDER BY子句之前。</p>
+<pre><code>SELECT column-list FROM table_name WHERE [ conditions ] GROUP BY column1, column2....columnN ORDER BY column1, column2....columnN；
+</code></pre>
+<h2>HAVING 子句</h2>
+<p>HAVING子句允许对最终结果中的分组结果，指定条件进一步过滤。WHERE子句在所选列上设置条件，而HAVING子句则在GROUP BY子句创建的分组上设置条件。<br>
+HAVING子句位置：</p>
+<pre><code>[SELECT FROM WHERE GROUP BY HAVING ORDER BY]
+SELECT column1, column2 FROM table1, table2 WHERE [ conditions ] GROUP BY column1, column2 HAVING [ conditions ] ORDER BY column1, column2;
+</code></pre>
+<h2>DISTINCT 关键字</h2>
+<p>DISTINCT关键字与SELECT语句一起使用，消除所有重复的记录，获取唯一记录数据。</p>
+<pre><code>SELECT DISTINCT column1, column2,.....columnN FROM table_name WHERE [condition];
+</code></pre>
+<h2>导出完整的数据库</h2>
+<p>在Terminal命令提示符中使用sqlite3 databaseName.db .dump &gt; databaseName.sql的.dump命令导出完整的数据库在一个文本文件中(ASCII格式)。如果恢复则执行sqlite3 databaseName.db &lt; databaseName.sql。</p>
+<div class="highlight highlight-source-sql"><pre>(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span>sqlite3 <span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">db</span> .dump <span class="pl-k">&gt;</span> <span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">sql</span>
+(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span>sqlite3 <span class="pl-c1">dbRecovery</span>.<span class="pl-c1">db</span> <span class="pl-k">&lt;</span> <span class="pl-c1">sqliteOperation</span>.<span class="pl-c1">sql</span></pre></div>
+<p>可以查看当前目录，多出两个文件，一个是导出文件sqliteOperation.sql，另一个是恢复文件dbRecovery.db。<br>
+<a href="https://camo.githubusercontent.com/e799d78d91326416c7619f6a7352a826a75fe2a8/68747470733a2f2f692e696d6775722e636f6d2f7056467933594e2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/e799d78d91326416c7619f6a7352a826a75fe2a8/68747470733a2f2f692e696d6775722e636f6d2f7056467933594e2e6a7067" alt="" data-canonical-src="https://i.imgur.com/pVFy3YN.jpg" style="max-width:100%;"></a><br>
+2/6/2018 1:40:32 AM</p>
+<h1>SQLAlchemy管理数据库</h1>
+<p><a href="http://www.sqlalchemy.org/" rel="nofollow">SQLAlchemy</a>在最底层包装数据库操作接口，在最上层提供对象关系映射ORM。ORM是Object Relational Mapping，及关系对象映射。ORM 将数据库中的表与面向对象语言中的类建立了一种对应关系。如果操作数据库，数据库中的表或者表中的一条记录可以直接通过操作类或者类实例来完成，是基于不同数据结构和系统关系数据源之间，传递和转换数据的技术。SQLAlchemy是知名的ORM工具。<br>
+在建立Web应用App时，需要把SQLAlchemy绑定到应用的上下文中，因此对Flask轻量级Web应用框架,直接使用flask_sqlalchemy。flask_sqlalchemy在SQLAlchemy上提供了一层包装，可以结合Flask的一些特性方便调用SQLAlchemy的功能。</p>
+<blockquote>
+<p>flask_sqlalchemy支持的数据库包括：SQLite、MySQL、Postgres等。</p>
+</blockquote>
+<h2>安装与SQLAlchemy实例化</h2>
+<p>在pycharm建立的虚拟环境下，于Terminal终端执行<code>pip install flask_sqlalchemy</code>安装。<br>
+在Flask中，为避免主文件(App)与数据模型(常规命名为models.py文件)之间互相调用SQLAlchemy实例化对象，产生错误，因此将实例化对象单独存于一个.py文件中，此次实验文件名为exts.py,代码如下：</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>exts.py</span>
+<span class="pl-k">from</span> flask_sqlalchemy <span class="pl-k">import</span> SQLAlchemy
+db<span class="pl-k">=</span>SQLAlchemy()</pre></div>
+<h2>定义模型</h2>
+<p>模型表示程序使用中持久化的实体，在ORM中为一个Python类，类的属性对应数据库中的列字段。数据模型单独存储于models.py文件下，此次实验代码为：</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>models.py</span>
+<span class="pl-c"><span class="pl-c">#</span>根据数据库表结构创建数据模型(model)</span>
+<span class="pl-k">from</span> exts <span class="pl-k">import</span> db
+<span class="pl-k">from</span> datetime <span class="pl-k">import</span> datetime
+
+<span class="pl-k">class</span> <span class="pl-en">imagesinfodf</span>(<span class="pl-e">db</span>.<span class="pl-e">Model</span>):
+    __tablename__ <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>imagesinfodf<span class="pl-pds">'</span></span> <span class="pl-c"><span class="pl-c">#</span>如果不指定表名，则默认为类名的小写版</span>
+    <span class="pl-c1">id</span> <span class="pl-k">=</span> db.Column(db.Integer, <span class="pl-v">primary_key</span><span class="pl-k">=</span><span class="pl-c1">True</span>, <span class="pl-v">autoincrement</span><span class="pl-k">=</span><span class="pl-c1">True</span>)
+    imgindex<span class="pl-k">=</span> db.Column(db.Integer)
+    imagename<span class="pl-k">=</span>db.Column(db.Text)
+    time<span class="pl-k">=</span>db.Column(db.Text)
+    <span class="pl-v">long</span><span class="pl-k">=</span>db.Column(db.Float)
+    lat<span class="pl-k">=</span>db.Column(db.Float)
+
+    <span class="pl-c"><span class="pl-c">#</span>imageseval = db.relationship('imageseval', backref='imagesinfodf',lazy='dynamic') #此次实验未用，可移除</span>
+
+<span class="pl-k">class</span> <span class="pl-en">Imageseval</span>(<span class="pl-e">db</span>.<span class="pl-e">Model</span>):
+    __tablename__<span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">'</span>imageseval<span class="pl-pds">'</span></span>
+    <span class="pl-c1">id</span><span class="pl-k">=</span>db.Column(db.Integer,<span class="pl-v">primary_key</span><span class="pl-k">=</span><span class="pl-c1">True</span>,<span class="pl-v">autoincrement</span><span class="pl-k">=</span><span class="pl-c1">True</span>)
+    imagename<span class="pl-k">=</span>db.Column(db.String(<span class="pl-c1">255</span>),<span class="pl-v">nullable</span><span class="pl-k">=</span><span class="pl-c1">False</span>)
+    good<span class="pl-k">=</span>db.Column(db.Integer)
+    medium<span class="pl-k">=</span>db.Column(db.Integer)
+    poor <span class="pl-k">=</span> db.Column(db.Integer)
+    <span class="pl-c1">eval</span> <span class="pl-k">=</span> db.Column(db.Text)
+    eval_time <span class="pl-k">=</span> db.Column(db.DateTime, <span class="pl-v">default</span><span class="pl-k">=</span>datetime.now)
+
+    <span class="pl-c"><span class="pl-c">#</span>image_id = db.Column(db.Integer, db.ForeignKey('imagesinfodf.imgindex')) #此次实验未用</span></pre></div>
+<p>在'imageseval'表中使用了外键约束<code>image_id = db.Column(db.Integer, db.ForeignKey('imagesinfodf.imgindex'))</code>，建立与'imagesinfodf'表之间的关联，关联的字段为'imageseval.image_id'和'imagesinfodf.imgindex'，就是强制要求image_id字段的值存在于imagesinfodf表的imgindex字段中。<br>
+添加到imagesinfodf模型中的imageseval属性，代表这个关系的面向对象视角。对于一个imagesinfodf的实例，imageseval属性返回与imagesinfodf相关联的imageseval组成的列表。db.relationship第一个参数表面这个关系的另一端模型。如果模型未定义，可以使用字符串形式指定。backref参数向Imageseval模型中添加一个imagesinfodf属性，定义反向关系。这个属性可以代替image_id访问imagesinfodf模型，获取的是模型对象，而不是外键的值。</p>
+<p><strong>常用SQLAlchemy字段类型：</strong></p>
+<table width="100%">
+<thead>
+<tr>
+  <th>类型名</th>
+  <th>python类型</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Integer</td>
+  <td>int</td>
+  <td>普通整数，一般32位</td>
+</tr>
+<tr>
+  <td>SmallInteger</td>
+  <td>int</td>
+  <td>取值范围小的整数，一般16位</td>
+</tr>
+<tr>
+  <td>BigInteger</td>
+  <td>int或long</td>
+  <td>不限制精度的整数</td>
+</tr>
+<tr>
+  <td>Float</td>
+  <td>float</td>
+  <td>浮点数</td>
+</tr>
+<tr>
+  <td>Numeric</td>
+  <td>decimal.Decimal</td>
+  <td>定点数</td>
+</tr>
+<tr>
+  <td>String</td>
+  <td>str</td>
+  <td>变长字符串</td>
+</tr>
+<tr>
+  <td>Text</td>
+  <td>str</td>
+  <td>变长字符串，对较长或不限长度的字符串做优化</td>
+</tr>
+<tr>
+  <td>Unicode</td>
+  <td>unicode</td>
+  <td>变长unicode字符串</td>
+</tr>
+<tr>
+  <td>UnicodeText</td>
+  <td>unicode</td>
+  <td>变长unicode字符串,对较长或不限长度的字符串做了优化</td>
+</tr>
+<tr>
+  <td>Boolean</td>
+  <td>bool</td>
+  <td>布尔值</td>
+</tr>
+<tr>
+  <td>Date</td>
+  <td>datetime.date</td>
+  <td>日期</td>
+</tr>
+<tr>
+  <td>Time</td>
+  <td>datetime.time</td>
+  <td>时间</td>
+</tr>
+<tr>
+  <td>DateTime</td>
+  <td>datetime.datetime</td>
+  <td>日期和时间</td>
+</tr>
+<tr>
+  <td>Interval</td>
+  <td>datetime.timedelta</td>
+  <td>时间间隔</td>
+</tr>
+<tr>
+  <td>Enum</td>
+  <td>str</td>
+  <td>一组字符串</td>
+</tr>
+<tr>
+  <td>PickleType</td>
+  <td>任何python对象</td>
+  <td>自动使用Pickle序列化</td>
+</tr>
+<tr>
+  <td>LargeBinary</td>
+  <td>str</td>
+  <td>二进制文件</td>
+</tr>
+</tbody>
+</table>
+<p><strong>常用SQLAlchemy字段选项</strong></p>
+<table width="100%">
+<thead>
+<tr>
+  <th>选项名</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>primary_key</td>
+  <td>如果设置为True，该列则为表的主键</td>
+</tr>
+<tr>
+  <td>unique</td>
+  <td>如果设置为True，该列不允许出现重复的值</td>
+</tr>
+<tr>
+  <td>index</td>
+  <td>如果设置为True，为这列创建索引，提升查询效率</td>
+</tr>
+<tr>
+  <td>nullable</td>
+  <td>如果设置为True，该列允许使用空值；如果为False，则不允许使用空值</td>
+</tr>
+<tr>
+  <td>default</td>
+  <td>为该列定义默认值</td>
+</tr>
+</tbody>
+</table>
+<h2>建立、连接数据库与创建表</h2>
+<blockquote>
+<p>基于Flask(通常目录结构)</p>
+</blockquote>
+<p>在Terminal终端建立是数据库，也可以使用python sqlite3库的方法。</p>
+<div class="highlight highlight-source-sql"><pre>(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign<span class="pl-k">&gt;</span>sqlite3 <span class="pl-c1">laeval</span>.<span class="pl-c1">db</span>
+SQLite version <span class="pl-c1">3</span>.<span class="pl-c1">21</span>.<span class="pl-c1">0</span> <span class="pl-c1">2017</span><span class="pl-k">-</span><span class="pl-c1">10</span><span class="pl-k">-</span><span class="pl-c1">24</span> <span class="pl-c1">18</span>:<span class="pl-c1">55</span>:<span class="pl-c1">49</span>
+Enter <span class="pl-s"><span class="pl-pds">"</span>.help<span class="pl-pds">"</span></span> for usage hints.
+sqlite<span class="pl-k">&gt;</span> .databases
+main: D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign\<span class="pl-c1">laeval</span>.<span class="pl-c1">db</span></pre></div>
+<p>SQLAlchemy连接数据库的配置(含Flask配置)，配置文件名为config.py</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>config.py</span>
+<span class="pl-k">class</span> <span class="pl-en">Config</span>(<span class="pl-c1">object</span>):
+    <span class="pl-k">pass</span>
+
+<span class="pl-k">class</span> <span class="pl-en">ProdConfig</span>(<span class="pl-e">Config</span>):
+    <span class="pl-k">pass</span>
+
+<span class="pl-k">class</span> <span class="pl-en">DevConfig</span>(<span class="pl-e">Config</span>):
+    <span class="pl-c1">DATABASE</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>laeval.db<span class="pl-pds">'</span></span>
+    <span class="pl-c1">SQLALCHEMY_DATABASE_URI</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>sqlite:///<span class="pl-c1">{}</span><span class="pl-pds">"</span></span>.format(<span class="pl-c1">DATABASE</span>) <span class="pl-c"><span class="pl-c">#</span>SQLite对应的URI。URI是类似于URL的字符串，包含了QLAlchemy建立连接所需要的所有信息。</span>
+
+    <span class="pl-c1">DEBUG</span><span class="pl-k">=</span><span class="pl-c1">True</span> <span class="pl-c"><span class="pl-c">#</span>在生产环境下，此值需要设置为False</span>
+    <span class="pl-c1">SQLALCHEMY_TRACK_MODIFICATIONS</span> <span class="pl-k">=</span> <span class="pl-c1">False</span>
+
+<span class="pl-s"><span class="pl-pds">'''</span></span>
+<span class="pl-s">SQLite数据URI为：sqlite:///database.db</span>
+<span class="pl-s">MySQL数据库URI为：mysql+pymysql://user:password@ip:port/db_name</span>
+<span class="pl-s"><span class="pl-pds">'''</span></span></pre></div>
+<p>Flask主文件部分(A阶段，未包含视图函数，即渲染HTML文件的装饰器函数),.py文件名为laeval_cadesign.py</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>laeval_cadesign.py A阶段，用于SQLite数据库初始化</span>
+<span class="pl-k">from</span> flask <span class="pl-k">import</span> Flask, render_template, url_for, request, session  <span class="pl-c"><span class="pl-c">#</span> 导入了Flask 类，这个类的一个实例是WSGI程序</span>
+<span class="pl-k">from</span> config <span class="pl-k">import</span> DevConfig  <span class="pl-c"><span class="pl-c">#</span> 从配置文件中调入DevConfig部分配置</span>
+<span class="pl-k">from</span> exts <span class="pl-k">import</span> db
+
+app <span class="pl-k">=</span> Flask(<span class="pl-c1">__name__</span>)  <span class="pl-c"><span class="pl-c">#</span> 实例化Flask类，把模块/包的名字传给它，这样Flask就会知道它将要到哪里寻找模板，静态文件之类的东西。</span>
+app.config.from_object(DevConfig)
+
+db.init_app(app)  <span class="pl-c"><span class="pl-c">#</span> 将app对象传给SQLAlchemy，初始化SQLAlchemy，并自动从app配置中读取信息，自动连接到数据库。</span>
+
+<span class="pl-en">@app.route</span>(<span class="pl-s"><span class="pl-pds">'</span>/<span class="pl-pds">'</span></span>)
+<span class="pl-k">def</span> <span class="pl-en">hello_world</span>():
+    <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">'</span>Hello World!<span class="pl-pds">'</span></span>
+
+<span class="pl-k">if</span> <span class="pl-c1">__name__</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">'</span>__main__<span class="pl-pds">'</span></span>:
+    app.run()</pre></div>
+<p>manage.py文件。需要在虚拟环境Terminal终端pip安装flask_script(创建命令)和flask_migrate库(用于数据库迁移)。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>manage.py</span>
+<span class="pl-k">from</span> flask_script <span class="pl-k">import</span> Manager,Server
+<span class="pl-k">from</span> laeval_cadesign <span class="pl-k">import</span> app,db
+<span class="pl-k">from</span> flask_migrate <span class="pl-k">import</span> Migrate,MigrateCommand
+<span class="pl-k">from</span> models <span class="pl-k">import</span> Imageseval,imagesinfodf  <span class="pl-c"><span class="pl-c">#</span>导入数据模型</span>
+
+manager<span class="pl-k">=</span>Manager(app) <span class="pl-c"><span class="pl-c">#</span>将app传给Manager对象，初始化Flask Script。</span>
+migrate<span class="pl-k">=</span>Migrate(app,db) <span class="pl-c"><span class="pl-c">#</span>通过app对象和SQLAlchemy的实例初始化Migrate对象。</span>
+
+manager.add_command(<span class="pl-s"><span class="pl-pds">'</span>db<span class="pl-pds">'</span></span>,MigrateCommand) <span class="pl-c"><span class="pl-c">#</span>添加数据库迁移命令MigrateCommand，可以在terminal中使用python manage.py db执行。</span>
+
+<span class="pl-en">@manager.shell</span>
+<span class="pl-k">def</span> <span class="pl-en">make_shell_context</span>(): <span class="pl-c"><span class="pl-c">#</span>定义回调函数，把对象添加到导入列表中，可以直接使用数据库模型，而不必每次导入</span>
+    <span class="pl-k">return</span> <span class="pl-c1">dict</span>(<span class="pl-v">app</span><span class="pl-k">=</span>app,<span class="pl-v">db</span><span class="pl-k">=</span>db，<span class="pl-v">Imageseval</span><span class="pl-k">=</span>Imageseval,<span class="pl-v">imagesinfodf</span><span class="pl-k">=</span>imagesinfodf) <span class="pl-c"><span class="pl-c">#</span>打开命令行时，默认的导入工作，并返回在dict中。</span>
+
+<span class="pl-k">if</span> <span class="pl-c1">__name__</span><span class="pl-k">==</span><span class="pl-s"><span class="pl-pds">"</span>__main__<span class="pl-pds">"</span></span>:
+    manager.run()</pre></div>
+<p>在Terminal终端执行下述代码， 则在建立的laeval.db数据库中建立model.py中定义的数据模型即表。此时查看数据库，增加两个表'imagesinfodf'和'imageseval'。</p>
+<pre><code>(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign&gt;python manage.py shell
+&gt;&gt;&gt; db.create_all()
+</code></pre>
+<p>如果此时修改了model.py数据模型，调整了表结构，例如在 'imagesinfodf'表中增加了migrate = db.Column(db.Text)字段，如果按上述db.create_all()方法，不会重新创建或者更新这个表。其粗暴的处理方法是先删除旧表执行<code>db.drop_all()</code>再重建新表<code>db.create_all()</code>。此时若表中已经存在数据则会丢失，因此使用flask_migrate库解决这个问题。</p>
+<p><strong>关于flask_script</strong><br>
+在解释flask_migrate之前，先了解下flask_script库，因为在manage.py文件中通过<code>manager.add_command('db',MigrateCommand)</code>方法，添加数据库迁移命令MigrateCommand，使其可以在terminal中使用python manage.py db执行。<br>
+Flask扩展库Flask Script可以创建命令，并在Flask的应用上下文(Applilcation Context)中执行，只有这样才能够对Flask对象进行修改,因此通过在terminal终端中执行python manage.py *arg运行命令行十分必要，直接运行默认的python命令行可能会令扩展返回错误。<br>
+Flask Script自带一些默认命令，可以运行服务器或者开启待应用上下文的Python命令行：<br>
+例如runserver(不附加参数则运行于<a href="http://127.0.0.1:5000/%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%8C%87%E5%AE%9A%E5%8F%82%E6%95%B0%E4%BE%8B%E5%A6%82%60python" rel="nofollow">http://127.0.0.1:5000/，如果指定参数例如`python</a> manage.py runserver -h 127.0.0.2 -p 206`，则运行于<a href="http://127.0.0.2:206/)%EF%BC%9B" rel="nofollow">http://127.0.0.2:206/)；</a></p>
+<pre><code>$python manage.py runserver  #运行app开发环境服务器
+</code></pre>
+<p>shell(加载Flask应用上下文的交互式环境，通过shell，可以像启动应用一样操作动态数据，往shell里面增加一些默认的变量和函数。)</p>
+<pre><code>(venv) D:\MUBENAcademy\pythonSystem\pycharm\LAevaluationA&gt;python manage.py shell
+&gt;&gt;&gt; app #查看app有无正确导入
+&lt;Flask 'LAevaluationA'&gt;
+</code></pre>
+<p><strong>关于flask_migrate</strong><br>
+在开发过程中，有时需要修改数据库模型(表)，修改之后还需要更新数据库。只有当数据库表不存在时，flask_sqlalchemy才会根据模型创建，但是如果存在表，则需要<code>db.drop_all()</code>掉后再创建。因此更新表可以使用数据库迁移框架跟踪数据库模式的变化，并把变化应用到数据库中。<br>
+flask_migrate集成到flask_script中，所有操作通过Flask_Script命令完成。<br>
+执行<code>python manage.py db</code>查看db命令列表。此时已经通过<code>manager.add_command('db',MigrateCommand)</code>方法，添加数据库迁移命令MigrateCommand。</p>
+<pre><code>(venv) D:\MUBENAcademy\pythonSystem\pycharm\LAevaluationA&gt;python manage.py db
+usage: Perform database migrations
+
+Perform database migrations
+
+positional arguments:
+  {init,revision,migrate,edit,merge,upgrade,downgrade,show,history,heads,branches,current,stamp}
+    init                Creates a new migration repository 
+    revision            Create a new revision file.
+    migrate             Alias for 'revision --autogenerate'
+    edit                Edit current revision.
+    merge               Merge two revisions together. Creates a new migration file
+    upgrade             Upgrade to a later version
+    downgrade           Revert to a previous version
+    show                Show the revision denoted by the given symbol.
+    history             List changeset scripts in chronological order.
+    heads               Show current available heads in the script directory
+    branches            Show current branch points
+    current             Display the current revision for each database.
+    stamp               'stamp' the revision table with the given revision;
+                        don't run any migrations
+
+optional arguments:
+  -?, --help            show this help message and exit
+
+python manage.py db init #创建迁移仓库。执行后会在项目目录中创建一个名为migrations文件夹，所有记录文件会保存在里面。只需执行一次。
+python manage.py db migrate -m"initial migration" #创建迁移脚本。扫描SQLAlchemy对象，找到在此之前没有被记录过的所有表和列，由于第1此提交，所有迁移记录文件较大。确保使用-m参数保存提交信息，通过提交信息寻找所需迁移记录版本。每个迁移记录文件都保存在migrations/versions文件夹中。只需执行一次。
+python manage.py db upgrade #更新数据库。把迁移记录应用到数据库，改变数据库结构，更新数据库。
+python manage.py db history #根据history命令找到版本号，&lt;base&gt; -&gt; 4053e22a6098 (head), initial migration。
+python manage.py db downgrade versionNum(例如4053e22a6098) #根据找到的版本号，传入downgrade，回到以前的版本。
+</code></pre>
+<p>注：如果误删除migrations文件夹，执行数据库操作有可能提示"alembic.util.exc.CommandError: Can't locate revision identified by '4053e22a6098'"，此时，可以drop掉数据库中的alembic_version表，再执行，就正常。</p>
+<h2>CRUD/添加create、读取read、修改update和删除delete</h2>
+<p><strong>create-插入行</strong></p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"><span class="pl-c">#</span>(venv) D:\MUBENAcademy\pythonSystem\pycharm\laeval_cadesign&gt;python manage.py shell #进入python应用上下文的交互式环境</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> <span class="pl-k">from</span> models <span class="pl-k">import</span> Imageseval,imagesinfodf <span class="pl-c"><span class="pl-c">#</span>调入数据库模型(类)</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> infoA<span class="pl-k">=</span>imagesinfodf(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">12</span>,<span class="pl-v">long</span><span class="pl-k">=</span><span class="pl-c1">111.24</span>,<span class="pl-v">lat</span><span class="pl-k">=</span><span class="pl-c1">39.91</span>) <span class="pl-c"><span class="pl-c">#</span>根据表字段创建数据。id主键由Flask_SQLAlchemy管理，不需输入。</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> infoB<span class="pl-k">=</span>imagesinfodf(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">15</span>,<span class="pl-v">long</span><span class="pl-k">=</span><span class="pl-c1">111.26</span>,<span class="pl-v">lat</span><span class="pl-k">=</span><span class="pl-c1">39.98</span>)
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> infoC<span class="pl-k">=</span>imagesinfodf(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">10</span>,<span class="pl-v">long</span><span class="pl-k">=</span><span class="pl-c1">111.23</span>,<span class="pl-v">lat</span><span class="pl-k">=</span><span class="pl-c1">39.90</span>)
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> <span class="pl-c1">print</span>(infoA.id) <span class="pl-c"><span class="pl-c">#</span>此时对象只存在python中，未写入数据库，因此id尚未被赋值，为None。</span>
+<span class="pl-c1">None</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.add(infoA) <span class="pl-c"><span class="pl-c">#</span>通过数据库会话管理对数据库所做的改动，在Flask_SQLAlchemy中，会话由db.session表示。准备把数据写入数据库之前，想要将其添加到会话中。</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.add_all([infoB,infoC]) <span class="pl-c"><span class="pl-c">#</span>可以同时加入多个数据</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.commit() <span class="pl-c"><span class="pl-c">#</span>提交会话，写入数据库。</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> <span class="pl-c1">print</span>(infoA.id) <span class="pl-c"><span class="pl-c">#</span>提交后，查看id有值。</span>
+<span class="pl-c1">1</span></pre></div>
+<p>在GUI中查看数据库，因为imagename和time字段未写入数据，因此为<br>
+<a href="https://camo.githubusercontent.com/0c294d8dc9b0cf4d1052aa8f3e69f4c735d162b7/68747470733a2f2f692e696d6775722e636f6d2f3466464b424b4a2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/0c294d8dc9b0cf4d1052aa8f3e69f4c735d162b7/68747470733a2f2f692e696d6775722e636f6d2f3466464b424b4a2e6a7067" alt="" data-canonical-src="https://i.imgur.com/4fFKBKJ.jpg" style="max-width:100%;"></a></p>
+<p><strong>read-查询行/读取行</strong><br>
+Flask_SQLAlchemy为每个模型(表)提供了query对象。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> imagesinfodf.query.all() <span class="pl-c"><span class="pl-c">#</span>取回表中所有记录</span>
+[<span class="pl-k">&lt;</span>imagesinfodf <span class="pl-c1">1</span><span class="pl-k">&gt;</span>, <span class="pl-k">&lt;</span>imagesinfodf <span class="pl-c1">2</span><span class="pl-k">&gt;</span>, <span class="pl-k">&lt;</span>imagesinfodf <span class="pl-c1">3</span><span class="pl-k">&gt;</span>]
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> imagesinfodf.query.filter_by(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">15</span>).all() <span class="pl-c"><span class="pl-c">#</span>使用filter_by过滤器</span>
+[<span class="pl-k">&lt;</span>imagesinfodf <span class="pl-c1">2</span><span class="pl-k">&gt;</span>]
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> <span class="pl-c1">str</span>(imagesinfodf.query.filter_by(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">15</span>)) <span class="pl-c"><span class="pl-c">#</span>通过str()把query对象转换为字符串，查询生成的原生SQL查询语句</span>
+<span class="pl-s"><span class="pl-pds">'</span>SELECT imagesinfodf.id AS imagesinfodf_id, imagesinfodf.imgindex AS imagesinfodf_imgindex, imagesinfodf.imagename AS imagesinfodf_<span class="pl-ii"></span></span>
+imagename, imagesinfodf.time AS imagesinfodf_time, imagesinfodf.long AS imagesinfodf_long, imagesinfodf.lat AS imagesinfodf_lat \nF
+ROM imagesinfodf \nWHERE imagesinfodf.imgindex = ?<span class="pl-s"><span class="pl-pds">'</span><span class="pl-ii"></span></span>
+&gt;&gt;&gt; imagesinfodf.query.filter_by(imgindex=15).first() #查询的第1个结果
+&lt;imagesinfodf 2&gt;</pre></div>
+<p>SQLAlchemy常用查询过滤器</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>过滤器</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>filter()</td>
+  <td>把过滤器添加到原查询上，返回一个新查询</td>
+</tr>
+<tr>
+  <td>filter_by()</td>
+  <td>把等值过滤器添加到原查询上，返回一个新查询</td>
+</tr>
+<tr>
+  <td>limit()</td>
+  <td>使用指定的值，限制查询返回的结果数量，返回一个新查询</td>
+</tr>
+<tr>
+  <td>offset</td>
+  <td>偏移原查询返回的结果，返回一个新查询</td>
+</tr>
+<tr>
+  <td>order_by()</td>
+  <td>根据指定条件对原查询结果进行排序，返回一个新查询</td>
+</tr>
+<tr>
+  <td>group_by()</td>
+  <td>根据指定条件对原查询结果进行分组，返回一个新查询</td>
+</tr>
+</tbody>
+</table>
+<p>SQLAlchemy常用查询执行函数</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>方法</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>all()</td>
+  <td>以列表形式返回查询的所有结果</td>
+</tr>
+<tr>
+  <td>filter()</td>
+  <td>返回查询的第1个结果，如果没有结果返回None</td>
+</tr>
+<tr>
+  <td>first_or_404()</td>
+  <td>返回查询的第1个结果，如果没有结果，则终止请求，返回404错误响应</td>
+</tr>
+<tr>
+  <td>get()</td>
+  <td>返回指定主键对应的行，如果没有对应的行，则返回None</td>
+</tr>
+<tr>
+  <td>get_or_404()</td>
+  <td>返回指定主键对应的行，如果没有找到指定的主键，则终止请求，返回404错误响应</td>
+</tr>
+<tr>
+  <td>count()</td>
+  <td>返回查询结果的数量</td>
+</tr>
+<tr>
+  <td>paginate()</td>
+  <td>返回一个paginate对象，包含指定范围内的结果</td>
+</tr>
+</tbody>
+</table>
+<p><strong>update-修改行</strong><br>
+一种方法是修改属性值(对应字段值)，通过.add()修改数据；再者是用.update()更新数据</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> infoA.imgindex<span class="pl-k">=</span><span class="pl-c1">99</span> <span class="pl-c"><span class="pl-c">#</span>修改属性值，重新加入会话并提交，即可修改行数据</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.add(infoA)
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.commit()
+<span class="pl-k">&gt;&gt;&gt;&gt;</span> imagesinfodf.query.filter_by(<span class="pl-v">imgindex</span><span class="pl-k">=</span><span class="pl-c1">10</span>).update({<span class="pl-s"><span class="pl-pds">'</span>long<span class="pl-pds">'</span></span>:<span class="pl-c1">120</span>,<span class="pl-s"><span class="pl-pds">'</span>imgindex<span class="pl-pds">'</span></span>:<span class="pl-c1">0</span>}) <span class="pl-c"><span class="pl-c">#</span>调用update方法修改已存在的数据值</span>
+<span class="pl-c1">1</span>
+<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> db.session.commit()
+</pre></div>
+<p>修改后，在GUI中查看<br>
+<a href="https://camo.githubusercontent.com/6d5496430d7db522a199683e6584747b26aef25d/68747470733a2f2f692e696d6775722e636f6d2f7576306c7842352e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/6d5496430d7db522a199683e6584747b26aef25d/68747470733a2f2f692e696d6775722e636f6d2f7576306c7842352e6a7067" alt="" data-canonical-src="https://i.imgur.com/uv0lxB5.jpg" style="max-width:100%;"></a></p>
+<p><strong>delete-删除行</strong><br>
+调用.deleter()方法，删除行。</p>
+<pre><code>&gt;&gt;&gt; infoX=imagesinfodf.query.filter_by(imgindex=0).first()
+&gt;&gt;&gt; db.session.delete(infoX)
+&gt;&gt;&gt; db.session.commit()
+</code></pre>
+<p>2/7/2018 1:13:23 PM</p>
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
