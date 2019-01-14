@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}预测{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+{% endblock %}
+
+{% block main %}
+
+    <div class="jumbotron">
+        <h3>预测</h3>
+        <p>1：通过图像打分获取图像的类标。2：利用Start特征检测器和SIFT尺度不变特征变换提取图像特征向量。
+            3：特征向量为解释变量，类标为目标变量，通过ERF极端随机森林训练图像分类器。4：可以用已经训练的模型，预测未知的图像。此次展示为随机抽取图像，可自行刷新查看不同图像的预测。</p>
+        <p>注：本次实验，图像数量有限，如果创建健壮的评估模型，需要数万幅图像，可关注caDesign设计后续实验的深入。</p>
+        <p><a class="btn btn-primary btn-lg" href="{{ url_for('eval') }}" role="button">参与图像打分</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="{{ url_for('results') }}" role="button">查看评估结果</a>
+            &nbsp<a class="btn btn-primary btn-lg" href="#" role="button">预测图像分数</a>
+        </p>
+    </div>
+
+    <ul class="question-list-group">
+        {% for p in pred %}
+            <li style="float:left">
+                <div class="row">
+                    <div class=" col-md-10">
+                        <div class="thumbnail">
+                            <img src="{{ url_for('static',filename=p[0][7:]) }}" alt="">
+                            <div class="caption">
+                                <h3>eval：{{ p[1] }}</h3>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

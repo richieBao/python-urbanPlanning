@@ -1,0 +1,66 @@
+ul{
+    list-style:none;
+    padding-left:0;
+}
+
+ul li{
+    /*border-bottom:1px solid #eee;*/
+    /*display: block;
+    float:left;*/
+    overflow:hidden;
+    padding:5px 0;
+
+}
+
+.avatar-group{
+    width:60px;
+    height:100%;
+    float:left;
+}
+
+.avatar-group .avatar{
+    width:60px;
+    height:100%;
+}
+
+.question-group{
+    width:660px;
+    float:left;
+    margin-left:10px;
+}
+
+.question-title a{
+    color:#259;
+    font-weight:900;
+}
+
+.question-info{
+    text-aligh:right;
+
+}
+
+.question-info {
+    text-align:right;
+}
+
+.iframe{
+    display:none;
+
+}
+
+.right-top {
+    width: 50px;
+
+    height:50px;
+
+    position: fixed;/*这是必须的*/
+
+    z-index: 999;
+
+    left:95%;/*这是必须的*/
+
+    top: 100px;/*这是必须的*/
+
+    background:red;
+
+}
