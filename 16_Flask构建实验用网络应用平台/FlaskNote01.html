@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FlaskNote01</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>  
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>  
+   
+<script>hljs.initHighlightingOnLoad();</script>  
+<script type="text/javascript">  
+ $(document).ready(function(){  
+      $("h2,h3,h4,h5,h6").each(function(i,item){  
+        var tag = $(item).get(0).localName;  
+        $(item).attr("id","wow"+i);  
+        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');  
+        $(".newh2").css("margin-left",0);  
+        $(".newh3").css("margin-left",20);  
+        $(".newh4").css("margin-left",40);  
+        $(".newh5").css("margin-left",60);  
+        $(".newh6").css("margin-left",80);  
+      });  
+ });  
+</script>  
+<a href="javascript:scroll(0,0)" style="position:fixed;float:right;right:32px;top:30%">返回顶部</a>   
+<div id="category"></div>  
+</head>
+<body>
+<h1>Flask-Note-基础</h1>
+<blockquote>
+<p>caDesign设计-沐本学堂</p>
+</blockquote>
+<h2>flask程序的基本结构</h2>
+<p><a href="http://digit-x.org/academyLink/pythonSystem/flaskIlus.html" rel="nofollow">查看</a></p>
+<p><a href="https://camo.githubusercontent.com/0fa5c1cfe6d31b3db975beb820e49e4034a347df/68747470733a2f2f692e696d6775722e636f6d2f4a3648713078452e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/0fa5c1cfe6d31b3db975beb820e49e4034a347df/68747470733a2f2f692e696d6775722e636f6d2f4a3648713078452e6a7067" alt="" data-canonical-src="https://i.imgur.com/J6Hq0xE.jpg" style="max-width:100%;"></a></p>
+<h2>模板 Jinja2</h2>
+<blockquote>
+<p>参考《Flask Web 开发——基于Python的Web用于开发实战》、《深入理解Flask——掌握用Python创建强大动态Web应用技术》</p>
+</blockquote>
+<p>模板是一个包含响应文本的文件，其中包含用占位变量表示的动态部分，其具体值只在请求的上下文中才能知道。使用真实值替换变量，再返回最终得到的响应字符串，这一过程称为渲染。为渲染模板，flask使用名为Jinjia2的模板引擎。<br>
+默认情况下，flask在程序文件夹中的templates子文件夹中寻找模板，因此HTML文件一般均放于此。HTML超文本标记语言(标准通用标记语言下的一个应用,Hyper Text Mark-up Language ),是迄今为止网络上应用最为广泛的语言,也是构成网页文档的主要语言。关于HTML语言的具体知识可以查询<a href="https://www.w3.org/TR/html5/" rel="nofollow">HTML 5.2 W3C Recommendation</a>，以及自行网络搜索。<br>
+<a href="https://camo.githubusercontent.com/3ce91af0fa601b4e7bbc0068c0815c2689a311bf/68747470733a2f2f692e696d6775722e636f6d2f667049677257492e706e67" target="_blank"><img src="https://camo.githubusercontent.com/3ce91af0fa601b4e7bbc0068c0815c2689a311bf/68747470733a2f2f692e696d6775722e636f6d2f667049677257492e706e67" alt="" data-canonical-src="https://i.imgur.com/fpIgrWI.png" style="max-width:100%;"></a><br>
+flask提供render_template('templateName',{key1:value1,key2:value2,...,keyn:valuen})函数把Jinjia2模板引擎集成到程序中。传入的键值对，key表示参数名，对应模板中的占位符，value为上下文中具体的值。</p>
+<h3>变量</h3>
+<p>Jinja2能识别所有类型的变量，例如列表、字典和对象，并在模板中使用{{name}}结构表示一个变量。例如：</p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;<span class="pl-ent">p</span>&gt;A value from a dictionary:{{dict['key']}}.&lt;/<span class="pl-ent">p</span>&gt;
+&lt;<span class="pl-ent">p</span>&gt;A value from a list:{{list[7]}}.&lt;/<span class="pl-ent">p</span>&gt;
+&lt;<span class="pl-ent">p</span>&gt;A value from a list,with a variable index:{{list[intvar]}}.&lt;/<span class="pl-ent">p</span>&gt;
+&lt;<span class="pl-ent">p</span>&gt;A value from an object's method:{{obj.somemethod()}}.&lt;/<span class="pl-ent">p</span>&gt;</pre></div>
+<p>可以使用过滤器修改变量，过滤器名添加在变量名之后，中间使用竖线分隔，例如项目中</p><div>var geoCoordMap = {{ imgLoc | safe}};</div>。Jinja2提供的部分常用过滤器：<p></p>
+<table width="100%">
+<thead>
+<tr>
+  <th>过滤器名</th>
+  <th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>safe</td>
+  <td>渲染值时不转义。注：不要在不可信的值上使用safe过滤器，例如用户在表单中输入的文本</td>
+</tr>
+<tr>
+  <td>capitalize</td>
+  <td>把值的首字母转换成大写，其它字母转换成小写</td>
+</tr>
+<tr>
+  <td>lower</td>
+  <td>把值转换成小写形式</td>
+</tr>
+<tr>
+  <td>upper</td>
+  <td>把值转换成大写形式</td>
+</tr>
+<tr>
+  <td>title</td>
+  <td>把值中每个单词的首字母都转换成大写</td>
+</tr>
+<tr>
+  <td>trim</td>
+  <td>把值的首位空格去掉</td>
+</tr>
+<tr>
+  <td>striptags</td>
+  <td>渲染之前把值中所的HTML标签都删掉</td>
+</tr>
+<tr>
+  <td>default</td>
+  <td>如果传给它的值是None，则用一个默认值代替显示，如果希望变量仅为假值时替换默认值，传入参数True，例如：{{post.date | default('2018-02-02',True)}}</td>
+</tr>
+<tr>
+  <td>escape</td>
+  <td>如果传递的变量是HTML字符串，则其中的&amp;、&lt;、&gt;、'和"被作为HTML转义序列打印</td>
+</tr>
+<tr>
+  <td>float</td>
+  <td>将传入值转换为浮点数显示，例如{{value | float}}</td>
+</tr>
+<tr>
+  <td>int</td>
+  <td>将传入值转换为整数显示</td>
+</tr>
+<tr>
+  <td>join</td>
+  <td>把列表拼成一个字符串，例如{{['flask','Jinja2'] | join(',')}}</td>
+</tr>
+<tr>
+  <td>length</td>
+  <td>同pythond的len()方法，计算列表或字符串长度</td>
+</tr>
+<tr>
+  <td>round</td>
+  <td>把浮点数转换到给定的小数位数，例如{{pi | round(2)}}</td>
+</tr>
+<tr>
+  <td>tojson</td>
+  <td>调研python的json.dumps函数序列化对象。</td>
+</tr>
+<tr>
+  <td>truncate</td>
+  <td>用于接收一个长字符串，返回一个截断成指定长度的字符串，并添加省略号</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>模板中的注释使用{# #}定义，不会出现在HTML中。</p>
+</blockquote>
+<h3>控制结构</h3>
+<p>控制语句的实际用法基本同python控制结构。过滤器可以用于控制语句中。<br>
+<strong>条件控制语句</strong></p>
+<div class="highlight highlight-text-html-basic"><pre>{% if user %}
+    Hello,{{ user }}
+{% else %}
+    Hello,Stranger!
+{% endif %}</pre></div>
+<p><strong>循环控制语句</strong></p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;<span class="pl-ent">ul</span>&gt;
+    {% for comment in comments %}
+    &lt;<span class="pl-ent">li</span>&gt;{{loop.index}}.{{ comment }}&lt;/<span class="pl-ent">li</span>&gt;
+    {% endfor %}    
+&lt;/<span class="pl-ent">ul</span>&gt;</pre></div>
+<p>在循环内部可以配合使用loop特殊变量获得关于循环的一些信息。具体如下：</p>
+<table width="100%">
+<thead>
+<tr>
+  <th>变量</th>
+  <th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>loop.index</td>
+  <td>当前迭代项的序号(从1开始)</td>
+</tr>
+<tr>
+  <td>loop.index0</td>
+  <td>当前迭代项的序号(从0开始)</td>
+</tr>
+<tr>
+  <td>loop.revindex</td>
+  <td>当前迭代项的逆序序号(从1开始)</td>
+</tr>
+<tr>
+  <td>loop.revindex0</td>
+  <td>当前迭代项的逆序序号(从0开始)</td>
+</tr>
+<tr>
+  <td>loop.first</td>
+  <td>如果当前迭代项是迭代器中的第1个，则返回True</td>
+</tr>
+<tr>
+  <td>loop.last</td>
+  <td>如果当前迭代项是迭代器中的最后一个，则返回True</td>
+</tr>
+<tr>
+  <td>loop.length</td>
+  <td>迭代器的长度</td>
+</tr>
+<tr>
+  <td>loop.cycle</td>
+  <td>进行循环迭代的辅助函数，返回其参数中的下一个元素</td>
+</tr>
+<tr>
+  <td>loop.depth</td>
+  <td>表示递归循环中时的深度(从1开始)</td>
+</tr>
+<tr>
+  <td>loop.depth0</td>
+  <td>&gt;表示递归循环中时的深度(从0开始)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>宏控制语句</strong><br>
+宏类似与python代码中的函数。</p>
+<div class="highlight highlight-text-html-basic"><pre>{% macro render_comment(comment) %}
+    &lt;<span class="pl-ent">li</span>&gt;{{ comment }}&lt;/<span class="pl-ent">li</span>&gt;
+{% endmacro %}
+&lt;<span class="pl-ent">ul</span>&gt;
+    {% for comment in comments %}
+    &lt;<span class="pl-ent">li</span>&gt;{{ render_comment(comment) }}&lt;/<span class="pl-ent">li</span>&gt;
+    {% endfor %}
+&lt;/<span class="pl-ent">ul</span>&gt;</pre></div>
+<p>如果重复使用宏，可以将其保存在单独的文件中，然后在需要使用的模板中导入：</p>
+<div class="highlight highlight-text-html-basic"><pre>{% import 'macros.html' as macros %}
+&lt;<span class="pl-ent">ul</span>&gt;
+    {% for comment in comments %}
+        {{ render_comment(comment) }}
+    {% endfor %}
+&lt;/<span class="pl-ent">ul</span>&gt;</pre></div>
+<p><strong>include方法</strong><br>
+需要在多处重复使用的模板代码片段可以写入单独的文件，在包含在所有模板中，避免重复：</p>
+<div class="highlight highlight-text-html-basic"><pre>{% include 'common.html' %}</pre></div>
+<p><strong>模板继承</strong><br>
+通过继承基础模板，替换基础模板中的标记段落，建立新模板。例如先建立基础模板base.html。</p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;!DOCTYPE html&gt;
+&lt;<span class="pl-ent">html</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">"</span>en<span class="pl-pds">"</span></span>&gt;
+&lt;<span class="pl-ent">head</span>&gt;
+    &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">"</span>UTF-8<span class="pl-pds">"</span></span>&gt;
+    {% block head %}
+        &lt;<span class="pl-ent">title</span>&gt;{% block title %}{% endblock %}-caDesign设计&lt;/<span class="pl-ent">title</span>&gt;
+    {% endblock %}
+&lt;/<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">body</span>&gt;
+    {% block body %}
+    {% endblock %}
+&lt;/<span class="pl-ent">body</span>&gt;
+&lt;/<span class="pl-ent">html</span>&gt;</pre></div>
+<p>让后通过<code>{% extends "base.html" %}</code>方法基础模板，新模板为：</p>
+<div class="highlight highlight-text-html-basic"><pre>{% extends "base.html" %}
+{% block title %}关于{% endblock %}
+{% block head %}
+    {{ super() }}
+    &lt;<span class="pl-ent">style</span>&gt;<span class="pl-s1"></span>
+<span class="pl-s1">    </span><span class="pl-s1">&lt;</span>/<span class="pl-ent">style</span>&gt;
+{% endblock %}
+{% block body %}
+    &lt;<span class="pl-ent">h1</span>&gt;Hello,Flask!&lt;/<span class="pl-ent">h1</span>&gt;
+{% endblock %}</pre></div>
+<h3>Flask-Bootstrap 继承Twitter Bootstrap</h3>
+<blockquote>
+<p><a href="http://pythonhosted.org/Flask-Bootstrap/" rel="nofollow">flask-bootstrap文档</a></p>
+</blockquote>
+<p>在网站建设中，最为常使用Bootstrap客户端框架，通过用户界面组件能够迅速建立简洁美观的网页布局。通过<code>pip install flask-bootstrap</code>可以直接安装其扩展，集成到flask中。 使用bootstrap前，需要初始化flask-bootstrap，可以在主文件中直接调入并实例化。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> flask.ext.bootstrap <span class="pl-k">import</span> Bootstrap
+<span class="pl-c1">...</span>
+bootstrap<span class="pl-k">=</span>Bootstrap(app)</pre></div>
+<p>通过<code>bootstrap=Bootstrap(app)</code>初始化后，就可以在程序中使用一个包含所有bootstrap文件的基模板。这个模板利用Jinja2的模板继承机制，让程序扩展一个具有基本页面结构的基模板。</p>
+<pre lang="htmal"><code>{% extends "bootstrap/base.html" %}
+
+{% block title %}caDesign设计{% endblock %}
+
+{% block navbar %}
+    &lt;div class="navbar navbar-inverse" role="navigation"&gt;
+        &lt;div class="container"&gt;
+            &lt;div class="navbar-header"&gt;
+                &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"&gt;
+                    &lt;span class="sr-only"&gt;toggle navigation&lt;/span&gt;
+                    &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                    &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                    &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;/button&gt;
+                &lt;a class="navbar-brand" href="/"&gt;caDesign设计&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="navbar-collapse collapse"&gt;
+                &lt;ul class="nav navbar-nav"&gt;
+                    &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://robot-x.top/robot/"&gt;robot-x&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+{% endblock %}
+
+{% block content %}
+&lt;div class="container"&gt;
+    &lt;div class="page-header"&gt;
+        &lt;h1&gt;caDesign设计-实验&lt;/h1&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+{% endblock %}
+</code></pre>
+<p>运行服务器后，浏览器中获取页面如下：<br>
+<a href="https://camo.githubusercontent.com/e7828bc7cddb9afd0fa769cb3d8b1ed09c0aafba/68747470733a2f2f692e696d6775722e636f6d2f533062515067362e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/e7828bc7cddb9afd0fa769cb3d8b1ed09c0aafba/68747470733a2f2f692e696d6775722e636f6d2f533062515067362e6a7067" alt="" data-canonical-src="https://i.imgur.com/S0bQPg6.jpg" style="max-width:100%;"></a><br>
+虽然flask-bootstrap库能够快捷的实现应用bootstrap网页布局，但是估计部分代码需要通过国外服务器引入，而国内外网络的限制导致加入bootstrap的网页运行速度受到限制，甚至一直停留在页面加载的状态，因此此次实验中实际使用的是<a href="http://www.bootcss.com/" rel="nofollow">bootstrap国内镜像</a>或者<a href="http://www.bootcdn.cn/" rel="nofollow">BootCDN前端开源加速项目</a>。具体使用方法可以查看bootstrap中文文档。之下代码为此次实验base.html基础模板。</p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;!DOCTYPE html&gt;
+&lt;<span class="pl-ent">html</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">'</span>en<span class="pl-pds">'</span></span>&gt;
+&lt;<span class="pl-ent">head</span>&gt;
+    &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">"</span>UTF-8<span class="pl-pds">"</span></span>&gt;
+    &lt;<span class="pl-ent">title</span>&gt;{% block title %}{% endblock %}-caDesign设计&lt;/<span class="pl-ent">title</span>&gt;
+    &lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css<span class="pl-pds">"</span></span>
+          <span class="pl-e">integrity</span>=<span class="pl-s"><span class="pl-pds">"</span>sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u<span class="pl-pds">"</span></span> <span class="pl-e">crossorigin</span>=<span class="pl-s"><span class="pl-pds">"</span>anonymous<span class="pl-pds">"</span></span>&gt;
+    &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js<span class="pl-pds">"</span></span>&gt;<span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;
+    &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js<span class="pl-pds">"</span></span>
+            <span class="pl-e">integrity</span>=<span class="pl-s"><span class="pl-pds">"</span>sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa<span class="pl-pds">"</span></span>
+            <span class="pl-e">crossorigin</span>=<span class="pl-s"><span class="pl-pds">"</span>anonymous<span class="pl-pds">"</span></span>&gt;<span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;
+    &lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('static',filename='css/base.css') }}<span class="pl-pds">"</span></span>&gt;
+    {% block head %}{% endblock %}
+&lt;/<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">body</span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">"</span>height: 100%; margin: 0<span class="pl-pds">"</span></span>&gt;
+&lt;<span class="pl-ent">nav</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>navbar navbar-default<span class="pl-pds">"</span></span>&gt;
+    &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>container-fluid<span class="pl-pds">"</span></span>&gt;
+        <span class="pl-c"><span class="pl-c">&lt;!--</span> Brand and toggle get grouped for better mobile display <span class="pl-c">--&gt;</span></span>
+        &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>navbar-header<span class="pl-pds">"</span></span>&gt;
+            &lt;<span class="pl-ent">button</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>navbar-toggle collapsed<span class="pl-pds">"</span></span> <span class="pl-e">data-toggle</span>=<span class="pl-s"><span class="pl-pds">"</span>collapse<span class="pl-pds">"</span></span>
+                    <span class="pl-e">data-target</span>=<span class="pl-s"><span class="pl-pds">"</span>#bs-example-navbar-collapse-1<span class="pl-pds">"</span></span> <span class="pl-e">aria-expanded</span>=<span class="pl-s"><span class="pl-pds">"</span>false<span class="pl-pds">"</span></span>&gt;
+                &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>sr-only<span class="pl-pds">"</span></span>&gt;Toggle navigation&lt;/<span class="pl-ent">span</span>&gt;
+                &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>icon-bar<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">span</span>&gt;
+                &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>icon-bar<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">span</span>&gt;
+                &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>icon-bar<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">span</span>&gt;
+            &lt;/<span class="pl-ent">button</span>&gt;
+            &lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>navbar-brand<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>#<span class="pl-pds">"</span></span>&gt;
+                &lt;<span class="pl-ent">img</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>logo<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('static',filename='images/logo.png') }}<span class="pl-pds">"</span></span> <span class="pl-e">alt</span>=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>&gt;
+            &lt;/<span class="pl-ent">a</span>&gt;
+        &lt;/<span class="pl-ent">div</span>&gt;
+
+        <span class="pl-c"><span class="pl-c">&lt;!--</span> Collect the nav links, forms, and other content for toggling <span class="pl-c">--&gt;</span></span>
+        &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>collapse navbar-collapse<span class="pl-pds">"</span></span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>bs-example-navbar-collapse-1<span class="pl-pds">"</span></span>&gt;
+            &lt;<span class="pl-ent">ul</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>nav navbar-nav<span class="pl-pds">"</span></span>&gt;
+                &lt;<span class="pl-ent">li</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>active<span class="pl-pds">"</span></span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>/<span class="pl-pds">"</span></span>&gt;&lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>sr-only<span class="pl-pds">"</span></span>&gt;(current)&lt;/<span class="pl-ent">span</span>&gt;关于&lt;/<span class="pl-ent">a</span>&gt;&lt;/<span class="pl-ent">li</span>&gt;
+                &lt;<span class="pl-ent">li</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('eval') }}<span class="pl-pds">"</span></span>&gt;图像打分&lt;/<span class="pl-ent">a</span>&gt;&lt;/<span class="pl-ent">li</span>&gt;
+                &lt;<span class="pl-ent">li</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('results') }}<span class="pl-pds">"</span></span>&gt;评价结果&lt;/<span class="pl-ent">a</span>&gt;&lt;/<span class="pl-ent">li</span>&gt;
+                &lt;<span class="pl-ent">li</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('imgprediction') }}<span class="pl-pds">"</span></span>&gt;预测分值&lt;/<span class="pl-ent">a</span>&gt;&lt;/<span class="pl-ent">li</span>&gt;
+
+            &lt;/<span class="pl-ent">ul</span>&gt;
+            &lt;<span class="pl-ent">ul</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>nav navbar-nav navbar-right<span class="pl-pds">"</span></span>&gt;
+                &lt;<span class="pl-ent">li</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>http://cadesign.cn/<span class="pl-pds">"</span></span>&gt;caDesign&lt;/<span class="pl-ent">a</span>&gt;&lt;/<span class="pl-ent">li</span>&gt;
+
+            &lt;/<span class="pl-ent">ul</span>&gt;
+
+        &lt;/<span class="pl-ent">div</span>&gt;<span class="pl-c"><span class="pl-c">&lt;!--</span> /.navbar-collapse <span class="pl-c">--&gt;</span></span>
+    &lt;/<span class="pl-ent">div</span>&gt;<span class="pl-c"><span class="pl-c">&lt;!--</span> /.container-fluid <span class="pl-c">--&gt;</span></span>
+&lt;/<span class="pl-ent">nav</span>&gt;
+&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>main<span class="pl-pds">"</span></span>&gt;
+    {% block main %}{% endblock %}
+&lt;/<span class="pl-ent">div</span>&gt;
+&lt;/<span class="pl-ent">body</span>&gt;
+&lt;/<span class="pl-ent">html</span>&gt;</pre></div>
+<p>通过引用基础模板，建立此次实验的index.html模板。为实验的说明页。</p>
+<div class="highlight highlight-text-html-basic"><pre>{% extends 'base.html' %}
+
+{% block title %}实验{% endblock %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block main %}
+    &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>jumbotron<span class="pl-pds">"</span></span>&gt;
+        &lt;<span class="pl-ent">h1</span>&gt;景观评估项目-实验-A&lt;/<span class="pl-ent">h1</span>&gt;
+        &lt;<span class="pl-ent">p</span>&gt;随着网络技术的发展，及其应用的大幅度普及，更多的线下工具逐步由网络提供，直接在网页上操作，实时存储数据。&lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>http://cadesign.cn/<span class="pl-pds">"</span></span>&gt;caDesign设计&lt;/<span class="pl-ent">a</span>&gt;各项实验的开展，也因此需要在线下和线上同时展开，满足不同的需要。
+            实际上，结合python的数据分析(机器/深度学习)，使用Flask轻量级Web应用框架(自由性)，结合SQLite/MySQL数据库，并应用echats/hicharts等图表库，可以实现规划设计行业相关探索，也必定是该行业目前及未来发展的一个
+            主要分支。
+        &lt;/<span class="pl-ent">p</span>&gt;
+        &lt;<span class="pl-ent">p</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('eval') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;参与图像打分&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('results') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;查看评估结果&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('imgprediction') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;预测图像分数&lt;/<span class="pl-ent">a</span>&gt;
+        &lt;/<span class="pl-ent">p</span>&gt;
+    &lt;/<span class="pl-ent">div</span>&gt;
+{% endblock %}</pre></div>
+<p>建立eval.html模板，用于景观视觉质量“问卷调查”页面。</p>
+<div class="highlight highlight-text-html-basic"><pre>{% extends 'base.html' %}
+
+{% block title %}图像打分{% endblock %}
+
+{% block head %}
+    &lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('static',filename='css/index.css') }}<span class="pl-pds">"</span></span>&gt;
+{% endblock %}
+
+{% block main %}
+
+    &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>jumbotron<span class="pl-pds">"</span></span>&gt;
+        &lt;<span class="pl-ent">h3</span>&gt;景观评估项目-实验-A&lt;/<span class="pl-ent">h3</span>&gt;
+        &lt;<span class="pl-ent">p</span>&gt;通过点击每张图片对应的评分按钮，提交评分。评分分为3个等级，分别为&lt;<span class="pl-ent">b</span>&gt;好、中、差&lt;/<span class="pl-ent">b</span>&gt;，对于每张图片只能选择一项。感谢您对caDesign设计该实验项目的支持！！！&lt;/<span class="pl-ent">p</span>&gt;
+        &lt;<span class="pl-ent">p</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('eval') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;参与图像打分&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('results') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;查看评估结果&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('imgprediction') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;预测图像分数&lt;/<span class="pl-ent">a</span>&gt;
+        &lt;/<span class="pl-ent">p</span>&gt;
+    &lt;/<span class="pl-ent">div</span>&gt;
+
+    &lt;<span class="pl-ent">ul</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>question-list-group<span class="pl-pds">"</span></span>&gt;
+        {% for imginfo in imgEval %}
+            &lt;<span class="pl-ent">li</span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">"</span>float:left<span class="pl-pds">"</span></span>&gt;
+                &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>row<span class="pl-pds">"</span></span>&gt;
+                    &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span> col-md-10<span class="pl-pds">"</span></span>&gt;
+                        &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>thumbnail<span class="pl-pds">"</span></span>&gt;
+                            &lt;<span class="pl-ent">img</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('static',filename=imginfo.imagename[7:]) }}<span class="pl-pds">"</span></span> <span class="pl-e">alt</span>=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>&gt;
+                            &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>caption<span class="pl-pds">"</span></span>&gt;
+                                &lt;<span class="pl-ent">h3</span>&gt;ID：{{ imginfo.index }}&lt;/<span class="pl-ent">h3</span>&gt;
+                                &lt;<span class="pl-ent">p</span>&gt;&lt;/<span class="pl-ent">p</span>&gt;
+                                &lt;<span class="pl-ent">p</span>&gt;
+                                    &lt;<span class="pl-ent">iframe</span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>formDestination<span class="pl-pds">"</span></span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>iframe<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">iframe</span>&gt;
+                                    &lt;<span class="pl-ent">form</span> <span class="pl-e">action</span>=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span> <span class="pl-e">method</span>=<span class="pl-s"><span class="pl-pds">"</span>post<span class="pl-pds">"</span></span> <span class="pl-e">target</span>=<span class="pl-s"><span class="pl-pds">"</span>formDestination<span class="pl-pds">"</span></span>&gt;
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>radio<span class="pl-pds">"</span></span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>eval<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>1<span class="pl-pds">"</span></span>/&gt;好<span class="pl-ii">&amp;</span>nbsp
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>radio<span class="pl-pds">"</span></span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>eval<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>0<span class="pl-pds">"</span></span>/&gt;中<span class="pl-ii">&amp;</span>nbsp
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>radio<span class="pl-pds">"</span></span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>eval<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>-1<span class="pl-pds">"</span></span>/&gt;差
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>hidden<span class="pl-pds">"</span></span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>image_id<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ imginfo.index }}<span class="pl-pds">"</span></span>&gt;
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>hidden<span class="pl-pds">"</span></span> <span class="pl-e">name</span>=<span class="pl-s"><span class="pl-pds">"</span>image_path<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ imginfo.imagename }}<span class="pl-pds">"</span></span>&gt;
+
+                                    &lt;<span class="pl-ent">input</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>submit<span class="pl-pds">"</span></span> <span class="pl-e">value</span>=<span class="pl-s"><span class="pl-pds">"</span>提交<span class="pl-pds">"</span></span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-default<span class="pl-pds">"</span></span>
+                                           <span class="pl-e">onclick</span>=<span class="pl-s"><span class="pl-pds">"</span>javascript:{this.disabled=true;document.form1.submit();}<span class="pl-pds">"</span></span>/&gt;&lt;/<span class="pl-ent">input</span>&gt;&lt;/<span class="pl-ent">a</span>&gt;
+
+                                &lt;/<span class="pl-ent">form</span>&gt;
+
+                                &lt;/<span class="pl-ent">p</span>&gt;
+                            &lt;/<span class="pl-ent">div</span>&gt;
+                        &lt;/<span class="pl-ent">div</span>&gt;
+                    &lt;/<span class="pl-ent">div</span>&gt;
+
+                &lt;/<span class="pl-ent">div</span>&gt;
+            &lt;/<span class="pl-ent">li</span>&gt;
+        {% endfor %}
+    &lt;/<span class="pl-ent">ul</span>&gt;
+{% endblock %}</pre></div>
+<h3>链接</h3>
+<p>任何具有多个路由的程序都需要可以链接不同页面，flask提供了url_for()辅助函数，可以使用程序URL映射中保存的信息生成URL。</p>
+<ol>
+<li>可以直接传入视图函数名，或者app.add_url_route()定义路由时使用的端点名作为参数，返回URL。例如：</li>
+</ol>
+<div class="highlight highlight-text-html-basic"><pre>        &lt;<span class="pl-ent">p</span>&gt;&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('eval') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;参与图像打分&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('results') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;查看评估结果&lt;/<span class="pl-ent">a</span>&gt;
+            <span class="pl-ii">&amp;</span>nbsp&lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>btn btn-primary btn-lg<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>{{ url_for('imgprediction') }}<span class="pl-pds">"</span></span> <span class="pl-e">role</span>=<span class="pl-s"><span class="pl-pds">"</span>button<span class="pl-pds">"</span></span>&gt;预测图像分数&lt;/<span class="pl-ent">a</span>&gt;
+        &lt;/<span class="pl-ent">p</span>&gt;</pre></div>
+<ol start="2">
+<li>如果调用 <code>href="{{ url_for('eval'),_external=True}}</code>返回的则是绝对地址。</li>
+<li>使用url_for()生成动态地址时，将动态部分作为关键字参数传入。例如：<code>url_for('user',name='caDesign',_external=True)</code>，返回结果将是：<a href="http://localhost:5000/user/caDesign%E3%80%82" rel="nofollow">http://localhost:5000/user/caDesign。</a></li>
+<li>将任何额外参数添加到查询字符串中。例如：<code>url_for('index',page=2)</code>返回结果为：/?page=2。</li>
+</ol>
+<h3>网络图表库</h3>
+<p>基于<strong>网页的数据图表显示技术</strong>，可以使用<a href="http://echarts.baidu.com/" rel="nofollow">echarts</a>和<a href="https://www.hcharts.cn/" rel="nofollow">highcharts</a>。在使用过程中，直接查看官网案例，如果需要哪个图表，则下载该HTML文档并直接修改使用，避免自行敲入代码。<br>
+echarts部分案例截图：<br>
+<a href="https://camo.githubusercontent.com/080a1f3e876398fe124669438e277d6e03b7c816/68747470733a2f2f692e696d6775722e636f6d2f5778326c6778532e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/080a1f3e876398fe124669438e277d6e03b7c816/68747470733a2f2f692e696d6775722e636f6d2f5778326c6778532e6a7067" alt="" data-canonical-src="https://i.imgur.com/Wx2lgxS.jpg" style="max-width:100%;"></a><br>
+highcharts部分案例截图：<br>
+<a href="https://camo.githubusercontent.com/97e294fcfe379d030000adede19b31631e2cf107/68747470733a2f2f692e696d6775722e636f6d2f796443725052552e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/97e294fcfe379d030000adede19b31631e2cf107/68747470733a2f2f692e696d6775722e636f6d2f796443725052552e6a7067" alt="" data-canonical-src="https://i.imgur.com/ydCrPRU.jpg" style="max-width:100%;"></a><br>
+从目前echarts(国内百度)和highcharts(国外)所提供的案例文件对比，echarts提供的形式较多，并因为为国内技术，在map部分，能够很好的切入国内的地理信息，方便使用。echarts可以自行调整样式色彩，以便与网站样式协调，highcharts样式清新、时尚，亦是一大吸引力。具体寻找哪类，需要根据自行的需求决定。<br>
+因为涉及地理信息部分，此次caDesign设计实验图表部分使用echarts，直接下载对应HTML文件，加以修改建立results.html模板。</p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;!DOCTYPE html&gt;
+&lt;<span class="pl-ent">html</span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">"</span>height: 100%<span class="pl-pds">"</span></span>&gt;
+&lt;<span class="pl-ent">head</span>&gt;
+    &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">"</span>utf-8<span class="pl-pds">"</span></span>&gt;
+    &lt;<span class="pl-ent">title</span>&gt;视觉评价-caDesign设计&lt;/<span class="pl-ent">title</span>&gt;
+&lt;/<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">body</span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">"</span>height: 100%; margin: 0<span class="pl-pds">"</span></span>&gt;
+
+&lt;<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>container<span class="pl-pds">"</span></span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">"</span>height: 100%<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
+
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span>
+        <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js<span class="pl-pds">"</span></span>&gt;<span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://api.map.baidu.com/api?v=2.0<span class="pl-ii">&amp;</span>ak=ZUONbpqGBsYGXNIYHicvbAbM<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>http://echarts.baidu.com/gallery/vendors/simplex.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+&lt;<span class="pl-ent">script</span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/javascript<span class="pl-pds">"</span></span>&gt;<span class="pl-s1"></span>
+<span class="pl-s1">    <span class="pl-k">var</span> dom <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">getElementById</span>(<span class="pl-s"><span class="pl-pds">"</span>container<span class="pl-pds">"</span></span>);</span>
+<span class="pl-s1">    <span class="pl-k">var</span> myChart <span class="pl-k">=</span> <span class="pl-smi">echarts</span>.<span class="pl-en">init</span>(dom);</span>
+<span class="pl-s1">    <span class="pl-k">var</span> app <span class="pl-k">=</span> {};</span>
+<span class="pl-s1">    option <span class="pl-k">=</span> <span class="pl-c1">null</span>;</span>
+<span class="pl-s1"></span>
+<span class="pl-s1">    <span class="pl-k">var</span> geoCoordMap <span class="pl-k">=</span> {{ imgLoc <span class="pl-k">|</span> safe}};</span>
+<span class="pl-s1">    <span class="pl-k">var</span> data <span class="pl-k">=</span>{{ imgVal <span class="pl-k">|</span> safe}};</span>
+<span class="pl-s1"></span>
+<span class="pl-s1">    <span class="pl-k">var</span> <span class="pl-en">convertData</span> <span class="pl-k">=</span> <span class="pl-k">function</span> (<span class="pl-smi">data</span>) {</span>
+<span class="pl-s1">        <span class="pl-k">var</span> res <span class="pl-k">=</span> [];</span>
+<span class="pl-s1">        <span class="pl-k">for</span> (<span class="pl-k">var</span> i <span class="pl-k">=</span> <span class="pl-c1">0</span>; i <span class="pl-k">&lt;</span> <span class="pl-smi">data</span>.<span class="pl-c1">length</span>; i<span class="pl-k">++</span>) {</span>
+<span class="pl-s1">            <span class="pl-k">var</span> geoCoord <span class="pl-k">=</span> geoCoordMap[data[i].<span class="pl-c1">name</span>];</span>
+<span class="pl-s1">            <span class="pl-k">if</span> (geoCoord) {</span>
+<span class="pl-s1">                <span class="pl-smi">res</span>.<span class="pl-c1">push</span>({</span>
+<span class="pl-s1">                    name<span class="pl-k">:</span> data[i].<span class="pl-c1">name</span>,</span>
+<span class="pl-s1">                    value<span class="pl-k">:</span> <span class="pl-smi">geoCoord</span>.<span class="pl-c1">concat</span>(data[i].<span class="pl-c1">value</span>)</span>
+<span class="pl-s1">                });</span>
+<span class="pl-s1">            }</span>
+<span class="pl-s1">        }</span>
+<span class="pl-s1">        <span class="pl-k">return</span> res;</span>
+<span class="pl-s1">    };</span>
+<span class="pl-s1"></span>
+<span class="pl-s1">    option <span class="pl-k">=</span> {</span>
+<span class="pl-s1">        title<span class="pl-k">:</span> {</span>
+<span class="pl-s1">            text<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>基于调研图像视觉评价-caDesign设计<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">            subtext<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>data from 数字营造学社<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">            sublink<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>http://digit-x.org/digit/<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">            left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>center<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">        },</span>
+<span class="pl-s1">        tooltip<span class="pl-k">:</span> {</span>
+<span class="pl-s1">            trigger<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>item<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">        },</span>
+<span class="pl-s1">        bmap<span class="pl-k">:</span> {</span>
+<span class="pl-s1">            center<span class="pl-k">:</span> [<span class="pl-c1">104.114129</span>, <span class="pl-c1">37.550339</span>],</span>
+<span class="pl-s1">            zoom<span class="pl-k">:</span> <span class="pl-c1">5</span>,</span>
+<span class="pl-s1">            roam<span class="pl-k">:</span> <span class="pl-c1">true</span>,</span>
+<span class="pl-s1">            mapStyle<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                styleJson<span class="pl-k">:</span> [{</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>water<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#d1d1d1<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>land<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#f3f3f3<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>railway<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>highway<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#fdfdfd<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>highway<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>labels<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>arterial<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>geometry<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#fefefe<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>arterial<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>geometry.fill<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#fefefe<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>poi<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>green<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>subway<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>manmade<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#d1d1d1<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>local<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#d1d1d1<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>arterial<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>labels<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>visibility<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>off<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>boundary<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#fefefe<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>building<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>all<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#d1d1d1<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }, {</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>featureType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>label<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>elementType<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>labels.text.fill<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                    <span class="pl-s"><span class="pl-pds">'</span>stylers<span class="pl-pds">'</span></span><span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        <span class="pl-s"><span class="pl-pds">'</span>color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#999999<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }]</span>
+<span class="pl-s1">            }</span>
+<span class="pl-s1">        },</span>
+<span class="pl-s1">        series<span class="pl-k">:</span> [</span>
+<span class="pl-s1">            {</span>
+<span class="pl-s1">                name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>location<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>scatter<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>bmap<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                data<span class="pl-k">:</span> <span class="pl-en">convertData</span>(data),</span>
+<span class="pl-s1">                <span class="pl-en">symbolSize</span><span class="pl-k">:</span> <span class="pl-k">function</span> (<span class="pl-smi">val</span>) {</span>
+<span class="pl-s1">                    <span class="pl-k">return</span> val[<span class="pl-c1">2</span>] <span class="pl-k">/</span> <span class="pl-c1">10</span>;</span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                label<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                    normal<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        formatter<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>{b}<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                        position<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>right<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                        show<span class="pl-k">:</span> <span class="pl-c1">false</span></span>
+<span class="pl-s1">                    },</span>
+<span class="pl-s1">                    emphasis<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        show<span class="pl-k">:</span> <span class="pl-c1">true</span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                itemStyle<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                    normal<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        color<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>purple<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                }</span>
+<span class="pl-s1">            },</span>
+<span class="pl-s1">            {</span>
+<span class="pl-s1">                name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Top 5<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>effectScatter<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>bmap<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                data<span class="pl-k">:</span> <span class="pl-en">convertData</span>(<span class="pl-smi">data</span>.<span class="pl-c1">sort</span>(<span class="pl-k">function</span> (<span class="pl-smi">a</span>, <span class="pl-smi">b</span>) {</span>
+<span class="pl-s1">                    <span class="pl-k">return</span> <span class="pl-smi">b</span>.<span class="pl-c1">value</span> <span class="pl-k">-</span> <span class="pl-smi">a</span>.<span class="pl-c1">value</span>;</span>
+<span class="pl-s1">                }).<span class="pl-c1">slice</span>(<span class="pl-c1">0</span>, <span class="pl-c1">6</span>)),</span>
+<span class="pl-s1">                <span class="pl-en">symbolSize</span><span class="pl-k">:</span> <span class="pl-k">function</span> (<span class="pl-smi">val</span>) {</span>
+<span class="pl-s1">                    <span class="pl-k">return</span> val[<span class="pl-c1">2</span>] <span class="pl-k">/</span> <span class="pl-c1">10</span>;</span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                showEffectOn<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>render<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                rippleEffect<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                    brushType<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>stroke<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                hoverAnimation<span class="pl-k">:</span> <span class="pl-c1">true</span>,</span>
+<span class="pl-s1">                label<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                    normal<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        formatter<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>{b}<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                        position<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>right<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                        show<span class="pl-k">:</span> <span class="pl-c1">true</span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                itemStyle<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                    normal<span class="pl-k">:</span> {</span>
+<span class="pl-s1">                        color<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>purple<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">                        shadowBlur<span class="pl-k">:</span> <span class="pl-c1">10</span>,</span>
+<span class="pl-s1">                        shadowColor<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>#333<span class="pl-pds">'</span></span></span>
+<span class="pl-s1">                    }</span>
+<span class="pl-s1">                },</span>
+<span class="pl-s1">                zlevel<span class="pl-k">:</span> <span class="pl-c1">1</span></span>
+<span class="pl-s1">            }</span>
+<span class="pl-s1">        ]</span>
+<span class="pl-s1">    };</span>
+<span class="pl-s1">    ;</span>
+<span class="pl-s1">    <span class="pl-k">if</span> (option <span class="pl-k">&amp;&amp;</span> <span class="pl-k">typeof</span> option <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">"</span>object<span class="pl-pds">"</span></span>) {</span>
+<span class="pl-s1">        <span class="pl-smi">myChart</span>.<span class="pl-en">setOption</span>(option, <span class="pl-c1">true</span>);</span>
+<span class="pl-s1">    }</span>
+<span class="pl-s1"></span><span class="pl-s1">&lt;</span>/<span class="pl-ent">script</span>&gt;
+&lt;/<span class="pl-ent">body</span>&gt;
+&lt;/<span class="pl-ent">html</span>&gt;</pre></div>
+<p><a href="http://robot-x.top:9008/results/" rel="nofollow">数据可视化显示结果</a>：<br>
+<a href="https://camo.githubusercontent.com/16a3db51b3a89365fcfbdb983dfb726f4764941d/68747470733a2f2f692e696d6775722e636f6d2f414c7471784f502e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/16a3db51b3a89365fcfbdb983dfb726f4764941d/68747470733a2f2f692e696d6775722e636f6d2f414c7471784f502e6a7067" alt="" data-canonical-src="https://i.imgur.com/ALtqxOP.jpg" style="max-width:100%;"></a></p>
+<h3>静态文件</h3>
+<p>HTML代码中引用的图片、JavaScript源码文件和CSS(Cascading Style Sheets，层叠样式表，一种用来表现HTML（标准通用标记语言的一个应用）或XML（标准通用标记语言的一个子集）等文件样式的计算机语言）。例如<code>&lt;img src="{{ url_for('static',filename=imginfo.imagename[7:]) }}" alt=""&gt;</code>，链接指向app中static文件夹下的图片。<code>&lt;link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}"&gt;</code>，指向app中static文件夹下的css样式文件。 <code>&lt;link rel="shortcut icon" href="{{ url_for('static',filename='favicon.ico') }}" type="image/x-icon"&gt;</code> 和<code>&lt;link rel="icon" href="{{ url_for('static',filename='favicon.ico') }}" type="image/x-icon"&gt;</code>在程序中放置favicon.ico图表。<br>
+加入了favicon.ico图表的网页，图标显示在浏览器的地址栏中。<br>
+<a href="https://camo.githubusercontent.com/9301a79198053335c8f5fc6e16b841e187d5e02b/68747470733a2f2f692e696d6775722e636f6d2f4b52576769466b2e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/9301a79198053335c8f5fc6e16b841e187d5e02b/68747470733a2f2f692e696d6775722e636f6d2f4b52576769466b2e6a7067" alt="" data-canonical-src="https://i.imgur.com/KRWgiFk.jpg" style="max-width:100%;"></a><br>
+caDesign实验中建立的css样式文件。(部分样式并未使用)</p>
+<div class="highlight highlight-text-html-basic"><pre>ul{
+    list-style:none;
+    padding-left:0;
+}
+ul li{
+    /*border-bottom:1px solid #eee;*/
+    /*display: block;
+    float:left;*/
+    overflow:hidden;
+    padding:5px 0;
+}
+.avatar-group{
+    width:60px;
+    height:100%;
+    float:left;
+}
+.avatar-group .avatar{
+    width:60px;
+    height:100%;
+}
+.question-group{
+    width:660px;
+    float:left;
+    margin-left:10px;
+}
+.question-title a{
+    color:#259;
+    font-weight:900;
+}
+.question-info{
+    text-aligh:right;
+}
+.question-info {
+    text-align:right;
+}
+.iframe{
+    display:none;
+}
+.right-top {
+    width: 50px;
+    height:50px;
+    position: fixed;
+    z-index: 999;
+    left:95%;
+    top: 100px;
+    background:red;
+}</pre></div>
+<h3>使用flask-moment</h3>
+<p>服务器需要统一时间单位，与用户所在地理位置无关，一般使用协调世界时UTC(Coordinated Universal Time)。要在服务器上使用UTC时间，可以把时间单位发送给Web浏览器，转换成当地时间。flask-moment可以把moment.js集成到Jinjia2模板中。首先需要在terminal终端中安装pip install flask-moment，然后在主文件中调入并初始化。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">from</span> flask.ext.moment <span class="pl-k">import</span> Moment
+<span class="pl-k">import</span> datetime
+<span class="pl-c1">...</span>
+moment<span class="pl-k">=</span>Moment(app)</pre></div>
+<p>然后在HTML文档中引入，因为bootstrap已经引入了flask-moment依赖项jquery.js，因此在基模板中只需引入momnet.js。</p>
+<div class="highlight highlight-text-html-basic"><pre>{{ moment.include_moment() }}</pre></div>
+<p>在路由视图函数中，传入datetime变量。</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-en">@app.route</span>(<span class="pl-s"><span class="pl-pds">'</span>/<span class="pl-pds">'</span></span>)  
+<span class="pl-k">def</span> <span class="pl-en">index</span>():
+    <span class="pl-k">return</span> render_template(<span class="pl-s"><span class="pl-pds">'</span>index.html<span class="pl-pds">'</span></span>,<span class="pl-v">current_time</span><span class="pl-k">=</span>datetime.datetime.utcnow())</pre></div>
+<p>在对应的模板中使用flask-moment渲染时间戳。</p>
+<div class="highlight highlight-text-html-basic"><pre>&lt;<span class="pl-ent">p</span>&gt;本地时间：{{ moment(current_time).format('LLL') }}&lt;/<span class="pl-ent">p</span>&gt;
+&lt;<span class="pl-ent">p</span>&gt;{{ moment(current_time).fromNow(refresh=True) }}&lt;/<span class="pl-ent">p</span>&gt;</pre></div>
+<p><code>format('LLL')</code>根据客户端电脑中的时区和区域设置渲染日期和时间。<code>fromNow(refresh=True)</code>根据时间的推移自动刷新显示的时间。</p>
+<p><a href="https://camo.githubusercontent.com/f3efa045598df25a5d148aec49d30eb3893aae69/68747470733a2f2f692e696d6775722e636f6d2f464353414733512e6a7067" target="_blank"><img src="https://camo.githubusercontent.com/f3efa045598df25a5d148aec49d30eb3893aae69/68747470733a2f2f692e696d6775722e636f6d2f464353414733512e6a7067" alt="" data-canonical-src="https://i.imgur.com/FCSAG3Q.jpg" style="max-width:100%;"></a></p>
+<p>2/11/2018 8:49:15 PM</p>
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
