@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ROS-Kinetic深度相机3DSLAM三维点云建筑空间</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>  
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>  
+   
+<script>hljs.initHighlightingOnLoad();</script>  
+<script type="text/javascript">  
+ $(document).ready(function(){  
+      $("h2,h3,h4,h5,h6").each(function(i,item){  
+        var tag = $(item).get(0).localName;  
+        $(item).attr("id","wow"+i);  
+        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');  
+        $(".newh2").css("margin-left",0);  
+        $(".newh3").css("margin-left",20);  
+        $(".newh4").css("margin-left",40);  
+        $(".newh5").css("margin-left",60);  
+        $(".newh6").css("margin-left",80);  
+      });  
+ });  
+</script>  
+<a href="javascript:scroll(0,0)" style="position:fixed;float:right;right:32px;top:30%">返回顶部</a>   
+<div id="category"></div>  
+</head>
+<body>
+<blockquote>
+<p>caDesign设计</p>
+</blockquote>
+<p>关于ROS的推荐学习资料和流程：</p>
+<h2 id="ros-">ROS配置</h2>
+<p><img src="https://i.imgur.com/ZayEg4B.png" alt="">具体参考<a href="http://www.ros.org/">ROS机器人操作系统</a>。</p>
+<blockquote>
+<p>此次实验选择的ROS版本为&quot;kinetic&quot;，<a href="https://www.ubuntu.com/">ubuntu</a>版本为“Ubuntu 16.04.4 LTS”，其代号“xenial”。</p>
+</blockquote>
+<h3 id="ros-">ROS安装流程</h3>
+<pre><code>#添加软件源到sources.list文件中
+sudo sh -c &#39;echo &quot;deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main&quot; &gt; /etc/apt/sources.list.d/ros-latest.list&#39;
+#设置密码，确保原始代码是正确的。
+sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
+#更新软件包，避免错误的或不对的软件版本带来的潜在问题。
+sudo apt-get update
+#推荐完全安装。
+sudo apt-get install ros-kinetic-desktop-full
+#查看可获取的包
+apt-cache search ros-kinetic 
+#初始化rosdep，确保安装所需依赖。
+sudo rosdep init
+rosdep update
+#自动添加ROS环境变量，保证每新启动shell自动添加到bash会话中。“.”为隐藏文件，可通过“ctrl+h”显示与隐藏。
+echo &quot;source /opt/ros/kinetic/setup.bash&quot; &gt;&gt; ~/.bashrc
+source ~/.bashrc
+</code></pre><p>安装完成后可以通过执行<code>roscore</code>来查看是否已正确安装。</p>
+<h3 id="-ros-workspace-">建立ROS工作区(workspace)</h3>
+<p>可以建立多个工作区，但是任何时候只能在一个工作区中工作。</p>
+<pre><code>mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
+</code></pre><p>建立的src文件夹放置未来所有的待建立的ROS包(可以包含多个)，例如操控某个机器人的程序包。<code>catkin_make</code>命令首次在workspace中运行时，会建立基本的文件系统结构，如下图：</p>
+<blockquote>
+<p>为了便于在bash中查看文件夹层级结构，安装<code>sudo apt-get install tree</code>，执行<code>tree</code>、<code>tree -L 2</code>查看，或<code>tree -L 2 &gt; ~/tree.txt</code>将路径结构保存到.txt文本中。如下图。</p>
+</blockquote>
+<p><img src="https://i.imgur.com/zPvWZrs.png" alt=""><br>在src文件夹中创建了一个CMakeLists.txt链接。以及build和devel文件夹及其内容。需要注意在devel文件夹中的setup.bash文件，为了避免每次重启bash后，都需要重新输入命令<code>source devel/setup.bash</code>，可以将其写入~/.bashrc中。</p>
+<pre><code>echo &quot;source ~/catkin_ws/devel/setup.bash&quot; &gt;&gt; ~/.bashrc
+source ~/.bashrc
+</code></pre><h3 id="-src-ros-">在src文件加下建立自己的ROS功能包（机器人程序）</h3>
+<pre><code>cd ~/catkin_ws/src
+catkin_create_pkg myrobot std_msgs rospy roscpp
+cd ~/catkin_ws
+catkin_make
+</code></pre><p>此时<code>tree</code>查看“myrobot”包的文件层级结构为:<br><img src="https://i.imgur.com/B3rlWI3.png" alt=""></p>
+<p>每个包必须包含CMakeLists.txt和package.xml两个文件。此时<code>cat package.xml</code>查看package.xml文件，内容如下：</p>
+<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;package format=&quot;2&quot;&gt;
+  &lt;name&gt;myrobot&lt;/name&gt;  #程序包的名字，与建立的文件夹名同，不允许修改。
+  &lt;version&gt;0.0.0&lt;/version&gt; #版本号。
+  &lt;description&gt;The myrobot package&lt;/description&gt; #程序包功能的简短描述。
+
+  &lt;!-- One maintainer tag required, multiple allowed, one person per tag --&gt;
+  &lt;!-- Example:  --&gt;
+  &lt;!-- &lt;maintainer email=&quot;jane.doe@example.com&quot;&gt;Jane Doe&lt;/maintainer&gt; --&gt;
+  &lt;maintainer email=&quot;richieball@todo.todo&quot;&gt;richieball&lt;/maintainer&gt; #维护程序包和修复bug的人。
+
+
+  &lt;!-- One license tag required, multiple allowed, one license per tag --&gt;
+  &lt;!-- Commonly used license strings: --&gt;
+  &lt;!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 --&gt;
+  &lt;license&gt;TODO&lt;/license&gt; #发布代码依据的许可证。
+
+
+  &lt;!-- Url tags are optional, but multiple are allowed, one per tag --&gt;
+  &lt;!-- Optional attribute type can be: website, bugtracker, or repository --&gt;
+  &lt;!-- Example: --&gt;
+  &lt;!-- &lt;url type=&quot;website&quot;&gt;http://wiki.ros.org/myrobot&lt;/url&gt; --&gt; #ROS wiki主页上该程序包的URL。
+
+
+  &lt;!-- Author tags are optional, multiple are allowed, one per tag --&gt;
+  &lt;!-- Authors do not have to be maintainers, but could be --&gt;
+  &lt;!-- Example: --&gt;
+  &lt;!-- &lt;author email=&quot;jane.doe@example.com&quot;&gt;Jane Doe&lt;/author&gt; --&gt; #程序包的作者，每个作者一组标签。
+
+
+  &lt;!-- The *depend tags are used to specify dependencies --&gt;
+  &lt;!-- Dependencies can be catkin packages or system dependencies --&gt;
+  &lt;!-- Examples: --&gt;
+  &lt;!-- Use depend as a shortcut for packages that are both build and exec dependencies --&gt;
+  &lt;!--   &lt;depend&gt;roscpp&lt;/depend&gt; --&gt;
+  &lt;!--   Note that this is equivalent to the following: --&gt;
+  &lt;!--   &lt;build_depend&gt;roscpp&lt;/build_depend&gt; --&gt;
+  &lt;!--   &lt;exec_depend&gt;roscpp&lt;/exec_depend&gt; --&gt;
+  &lt;!-- Use build_depend for packages you need at compile time: --&gt;
+  &lt;!--   &lt;build_depend&gt;message_generation&lt;/build_depend&gt; --&gt;
+  &lt;!-- Use build_export_depend for packages you need in order to build against this package: --&gt;
+  &lt;!--   &lt;build_export_depend&gt;message_generation&lt;/build_export_depend&gt; --&gt;
+  &lt;!-- Use buildtool_depend for build tool packages: --&gt;
+  &lt;!--   &lt;buildtool_depend&gt;catkin&lt;/buildtool_depend&gt; --&gt;
+  &lt;!-- Use exec_depend for packages you need at runtime: --&gt;
+  &lt;!--   &lt;exec_depend&gt;message_runtime&lt;/exec_depend&gt; --&gt;
+  &lt;!-- Use test_depend for packages you need only for testing: --&gt;
+  &lt;!--   &lt;test_depend&gt;gtest&lt;/test_depend&gt; --&gt;
+  &lt;!-- Use doc_depend for packages you need only for building documentation: --&gt;
+  &lt;!--   &lt;doc_depend&gt;doxygen&lt;/doc_depend&gt; --&gt;
+  &lt;buildtool_depend&gt;catkin&lt;/buildtool_depend&gt;
+  &lt;build_depend&gt;roscpp&lt;/build_depend&gt; #程序包的依赖，在前文执行catkin_create_pkg myrobot stdmsgs rospy roscpp时，包名后指定的依赖项,即stdmsgs rospy roscpp。
+  &lt;build_depend&gt;rospy&lt;/build_depend&gt;
+  &lt;build_depend&gt;stdmsgs&lt;/build_depend&gt;
+  &lt;build_export_depend&gt;roscpp&lt;/build_export_depend&gt;
+  &lt;build_export_depend&gt;rospy&lt;/build_export_depend&gt;
+  &lt;build_export_depend&gt;stdmsgs&lt;/build_export_depend&gt;
+  &lt;exec_depend&gt;roscpp&lt;/exec_depend&gt;
+  &lt;exec_depend&gt;rospy&lt;/exec_depend&gt;
+  &lt;exec_depend&gt;stdmsgs&lt;/exec_depend&gt;
+
+
+  &lt;!-- The export tag contains other, unspecified, tags --&gt;
+  &lt;export&gt; #catkin以外的其他工具需要的信息。
+    &lt;!-- Other tools can request additional information be placed here --&gt;
+
+  &lt;/export&gt;
+&lt;/package&gt;
+</code></pre><p>在“myrobot”功能包下，新建几个约定命名的文件夹：“src”（前往通过<code>mkdir -p ~/catkin_ws/src</code>已建立）用于放置.py或者.cpp文件执行文件(亦可放置于新建“scripts”文件夹中)，“msg”放置自定义的消息类型，“srv”用于放置服务文件，“action”用于放置动作(机制)，“launch”放置.launch多节点启动文件。一般是在需要时再建立对应类别的文件夹。</p>
+<pre><code>mkdir msg srv action
+</code></pre><blockquote>
+<p>在ubuntu中编写python程序时，使用ananconda，因此从其<a href="https://www.anaconda.com/">官网</a>下载linux版本，此次实验下载的版本为Anaconda 5.1 For Linux Installer，下载的文件名为Anaconda3-5.1.0-Linux-x86_64.sh。在bash中，当前目录执行<code>./Anaconda3-5.1.0-Linux-x86_64.sh</code>或<code>sh Anaconda3-5.1.0-Linux-x86_64.sh</code>安装。需要注意，默认下anaconda会向~/.bashrc写入<code>export PATH=&quot;/home/richieball/anaconda3/bin:$PAT</code>，与ROS冲突，可以将其注释掉解决问题。使用ananconda的spyder编辑器，并建立project指定当前ROS工作区catkin_ws为根路径。 </p>
+</blockquote>
+<p><img src="https://i.imgur.com/Hcof96j.png" alt=""></p>
+<h2 id="ros-">ROS基础概述</h2>
+<blockquote>
+<p>参考文献：Morgan Quigley,Brian Gerkey,William D.Smart.《ROS机器人编程实践 Programming Robots with ROS:A Practival Introduction to the Robot Operating System》</p>
+</blockquote>
+<p><img src="https://i.imgur.com/c5inmev.jpg" alt=""><br><a href="http://digit-x.org/academyLink/pythonSystem/rosBasic.html">图解地址</a></p>
+<h2 id="kinect2-ros-">kinect2安装与ROS：</h2>
+<p><img src="https://i.imgur.com/bnbJboO.jpg" alt=""><br><a href="http://www.ros.org/news/2014/09/microsoft-kinect-v2-driver-released.html">安装参考地址</a>获取更多信息。</p>
+<h3 id="libfreenect2">libfreenect2</h3>
+<blockquote>
+<p>Linux(Ubuntu 16.04 | intel)</p>
+</blockquote>
+<ul>
+<li><p>Download libfreenect2 source</p>
+<pre><code>git clone https://github.com/OpenKinect/libfreenect2.git
+cd libfreenect2
+</code></pre></li><li><p>Install build tools</p>
+<pre><code>sudo apt-get install build-essential cmake pkg-config
+</code></pre></li><li>Install libusb. The version must be &gt;= 1.0.20.<pre><code>sudo apt-get install libusb-1.0-0-dev
+</code></pre></li><li>Install TurboJPEG<pre><code>sudo apt-get install libturbojpeg libjpeg-turbo8-dev
+</code></pre></li><li>Install OpenGL<pre><code>sudo apt-get install libglfw3-dev
+</code></pre></li><li>Install OpenCL (optional)<pre><code>sudo apt-get install beignet-dev
+</code></pre></li><li>Install VAAPI (optional, Intel only)<pre><code>sudo apt-get install libva-dev libjpeg-dev
+</code></pre></li><li>Install OpenNI2 (optional)<pre><code>sudo apt-get install libopenni2-dev
+</code></pre></li><li><p>Build (if you have run cd depends previously, cd .. back to the libfreenect2 root directory first.)。判断是否<code>sudo</code>，获取执行权限。</p>
+<pre><code>mkdir build &amp;&amp; cd build
+cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+make
+sudo make install
+</code></pre><p>You need to specify <code>cmake -Dfreenect2_DIR=$HOME/freenect2/lib/cmake/freenect2</code>for CMake based third-party application to find libfreenect2.</p>
+<blockquote>
+<p>cmake .. -Dfreenect2_DIR=$HOME/freenect2/lib/cmake/freenect2</p>
+</blockquote>
+</li><li><p>Set up udev rules for device access:<code>sudo cp ../platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/</code>,then replug the Kinect.<br><strong>测试</strong></p>
+</li><li>Run the test program:<code>./bin/Protonect</code></li><li>Run OpenNI2 test (optional):<code>sudo apt-get install openni2-utils &amp;&amp; sudo make install-openni2 &amp;&amp; NiViewer2</code>,Environment variable<code>LIBFREENECT2_PIPELINE</code>can be set to <code>cl</code>, <code>cuda</code>, etc to specify the pipeline.<pre><code>./bin/Protonect cpu
+./bin/Protonect gl
+./bin/Protonect cl
+</code></pre></li></ul>
+<h3 id="ros-workspace-iai-kinect2-">ROS Workspace下IAI Kinect2安装</h3>
+<ol>
+<li>Install the ROS. Instructions for Ubuntu</li><li>Setup your ROS environment</li><li>Install libfreenect2:<br>Follow the instructions and enable C++11 by using cmake .. -DENABLE_CXX11=ON instead of cmake ..<br>If something is not working, check out the latest stable release, for example git checkout v0.2.0.</li><li><p>Clone this repository into your catkin workspace, install the dependencies and build it:</p>
+<pre><code>cd ~/catkin_ws/src/
+git clone https://github.com/code-iai/iai_kinect2.git
+cd iai_kinect2
+rosdep install -r --from-paths .
+cd ~/catkin_ws
+catkin_make -DCMAKE_BUILD_TYPE=&quot;Release&quot;
+</code></pre><blockquote>
+<p>catkin_make出错,报错信息如下：<br>/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/flann/saving.h<img src="https://assets-cdn.github.com/images/icons/emoji/113.png" alt=":113:" title=":113:" class="emoji" align="absmiddle" height="20" width="20">63: error: exception handling disabled, use -fexceptions to enable  throw FLANNException(&quot;Invalid index file, cannot read&quot;);<br>问题出在kinect_registration，在kinect_registration的package里，找到CmakeLists.txt,添加如下 :<br><code>add_definitions( -fexceptions )</code></p>
+</blockquote>
+</li><li><p>Connect your sensor and run kinect2_bridge:</p>
+<pre><code>roslaunch kinect2_bridge kinect2_bridge.launch
+</code></pre><p>新建一个终端，显示运行图像</p>
+<pre><code>rosrun kinect2_viewer kinect2_viewer
+</code></pre><p>Calibrate your sensor using the <code>kinect2_calibration</code>. Further details<br>Add the calibration files to the <code>kinect2_bridge/data/&lt;serialnumber&gt;</code> folder. Further details<br>Restart <code>kinect2_bridge</code> and view the results using <code>rosrun kinect2_viewer kinect2_vcdiewer kinect2 sd cloud</code>.<br><img src="https://i.imgur.com/lFvffOz.jpg" alt=""><br>从图中可以看到，深度数据与图像有偏移，需要对kinect2标定calibration，具体<a href="https://github.com/code-iai/iai_kinect2/tree/master/kinect2_calibration">参考地址</a>，主要摘录如下：</p>
+</li></ol>
+<blockquote>
+<p>Detailed steps:<br>0.If you haven&#39;t already, start the kinect2_bridge with a low number of frames per second (to make it easy on your CPU): rosrun kinect2_bridge kinect2_bridge _fps_limit:=2<br>1.create a directory for your calibration data files, for example: mkdir ~/kinect_cal_data; cd ~/kinect_cal_data<br>2.Record images for the color camera: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 record color<br>3.Calibrate the intrinsics: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 calibrate color<br>4.Record images for the ir camera: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 record ir<br>5.Calibrate the intrinsics of the ir camera: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 calibrate ir<br>6.Record images on both cameras synchronized: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 record sync<br>7.Calibrate the extrinsics: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 calibrate sync<br>8.Calibrate the depth measurements: rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 calibrate depth<br>9.Find out the serial number of your kinect2 by looking at the first lines printed out by the kinect2_bridge. The line looks like this: device serial: 012526541941<br>·0.Create the calibration results directory in kinect2_bridge/data/$serial: roscd kinect2_bridge/data; mkdir 012526541941<br>11.Copy the following files from your calibration directory (~/kinect_cal_data) into the directory you just created: calib_color.yaml calib_depth.yaml calib_ir.yaml calib_pose.yaml<br>12.Restart the kinect2_bridge and be amazed at the better data.</p>
+</blockquote>
+<p>标定之后，数据有所改善。<br><img src="https://i.imgur.com/cLV3Wdu.jpg" alt=""></p>
+<h2 id="ros-rtabmap">ROS下安装rtabmap</h2>
+<p>RTAB-Map (Real-Time Appearance-Based Mapping)是一种基于全局贝叶斯闭环检测的RGB-D Graph SLAM方法。可以用kinect的深度信息结合kinect变换得到的激光数据进行即时定位与建图。<br>rtabmap的安装<a href="https://github.com/introlab/rtabmap/wiki/Installation">参考地址</a>。此次实验是在ROS下使用rtabmap因此选择If ROS is already installed 的安装方法。关于教程可以从<a href="https://github.com/introlab/rtabmap/wiki/Tutorials">官方网站</a>中获取。实验中使用Hand-held Kinect RGB-D Mapping手持kinect 2三维建模的方式。ROS下bash命令为启动rtabmap：</p>
+<pre><code>roslaunch kinect2_bridge kinect2_bridge.launch publish_tf:=true
+
+rosrun tf static_transform_publisher 0 0 0 -1.5707963267948966 0 -1.5707963267948966 camera_link kinect2_link 100 
+
+roslaunch rtabmap_ros rtabmap.launch rtabmap_args:=&quot;--delete_db_on_start&quot; rgb_topic:=/kinect2/qhd/image_color_rect depth_topic:=/kinect2/qhd/image_depth_rect camera_info_topic:=/kinect2/qhd/camera_info
+</code></pre><p>3D SLAM(simultaneous localization and mapping)的过程：<br><img src="https://i.imgur.com/cuAWag1.png" alt=""><br>最好将其导出为.ply或者.pcd点云格式文件，用于在python中进一步分析。</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
