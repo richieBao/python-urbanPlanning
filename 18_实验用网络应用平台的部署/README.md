@@ -1,3 +1,5 @@
+[实验地址](http://robot-x.top:9008/)
+
 **Ubuntu系统**
 
 **VNC配置**
@@ -13,3 +15,12 @@
 * 建立Upstart Script
 * 配置Nginx
 * supervisor进程守护程序
+
+## 调研图像视觉评价
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/QQ%E6%88%AA%E5%9B%BE20180210124106.jpg)
+
+## 参与图像打分
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/QQ%E6%88%AA%E5%9B%BE20180210124347.jpg)
+
+## 预测图像分数
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/TIM%E6%88%AA%E5%9B%BE20181203143055.png)
