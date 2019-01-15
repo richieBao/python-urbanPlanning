@@ -20,3 +20,5 @@
 ### 4 加载模型与预测
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/944.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/945.png)
+
+> 模型的建立是由训练数据集所决定，此次实验并未删选生态完全较优区域，而是直接使用了云贵区域的遥感影像数据。在后续的探索中，将进一步就如何确定训练数据，给予探索，并根据景观指数尝试给出评价的方法。
