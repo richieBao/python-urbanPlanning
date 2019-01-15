@@ -14,7 +14,7 @@
 '''
 Created on Wed Feb  7 02:35:31 2018
 
-@author: RichieBall-caDesign设计(cadesign.cn)
+@author: richieBao-caDesign设计(cadesign.cn)
 '''
 import pandas as pd
 import sqlite3
