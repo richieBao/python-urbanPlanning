@@ -6,3 +6,13 @@
 
 基于上述研究背景，推进研究进程，本次实验为局地环境测量与数据基础分析部分，通过选择基本的温湿度和光照强度测量值，初步实验研究的可行性。本次实验包括三个部分，首先是基于Arduino开源嵌入式系统搭建测量设备，此时需要编写Arduino C的程序；同时编写Processing程序，用于测量设备时实时接收数据并绘制图表；最后在Python中加载测量数据初步图表显示。
 
+arduino部分在robot-x.top(caDesign)中查询。
+
+## 初步搭建实验设备，验证研究的可行性
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/904.png)
+
+## 实际搭建前，使用Frizing设计电路图
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/906.png)
+
+## Python中用Matplotlib打印测量数据图表
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/905.png)
