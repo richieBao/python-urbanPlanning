@@ -3,4 +3,14 @@
 ## 基本流程
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/961.png)
 
+** 聚类50个距离层级 **
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/poi_results_S.jpg)
 
+** 业态空间结构-50个层级 **
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/poiSTR_results_S.jpg)
+
+** 箱型图与小提琴图分析 **
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/violinPlot.png)
+
+** 折线图分析 **
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/lineGraph.png)
