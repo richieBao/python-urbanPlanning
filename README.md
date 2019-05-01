@@ -117,3 +117,9 @@
     8. numpy的ravel() 和 flatten()函数
     9. collections 库
     10. 缩放带有outlier异常值的数据
+23. 生活圈_02_通过计算曲线拐点找到特征层级
+    1. kneed库
+    2. 寻找曲线拐点
+    3. box plot 箱型图/violin plot 小提琴图
+    4. pandas读取excel(.xlsx)数据
+    
