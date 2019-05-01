@@ -5,7 +5,7 @@ matplotlib提供了大量图表用于数据的可视化表达，以及数据分�
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/clusterSum.png)
 
 而在计算POI独立点总数随聚类距离的变化时，拐点对应的距离为160m。
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/poi_results_S.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/singlePtsKneePt.png)
 
 这些位置在一定程度上说明了在连续聚类变化中，能够反映城市业态分布特点的关键点，可以通过进一步分析聚类的分析结果来研究城市生活圈的变化特征。
 
