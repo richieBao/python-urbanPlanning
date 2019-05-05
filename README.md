@@ -131,3 +131,6 @@
     1. 相关系数热力图(簇行业类)
     2. 批量图片自动排版
     3. numpy.transpose()
+
+###License###
+This code is only for academic purpose. For commercial purpose, please contact us.
