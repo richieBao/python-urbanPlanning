@@ -132,5 +132,5 @@
     2. 批量图片自动排版
     3. numpy.transpose()
 
-###License###
+### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
