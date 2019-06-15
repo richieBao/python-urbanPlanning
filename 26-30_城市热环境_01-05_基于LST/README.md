@@ -1,4 +1,4 @@
-# 26-30_城市热环境_01-05_基于LST
+# 26-30_城市热环境_01-05_基于LST（Land surface temperature）
 在探索地表温度在学科领域的应用时，发现大部分的研究在分析地表温度和土地利用途径（地表覆盖）时，
 偏向于分析剖面温度或者计算多个缓冲区的平均温度变化来探索之间的关系，但是未落到具体的区域中去，对指导规划的落地性较弱。因此开展了该方向的部分探索，并写下不少代码，不仅方便数据处理，而且探索了一些新的方法。其中包括基于地表温度差值数量变化界定全区植被降温效应的空间分布，基于卷积温度梯度变化界定冷区和热区的空间分布结构和基于机器学习回归算法建立用于绿地规划评估的地表温度预测模型等方法。
 
@@ -47,9 +47,17 @@
 4. 箱型图和小提琴图 def violinPlot(all_data,estimators):
 
 
+# (26)01_LST反演地表温度
 
+4、5年前在使用Landsat系列遥感影像反演地表温度时，还清晰记得在GIS平台下处理的繁琐流程，如果要批量处理几十年的数据将会是一个怎样的状态，而且又如何进一步方便的进行数据分析呢！因此，还是python写了处理的程序，这样为之后研究地表温度时空序列数据时，节省海量的处理时间。反演地表温度参考了Estimation of Land Surface Temperature using LANDSAT 8 和USGS提供的计算TOA的公式。具体的逻辑在程序中分享，可以自行调整计算的方式，使其适合于所分析数据的需求。
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/partialCorrle_14.png)
+LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结果
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_01.jpg)
 
+# (27)02_基于地表温度差值数量变化界定全区植被降温效应的空间分布
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/results——s.jpg)
+# (28)03_基于卷积温度梯度变化界定冷区和热区的空间分布结构
+
+# (29)04_地表覆盖与精度评价
+
+# (30)05_基于机器学习回归算法建立用于绿地规划评估的地表温度预测模型
