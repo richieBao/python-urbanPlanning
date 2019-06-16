@@ -62,7 +62,7 @@ LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_02.jpg)
 
 依据这些拐点位置值来探索二维空间数据分布，确实可以发现一些温度变化的空间特征，如图：
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_03.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_03s.jpg)
 
 # (28)03_基于卷积温度梯度变化界定冷区和热区的空间分布结构
 
