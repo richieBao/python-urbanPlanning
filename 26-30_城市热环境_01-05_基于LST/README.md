@@ -82,7 +82,7 @@ python库PySAL同样也提供了（全局/局部）莫兰指数计算。在后�
 
 基于上述分析结果是能够找到独立的冷区，当然亦可以找到独立的热区，如图：  
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_05.jpg" width="400" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_05S.jpg" width="400" align="right">
 
 附：因为机器学习scikit-learn提供了很多聚类的方法，来发现空间数据间的关系，因此试图探索一些算法，能够为分析带来什么样的一个结果，如spectral_clustering（）聚类方法，当然在此处未加以深入解析，可自行探索其计算结果的价值，如图。
 
