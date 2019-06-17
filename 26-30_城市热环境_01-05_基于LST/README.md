@@ -68,6 +68,26 @@ LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结
 
 # (28)03_基于卷积温度梯度变化界定冷区和热区的空间分布结构
 
+（局部）空间自相关/local indicators of spatial autocorrelation LISA， 是为了探析基于空间点属性值，空间上相互存在的相关性。如果某一位置变量值高，则其附近位置该值的变量也高，为正空间自相关，否则，为负空间自相关。在分析数据的冷区和热区（热点）时，即空间自相关有些现成的方法，例如基于ArcGIS的的Hot Spot Analysis（基于Getis-Ord Gi*统计）,具体计算公式可从ArcGis帮助中获取，及Optimized Hot Spot Anaylysis工具；如图对LST的计算结果：
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_10.jpg" width="400" align="right">
+
+同时，GeoDa提供了基于Moran's I莫兰指数的全局和局部空间自相关。例如如下计算结果：
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_11.jpg" width="400" align="right">
+
+python库PySAL同样也提供了（全局/局部）莫兰指数计算。在后续实验中将采取该种方法。当然在空间关系的分析中还有一类，就是卷积。通常卷积应用于图像的处理过程，例如图像的锐化、边缘检测、浮雕、均值/高斯模糊等等。因为其能够提取空间数据之间的特征，目前是深度学习中重要的内容。那么就卷积来找出数据的空间发呢不特征，在之前的实验中已经详细阐述，此次则寻找每一栅格数据与周边栅格数据之间的差值变化，并基于变化值为零的位置来分出冷区和热区，即热区是栅格变量高于周边栅格变量值，冷区相反，来分析LST的空间变化情况。如下图：
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_04.jpg" width="400" align="left">
+
+基于上述分析结果是能够找到独立的冷区，当然亦可以找到独立的热区，如图：
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_05.jpg" width="400" align="left">
+
+附：因为机器学习scikit-learn提供了很多聚类的方法，来发现空间数据间的关系，因此试图探索一些算法，能够为分析带来什么样的一个结果，如spectral_clustering（）聚类方法，当然在此处未加以深入解析，可自行探索其计算结果的价值，如图。
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_06.jpg" width="400" align="right">
+
 # (29)04_地表覆盖与精度评价
 
 # (30)05_基于机器学习回归算法建立用于绿地规划评估的地表温度预测模型
