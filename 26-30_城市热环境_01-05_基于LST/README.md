@@ -70,9 +70,9 @@ LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结
 
 （局部）空间自相关/local indicators of spatial autocorrelation LISA， 是为了探析基于空间点属性值，空间上相互存在的相关性。如果某一位置变量值高，则其附近位置该值的变量也高，为正空间自相关，否则，为负空间自相关。在分析数据的冷区和热区（热点）时，即空间自相关有些现成的方法，例如基于ArcGIS的的Hot Spot Analysis（基于Getis-Ord Gi*统计）,具体计算公式可从ArcGis帮助中获取，及Optimized Hot Spot Anaylysis工具；如图对LST的计算结果：
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_10.jpg" width="400" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_10.jpg" width="400" align="right">  
 
-同时，GeoDa提供了基于Moran's I莫兰指数的全局和局部空间自相关。例如如下计算结果：  
+同时，GeoDa提供了基于Moran's I莫兰指数的全局和局部空间自相关。例如如下计算结果：    
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_11.jpg" width="400" align="right">
 
