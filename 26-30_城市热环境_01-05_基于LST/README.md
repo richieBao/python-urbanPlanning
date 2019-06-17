@@ -61,7 +61,7 @@ LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结
 
 此次实验通过箱型图及拟合的曲线观察了温度差的分布情况，提取了数据的拐点位置值：
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_02.jpg" width="300",align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_02.jpg" width="300" align="right">
 
 依据这些拐点位置值来探索二维空间数据分布，确实可以发现一些温度变化的空间特征，如图：
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_03s.jpg)
