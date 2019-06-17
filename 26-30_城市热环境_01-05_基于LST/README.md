@@ -72,7 +72,7 @@ LANDSAT_PRODUCT_ID = "LC08_L1TP_127036_20180810_20180815_01_T1数据LST计算结
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_10.jpg" width="400" align="right">
 
-同时，GeoDa提供了基于Moran's I莫兰指数的全局和局部空间自相关。例如如下计算结果：
+同时，GeoDa提供了基于Moran's I莫兰指数的全局和局部空间自相关。例如如下计算结果：  
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_11.jpg" width="400" align="right">
 
@@ -80,7 +80,7 @@ python库PySAL同样也提供了（全局/局部）莫兰指数计算。在后�
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_04.jpg" width="400" align="right">
 
-基于上述分析结果是能够找到独立的冷区，当然亦可以找到独立的热区，如图：
+基于上述分析结果是能够找到独立的冷区，当然亦可以找到独立的热区，如图：  
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_05.jpg" width="400" align="right">
 
