@@ -92,13 +92,13 @@ python库PySAL同样也提供了（全局/局部）莫兰指数计算。在后�
 
 对于精度评价中采样数量的确定，参考一篇较早的论文 _吴健平.遥感影像解译精度的分析[J].遥感信息,1992(02):17-18._ 根据作者的阐述计算采样的数量>=138，因此按照150为采样数量，建立150个随机点，人工判别地物，地物主要分为3类，植被、建设用地和水体。在结果评价上采用混淆矩阵，其准确率为89.3%。如图：
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_12.png" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_12.jpg" align="right">
 
 # (30)05_基于机器学习回归算法建立用于绿地规划评估的地表温度预测模型
 
 通常的研究分析完LST与地表覆盖（土地利用类型）之间的关系，往往只能作为规划上的一个指导，很难落地。其实有些研究建立了回归模型，只是为分析多个变量与LST间是否存在关系的分析确定。如果迁移机器学习库scikit-learn提供的人脸补全案例，是否可以实现依据地表覆盖类型来预测LST的空间分布呢？因此以植被、建设用地和水体的分布（解译的数据）作为解释变量，以LST作为目标变量训练模型。在数据切分时，切割2018年08月10日的地表温度数据，获取每一样本范围为3000×3000m的324个样本为目标变量，并将其划分为训练数据集和测试数据集，划分比例为0.85。目前因为解释变量比较粗糙，简单的地表覆盖可能无法体现造成温度变化的细节特征，因此以分析均值上下分布的情况为目标，进行计算，如图：
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_09.png" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/26_09.jpg" align="right">
 
 计算F1_score分数，并以箱型图显示，观察评价分数的分布情况，其中Linear regression和Ridge表现较好，中位数分别为0.723、0.727，均值分别为0.723、0.726，如图：
 
