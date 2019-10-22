@@ -21,7 +21,7 @@ numpy==1.14.0
 opencv-python==3.4.0+contrib
 pandas==0.22.0
 peppercorn==0.5
-Pillow==5.0.0
+Pillow==6.2.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 python-editor==1.0.3
