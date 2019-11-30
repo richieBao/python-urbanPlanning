@@ -18,3 +18,26 @@
   11. 读取多个numpy数组数据，并追加在一个数组中：def npyRead(self,filePath):
   12. 读取Numpy数组数据，因为每一数组shape不同，因此最终追加在一个列表中：def npyReadMulti(self,filePath):
   
+### 计算：class calculate:
+  1. 调整分类数据，合并夏季和秋季农田区域：def classificationAdjust(self,cl_a,cl_b):
+  2. 实现栅格聚类的方法：def rasterCluster(self,rasterArray,val,eps,modelLoad=""):
+  3. 折线图，及计算knee/inflection points拐点：def lineGraph(self,x,y):
+  4. 箱型图统计：def boxplot(self,data,labels):
+
+### 组合：class combo():
+  1. 设置聚类距离，批量计算聚类，并保存raster文件，及array数组：def clusterBundleCal(self,epsList):
+  2. 批量图表统计：def graphAnalysis(self):
+  3. 最大聚类提取并存储为raster：def maxClusterRaster(self,clusterArray,clusterFrequency):
+  4. 最大聚类变化区写入raster：def clusterMaxVariaton(self,clusterArray,clusterFrequency):
+  
+# 影像解译分类
+
+数据使用Landsat 8系列，包含的数据如下：
+. LC08_L1TP_023031_20191007_20191018_01 秋季，NDVI分类条件：water<0;green>=0.213;0=<buit<0.213
+. LC08_L1TP_023031_20190804_20190820_01 夏季，NDVI分类条件：water<0;green>=0.213;0=<buit<0.213
+. LC08_L1TP_023031_20180310_20180320_01 冬季，NDVI分类条件：water<0;green>=0.14;0=<buit<0.213
+因为受到农田季节性变化，因此将夏季和秋季所提取的绿地合并。
+最终结果为：
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400" align="right">
+
+
