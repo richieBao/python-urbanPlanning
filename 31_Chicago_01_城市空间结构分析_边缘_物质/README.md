@@ -56,4 +56,3 @@
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_2.jpg" width="400" align="right">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_3.jpg" width="400" align="left">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400" align="right">
-
