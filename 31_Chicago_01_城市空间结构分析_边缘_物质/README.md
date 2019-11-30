@@ -44,3 +44,16 @@
 
 使用DBSCAN距离聚类，其方法与前文生活圈分析种POI聚类方法同。但是POI是点数据，此次实验亦意在完成基于栅格raster数据的聚类实现。因为Ladsat 8影像数据的高空分辨率为30m（可由pan提升至15m），因此聚类距离的步幅大小设置为30m，聚类16个层级，聚类结果如下：
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_6.jpg)
+
+进一步分析中，则提取最大聚类区域，即建成区，便于观察。一种方式是直接提取每一层级的最大聚类区；另一种方式是为了进一步观察两两层级间的变化情况，设置上层建成区值为1，下层为2，做和处理。则可能出现最后值为0,1,2,3等4种情况，0代表两层均没有值，1代表仅上一层有值，2代表仅下一层有值，3代表两层均有值。计算结果分别如下：
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_8.jpg)
+
+# 统计分析结果
+
+做了4组统计。分别为聚类总数/聚类距离折线图和拐点，聚类最大总数/聚类距离折线图，聚类频数/聚类距离箱型图以及最大聚类变化值/聚类距离折线图。分别如下：
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400" align="left">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_2.jpg" width="400" align="right">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_3.jpg" width="400" align="left">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400" align="right">
+
