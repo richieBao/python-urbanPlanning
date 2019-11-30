@@ -40,4 +40,7 @@
 最终结果为：
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400" align="right">
 
+# 聚类建设用地
 
+使用DBSCAN距离聚类，其方法与前文生活圈分析种POI聚类方法同。但是POI是点数据，此次实验亦意在完成基于栅格raster数据的聚类实现。因为Ladsat 8影像数据的高空分辨率为30m（可由pan提升至15m），因此聚类距离的步幅大小设置为30m，聚类16个层级，聚类结果如下：
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_6.jpg)
