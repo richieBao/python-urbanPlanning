@@ -8,6 +8,10 @@
 
 # 计算结果
 ## 连接度
-共计24组，```[i for i in range(50) if i%2!=0 and i>=3]```,即卷积核距离为：[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]
+共计24组，```[i for i in range(50) if i%2!=0 and i>=3]```,即卷积核距离为：[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 
+## 连接度的聚类
+对连接度的聚类取聚类距离为1，即30m（此次分析数据遥感影像的高空分辨率为30m）。
+* 聚类前最大20组结果*
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_4.jpg)
