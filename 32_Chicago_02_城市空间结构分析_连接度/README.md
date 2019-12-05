@@ -9,5 +9,5 @@
 # 计算结果
 ## 连接度
 共计24组，```[i for i in range(50) if i%2!=0 and i>=3]```,即卷积核距离为：[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg" width="400" align="left">
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 
