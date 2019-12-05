@@ -13,5 +13,13 @@
 
 ## 连接度的聚类
 对连接度的聚类取聚类距离为1，即30m（此次分析数据遥感影像的高空分辨率为30m）。
-* 聚类前最大20组结果*
+* 聚类前最大20组结果
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_4.jpg)
+* 聚类最大，24组变化值
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_5.jpg)
+
+## 统计图表
+* 连接度最大聚类折线图以及拐点
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_1.jpg)
+* 连接度聚类频数boxplot
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_2.jpg)
