@@ -148,6 +148,9 @@
     1. 基于卷积计算连接度
     2. 按数量多少排序的前n个值
     3. 24级距离卷积核连接度批量计算，及连接度聚类计算
-
+33. Chicago_03_LAS雷达数据处理
+    1. .las雷达数据与pdal库
+    2. 批量计算分类数据和dtm数据表面模型
+    3. raster数据的拼接
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
