@@ -18,9 +18,11 @@
 ## pdal库批量处理数据
 * dsm计算
 > dsm 数据表面模型，反应了地表之上所有地物的高度，在进一步的城市空间分析中，将用于SVF(sky view factor)下垫面天空视域因子等内容的分析。
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/33_06.jpg)
 * 应用.las计算分类数据
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/33_07.png)
 > 原始单一数据量约在2000多，批量处理完之后，需要拼合数据为一张。如果数据量较大，可能需要较高的内存，>64GB，甚至更高，关于如何使用较小内存拼接大数据，在之后研究中进一步探索。
+
 部分数据：
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/33_08.jpg)
