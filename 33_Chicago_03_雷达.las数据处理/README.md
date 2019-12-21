@@ -11,7 +11,7 @@
 * 地形部分
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_04.jpg)
 * 三维模型
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_05jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_05.jpg)
 ## pdal库批量处理数据
 * dsm计算
 > dsm 数据表面模型，反应le地表之上所有地物的高度，在进一步的城市空间分析中，将用于SVF(sky view factor)下垫面天空视域因子等内容的分析。
