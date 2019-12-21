@@ -4,20 +4,27 @@
 ## .las数据查看
 * 点云数据（所有分类）
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/33_01.jpg)
+
 * 建筑部分
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_02.jpg)
+
 * 植被部分
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_03.jpg)
+
 * 地形部分
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_04.jpg)
+
 * 三维模型
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_05.jpg)
+
 ## pdal库批量处理数据
 * dsm计算
 > dsm 数据表面模型，反应le地表之上所有地物的高度，在进一步的城市空间分析中，将用于SVF(sky view factor)下垫面天空视域因子等内容的分析。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_06.jpg)
+
 * 应用.las计算分类数据
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_07.jpg)
+
 > 原始单一数据量约在2000多，批量处理完之后，需要拼合数据为一张。如果数据量较大，可能需要较高的内存，>64GB，甚至更高，关于如何使用较小内存拼接大数据，在之后研究中进一步探索。
 部分数据：
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_08.jpg)
