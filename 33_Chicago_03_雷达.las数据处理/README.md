@@ -30,7 +30,7 @@
 
 * 应用.las计算分类数据
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_07.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_07.png)
 
 > 原始单一数据量约在2000多，批量处理完之后，需要拼合数据为一张。如果数据量较大，可能需要较高的内存，>64GB，甚至更高，关于如何使用较小内存拼接大数据，在之后研究中进一步探索。
 部分数据：
