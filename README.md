@@ -153,7 +153,7 @@
     2. 批量计算分类数据和dtm数据表面模型
     3. raster数据的拼接
 34. Chicago_04_SVF计算以及内存管理
-    1. 增加计算速度与缓解内存压力
+    1. 增加计算速度与缓解内存压力:h5py库/psutil库/memory_profiler库/del 方法
     2. CVF的算法实现
     3. raster栅格数据切分
 ### License ###
