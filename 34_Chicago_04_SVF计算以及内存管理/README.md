@@ -21,7 +21,7 @@
 * 大数据处理过程中，尽量避免使用matplotlib查看数据，只有必要分析时，可以单独处理
 * 因为为了减缓内存，数据及过程数据存储于大的硬盘中。根据自身数据大小，可以准备高容量的外置硬盘使用
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_05.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_05.jpg)
 从内存变化图表中，可以确定：通过将数据存储在hdf5磁盘中来映射数据，并del variable来清空内存对应的数据，可以大幅度释放内存
 
 ## 参数配置
@@ -37,7 +37,7 @@
 
 ## SVF计算结果
 计算评估。电脑配置信息：16G内存，可用约13G；Intel Core i7-8650U CPU @1.90GHz; 大容量外置硬盘用于数据存储
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_06.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_06.jpg)
 计算时长：1min。（392，380）即148,960个值
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_07.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_07.jpg)
 计算时长：2hs。（4428，4460）即19,748,880个值。扩大内存后，可增加数组量，提升计算速度
