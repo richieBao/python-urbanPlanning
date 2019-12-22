@@ -20,3 +20,24 @@
 * 如果不必要，不需保存中间过渡的大数组，应用后，迅速del释放内存，仅保留和存储必要的计算结果或中间结果。大数组尽量使用h5py保存于硬盘中
 * 大数据处理过程中，尽量避免使用matplotlib查看数据，只有必要分析时，可以单独处理
 * 因为为了减缓内存，数据及过程数据存储于大的硬盘中。根据自身数据大小，可以准备高容量的外置硬盘使用
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_05.jpg)
+从内存变化图表中，可以确定：通过将数据存储在hdf5磁盘中来映射数据，并del variable来清空内存对应的数据，可以大幅度释放内存
+
+## 参数配置
+```python
+#参数配置        
+    rasterResolution=1 #计算栅格的分辨率    
+    radious=500*rasterResolution #扫描半径
+    lineProfileAmount=36#扫描截面数量
+    equalDistance=50 #每条扫描线的等分数量     
+    saveN=12 #配置每块计算时，numpy数组一次性计算量，数值越大，单次数组计算量越小，单次计算占用内存越小。numpy 数组大小在1，000，000量时，内存16G，测试达到最大，如果超过该量值，则需要增加该参数值，即降低单次数组的大小。
+    sliceNum=100000 #设置按块读取时，每一块的大小，即0轴的数量。默认为100000，值越大，占用内存量越大。需要根据自身内存大小配置该值
+```
+
+## SVF计算结果
+计算评估。电脑配置信息：16G内存，可用约13G；Intel Core i7-8650U CPU @1.90GHz; 大容量外置硬盘用于数据存储
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_06.jpg)
+计算时长：1min。（392，380）即148,960个值
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_07.jpg)
+计算时长：2hs。（4428，4460）即19,748,880个值。扩大内存后，可增加数组量，提升计算速度
