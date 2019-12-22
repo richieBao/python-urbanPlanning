@@ -9,8 +9,8 @@
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_01.jpg" width="300" align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_02.jpg" width="300" align="right">
 此草图非彼草图。很多时候需要图解帮助思考，并将其逐步的转换为代码，达到计算的目的。
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_03.jpg" width="300" align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_04.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_03.png" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_04.png" width="300" align="right">
 
 ## 增加计算速度与缓解内存压力
 * 使用内存管理/减压工具。h5py库/psutil库/memory_profiler库/del 方法等。
