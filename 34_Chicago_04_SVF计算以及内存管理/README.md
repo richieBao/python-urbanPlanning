@@ -6,5 +6,5 @@
 
 > 为处理上述问题，需要对应采取相应的策略。
 ## CVF算法的核心
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_01.jpg" width="300" align="left">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_02.jpg" width="300" align="left">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_01.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_02.jpg" width="300" align="right">
