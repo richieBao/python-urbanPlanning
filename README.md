@@ -152,5 +152,9 @@
     1. .las雷达数据与pdal库
     2. 批量计算分类数据和dtm数据表面模型
     3. raster数据的拼接
+34. Chicago_04_SVF计算以及内存管理
+    1. 增加计算速度与缓解内存压力
+    2. CVF的算法实现
+    3. raster栅格数据切分
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
