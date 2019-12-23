@@ -22,6 +22,7 @@
 * 因为为了减缓内存，数据及过程数据存储于大的硬盘中。根据自身数据大小，可以准备高容量的外置硬盘使用
 * 使用虚拟内存，可以有效缓解内存压力
 * 有必要使用GPU计算，尤其deep learning
+* 算法优化
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/34_05.png)
 从内存变化图表中，可以确定：通过将数据存储在hdf5磁盘中来映射数据，并del variable来清空内存对应的数据，可以大幅度释放内存
