@@ -156,5 +156,9 @@
     1. 增加计算速度与缓解内存压力:h5py库/psutil库/memory_profiler库/del 方法
     2. CVF的算法实现
     3. raster栅格数据切分
+35. Chicago_05_OSM数据处理与空间结构
+    1. OSM(open street maps)数据处理
+    2. 基于OSM数据连续距离聚类层级空间分布结构
+
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
