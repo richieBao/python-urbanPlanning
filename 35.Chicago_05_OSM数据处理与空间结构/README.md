@@ -16,13 +16,13 @@
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_03.jpg" width="300" align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_04.jpg" width="300" align="right">
   
-## 图表__
-
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="300" align="right">
+## 图表
+<ul>
+<li><img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="300" align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="300" align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="300" align="right">
-  
-## 对应聚类_最前10大聚类范围__
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="300" align="right"></li>
+ </ul>
+## 对应聚类_最前10大聚类范围
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_08.jpg" width="300" align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_09.jpg" width="300" align="right">
