@@ -5,10 +5,7 @@
 
 # 计算结果
 ## 聚类过程
-> OSM points聚类 50层级 list(range(20,520,10))
-
+* OSM points聚类 50层级 list(range(20,520,10))
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_01.jpg)
-
-> 最大聚类变化
-
+* 最大聚类变化
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_02.jpg)
