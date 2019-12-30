@@ -44,6 +44,7 @@ In convolution calculations, there are diffent sizes convolution kernels, such a
 #### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /continuous distance clustering and analysis of connectivity clustering  frequency to find the critical levels of change
 计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用DBSCAN聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，观察建成区分布情况。同样应用折现图找出具有意义变化的关键层级。
 
+The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 
@@ -55,9 +56,9 @@ In convolution calculations, there are diffent sizes convolution kernels, such a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAwNzEyNTEsLTUwNDQyMjcxMiwxMj
-M3MDI0NDMxLDgxOTI4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMy
-MTc5LC02NDUwMTE1MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLT
-EwMzUyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5
-MDU3MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbNjMwNjc4MDIwLC01MDQ0MjI3MTIsMTIzNz
+AyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3
+OSwtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMD
+M1MjQyODYyLC0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1
+NzAxOCwtMTYxMDk5NjUyMywtMTczMDI2NTEyN119
 -->
