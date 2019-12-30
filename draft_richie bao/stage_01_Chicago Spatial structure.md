@@ -9,18 +9,19 @@
 
 To a certain extent, the physical spatial changes of the city reflect the urban sprawl, including the expansion and contraction of a city. During the expansion phase, cities will constantly occupy natural resources and affect the natural ecological balance, especially the distribution of biological communities, surface runoff areas, and climatic environmental variarion. In the contracting phase of the city, more questions need to be asked about how to recover effectively and naturally. At the same time, the change of urban physical space reflects the distribution of urban residents, the degree of agglomeration and the structure change of distribution reflect the density and activity of people. Therefore, the analysis of material spatical structure at the urban scale can understand the distribution of cities, especially the relationship between nature and cities, and provide a basic analysis for the protection, restoration and improvement of urban environment.
 ### 1.2 数据 /data
-使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的卫星影像，具体数据为：
+使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的卫星影像，具体数据为(包含NDVI的分类条件)：
 
-Landsat 8 series data was used with a spatial resolution of 30m. Considering the impact of farmland cultivation around the city in different seasons on the image interpretation, satellite images of three seasons were selected, with speicfic data as follows:
-* LC08_L1TP_023031_20191007_20191018_01
-* 
+Landsat 8 series data was used with a spatial resolution of 30m. Considering the impact of farmland cultivation around the city in different seasons on the image interpretation, satellite images of three seasons were selected, with speicfic data as follows(including the classification conditions of NDVI):
+* LC08_L1TP_023031_20191007_20191018_01 /
+* LC08_L1TP_023031_20190804_20190820_01
+* LC08_L1TP_023031_20180310_20180320_01
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjc5NDU0LDkzNzQ0Nzg2MywtMTAzNT
-I0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcw
-MTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
+eyJoaXN0b3J5IjpbLTIwNjY1NDAxMDksOTM3NDQ3ODYzLC0xMD
+M1MjQyODYyLC0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1
+NzAxOCwtMTYxMDk5NjUyMywtMTczMDI2NTEyN119
 -->
