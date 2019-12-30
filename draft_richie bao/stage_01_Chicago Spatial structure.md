@@ -17,7 +17,10 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 #### 1.3.1 基于DBSCAN连续距离聚类建成区，分析城市空间结构的变化 /analyze changes of urban spatial structure based on continuous distances clustering built-up areas using DBSCAN
 城市物质空间的结构通常是基于其位置的地理分布，其集聚的程度是以距离为基本约束条件，因此基于DBSCAN（Density-Based Spatial Clustering of Applications with Noise.）算法，设置一个连续的聚类距离，分别计算每一距离下的聚类。因为所选取的影像空间分辨率为30m，距离列表的间隔应该是该值的倍数，其距离列表为[30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360, 390, 420, 450, 480]，共计16个值。
 
-聚类的目标为城市建成区，由所获取的Landsat 8不同季节的遥感影像，根据NDVI（）值的变化提取建成区，植被和水体三类。
+
+
+
+聚类的目标为城市建成区，由所获取的Landsat 8不同季节的遥感影像，根据NDVI（Normalized difference vegetation index）值的变化提取建成区，植被和水体三类。
 
 
 #### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change value of clusters under continuous distance clustering to find the critical levels of clusters
@@ -37,7 +40,7 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MDYxMzI4LDEyMzcwMjQ0MzEsODE5Mj
+eyJoaXN0b3J5IjpbMzEzODE1MzE2LDEyMzcwMjQ0MzEsODE5Mj
 g1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUw
 MSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMT
 Y3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5
