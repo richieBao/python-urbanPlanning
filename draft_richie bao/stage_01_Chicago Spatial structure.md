@@ -39,7 +39,7 @@ The clustering method can identify similar data as different groups according to
 
 在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。共设置24组卷积核，即卷积核距离为[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]，其实际距离需要乘以栅格分辨率的值，即30m。
 
-In convolution calculations, there are diffent sizes convolution kernels, such as (3,3),(5,5)...(n,n), where n is set as odd, the center value is set as 0, and all other values are 1. For example, a convolution kernel of (3,3) is set as [[1,1,1],[1,0,1],[1,1,1]], calculate the conneciton relation between each position and 8 adjacent positions. And, (5,5) calculate the conneciton relation between earch postion and 24 adjacent positions, and so on. 
+In convolution calculations, there are diffent sizes convolution kernels, such as (3,3),(5,5)...(n,n), where n is set as odd, the center value is set as 0, and all other values are 1. For example, a convolution kernel of (3,3) is set as [[1,1,1],[1,0,1],[1,1,1]], calculate the conneciton relation between each position and 8 adjacent positions. And, (5,5) calculate the conneciton relation between earch postion and 24 adjacent positions, and so on. A total of 24 sets of convolution kernels are set, the kernel distances are
 
 
 
@@ -55,9 +55,9 @@ In convolution calculations, there are diffent sizes convolution kernels, such a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc0MzQ1NTEsLTUwNDQyMjcxMiwxMj
-M3MDI0NDMxLDgxOTI4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMy
-MTc5LC02NDUwMTE1MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLT
-EwMzUyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5
-MDU3MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbLTg0Mzk4ODI4NywtNTA0NDIyNzEyLDEyMz
+cwMjQ0MzEsODE5Mjg1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIx
+NzksLTY0NTAxMTUwMSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMT
+AzNTI0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkw
+NTcwMTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
