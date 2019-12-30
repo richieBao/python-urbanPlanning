@@ -24,7 +24,8 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
 
 
-#### 1.3.4 连续u聚类
+#### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /
+
 
 
 
@@ -32,7 +33,7 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODU5NzY2MiwtNjQ1MDExNTAxLDIwMT
+eyJoaXN0b3J5IjpbMjA5OTM1OTE5MiwtNjQ1MDExNTAxLDIwMT
 U4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC0xNjc0NDM0
 MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYxMDk5NjUyMy
 wtMTczMDI2NTEyN119
