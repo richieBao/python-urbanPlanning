@@ -12,16 +12,18 @@ To a certain extent, the physical spatial changes of the city reflect the urban 
 使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的卫星影像，具体数据为(包含NDVI的分类条件)：
 
 Landsat 8 series data was used with a spatial resolution of 30m. Considering the impact of farmland cultivation around the city in different seasons on the image interpretation, satellite images of three seasons were selected, with speicfic data as follows(including the classification conditions of NDVI):
-* LC08_L1TP_023031_20191007_20191018_01 /
-* LC08_L1TP_023031_20190804_20190820_01
-* LC08_L1TP_023031_20180310_20180320_01
+* LC08_L1TP_023031_20191007_20191018_01 :water<0;green>=0.213;0=<buit<0.213
+* LC08_L1TP_023031_20190804_20190820_01 :water<0;green>=0.213;0=<buit<0.213
+* LC08_L1TP_023031_20180310_20180320_01 :water<0;green>=0.14;0=<buit<0.213
+
+### 1.3 方法
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY1NDAxMDksOTM3NDQ3ODYzLC0xMD
-M1MjQyODYyLC0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1
-NzAxOCwtMTYxMDk5NjUyMywtMTczMDI2NTEyN119
+eyJoaXN0b3J5IjpbOTQ4MDU5NTA2LDkzNzQ0Nzg2MywtMTAzNT
+I0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcw
+MTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
