@@ -22,7 +22,7 @@
 > 更多实验与课程地址：[caDesign设计](http://cadesign.cn/) 
 
 ## pyKsys-content
-1. Python在设计领域 /Python Language
+1. Python在设计领域 <font color='grey'>/Python Language</font>
     1.  01_Python在设计领域
 2. python解释器 /python interpreter
     1. python解释器
