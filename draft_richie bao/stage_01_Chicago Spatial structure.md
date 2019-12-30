@@ -27,7 +27,7 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 计算获取多个距离层级聚类，可以观察城市建成区的蔓延趋势。同时，为了进一步分析层级间的变化特点，找到具有意义的层级，需要建立聚类总数，最大聚类总数，聚类频数和最大聚类变化值在连续聚类距离下的变化趋势折线图，由拐点找到曲线变化的关键点，即找到具有意义的关键层级。
 
 
-其中最大聚类变化值的变化趋势是计算两两连续层级间最大聚类的变化范围，首先提取每一层级的最大聚类区域，设置两两层级中的上层建成区值为1，下层为2，做和处理，则
+其中最大聚类变化值的变化趋势是计算两两连续层级间最大聚类的变化范围，首先提取每一层级的最大聚类区域，设置两两层级中的上层建成区值为1，下层为2，做和处理，则可能出现值为0，1，2，3等四种情况。其中，0代表两层均没有值，1代表上一层有值，2代表下一层有值，3代表两层均有值。从而通过计算可以分析最大聚类变化值的变化qing'k
 
 
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
@@ -44,9 +44,9 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjY3NjI4MCwxMjM3MDI0NDMxLDgxOT
-I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
-MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
-E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
-OTk2NTIzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbNDIwNTA1NTg0LDEyMzcwMjQ0MzEsODE5Mj
+g1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUw
+MSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMT
+Y3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5
+OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
