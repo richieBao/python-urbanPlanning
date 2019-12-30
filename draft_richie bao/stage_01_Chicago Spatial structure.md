@@ -30,7 +30,7 @@ Multiple distance hierachical clustering is obtained to observe the spreading tr
 
 其中最大聚类变化值的变化趋势是计算两两连续层级间最大聚类的变化范围，首先提取每一层级的最大聚类区域，设置两两层级中的上层建成区值为1，下层为2，做和处理，则可能出现值为0，1，2，3等四种情况。其中，0代表两层均没有值，1代表上一层有值，2代表下一层有值，3代表两层均有值，从而通过计算可以分析最大聚类变化值的变化情况，同时建立最大聚类变化数量值在聚类距离下的折线图，观察数据变化。
 
-The change trend of the maximum clustering various value is to calculate the change range of the maximum clustering values between consecutive layers. First, extract the maximum clustering area of each layer. Second, set the value of the upper built-up area in the two layers to 1, and the value of the lower one to 2, and then, sum the two layers. The result value may appear  four cases: 0,1,2,3. Where, 0 represents no value for both layers, 1 represents value for the upper layer, 2 represents value for the lower layer, and 3 represents value for both layers. In this way, the change of the maximum clustering values can be analyzed through calculation. Plus, 
+The change trend of the maximum clustering various value is to calculate the change range of the maximum clustering values between consecutive layers. First, extract the maximum clustering area of each layer. Second, set the value of the upper built-up area in the two layers to 1, and the value of the lower one to 2, and then, sum the two layers. The result value may appear  four cases: 0,1,2,3. Where, 0 represents no value for both layers, 1 represents value for the upper layer, 2 represents value for the lower layer, and 3 represents value for both layers. In this way, the change of the maximum clustering values can be analyzed through calculation. Plus, establish the line chart of the maximum clustering 
 
 
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
@@ -47,7 +47,7 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjA0NDkxOSwxMjM3MDI0NDMxLDgxOT
+eyJoaXN0b3J5IjpbLTEyNjQ1NDQ5NywxMjM3MDI0NDMxLDgxOT
 I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
 MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
 E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
