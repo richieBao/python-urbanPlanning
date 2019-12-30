@@ -9,13 +9,16 @@
 
 To a certain extent, the physical spatial changes of the city reflect the urban sprawl, including the expansion and contraction of a city. During the expansion phase, cities will constantly occupy natural resources and affect the natural ecological balance, especially the distribution of biological communities, surface runoff areas, and climatic environmental variarion. In the contracting phase of the city, more questions need to be asked about how to recover effectively and naturally. At the same time, the change of urban physical space reflects the distribution of urban residents, the degree of agglomeration and the structure change of distribution reflect the density and activity of people. Therefore, the analysis of material spatical structure at the urban scale can understand the distribution of cities, especially the relationship between nature and cities, and provide a basic analysis for the protection, restoration and improvement of urban environment.
 ### 1.2 数据 /data
-使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的yi
+使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的卫星影像，具体数据为：
+
+Landsat 8 series data was used with a spatial resolution of 30m. 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDg5MTc1Nyw5Mzc0NDc4NjMsLTEwMz
+eyJoaXN0b3J5IjpbMTM4MzM3OTM4NSw5Mzc0NDc4NjMsLTEwMz
 UyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3
 MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX0=
 -->
