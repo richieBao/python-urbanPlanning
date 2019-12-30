@@ -35,7 +35,7 @@ The change trend of the maximum clustering various value is to calculate the cha
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
 聚类的方法可以根据指定的距离或者其它数据类型将相近的数据分别标识为不同组，同组的数据具有相同或相近的特征，例如距离上接近。同时，为了进一步观察建成区的联系程度，可以计算建成区每一位置点与周边位置点连接的程度，使用卷积的方式计算。
 
-The clustering method can identify similar data as different groups according to the specified distance or other data types, and the data in the same group have the same or similar characteristics, such as proximity in distance. Meanwhile, 
+The clustering method can identify similar data as different groups according to the specified distance or other data types, and the data in the same group have the same or similar characteristics, such as proximity in distance. Meanwhile, in order to further observe the connection degree of the built-up area, we can calculate the connection degree of each position 
 
 在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。共设置24组卷积核，即卷积核距离为[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]，其实际距离需要乘以栅格分辨率的值，即30m。
 
@@ -52,7 +52,7 @@ The clustering method can identify similar data as different groups according to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjgxODQ5OCwxMjM3MDI0NDMxLDgxOT
+eyJoaXN0b3J5IjpbMTQ4NDg4ODI2MiwxMjM3MDI0NDMxLDgxOT
 I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
 MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
 E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
