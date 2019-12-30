@@ -48,7 +48,10 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 ### 4 结果 /results
 #### 4.1 连续距离聚类建成区及其关键层级覆盖范围 /continuous distance clustering built-up area and their critical level coverage area
-##### 4.1.1 建城区范围提取及与植被的关系 /
+##### 4.1.1 建城区范围提取及其与植被的关系 /urban area extraction and its relationship with vegetaton
+
+
+##### 4.4.2 关键层级的提取及其覆盖范围 /e'x
 
 
 
@@ -67,7 +70,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDUyOTk1MSwxOTg1OTUyNDIwLDEwNz
+eyJoaXN0b3J5IjpbMTYzMjYwNzU0OCwxOTg1OTUyNDIwLDEwNz
 M5ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0MjI3
 MTIsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMj
 A4ODYzMjE3OSwtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3NDQ3
