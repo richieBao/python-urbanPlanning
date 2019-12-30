@@ -1,6 +1,3 @@
-
-
-
 # 阶段1 芝加哥城市空间结构/stage 1 the city spatial structure of Chicago
 > 无参考文献版 /no reference version
 ## 1. 城市物质空间连续距离聚类下空间结构变化 /Spatial structure changes under continuous distances clustering of urban material space
@@ -32,8 +29,8 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjEzMzQ3LC02NDUwMTE1MDEsMjAxNT
-g1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0MzQz
-NDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEwOTk2NTIzLC
-0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbMTE2NzY0ODY2NSwtNjQ1MDExNTAxLDIwMT
+U4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC0xNjc0NDM0
+MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYxMDk5NjUyMy
+wtMTczMDI2NTEyN119
 -->
