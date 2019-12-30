@@ -26,6 +26,8 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 #### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change value of clusters under continuous distance clustering to find the critical levels of clusters
 
 
+
+
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
 
 
@@ -40,7 +42,7 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzQwMjEyOSwxMjM3MDI0NDMxLDgxOT
+eyJoaXN0b3J5IjpbMTI0OTQzNTExNywxMjM3MDI0NDMxLDgxOT
 I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
 MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
 E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
