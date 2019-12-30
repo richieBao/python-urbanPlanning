@@ -2,8 +2,10 @@
 
 
 # stage 1 Chicago spatial structure
-dgfdg
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ
-==
+eyJoaXN0b3J5IjpbLTg4NDc2NjE5LC0xNjEwOTk2NTIzLC0xNz
+MwMjY1MTI3XX0=
 -->
