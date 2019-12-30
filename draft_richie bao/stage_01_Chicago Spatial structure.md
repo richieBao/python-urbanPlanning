@@ -35,12 +35,12 @@ The change trend of the maximum clustering various value is to calculate the cha
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
 聚类的方法可以根据指定的距离或者其它数据类型将相近的数据分别标识为不同组，同组的数据具有相同或相近的特征，例如距离上接近。同时，为了进一步观察建成区的联系程度，可以计算建成区每一位置点与周边位置点连接的程度，使用卷积的方式计算。
 
-在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。
+在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。共设计24组卷积核
 
 
 
 #### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /continuous distance clustering and analysis of connectivity clustering  frequency to find the critical levels of change
-计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，此次计算的连接度为建成区（无绿地或者绿地稀少区域）在聚类距离为180m下的连接度，并进而再次聚类连接度观察建成区分布情况。
+计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用DBSCAN聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，观察建成区分布情况。
 
 
 
@@ -50,9 +50,9 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzODU5OTc3LDEyMzcwMjQ0MzEsODE5Mj
-g1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUw
-MSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMT
-Y3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5
-OTY1MjMsLTE3MzAyNjUxMjddfQ==
+eyJoaXN0b3J5IjpbLTIwMDc1NTc1MTgsMTIzNzAyNDQzMSw4MT
+kyODU1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3OSwtNjQ1MDEx
+NTAxLDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC
+0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYx
+MDk5NjUyMywtMTczMDI2NTEyN119
 -->
