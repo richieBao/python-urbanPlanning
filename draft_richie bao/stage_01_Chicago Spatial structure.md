@@ -55,6 +55,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 
+
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
 
 
@@ -79,7 +80,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODI3Mzg1OCwtODEzNTQ1MDQ1LC0xMz
+eyJoaXN0b3J5IjpbMTk4NjQ0MjE1NiwtODEzNTQ1MDQ1LC0xMz
 E3MDUxNjQ5LDE4MTQ2Mjg2NzksLTg1MzQyMzYzNSwxOTg1OTUy
 NDIwLDEwNzM5ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC
 01MDQ0MjI3MTIsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4
