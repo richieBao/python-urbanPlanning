@@ -22,87 +22,87 @@
 > 更多实验与课程地址：[caDesign设计](http://cadesign.cn/) 
 
 ## pyKsys-content
-1. Python在设计领域
+1. Python在设计领域 /Python Language
     1.  01_Python在设计领域
-2. python解释器
+2. python解释器 /python interpreter
     1. python解释器
-3. 列表的知识结构-A/百度POI数据采集
+3. 列表的知识结构-A/百度POI数据采集 /list-A/Baidu Maps POI Capture and .csv File Read and Data Display
     1. 百度POI数据采集
     2. 列表的知识结构-A
-4. 列表的知识结构-B/建筑外环境测量数据可视化
+4. 列表的知识结构-B/建筑外环境测量数据可视化 /list-B/Environmental Measurement and Data Diagram outside Buildings
     1. 建筑外环境测量数据可视化
     2. 列表的知识结构-B
-5. 元组/基于GPS调研与数据读取
+5. 元组/基于GPS调研与数据读取 /turple/Read GPS-based Research Data
     1. 基于GPS调研与数据读取
     2. 基于GPS调研与数据读取
     3. 元组
-6. 字典/<outliers>异常值处理初步
+6. 字典/<outliers>异常值处理初步 /dictionary/<outliers>Outlier Processing
     1. <outliers>异常值处理初步
     2. 字典
-7. numpy-A/城市空间-色彩-A
+7. numpy-A/城市空间-色彩-A /numpy-A/Colour Space and Distribution of Images
     1. 城市空间-色彩-A-1
     2. 城市空间-色彩-A-2
     3. numpy-A
-8. numpy-B/基于百度POI数据生成.kml文件与描述性统计
+8. numpy-B/基于百度POI数据生成.kml文件与描述性统计 /numpy-B/generate .kml files and descriptive statistics based on baidu POI data
     1. 数据采集+数据格式
     2. .kml文件生成
     3. 描述性统计
     4. numpy-B
-9. 循环语句/机器学习-聚类-城市色彩-B-印象
+9. 循环语句/机器学习-聚类-城市色彩-B-印象 /loop statement/Urban Colour Impressions and Machine Learning/Cluster
     1. 机器学习概述-A
-    2. 示例数据集训练/学习与预测+模型保存(
+    2. 示例数据集训练/学习与预测+模型保存
     3. 参数更新+类别数据
     4. 聚类
     5. 城市色彩-印象
     6. itertools库+warnings库
     7. 基本语句-循环
-10. 协方差|卡方检验/poi空间分布结构
+10. 协方差|卡方检验/poi空间分布结构 /covariance | chi-square test/POI spatial distribution structure
     1. 协方差/卡方检验
     2. 批量采集+poi分布A-DBSCAN密度聚类
     3. poi空间分布结构B
     4. 基本语句-条件
-11. 函数|GDAL/OGR/SIR模型与卷积|森林的蔓延
+11. 函数|GDAL/OGR/SIR模型与卷积|森林的蔓延 /function | GDAL/OGR/SIR model and convolution|forest spreading
     1. 卷积
     2. SIR模型
     3. 森林的蔓延(
     4. python的(GIS)地理信息数据库GDAL
     5. 函数
-12. pandas-A|基于RF高程预测地形生成(参数化结合)与回归预测
+12. pandas-A|基于RF高程预测地形生成(参数化结合)与回归预测 /pandas-A|Terrain Generation (Combined with Parameterization) based on RF Elevation Prediction and Regression Prediction
     1. 回归预测
     2. 地形生成<随机森林回归模型|参数化>
     3. pandas-A
-13. pandas-B|基于回归预测NDVI修复地生态廊道的构建
+13. pandas-B|基于回归预测NDVI修复地生态廊道的构建 /pandas-B|Construction of Ecological Corridor in Rehabilitated Place based on Regression Prediction NDVI
     1. 修复地生态廊道构建
     2. pandas-B
-14. pandas-C|基于DBSCAN密度空间聚类林缘线生成设计
+14. pandas-C|基于DBSCAN密度空间聚类林缘线生成设计 /pandas-C|DBSCAN-based Forest Edge Generation Design
     1. DBSCAN密度空间聚类林缘线生成设计
     2. pandas-C
-15. pycharm/虚拟环境/SQLite数据库|将规划设计信息写入数据库
+15. pycharm/虚拟环境/SQLite数据库|将规划设计信息写入数据库 /pycharm/virtual environment/SQLite database|writes planning and design information to the database
     1. 景观评估项目-实验:技术路线
     2. pycharm|虚拟环境搭建
     3. 数据库
     4. SQLite数据库
-16. flask构建实验用网络应用平台|Jinja2模板
+16. flask构建实验用网络应用平台|Jinja2模板 /Flask-based Development of Network Application Platform for Experiment|Jinja2 template
     1. flask轻量级 Web 应用框架
     2. Jinja2模板
     3. 阶段B-目录结构
-17. _class类|SIFT|BOW|ERF|景观质量视觉评估预测
+17. _class类|SIFT|BOW|ERF|景观质量视觉评估预测 /class |SIFT|BOW|ERF|Visual Landscape Quality Evaluation (Machine Learning Prediction)
     1. 图像特征提取
     2. BOW视觉词袋模型
     3. ERF图像分类器
     4. -图像识别器
     5. class类|OPP
-18. ubuntu|VNC|Nginx|uWSGI/实验用网络应用平台的部署
+18. ubuntu|VNC|Nginx|uWSGI/实验用网络应用平台的部署 /ubuntu|VNC|Nginx|uWSGI/deployment of experimental network application platform
     1. 实验用网络应用平台的部署
-19. ROS-Kinetic深度相机3DSLAM三维点云建筑空间
+19. ROS-Kinetic深度相机3DSLAM三维点云建筑空间 /ROS-Kinetic Depth Camera|3DSLAM Point-cloud Architectural Space
     1. 点云/三维模型
     2. rtabmap|ROS
     3. 点云数据处理分析与可视化
-20. NLP_LDA主题建模_提取主题关键字
+20. NLP_LDA主题建模_提取主题关键字 /NLP-Topic Modelling_Find Important Contents
     1. 实验素材/与计算结果
     2. NLP-自然语言处理
     3. 有用的库方法
-21. 提取.jpg(.png)图像（热力图）格式的数据为地理信息数据
+21. 提取.jpg(.png)图像（热力图）格式的数据为地理信息数据 /extract .jpg(.png) image (heat map) format data for geographic information data
     1. .jpg图像格式数据预处理
     2. 色彩空间
     3. .jpg数据提取
