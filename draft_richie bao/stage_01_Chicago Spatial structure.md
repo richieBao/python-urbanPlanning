@@ -52,7 +52,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400" align="right">
 
-![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg){:height="50%" width="50%"}
+![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg&s=100)
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -79,11 +79,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5ODkyNjA1LC04NTM0MjM2MzUsMTk4NT
-k1MjQyMCwxMDczOTgzMDAsLTUzMTI1NDMyMiwtMTE5NTUyNzIy
-OCwtNTA0NDIyNzEyLDEyMzcwMjQ0MzEsODE5Mjg1NTAyLC0xNz
-c5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUwMSwyMDE1ODU5
-NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMTY3NDQzNDM0Mi
-w3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5OTY1MjMsLTE3
-MzAyNjUxMjddfQ==
+eyJoaXN0b3J5IjpbMTE3MzE4NjExOSwtODUzNDIzNjM1LDE5OD
+U5NTI0MjAsMTA3Mzk4MzAwLC01MzEyNTQzMjIsLTExOTU1Mjcy
+MjgsLTUwNDQyMjcxMiwxMjM3MDI0NDMxLDgxOTI4NTUwMiwtMT
+c3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1MDEsMjAxNTg1
+OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0MzQzND
+IsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEwOTk2NTIzLC0x
+NzMwMjY1MTI3XX0=
 -->
