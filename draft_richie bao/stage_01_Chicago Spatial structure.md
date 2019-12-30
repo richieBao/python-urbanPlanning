@@ -35,6 +35,9 @@ The change trend of the maximum clustering various value is to calculate the cha
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
 
 
+
+
+
 #### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /continuous distance clustering and analysis of connectivity clustering  frequency to find the critical levels of change
 
 
@@ -46,7 +49,7 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODUzOTU3MiwxMjM3MDI0NDMxLDgxOT
+eyJoaXN0b3J5IjpbMTI2NzY3ODg1MCwxMjM3MDI0NDMxLDgxOT
 I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
 MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
 E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
