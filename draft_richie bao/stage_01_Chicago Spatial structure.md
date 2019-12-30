@@ -17,7 +17,7 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 #### 1.3.1 基于DBSCAN连续距离聚类建成区，分析城市空间结构的变化 /analyze changes of urban spatial structure based on continuous distances clustering built-up areas using DBSCAN
 城市物质空间的结构通常是基于其位置的地理分布，其集聚的程度是以距离为基本约束条件，因此基于DBSCAN（Density-Based Spatial Clustering of Applications with Noise.）算法，设置一个连续的聚类距离，分别计算每一距离下的聚类。因为所选取的影像空间分辨率为30m，距离列表的间隔应该是该值的倍数，其距离列表为[30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360, 390, 420, 450, 480]，共计16个值。
 
-The structure of urban material space is usually based on the geographical distribution of its location, and the degree of its agglomeration is accord
+The structure of urban material space is usually based on the geographical distribution of its location, and the degree of its agglomeration is according to distance as the basic constraint condition. Therefore, a continuous clustering distance is set in term of DBSCAN (Density-Based Spatial Clustering of Applications with Noise.)
 
 
 聚类的目标为城市建成区，由所获取的Landsat 8不同季节的遥感影像，根据NDVI（Normalized difference vegetation index）值的变化提取建成区，植被和水体三类。
@@ -40,7 +40,7 @@ The structure of urban material space is usually based on the geographical distr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjY3NTg2OCwxMjM3MDI0NDMxLDgxOT
+eyJoaXN0b3J5IjpbMTI0MTc2NDAwOCwxMjM3MDI0NDMxLDgxOT
 I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
 MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
 E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
