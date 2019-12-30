@@ -11,14 +11,16 @@ To a certain extent, the physical spatial changes of the city reflect the urban 
 ### 1.2 数据 /data
 使用Landsat 8 系列数据，其空间分辨率为30m。考虑到城市周边农田不同季节耕作对于影像解译的影响，选择了三个季节的卫星影像，具体数据为：
 
-Landsat 8 series data was used with a spatial resolution of 30m. Considering the impact of farmland cultivation around the city in different seasons on the image interpretation of 
+Landsat 8 series data was used with a spatial resolution of 30m. Considering the impact of farmland cultivation around the city in different seasons on the image interpretation, satellite images of three seasons were selected, with speicfic data as follows:
+* LC08_L1TP_023031_20191007_20191018_01
+* 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjI1NDQ2OCw5Mzc0NDc4NjMsLTEwMz
-UyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3
-MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbLTM2Mjc5NDU0LDkzNzQ0Nzg2MywtMTAzNT
+I0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcw
+MTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
