@@ -59,7 +59,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
-##### 4.2.1 
+##### 4.2.1 建成区连接度及其各个层级
 
 
 
@@ -72,11 +72,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAxMzA0NzcsMTk4NTk1MjQyMCwxMD
-czOTgzMDAsLTUzMTI1NDMyMiwtMTE5NTUyNzIyOCwtNTA0NDIy
-NzEyLDEyMzcwMjQ0MzEsODE5Mjg1NTAyLC0xNzc5ODY1NDQsLT
-IwODg2MzIxNzksLTY0NTAxMTUwMSwyMDE1ODU5NTYxLDkzNzQ0
-Nzg2MywtMTAzNTI0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMT
-AsLTIwODkwNTcwMTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjdd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNTk2NjI3MSwxOTg1OTUyNDIwLDEwNz
+M5ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0MjI3
+MTIsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMj
+A4ODYzMjE3OSwtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3NDQ3
+ODYzLC0xMDM1MjQyODYyLC0xNjc0NDM0MzQyLDc2OTc3MTMxMC
+wtMjA4OTA1NzAxOCwtMTYxMDk5NjUyMywtMTczMDI2NTEyN119
+
 -->
