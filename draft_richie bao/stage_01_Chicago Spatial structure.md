@@ -39,10 +39,7 @@ The clustering method can identify similar data as different groups according to
 
 在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。共设置24组卷积核，即卷积核距离为[3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]，其实际距离需要乘以栅格分辨率的值，即30m。
 
-In convolution calculations, there are diffent sizes convolution kernels, such as (3,3),(5,5)...(n,n), where n is set as odd, the center value is set as 0, and all other values are 1. For example, a convolution kernel of (3,3) is set as [[1,1,1],[1,0,1],[1,1,1]], calculate the conneciton relation between each position and 8 adjacent positions. And, (5,5) calculate the conneciton relation between earch postion and 24 adjacent positions, and so on. A total of 24 sets of convolution kernels are set, the kernel distances are
-
-
-
+In convolution calculations, there are diffent sizes convolution kernels, such as (3,3),(5,5)...(n,n), where n is set as odd, the center value is set as 0, and all other values are 1. For example, a convolution kernel of (3,3) is set as [[1,1,1],[1,0,1],[1,1,1]], calculate the conneciton relation between each position and 8 adjacent positions. And, (5,5) calculate the conneciton relation between earch postion and 24 adjacent positions, and so on. A total of 24 sets of convolution kernels are set, the kernel distance list is [3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49], the actual distance needs to be multipled by the value of the raster resolution, namely 30m.
 
 #### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /continuous distance clustering and analysis of connectivity clustering  frequency to find the critical levels of change
 计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用DBSCAN聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，观察建成区分布情况。同样应用折现图找出具有意义变化的关键层级。
@@ -54,8 +51,10 @@ In convolution calculations, there are diffent sizes convolution kernels, such a
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzk4ODI4NywtNTA0NDIyNzEyLDEyMz
+eyJoaXN0b3J5IjpbMTU2NDQyMjMzNSwtNTA0NDIyNzEyLDEyMz
 cwMjQ0MzEsODE5Mjg1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIx
 NzksLTY0NTAxMTUwMSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMT
 AzNTI0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkw
