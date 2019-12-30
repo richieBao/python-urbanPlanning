@@ -26,7 +26,7 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 #### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change value of clusters under continuous distance clustering to find the critical levels of clusters
 计算获取多个距离层级聚类，可以观察城市建成区的蔓延趋势。同时，为了进一步分析层级间的变化特点，找到具有意义的层级，需要建立聚类总数，最大聚类总数，聚类频数和最大聚类变化值在连续聚类距离下的变化趋势折线图，由拐点找到曲线变化的关键点，即找到具有意义的关键层级。
 
-Multiple distance hierachical clustering is obtained to observe the spreading trend of urban built-up areas. At the same time, in order to further analyze the characteristics of hierachy changes, find meaninful levels, need to establish changes line charts of a number of clustering, the largest o 
+Multiple distance hierachical clustering is obtained to observe the spreading trend of urban built-up areas. At the same time, in order to further analyze the characteristics of hierachy changes, find meaninful levels, need to establish changes line charts of a number of clustering, the largest number of clustering, clustering requency and maximum value under continous clustering distances. Fur 
 
 
 其中最大聚类变化值的变化趋势是计算两两连续层级间最大聚类的变化范围，首先提取每一层级的最大聚类区域，设置两两层级中的上层建成区值为1，下层为2，做和处理，则可能出现值为0，1，2，3等四种情况。其中，0代表两层均没有值，1代表上一层有值，2代表下一层有值，3代表两层均有值，从而通过计算可以分析最大聚类变化值的变化情况，同时建立最大聚类变化数量值在聚类距离下的折线图，观察数据变化。
@@ -46,9 +46,9 @@ Multiple distance hierachical clustering is obtained to observe the spreading tr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUwOTI2MDIsMTIzNzAyNDQzMSw4MT
-kyODU1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3OSwtNjQ1MDEx
-NTAxLDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC
-0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYx
-MDk5NjUyMywtMTczMDI2NTEyN119
+eyJoaXN0b3J5IjpbMzQyMDE4ODM2LDEyMzcwMjQ0MzEsODE5Mj
+g1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUw
+MSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMT
+Y3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5
+OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
