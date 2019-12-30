@@ -21,14 +21,18 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 
 
 
-#### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change
+#### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change value of clusters under continuous distance clustering to find the critical levels of clusters
+
+
+#### 1.3.3 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MDE1MjQ0LC02NDUwMTE1MDEsMjAxNT
+eyJoaXN0b3J5IjpbMTgzNjEzMzQ3LC02NDUwMTE1MDEsMjAxNT
 g1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0MzQz
 NDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEwOTk2NTIzLC
 0xNzMwMjY1MTI3XX0=
