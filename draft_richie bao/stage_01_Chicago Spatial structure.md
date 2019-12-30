@@ -9,13 +9,13 @@
 
 To a certain extent, the physical spatial changes of the city reflect the urban sprawl, including the expansion and contraction of a city. During the expansion phase, cities will constantly occupy natural resources and affect the natural ecological balance, especially the distribution of biological communities, surface runoff areas, and climatic environmental variarion. In the contracting phase of the city, more questions need to be asked about how to recover effectively and naturally. At the same time, the change of urban physical space reflects the distribution of urban residents, the degree of agglomeration and the structure change of distribution reflect the density and activity of people. Therefore, the analysis of material spatical structure at the urban scale can understand the distribution of cities, especially the relationship between nature and cities, and provide a basic analysis for the protection, restoration and improvement of urban environment.
 ### 1.2 数据 /data
-
+此次
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC0xNj
-c0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYxMDk5
-NjUyMywtMTczMDI2NTEyN119
+eyJoaXN0b3J5IjpbNjIxNjc4OTM4LDkzNzQ0Nzg2MywtMTAzNT
+I0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcw
+MTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
