@@ -59,7 +59,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
-##### 4.2.1 建成区连接度及其各个层级
+##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-u
 
 
 
@@ -72,7 +72,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk2NjI3MSwxOTg1OTUyNDIwLDEwNz
+eyJoaXN0b3J5IjpbLTI2NzYxMTIwNSwxOTg1OTUyNDIwLDEwNz
 M5ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0MjI3
 MTIsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMj
 A4ODYzMjE3OSwtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3NDQ3
