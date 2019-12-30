@@ -40,7 +40,7 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 #### 1.3.4 连续距离聚类连接度及分析连接度聚类频数找到关键变化层级 /continuous distance clustering and analysis of connectivity clustering  frequency to find the critical levels of change
-计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用DBSCAN聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，观察建成区分布情况。
+计算连接度的结果会获得每一个位置连接程度的数值标识，进一步使用DBSCAN聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市连接程度的空间结构，观察建成区分布情况。同样应用折现图找出ba
 
 
 
@@ -50,9 +50,9 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MjgyMDAsMTIzNzAyNDQzMSw4MTkyOD
-U1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3OSwtNjQ1MDExNTAx
-LDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC0xNj
-c0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYxMDk5
-NjUyMywtMTczMDI2NTEyN119
+eyJoaXN0b3J5IjpbMTQyNDA5NjYxOCwxMjM3MDI0NDMxLDgxOT
+I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
+MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
+E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
+OTk2NTIzLC0xNzMwMjY1MTI3XX0=
 -->
