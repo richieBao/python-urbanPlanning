@@ -17,15 +17,15 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 * LC08_L1TP_023031_20180310_20180320_01 :water<0;green>=0.14;0=<buit<0.213
 
 ### 1.3 方法 /method
-#### 1.3.1 基于DBSCAN连续距离聚类建成区，分析城市空间结构的变化
+#### 1.3.1 基于DBSCAN连续距离聚类建成区，分析城市空间结构的变化 /analyzed changes of urban spatial structure based on continuous distances clustering
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODY2OTEsMjAxNTg1OTU2MSw5Mzc0ND
-c4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEw
-LC0yMDg5MDU3MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX
-0=
+eyJoaXN0b3J5IjpbMTI0Mzk3Njc1NCwyMDE1ODU5NTYxLDkzNz
+Q0Nzg2MywtMTAzNTI0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEz
+MTAsLTIwODkwNTcwMTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMj
+ddfQ==
 -->
