@@ -47,10 +47,10 @@ In convolution calculations, there are diffent sizes convolution kernels, such a
 The result of calculating connectivity degree will obtain the numerical mark of each location, DBSCAN clustering method will be further used to cluster locations with approximate connectivity degree, so that the spatial structure of urban connectivity degree and the distribution of built-up areas can be observed. Also, use the line graph to find the key levels of meaningful change.
 
 ### 1.4 结果 /results
-#### 1.4.1 连续距离聚类建成区与关键层级覆盖范围 /continuous distance clustering built-up area and critical level coverage area
+#### 1.4.1 连续距离聚类建成区及其关键层级覆盖范围 /continuous distance clustering built-up area and critical level coverage area
 
 
-#### 1.4.2 建成区连接度与
+#### 1.4.2 建成区连接度及其关键层级
 
 
 
@@ -63,10 +63,10 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzk4MzAwLC01MzEyNTQzMjIsLTExOT
-U1MjcyMjgsLTUwNDQyMjcxMiwxMjM3MDI0NDMxLDgxOTI4NTUw
-MiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1MDEsMj
-AxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0
-MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEwOTk2NT
-IzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbMTQ1MjY5MTI0MCwxMDczOTgzMDAsLTUzMT
+I1NDMyMiwtMTE5NTUyNzIyOCwtNTA0NDIyNzEyLDEyMzcwMjQ0
+MzEsODE5Mjg1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLT
+Y0NTAxMTUwMSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0
+Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMT
+gsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
