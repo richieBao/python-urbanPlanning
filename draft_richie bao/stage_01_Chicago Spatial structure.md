@@ -33,7 +33,7 @@ Multiple distance hierachical clustering is obtained to observe the spreading tr
 The change trend of the maximum clustering various value is to calculate the change range of the maximum clustering values between consecutive layers. First, extract the maximum clustering area of each layer. Second, set the value of the upper built-up area in the two layers to 1, and the value of the lower one to 2, and then, sum the two layers. The result value may appear  four cases: 0,1,2,3. Where, 0 represents no value for both layers, 1 represents value for the upper layer, 2 represents value for the lower layer, and 3 represents value for both layers. In this way, the change of the maximum clustering values can be analyzed through calculation. Plus, establish the line chart of the maximum clustering change values to observe the data change trend.
 
 #### 1.3.3 应用卷积的方法计算连接度，分析建成区连接的变化程度 /calculate the connection degree by convolution method to analyze the change degree of connection in built-up area
-聚类的方法可以根据指定的距离或者其它数据类型将相近的数据分别标识为不同组，同组的数据具有相同或相近的特征，例如距离上接近。然而如何计算数据间连接的程度，或者每点与周围点连接的程度，可以使用卷积的方式计算。不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。计算连接度的结果会获得每一个位置连接程度的数值标识，可以同样使用聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市空间结构，此次计算的连接度为建成区（无绿地或者绿地稀少区域）在聚类距离为180m下（上一单元实验结果，聚类单元转折点位置）的连接度，并进而再次聚类连接度观察建成区分布情况。
+聚类的方法可以根据指定的距离或者其它数据类型将相近的数据分别标识为不同组，同组的数据具有相同或相近的特征，例如距离上接近。同时，为了进一步观察聚类组团之间的关系，可以计算聚类组团间连接的程度，即每点与周围点连接的程度，使用卷积的方式计算。在卷积计算中，不同大小的卷积核，例如(3,3),(5,5)...(n,n)，其中n设置为奇数，中心值设置为0，其它值均为1，例如一个（3，3）的卷积核，形式为[[1,1,1],[1,0,1],[1,1,1]]，计算每一位置与周边临近的8个位置的连接关系，而(5,5)则计算每一位置与周边临近的24个位置的连接关系，依次类推。计算连接度的结果会获得每一个位置连接程度的数值标识，可以同样使用聚类的方法，将具有近似连接程度的位置集聚，从而可以观察城市空间结构，此次计算的连接度为建成区（无绿地或者绿地稀少区域）在聚类距离为180m下（上一单元实验结果，聚类单元转折点位置）的连接度，并进而再次聚类连接度观察建成区分布情况。
 
 
 
@@ -49,9 +49,9 @@ The change trend of the maximum clustering various value is to calculate the cha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTI2NDI0MCwxMjM3MDI0NDMxLDgxOT
-I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
-MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
-E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
-OTk2NTIzLC0xNzMwMjY1MTI3XX0=
+eyJoaXN0b3J5IjpbNTM1MTY1NjcyLDEyMzcwMjQ0MzEsODE5Mj
+g1NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUw
+MSwyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMT
+Y3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcwMTgsLTE2MTA5
+OTY1MjMsLTE3MzAyNjUxMjddfQ==
 -->
