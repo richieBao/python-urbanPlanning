@@ -49,7 +49,10 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 ### 4 结果 /results
 #### 4.1 连续距离聚类建成区及其关键层级覆盖范围 /continuous distance clustering built-up area and their critical level coverage area
 ##### 4.1.1 建城区范围提取及其与植被的关系 /urban area extraction and its relationship with vegetaton
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400" style="float:right" >
+```
+<p float="left">
+
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400" style="float:right;" >
 
 
 
@@ -77,11 +80,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NDM3MTUxLC04MTM1NDUwNDUsLTEzMT
-cwNTE2NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0
-MjAsMTA3Mzk4MzAwLC01MzEyNTQzMjIsLTExOTU1MjcyMjgsLT
-UwNDQyMjcxMiwxMjM3MDI0NDMxLDgxOTI4NTUwMiwtMTc3OTg2
-NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1MDEsMjAxNTg1OTU2MS
-w5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5
-NzcxMzEwXX0=
+eyJoaXN0b3J5IjpbLTEzNTU2MjAxNDgsLTgxMzU0NTA0NSwtMT
+MxNzA1MTY0OSwxODE0NjI4Njc5LC04NTM0MjM2MzUsMTk4NTk1
+MjQyMCwxMDczOTgzMDAsLTUzMTI1NDMyMiwtMTE5NTUyNzIyOC
+wtNTA0NDIyNzEyLDEyMzcwMjQ0MzEsODE5Mjg1NTAyLC0xNzc5
+ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUwMSwyMDE1ODU5NT
+YxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMTY3NDQzNDM0Miw3
+Njk3NzEzMTBdfQ==
 -->
