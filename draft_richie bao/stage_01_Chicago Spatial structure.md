@@ -24,7 +24,7 @@ The structure of urban material space is usually based on the geographical distr
 The target of clustering is urban built-up areas, which is interpreted from the remote sensing images of Landsat 8 in different seasons , contains three types: built-up area, vegetation and water according to the change of NDVI(Normalized difference vegetation index).
 
 #### 1.3.2 分析连续距离聚类下聚类总数，最大聚类总数，聚类频数和最大聚类变化值的变化趋势，找到聚类的关键层级 /analyze the trends of the total number of clusters, the maximum number of clusters, the frequency of clusters and the maximum change value of clusters under continuous distance clustering to find the critical levels of clusters
-计算获取
+计算获取多个距离层级聚类，可以观察城市建成区的蔓延趋势。同时，为了进一步分析层级间的变化特点，找到具有意义的层级，需要建立
 
 
 
@@ -42,9 +42,9 @@ The target of clustering is urban built-up areas, which is interpreted from the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcxNDkyNTYsMTIzNzAyNDQzMSw4MT
-kyODU1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3OSwtNjQ1MDEx
-NTAxLDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1MjQyODYyLC
-0xNjc0NDM0MzQyLDc2OTc3MTMxMCwtMjA4OTA1NzAxOCwtMTYx
-MDk5NjUyMywtMTczMDI2NTEyN119
+eyJoaXN0b3J5IjpbLTg0NzQ2NjY3NCwxMjM3MDI0NDMxLDgxOT
+I4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1
+MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLT
+E2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3MDE4LC0xNjEw
+OTk2NTIzLC0xNzMwMjY1MTI3XX0=
 -->
