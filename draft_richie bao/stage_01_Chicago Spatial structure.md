@@ -16,14 +16,15 @@ Landsat 8 series data was used with a spatial resolution of 30m. Considering the
 * LC08_L1TP_023031_20190804_20190820_01 :water<0;green>=0.213;0=<buit<0.213
 * LC08_L1TP_023031_20180310_20180320_01 :water<0;green>=0.14;0=<buit<0.213
 
-### 1.3 方法
+### 1.3 方法 /method
+#### 1.3.1 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MDU5NTA2LDkzNzQ0Nzg2MywtMTAzNT
-I0Mjg2MiwtMTY3NDQzNDM0Miw3Njk3NzEzMTAsLTIwODkwNTcw
-MTgsLTE2MTA5OTY1MjMsLTE3MzAyNjUxMjddfQ==
+eyJoaXN0b3J5IjpbMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMz
+UyNDI4NjIsLTE2NzQ0MzQzNDIsNzY5NzcxMzEwLC0yMDg5MDU3
+MDE4LC0xNjEwOTk2NTIzLC0xNzMwMjY1MTI3XX0=
 -->
