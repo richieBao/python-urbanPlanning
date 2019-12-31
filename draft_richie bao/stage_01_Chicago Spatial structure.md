@@ -62,9 +62,9 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 <p align="center">
 <em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
 </p>
-图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lack止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Illinois river至西南Ottawa。
+图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lake止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Illinois river至西南Ottawa。
 
-Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands 
+Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands (except the eastern lake district), ending at Fox river and Fox lake, and extending partly to the west of Fox river. 
 
 
 
@@ -92,7 +92,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMTQyMDA1LDU3NTUwODA1LC0xNDcwNj
+eyJoaXN0b3J5IjpbMzQ5OTM5MjE3LDU3NTUwODA1LC0xNDcwNj
 I3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgw
 LDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MT
 QzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOTIzMzc2MjU0
