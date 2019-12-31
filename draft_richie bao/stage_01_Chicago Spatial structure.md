@@ -113,7 +113,7 @@ The distance clustering method can be used to gather the positions that meet the
 </p>
 当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
 
-When convolution
+When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attresolution of range i
 
 
 
@@ -134,7 +134,7 @@ When convolution
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTEzNDczNiwxNzUxMjIzNDgsNDM0OD
+eyJoaXN0b3J5IjpbLTg0MTE2MjQwNiwxNzUxMjIzNDgsNDM0OD
 UzMzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUw
 MiwtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3Mj
 YzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEs
