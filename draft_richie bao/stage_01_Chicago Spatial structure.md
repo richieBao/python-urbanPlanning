@@ -64,7 +64,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 </p>
 图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lack止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Illinois river至西南Ottawa。
 
-Among the 30m clustering results in figure 2, 
+Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. 
 
 
 
@@ -92,11 +92,11 @@ Among the 30m clustering results in figure 2,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDUyMDIxOTIsNTc1NTA4MDUsLTE0Nz
-A2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5
-ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NT
-kxNDMzMDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYy
-NTQsLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLT
-EzMTcwNTE2NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5
-NTI0MjBdfQ==
+eyJoaXN0b3J5IjpbMjEyNjQ0MTMxMyw1NzU1MDgwNSwtMTQ3MD
+YyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4
+MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OT
+E0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3NCwtMTkyMzM3NjI1
+NCwtNjgxMzk0NjI4LDE5ODY0NDIxNTYsLTgxMzU0NTA0NSwtMT
+MxNzA1MTY0OSwxODE0NjI4Njc5LC04NTM0MjM2MzUsMTk4NTk1
+MjQyMF19
 -->
