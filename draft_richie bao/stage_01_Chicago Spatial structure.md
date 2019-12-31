@@ -113,7 +113,7 @@ The distance clustering method can be used to gather the positions that meet the
 </p>
 当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
 
-When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attitude resolution is 90×90m square, the connections of each cell are basically the same, with the increase of convolution kernel distance, each cell connected to the peripheral cells scope expands, the connection degree of each unit is gradually began to differentiate, the cells with stronger connection degree begin to emerge. In order to clearly observe the degree dis
+When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attitude resolution is 90×90m square, the connections of each cell are basically the same, with the increase of convolution kernel distance, each cell connected to the peripheral cells scope expands, the connection degree of each unit is gradually began to differentiate, the cells with stronger connection degree begin to emerge. In order to clearly observe the connection degree distribution, cluster the results of connection degrees at each level, as shown in Fig 0
 
 
 
@@ -134,7 +134,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDk0NzI2MiwxNzUxMjIzNDgsNDM0OD
+eyJoaXN0b3J5IjpbLTg4NjQ2NDU5MywxNzUxMjIzNDgsNDM0OD
 UzMzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUw
 MiwtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3Mj
 YzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEs
