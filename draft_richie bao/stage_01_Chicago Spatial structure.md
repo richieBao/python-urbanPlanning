@@ -93,11 +93,13 @@ The total number of clusters decreased with the increase of the clustering dista
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg" width="400"> </p>
 <p>
-<em>图6 最大聚类区域所包含数量变化值 /Fig6 continous expansion of the maximum clustering region</em>
+<em>图6 最大聚类区域所包含数量变化值 /Fig6 the quantitative variation value contained in the maximum clustering region</em>
 </p>
 <p>
 <em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
 </p>
+
+
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -118,11 +120,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjI4ODk0LC0yNDYzMDIzODgsNzc5ND
-YxODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwy
-MzA0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOT
-I0MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMs
-LTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMzczND
-k3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMzMDZd
-fQ==
+eyJoaXN0b3J5IjpbLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OT
+Q2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAs
+MjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MD
+kyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYz
+LC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3Mz
+Q5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQzMzA2
+XX0=
 -->
