@@ -100,7 +100,7 @@ The total number of clusters decreased with the increase of the clustering dista
 </p>
 180m是建成区相对稳定的层级，图6，7进一步印证了该结论。在180m到210m层级间的拓展达到谷底，说名180m层级在进一步拓展中，增加的拓展区域相对较小，而谷底之后集聚数量增加，是因为较远建成区域由道路连接加入到已集聚的区域。
 </br></br>
-180m is a relatively stable level of built-up area, which is further confirmed by Fig 6 and 7. The expansion between 180m and 210 reached the valley bottom. 
+180m is a relatively stable level of built-up area, which is further confirmed by Fig 6 and 7. The expansion between 180m and 210 reached the valley bottom. It is said that in the further expansion of 180m, the increased expasion area is relatively small, and the number
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
@@ -122,7 +122,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mzc4MTU2MiwtMTEwMzU2ODIyNywtNj
+eyJoaXN0b3J5IjpbMTkyOTYwNDMxNywtMTEwMzU2ODIyNywtNj
 M3MDQ1NTAyLC0yNDYzMDIzODgsNzc5NDYxODQzLDcyNjEwNzcz
 LDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMzA0NjM1NjUsLTc3ND
 Y2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2
