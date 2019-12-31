@@ -71,7 +71,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 </p>
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
 <p align="center">
-<em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
+<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
 </p>
 
 
@@ -100,7 +100,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc1NDUwNDgsMTUwMTM0OTYzNyw1Nz
+eyJoaXN0b3J5IjpbLTIwMTA4MDE0NTQsMTUwMTM0OTYzNyw1Nz
 U1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5
 MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyND
 Q0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3
