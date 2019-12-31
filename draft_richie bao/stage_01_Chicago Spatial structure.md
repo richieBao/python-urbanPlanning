@@ -76,7 +76,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 <p align="center">
 <em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
 </p>
-
+图3和图4则进一步说明了最大聚类区域即芝加哥主城区向外扩张yan'shen
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -103,11 +103,11 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDcxMDgxNiwtMTM4MDkyNDAzNiwxNT
-AxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC0xMjQ4MTg5
-NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5NzM0NSwtMj
-c0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQzMzA2LDM0NDQxMzY3
-NiwxMzAzMjIxMjc0LC0xOTIzMzc2MjU0LC02ODEzOTQ2MjgsMT
-k4NjQ0MjE1NiwtODEzNTQ1MDQ1LC0xMzE3MDUxNjQ5LDE4MTQ2
-Mjg2NzldfQ==
+eyJoaXN0b3J5IjpbMjExNDAwNjcwMCwxMTM0NzEwODE2LC0xMz
+gwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0
+NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMz
+czNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMz
+MDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLT
+Y4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcw
+NTE2NDldfQ==
 -->
