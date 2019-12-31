@@ -111,7 +111,11 @@ The distance clustering method can be used to gather the positions that meet the
 <p align="center">
 <em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at continuous convolution kernel distance</em>
 </p>
-当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图
+当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
+
+When convolution
+
+
 
 
 
@@ -130,11 +134,11 @@ The distance clustering method can be used to gather the positions that meet the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQxNDg0MDMsMTc1MTIyMzQ4LDQzND
-g1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3LC02MzcwNDU1
-MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MTA3NzMsODQ2Nz
-I2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcx
-LDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1Nz
-U1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5
-MTddfQ==
+eyJoaXN0b3J5IjpbMTM5NTEzNDczNiwxNzUxMjIzNDgsNDM0OD
+UzMzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUw
+MiwtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3Mj
+YzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEs
+MTEzNDcxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NT
+UwODA1LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkx
+N119
 -->
