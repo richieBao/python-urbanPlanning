@@ -56,7 +56,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 <em>图1 遥感影像解译 /Fig1 remote sensing imagery interpretation</em>
 </p>
 首先利用Landsat 8遥感影像解译所需要的土地用地类型，如图1，影像的分辨率为30m。如果30×30m单元栅格中某一解译要素占主导数量，则标识为该元素类型，所以可以从解译影像中观察到分散的建设用地，因为绿化覆盖率较高，而大量居住建筑高度又通常低于树木高度，则该部分区域解译为植被区域。因此，基于该影像解译数据的计算是在考虑到了植被覆盖因素在内，建设用地的分布情况。
-First, Landsat 8 remote sensing image is used to interpret the types of land used, as shown in figure 1. The resolution of image is 30m. If a certain interpretation element dominates the number of 30×30m grid cells, it is identified as the element type. Therefore, because the green coverage rate is high, and the height of a large number of residential buildings is usually lower than the height of trees, scatterd construction land is interpreted as a veg
+First, Landsat 8 remote sensing image is used to interpret the types of land used, as shown in figure 1. The resolution of image is 30m. If a certain interpretation element dominates the number of 30×30m grid cells, it is identified as the element type. Therefore, because the green coverage rate is high, and the height of a large number of residential buildings is usually lower than the height of trees, scatterd construction land is interpreted as a vegeation area. In consequence, 
 
 
 
@@ -84,7 +84,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIwNTI2MjUsLTE5MjMzNzYyNTQsLT
+eyJoaXN0b3J5IjpbLTE0Nzc2NTI5MDAsLTE5MjMzNzYyNTQsLT
 Y4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcw
 NTE2NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0Mj
 AsMTA3Mzk4MzAwLC01MzEyNTQzMjIsLTExOTU1MjcyMjgsLTUw
