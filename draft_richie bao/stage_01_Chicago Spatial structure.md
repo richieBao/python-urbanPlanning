@@ -89,7 +89,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <em>图5 聚类总数变化曲线及其拐点 /Fig5 the change line graph of the total number of clusters and its inflection point</em>
 </p>
 <p>
-<em>图6 180m聚类距离最大聚类区域及 /Fig6 continous expansion of the maximum clustering region</em>
+<em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
 </br></br>
 
@@ -112,11 +112,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTk1ODU1MSwtNzc0NjY4NTcxLDExMz
-Q3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgw
-NSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLT
-czMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1
-OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3NCwtMT
-kyMzM3NjI1NCwtNjgxMzk0NjI4LDE5ODY0NDIxNTYsLTgxMzU0
-NTA0NV19
+eyJoaXN0b3J5IjpbMjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzND
+cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
+LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNz
+MyNTUyOTgwLDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4
+LC0xNjU5MTQzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOT
+IzMzc2MjU0LC02ODEzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1
+MDQ1XX0=
 -->
