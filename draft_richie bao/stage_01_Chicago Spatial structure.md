@@ -62,7 +62,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 <p align="center">
 <em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
 </p>
-图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lack止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，
+图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lack止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Illinois river至西南Ottawa
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -89,11 +89,11 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLTEyND
-gxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMzczNDk3MzQ1
-LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMzMDYsMzQ0ND
-EzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLTY4MTM5NDYy
-OCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcwNTE2NDksMT
-gxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0MjAsMTA3Mzk4
-MzAwXX0=
+eyJoaXN0b3J5IjpbLTE0MDY4OTAyNjAsNTc1NTA4MDUsLTE0Nz
+A2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5
+ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NT
+kxNDMzMDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYy
+NTQsLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLT
+EzMTcwNTE2NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5
+NTI0MjBdfQ==
 -->
