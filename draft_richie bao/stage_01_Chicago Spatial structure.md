@@ -81,8 +81,10 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 Fig.3 and Fig 4 further illustrate the process of the expansion and extension of the maximum clustering area, namely the main city of Chicago.
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
-
-
+<p align="center">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400" align="left">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400" align="right">  
+</p>
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
@@ -104,11 +106,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMz
-gwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0
-NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMz
-czNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMz
-MDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLT
-Y4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcw
-NTE2NDldfQ==
+eyJoaXN0b3J5IjpbMTYxNTY2Nzk4LC03NzQ2Njg1NzEsMTEzND
+cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
+LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNz
+MyNTUyOTgwLDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4
+LC0xNjU5MTQzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOT
+IzMzc2MjU0LC02ODEzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1
+MDQ1XX0=
 -->
