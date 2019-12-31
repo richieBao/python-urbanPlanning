@@ -104,7 +104,14 @@ The total number of clusters decreased with the increase of the clustering dista
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
-采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团自身在空间上是连续的。为了探究空间上连续的程度，计算每一单元与周边单元在连续卷积核距离下的连接程度，计算结果如图
+采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团自身在空间上是连续的。为了探究空间上连续的程度，计算每一单元与周边单元在连续卷积核距离下的连接程度，计算结果如图8。
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
+<p align="center">
+<em>图8 最大聚类区域两两层级的变化 /Fig8 the maximum clustering region changes in two levels</em>
+</p>
+
+
 
 ##### 4.2.2  连接度的关键层级确定及其空间范围变化 /critical level determinaiton of connectivity and its spacial range variation
 
@@ -121,11 +128,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MDI1NjE0LC01Njg0NDk5ODEsLTExMD
-M1NjgyMjcsLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OTQ2MTg0
-Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAsMjMwND
-YzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MDkyNDAz
-NiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC0xMj
-Q4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5NzM0
-NV19
+eyJoaXN0b3J5IjpbLTE0NzkyMzgwNDgsLTU2ODQ0OTk4MSwtMT
+EwMzU2ODIyNywtNjM3MDQ1NTAyLC0yNDYzMDIzODgsNzc5NDYx
+ODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMz
+A0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0
+MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLT
+EyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMzczNDk3
+MzQ1XX0=
 -->
