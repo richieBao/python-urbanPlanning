@@ -51,7 +51,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 ##### 4.1.1 建城区范围提取及其与植被的关系 /urban area extraction and its relationship with vegetaton
 <p align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400"> 
-<em></em>
+<em>遥感影像解译</em>
 </p>
 
 
@@ -81,7 +81,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2MjY0ODcsMTk4NjQ0MjE1NiwtOD
+eyJoaXN0b3J5IjpbLTE2Nzg5NDI0ODEsMTk4NjQ0MjE1NiwtOD
 EzNTQ1MDQ1LC0xMzE3MDUxNjQ5LDE4MTQ2Mjg2NzksLTg1MzQy
 MzYzNSwxOTg1OTUyNDIwLDEwNzM5ODMwMCwtNTMxMjU0MzIyLC
 0xMTk1NTI3MjI4LC01MDQ0MjI3MTIsMTIzNzAyNDQzMSw4MTky
