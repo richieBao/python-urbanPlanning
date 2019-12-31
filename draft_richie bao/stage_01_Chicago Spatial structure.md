@@ -83,7 +83,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
 <p>
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400">  
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="350">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400">  
+</p>
+<p>
+<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
+<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
 </p>
 </br></br>
 
@@ -106,11 +110,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzU5MjgwOCwtNzc0NjY4NTcxLDExMz
-Q3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgw
-NSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLT
-czMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1
-OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3NCwtMT
-kyMzM3NjI1NCwtNjgxMzk0NjI4LDE5ODY0NDIxNTYsLTgxMzU0
-NTA0NV19
+eyJoaXN0b3J5IjpbLTE1NTk1NzAzODUsLTc3NDY2ODU3MSwxMT
+M0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4
+MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC
+03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3
+NTgsLTE2NTkxNDMzMDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLT
+E5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1
+NDUwNDVdfQ==
 -->
