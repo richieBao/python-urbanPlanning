@@ -93,7 +93,7 @@ The total number of clusters decreased with the increase of the clustering dista
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg" width="400"> </p>
 <p>
-<em>图6 最大聚类区域的连续扩张 /Fig6 continous expansion of the maximum clustering region</em>
+<em>图6 最大聚类区域所包含数量变化值 /Fig6 continous expansion of the maximum clustering region</em>
 </p>
 <p>
 <em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
@@ -118,7 +118,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODcxNjYxLC0yNDYzMDIzODgsNzc5ND
+eyJoaXN0b3J5IjpbMjAxMjI4ODk0LC0yNDYzMDIzODgsNzc5ND
 YxODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwy
 MzA0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOT
 I0MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMs
