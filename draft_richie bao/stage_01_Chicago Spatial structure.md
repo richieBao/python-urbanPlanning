@@ -55,8 +55,8 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 <p align="right">
 <em>图1 遥感影像解译 /Fig1 remote sensing imagery interpretation</em>
 </p>
-首先利用Landsat 8遥感影像解译所需要的土地用地类型，如图1，影像的分辨率为30m。如果30×30m单元栅格中某一解译要素占主导数量，则标识为该元素类型，所以可以从解译影像中观察到分散的建设用地，因为绿化覆盖率较高，而大量居住建筑高度又通常低于树木高度，则该部分区域解译为植被区域。因此，基于该影像解译数据的计算是在考虑到了植被覆盖因素在内，建设用地的分布情况。</br>
-
+首先利用Landsat 8遥感影像解译所需要的土地用地类型，如图1，影像的分辨率为30m。如果30×30m单元栅格中某一解译要素占主导数量，则标识为该元素类型，所以可以从解译影像中观察到分散的建设用地，因为绿化覆盖率较高，而大量居住建筑高度又通常低于树木高度，则该部分区域解译为植被区域。因此，基于该影像解译数据的计算是在考虑到了植被覆盖因素在内，建设用地的分布情况。
+</br></br>
 First, Landsat 8 remote sensing image is used to interpret the types of land used, as shown in figure 1. The resolution of image is 30m. If a certain interpretation element dominates the number of 30×30m grid cells, it is identified as the element type. Therefore, because the green coverage rate is high, and the height of a large number of residential buildings is usually lower than the height of trees, scatterd construction land is interpreted as a vegeation area. In consequence, the calculation based on the interpretation data of the image takes into account the distribution of construction land with vegetation cover.
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_6.jpg)
 <p align="center">
@@ -101,11 +101,11 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NTUzNjYzLC0xMzgwOTI0MDM2LDE1MD
-EzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0
-MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNz
-QyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMzMDYsMzQ0NDEzNjc2
-LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOT
-g2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcwNTE2NDksMTgxNDYy
-ODY3OV19
+eyJoaXN0b3J5IjpbLTE0ODA3ODQ0MjAsLTEzODA5MjQwMzYsMT
+UwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4
+OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLT
+I3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2
+NzYsMTMwMzIyMTI3NCwtMTkyMzM3NjI1NCwtNjgxMzk0NjI4LD
+E5ODY0NDIxNTYsLTgxMzU0NTA0NSwtMTMxNzA1MTY0OSwxODE0
+NjI4Njc5XX0=
 -->
