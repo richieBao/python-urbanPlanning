@@ -60,7 +60,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 First, Landsat 8 remote sensing image is used to interpret the types of land used, as shown in figure 1. The resolution of image is 30m. If a certain interpretation element dominates the number of 30×30m grid cells, it is identified as the element type. Therefore, because the green coverage rate is high, and the height of a large number of residential buildings is usually lower than the height of trees, scatterd construction land is interpreted as a vegeation area. In consequence, the calculation based on the interpretation data of the image takes into account the distribution of construction land with vegetation cover.
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_6.jpg)
 <p align="center">
-<em>图1 遥感影像解译 /Fig1 remote sensing imagery interpretation</em>
+<em>图2 建成区连续距离聚类结果 /Fig2 remote sensing imagery interpretation</em>
 </p>
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -87,7 +87,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTk3NDc4NSwzNDQ0MTM2NzYsMTMwMz
+eyJoaXN0b3J5IjpbMTY0NDUxOTQxNiwzNDQ0MTM2NzYsMTMwMz
 IyMTI3NCwtMTkyMzM3NjI1NCwtNjgxMzk0NjI4LDE5ODY0NDIx
 NTYsLTgxMzU0NTA0NSwtMTMxNzA1MTY0OSwxODE0NjI4Njc5LC
 04NTM0MjM2MzUsMTk4NTk1MjQyMCwxMDczOTgzMDAsLTUzMTI1
