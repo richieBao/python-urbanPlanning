@@ -98,7 +98,7 @@ The total number of clusters decreased with the increase of the clustering dista
 <p>
 <em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
 </p>
-
+180m是建成区相对w
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
@@ -120,11 +120,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OT
-Q2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAs
-MjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MD
-kyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYz
-LC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3Mz
-Q5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQzMzA2
-XX0=
+eyJoaXN0b3J5IjpbODU4NzAzNjQ1LC02MzcwNDU1MDIsLTI0Nj
+MwMjM4OCw3Nzk0NjE4NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0x
+OTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MT
+A4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwt
+MTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMj
+U1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1OF19
+
 -->
