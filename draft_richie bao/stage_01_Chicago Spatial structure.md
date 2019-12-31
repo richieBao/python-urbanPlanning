@@ -52,7 +52,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 <p align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_5.jpg" width="400"> 
 </p>
-<p>
+<p align="right">
 <em>遥感影像解译</em>
 </p>
 
@@ -83,11 +83,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MTI1MjgwLDE5ODY0NDIxNTYsLTgxMz
-U0NTA0NSwtMTMxNzA1MTY0OSwxODE0NjI4Njc5LC04NTM0MjM2
-MzUsMTk4NTk1MjQyMCwxMDczOTgzMDAsLTUzMTI1NDMyMiwtMT
-E5NTUyNzIyOCwtNTA0NDIyNzEyLDEyMzcwMjQ0MzEsODE5Mjg1
-NTAyLC0xNzc5ODY1NDQsLTIwODg2MzIxNzksLTY0NTAxMTUwMS
-wyMDE1ODU5NTYxLDkzNzQ0Nzg2MywtMTAzNTI0Mjg2MiwtMTY3
-NDQzNDM0Ml19
+eyJoaXN0b3J5IjpbLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MT
+M1NDUwNDUsLTEzMTcwNTE2NDksMTgxNDYyODY3OSwtODUzNDIz
+NjM1LDE5ODU5NTI0MjAsMTA3Mzk4MzAwLC01MzEyNTQzMjIsLT
+ExOTU1MjcyMjgsLTUwNDQyMjcxMiwxMjM3MDI0NDMxLDgxOTI4
+NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02NDUwMTE1MD
+EsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEwMzUyNDI4NjIsLTE2
+NzQ0MzQzNDJdfQ==
 -->
