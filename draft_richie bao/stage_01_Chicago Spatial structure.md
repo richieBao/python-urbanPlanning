@@ -91,7 +91,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <p>
 <em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
-聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上，是
+聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -112,11 +112,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI1NjE1NjIsLTE5NjQ1OTc4MzAsMj
-MwNDYzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MDky
-NDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC
-0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5
-NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQzMzA2LD
-M0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOTIzMzc2MjU0LC02ODEz
-OTQ2MjhdfQ==
+eyJoaXN0b3J5IjpbODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMD
+Q2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQw
+MzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMT
+I0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTcz
+NDUsLTI3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMwNiwzND
+Q0MTM2NzYsMTMwMzIyMTI3NCwtMTkyMzM3NjI1NCwtNjgxMzk0
+NjI4XX0=
 -->
