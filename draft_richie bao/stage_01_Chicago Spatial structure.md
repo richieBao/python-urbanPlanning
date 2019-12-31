@@ -108,7 +108,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 <p align="center">
-<em>图8 最大聚类区域两两层级的变化 /Fig8 the maximum clustering region changes in two levels</em>
+<em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at </em>
 </p>
 
 
@@ -128,11 +128,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkyMzgwNDgsLTU2ODQ0OTk4MSwtMT
-EwMzU2ODIyNywtNjM3MDQ1NTAyLC0yNDYzMDIzODgsNzc5NDYx
-ODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMz
-A0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0
-MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLT
-EyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMzczNDk3
-MzQ1XX0=
+eyJoaXN0b3J5IjpbMzk3NTE0MzE4LC01Njg0NDk5ODEsLTExMD
+M1NjgyMjcsLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OTQ2MTg0
+Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAsMjMwND
+YzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MDkyNDAz
+NiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC0xMj
+Q4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5NzM0
+NV19
 -->
