@@ -91,7 +91,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <p>
 <em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
-</br></br>
+聚类总数随着聚类距离的增加而降低，在180m拐点之前降低的速度较之之后快，该gu
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -112,11 +112,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzND
-cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
-LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNz
-MyNTUyOTgwLDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4
-LC0xNjU5MTQzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOT
-IzMzc2MjU0LC02ODEzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1
-MDQ1XX0=
+eyJoaXN0b3J5IjpbLTEzMzk3NjkyNiwyMzA0NjM1NjUsLTc3ND
+Y2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2
+MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNT
+cxMzU0OTE3LC03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNzQyMDgz
+NCw3MjQ0NDM3NTgsLTE2NTkxNDMzMDYsMzQ0NDEzNjc2LDEzMD
+MyMjEyNzQsLTE5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOTg2NDQy
+MTU2XX0=
 -->
