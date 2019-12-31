@@ -78,8 +78,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 </p>
 图3和图4则进一步说明了最大聚类区域即芝加哥主城区向外扩张延申的过程。
 </br></br>
-Fig.3 and Fig 4 further illustrate the process of the expansion and extension 
-
+Fig.3 and Fig 4 further illustrate the process of the expansion and extension of the maximum clustering area, namely the main city of Chicago.
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
 
@@ -105,11 +104,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYyMjUxODgsMTEzNDcxMDgxNiwtMT
-M4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3
-NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLD
-M3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQz
-MzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOTIzMzc2MjU0LC
-02ODEzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1MDQ1LC0xMzE3
-MDUxNjQ5XX0=
+eyJoaXN0b3J5IjpbLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMz
+gwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0
+NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC03MzI1NTI5ODAsMz
+czNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMz
+MDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLT
+Y4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcw
+NTE2NDldfQ==
 -->
