@@ -106,7 +106,7 @@ The total number of clusters decreased with the increase of the clustering dista
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
 采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团自身在空间上是连续的。为了探究空间上连续的程度，计算每一单元与周边单元在连续卷积核距离下的连接程度，计算结果如图8。
 
-The distance clustering method can be used to gather the positions 
+The distance clustering method can be used to gather the positions that meet the requirements of the specific distance, and each cluster itself is spatically continous. In order to explore the degree of spatial continuity, 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 <p align="center">
 <em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at continuous convolution kernel distance</em>
@@ -129,11 +129,11 @@ The distance clustering method can be used to gather the positions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjMxMjk2NywtNTY4NDQ5OTgxLC0xMT
-AzNTY4MjI3LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4
-NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMD
-Q2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQw
-MzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMT
-I0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTcz
-NDVdfQ==
+eyJoaXN0b3J5IjpbMzAyOTQ5MjgzLC01Njg0NDk5ODEsLTExMD
+M1NjgyMjcsLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OTQ2MTg0
+Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAsMjMwND
+YzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MDkyNDAz
+NiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC0xMj
+Q4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5NzM0
+NV19
 -->
