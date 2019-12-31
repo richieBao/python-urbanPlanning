@@ -67,7 +67,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands (except the eastern lake district), ending at Fox river and Fox lake, and extending partly to the west of Fox river. When the clustering distance was 480 m, road Tri-State Tollway extends as far north as Waukegan, road Jane Addams Memorial Tollway(Toll road) extends as far northwest as Belvidere and Rockford, rivers Fox river and Illinois river extends as far southwest as Ottawa.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_8.jpg)
 <p align="center">
-<em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
+<em>图3 最大聚类区域两两层级的变化 /Fig3 the maximum clustering region changes in two levels</em>
 </p>
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
 <p align="center">
@@ -100,7 +100,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAyNjE5MTQsMTUwMTM0OTYzNyw1Nz
+eyJoaXN0b3J5IjpbLTEzNjc1NDUwNDgsMTUwMTM0OTYzNyw1Nz
 U1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5
 MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyND
 Q0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3
