@@ -86,8 +86,10 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400">  
 </p>
 <p>
-<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
-<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
+<em>图5 聚类总数变化曲线及其拐点 /Fig5 continous expansion of the maximum clustering region</em>
+</p>
+<p>
+<em>图6 最大聚类区域的连续扩张 /Fig6 continous expansion of the maximum clustering region</em>
 </p>
 </br></br>
 
@@ -110,7 +112,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk1NzAzODUsLTc3NDY2ODU3MSwxMT
+eyJoaXN0b3J5IjpbLTIwNzY3Nzk5NjksLTc3NDY2ODU3MSwxMT
 M0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4
 MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC
 03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3
