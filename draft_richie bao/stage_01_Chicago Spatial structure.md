@@ -55,7 +55,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 <p align="right">
 <em>图1 遥感影像解译 /Fig1 remote sensing imagery interpretation</em>
 </p>
-首先利用Landsat 8遥感影像解译所需要的用地类型，如图1。
+首先利用Landsat 8遥感影像解译所需要的用地类型，如图1。影像的分辨率为30m，如果30
 
 
 
@@ -83,11 +83,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MjUzNDQ2LC02ODEzOTQ2MjgsMTk4Nj
-Q0MjE1NiwtODEzNTQ1MDQ1LC0xMzE3MDUxNjQ5LDE4MTQ2Mjg2
-NzksLTg1MzQyMzYzNSwxOTg1OTUyNDIwLDEwNzM5ODMwMCwtNT
-MxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0MjI3MTIsMTIzNzAy
-NDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMjA4ODYzMjE3OS
-wtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3NDQ3ODYzLC0xMDM1
-MjQyODYyXX0=
+eyJoaXN0b3J5IjpbLTE5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOT
+g2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcwNTE2NDksMTgxNDYy
+ODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0MjAsMTA3Mzk4MzAwLC
+01MzEyNTQzMjIsLTExOTU1MjcyMjgsLTUwNDQyMjcxMiwxMjM3
+MDI0NDMxLDgxOTI4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMT
+c5LC02NDUwMTE1MDEsMjAxNTg1OTU2MSw5Mzc0NDc4NjMsLTEw
+MzUyNDI4NjJdfQ==
 -->
