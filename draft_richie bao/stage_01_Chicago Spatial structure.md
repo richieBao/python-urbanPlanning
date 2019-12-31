@@ -89,7 +89,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 聚类总数随着聚类距离的增加而降低（图4），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图5中可以观察到，建成区基本位于海拔约200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，同时Des Plaines river在两岸延西向拓展。
 </br></br>
 The total number of clusters decreased with the increase of the clustering distance(Fig 5), and the rate of the decline before the inflection point of 180m was faster than after. The infleciton point indicates that the urban built-up area reaches a relatively stable state under this distance during the expansion process. Natural factors play a major role in this process. As can been seen from Fig.6, the built-up area is basically located at an altitude of about 200m and below, while most of the early building began on low dunes around the Chicago River's mouth. The area developed along the north and south direction of the Fox river to some extent establishes a connection with the city of Chicago by attracting each other in the east and west direction, and the Des Planines river expands westward on both sides.
-<p align="right">
+<p>
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg)
 
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
@@ -120,11 +120,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MT
-A3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwt
-Nzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMT
-M0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQz
-NSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLTI3ND
-IwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzZd
-fQ==
+eyJoaXN0b3J5IjpbLTE5MTA5MTgwOTYsLTI0NjMwMjM4OCw3Nz
+k0NjE4NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMw
+LDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzOD
+A5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2
+MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNz
+M0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMw
+Nl19
 -->
