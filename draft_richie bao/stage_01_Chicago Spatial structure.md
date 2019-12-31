@@ -81,22 +81,25 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400">  
 </p>
 <p>
-<em>图5 聚类总数变化曲线及其拐点 /Fig5 the change line graph of the total number of clusters and its inflection point</em>
+<em>图4 聚类总数变化曲线及其拐点 /Fig4 the change line graph of the total number of clusters and its inflection point</em>
 </p>
 <p>
-<em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
+<em>图5 180m聚类距离最大聚类区域及水文要素 /Fig5 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
-聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔约200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，同时Des Plaines river在两岸延西向拓展。
+聚类总数随着聚类距离的增加而降低（图4），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图5中可以观察到，建成区基本位于海拔约200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，同时Des Plaines river在两岸延西向拓展。
 </br></br>
 The total number of clusters decreased with the increase of the clustering distance(Fig 5), and the rate of the decline before the inflection point of 180m was faster than after. The infleciton point indicates that the urban built-up area reaches a relatively stable state under this distance during the expansion process. Natural factors play a major role in this process. As can been seen from Fig.6, the built-up area is basically located at an altitude of about 200m and below, while most of the early building began on low dunes around the Chicago River's mouth. The area developed along the north and south direction of the Fox river to some extent establishes a connection with the city of Chicago by attracting each other in the east and west direction, and the Des Planines river expands westward on both sides.
 <p align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400">
-<p>
-![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
-<p align="center">
-<em>图4 最大聚类区域的连续扩张 /Fig4 continous expansion of the maximum clustering region</em>
-</p>
+![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg)
 
+![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
+</p>
+<p>
+<em>图6 最大聚类区域的连续扩张 /Fig6 continous expansion of the maximum clustering region</em>
+</p>
+<p>
+<em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
+</p>
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -117,7 +120,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjYwNTcxMCw3Nzk0NjE4NDMsNzI2MT
+eyJoaXN0b3J5IjpbLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MT
 A3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwt
 Nzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMT
 M0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQz
