@@ -65,7 +65,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 </p>
 图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lake止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Des Plaines river至西南Ottawa。
 </br></br>
-Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands (except the eastern lake district), ending at Fox river and Fox lake, and extending partly to the west of Fox river. When the clustering distance was 480 m, road Tri-State Tollway extends as far north as Waukegan, road Jane Addams Memorial Tollway(Toll road) extends as far northwest as Belvidere and Rockford, rivers Fox river and Illinois river extends as far southwest as Ottawa.
+Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands (except the eastern lake district), ending at Fox river and Fox lake, and extending partly to the west of Fox river. When the clustering distance was 480 m, road Tri-State Tollway extends as far north as Waukegan, road Jane Addams Memorial Tollway(Toll road) extends as far northwest as Belvidere and Rockford, rivers Fox river and Des Plaines river extends as far southwest as Ottawa.
 
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_8.jpg)
 <p align="center">
@@ -91,7 +91,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <p>
 <em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
-聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，
+聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，同时Des Plaines river在东西x'xiang两岸
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -112,11 +112,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUwNTU4MjgsNzI2MTA3NzMsODQ2Nz
-I2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcx
-LDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1Nz
-U1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5
-MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyND
-Q0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3
-NF19
+eyJoaXN0b3J5IjpbLTc5MTY1NzYzMCw3MjYxMDc3Myw4NDY3Mj
+YzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEs
+MTEzNDcxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NT
+UwODA1LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkx
+NywtNzMyNTUyOTgwLDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0ND
+QzNzU4LC0xNjU5MTQzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0
+XX0=
 -->
