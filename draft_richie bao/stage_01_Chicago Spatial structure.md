@@ -108,7 +108,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 <p align="center">
-<em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at </em>
+<em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at continuous convolution kernel distance</em>
 </p>
 
 
@@ -128,11 +128,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NTE0MzE4LC01Njg0NDk5ODEsLTExMD
-M1NjgyMjcsLTYzNzA0NTUwMiwtMjQ2MzAyMzg4LDc3OTQ2MTg0
-Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAsMjMwND
-YzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MDkyNDAz
-NiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYzLC0xMj
-Q4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3MzQ5NzM0
-NV19
+eyJoaXN0b3J5IjpbLTI5OTIwMDc1MywtNTY4NDQ5OTgxLC0xMT
+AzNTY4MjI3LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4
+NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMD
+Q2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQw
+MzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMT
+I0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTcz
+NDVdfQ==
 -->
