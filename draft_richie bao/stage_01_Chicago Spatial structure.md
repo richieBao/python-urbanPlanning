@@ -62,7 +62,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 <p align="center">
 <em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
 </p>
-图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。
+图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -89,11 +89,11 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTgwNTQ2LC03MzI1NTI5ODAsMzczND
-k3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3NTgsLTE2NTkxNDMzMDYs
-MzQ0NDEzNjc2LDEzMDMyMjEyNzQsLTE5MjMzNzYyNTQsLTY4MT
-M5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcwNTE2
-NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0MjAsMT
-A3Mzk4MzAwLC01MzEyNTQzMjIsLTExOTU1MjcyMjgsLTUwNDQy
-MjcxMl19
+eyJoaXN0b3J5IjpbLTE5OTU0NTczNDEsLTczMjU1Mjk4MCwzNz
+M0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMw
+NiwzNDQ0MTM2NzYsMTMwMzIyMTI3NCwtMTkyMzM3NjI1NCwtNj
+gxMzk0NjI4LDE5ODY0NDIxNTYsLTgxMzU0NTA0NSwtMTMxNzA1
+MTY0OSwxODE0NjI4Njc5LC04NTM0MjM2MzUsMTk4NTk1MjQyMC
+wxMDczOTgzMDAsLTUzMTI1NDMyMiwtMTE5NTUyNzIyOCwtNTA0
+NDIyNzEyXX0=
 -->
