@@ -98,7 +98,7 @@ The total number of clusters decreased with the increase of the clustering dista
 <p>
 <em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
 </p>
-180m是建成区相对稳定的层级，图6，7进一步印证了该结论。在
+180m是建成区相对稳定的层级，图6，7进一步印证了该结论。在180/210m
 
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
@@ -120,7 +120,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc0Mjk3NzAsLTYzNzA0NTUwMiwtMj
+eyJoaXN0b3J5IjpbLTIwOTA4MjcyNDAsLTYzNzA0NTUwMiwtMj
 Q2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUs
 LTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzND
 cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
