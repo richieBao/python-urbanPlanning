@@ -58,12 +58,13 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 首先利用Landsat 8遥感影像解译所需要的土地用地类型，如图1，影像的分辨率为30m。如果30×30m单元栅格中某一解译要素占主导数量，则标识为该元素类型，所以可以从解译影像中观察到分散的建设用地，因为绿化覆盖率较高，而大量居住建筑高度又通常低于树木高度，则该部分区域解译为植被区域。因此，基于该影像解译数据的计算是在考虑到了植被覆盖因素在内，建设用地的分布情况。
 </br></br>
 First, Landsat 8 remote sensing image is used to interpret the types of land used, as shown in figure 1. The resolution of image is 30m. If a certain interpretation element dominates the number of 30×30m grid cells, it is identified as the element type. Therefore, because the green coverage rate is high, and the height of a large number of residential buildings is usually lower than the height of trees, scatterd construction land is interpreted as a vegeation area. In consequence, the calculation based on the interpretation data of the image takes into account the distribution of construction land with vegetation cover.
+
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_6.jpg)
 <p align="center">
 <em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
 </p>
 图2中30m层级的聚类结果中，最大的聚类区域已经基本提取了芝加哥城的主要区域，并纳入了部分临近的区域，主要包括Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting等。同时沿城市主要道路延申，主要包括Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road)等。随着聚类距离的增加，城市建成区的范围延芝加哥城边界向往逐步扩展（除东部湖区外），约至Fox river和Fox lake止，在Fox river西部有部分延续。至聚类距离480m时，最远有道路Tri-State Tollway向北延伸至Waukegan，  延Jane Addams Memorial Tollway(Toll road)向西北延申至Belvidere和Rockford，延Fox river和Illinois river至西南Ottawa。
-
+</br></br>
 Among the 30m clustering results in figure 2, the largest clustering area has basically extracted the main area of Chicago city and included some adjacent areas, including Elk Grove Village, Northlack, Melrose Park, Cicero, Berwyn, Summit, Bedford Park, Evergreen Park, Whiting etc. Meanwhile, it extends along the main roads of the city, mainly including Tri-State Tollway(Toll road), Jane Addams Memorial Tollway(Toll road), Chicago-Kansas City Expy(Toll road), etc. With the increase of clustering distance, the scope of urban built-up area extends to the boundary of the city of Chicago and gradually expands (except the eastern lake district), ending at Fox river and Fox lake, and extending partly to the west of Fox river. When the clustering distance was 480 m, road Tri-State Tollway extends as far north as Waukegan, road Jane Addams Memorial Tollway(Toll road) extends as far northwest as Belvidere and Rockford, rivers Fox river and Illinois river extends as far southwest as Ottawa.
 ![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_8.jpg)
 <p align="center">
@@ -101,7 +102,7 @@ Among the 30m clustering results in figure 2, the largest clustering area has ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA3ODQ0MjAsLTEzODA5MjQwMzYsMT
+eyJoaXN0b3J5IjpbLTE4NDg0MzIxMTQsLTEzODA5MjQwMzYsMT
 UwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4
 OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNzM0OTczNDUsLT
 I3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMwNiwzNDQ0MTM2
