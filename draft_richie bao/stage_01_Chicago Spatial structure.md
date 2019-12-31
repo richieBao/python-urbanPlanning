@@ -62,7 +62,7 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 <p align="center">
 <em>图2 建成区连续距离聚类结果 /Fig2 continuous distance clustering results based on built-up area</em>
 </p>
-
+图2中30m层级的聚类结果已经基本提取了芝加哥城的主要区域，
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -89,11 +89,11 @@ First, Landsat 8 remote sensing image is used to interpret the types of land use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxNDMzMDYsMzQ0NDEzNjc2LDEzMD
-MyMjEyNzQsLTE5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOTg2NDQy
-MTU2LC04MTM1NDUwNDUsLTEzMTcwNTE2NDksMTgxNDYyODY3OS
-wtODUzNDIzNjM1LDE5ODU5NTI0MjAsMTA3Mzk4MzAwLC01MzEy
-NTQzMjIsLTExOTU1MjcyMjgsLTUwNDQyMjcxMiwxMjM3MDI0ND
-MxLDgxOTI4NTUwMiwtMTc3OTg2NTQ0LC0yMDg4NjMyMTc5LC02
-NDUwMTE1MDFdfQ==
+eyJoaXN0b3J5IjpbNzI0NDQzNzU4LC0xNjU5MTQzMzA2LDM0ND
+QxMzY3NiwxMzAzMjIxMjc0LC0xOTIzMzc2MjU0LC02ODEzOTQ2
+MjgsMTk4NjQ0MjE1NiwtODEzNTQ1MDQ1LC0xMzE3MDUxNjQ5LD
+E4MTQ2Mjg2NzksLTg1MzQyMzYzNSwxOTg1OTUyNDIwLDEwNzM5
+ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0MjI3MT
+IsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NCwtMjA4
+ODYzMjE3OV19
 -->
