@@ -90,9 +90,9 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 </br></br>
 The total number of clusters decreased with the increase of the clustering distance(Fig 5), and the rate of the decline before the inflection point of 180m was faster than after. The infleciton point indicates that the urban built-up area reaches a relatively stable state under this distance during the expansion process. Natural factors play a major role in this process. As can been seen from Fig.6, the built-up area is basically located at an altitude of about 200m and below, while most of the early building began on low dunes around the Chicago River's mouth. The area developed along the north and south direction of the Fox river to some extent establishes a connection with the city of Chicago by attracting each other in the east and west direction, and the Des Planines river expands westward on both sides.
 <p>
-![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg)
+![  ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg)
 
-![ ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
+![  ](https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg)
 </p>
 <p>
 <em>图6 最大聚类区域的连续扩张 /Fig6 continous expansion of the maximum clustering region</em>
@@ -120,11 +120,11 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA5MTgwOTYsLTI0NjMwMjM4OCw3Nz
-k0NjE4NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMw
-LDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzOD
-A5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2
-MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLTczMjU1Mjk4MCwzNz
-M0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1OCwtMTY1OTE0MzMw
-Nl19
+eyJoaXN0b3J5IjpbMTg1MDczNDcwNCwtMjQ2MzAyMzg4LDc3OT
+Q2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5NjQ1OTc4MzAs
+MjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgxNiwtMTM4MD
+kyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1LC0xNDcwNjI3NDYz
+LC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNzMyNTUyOTgwLDM3Mz
+Q5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4LC0xNjU5MTQzMzA2
+XX0=
 -->
