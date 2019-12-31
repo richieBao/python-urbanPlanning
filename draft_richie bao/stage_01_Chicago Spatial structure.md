@@ -109,13 +109,15 @@ The total number of clusters decreased with the increase of the clustering dista
 The distance clustering method can be used to gather the positions that meet the requirements of the specific distance, and each cluster itself is spatically continous. In order to explore the degree of spatial continuity, the connection degree between each cell and the surrounding cells under the distance of continuous convolution kernel is calculated, and the calculated result is shown in Fig 8.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 <p align="center">
-<em>图8 连续卷积核距离下的连接度 /Fig8 connection degree at continuous convolution kernel distance</em>
+<em>图8 连续卷积核距离下的连接度 /Fig 8 connection degree at continuous convolution kernel distance</em>
 </p>
 当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
 
 When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attitude resolution is 90×90m square, the connections of each cell are basically the same, with the increase of convolution kernel distance, each cell connected to the peripheral cells scope expands, the connection degree of each unit is gradually began to differentiate, the cells with stronger connection degree begin to emerge. In order to clearly observe the connection degree distribution, cluster the results of connection degrees at each level, as shown in Fig 9.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_4.jpg)
-
+<p align="center">
+<em>图9 连接度聚类（前20组） /Fig 9 connection degree at continuous convolution kernel distance</em>
+</p>
 
 
 
@@ -135,11 +137,11 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1OTYyNzUsMTc1MTIyMzQ4LDQzNDg1Mz
-M2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3LC02MzcwNDU1MDIs
-LTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MTA3NzMsODQ2NzI2Mz
-Y1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDEx
-MzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MD
-gwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTdd
-fQ==
+eyJoaXN0b3J5IjpbLTIzMTYxMzM3MSwxNzUxMjIzNDgsNDM0OD
+UzMzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUw
+MiwtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3Mj
+YzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEs
+MTEzNDcxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NT
+UwODA1LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkx
+N119
 -->
