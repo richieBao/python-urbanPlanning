@@ -104,7 +104,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
-采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团
+采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团自身在空间上是连续的。
 
 
 ##### 4.2.2  连接度的关键层级确定及其空间范围变化 /critical level determinaiton of connectivity and its spacial range variation
@@ -122,7 +122,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI1NTc4MzAsLTU2ODQ0OTk4MSwtMT
+eyJoaXN0b3J5IjpbLTIwMDczODI0MDMsLTU2ODQ0OTk4MSwtMT
 EwMzU2ODIyNywtNjM3MDQ1NTAyLC0yNDYzMDIzODgsNzc5NDYx
 ODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMz
 A0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0
