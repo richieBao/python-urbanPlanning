@@ -92,7 +92,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <em>图6 180m聚类距离最大聚类区域及水文要素 /Fig6 the maximum clustering area at the 180m distance and hydrological factors</em>
 </p>
 聚类总数随着聚类距离的增加而降低（图5），在180m拐点之前降低的速度较之之后快。该拐点说明了城市建成区在扩张过程中，在该距离之下达到相对稳定的一个状态。自然因素在该过程中起到主要的作用，从图6中可以观察到，建成区基本位于海拔约200m及其以下的区域，而早期的大部分建筑就建在芝加哥河口附近的低矮沙丘上。延Fox river南北方向发展起来的区域，在一定程度上在东西向与芝加哥城相互吸引而建立联系，同时Des Plaines river在两岸延西向拓展。
-
+</br></br>
 The total number of clusters decreased with the increase of the clustering distance(Fig 5), and the rate of the decline before the inflection point of 180m was faster than after. The infleciton point indicates that the urban built-up area reaches a relatively stable state under this distance during the expansion process. Natural factors play a major role in this process. As can been seen from Fig.6, the built-up area is basically located at an altitude of about 200m and below, while most of the early building began on low dunes around the Chicago River's mouth. The area developed along the north and south direction of the Fox river to some extent establishes a connection with the city of Chicago by attracting each other in the east and west direction, and the Des Planines river expands westward on both sides.
 
 
@@ -115,7 +115,7 @@ The total number of clusters decreased with the increase of the clustering dista
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwNjM1NzUsNzc5NDYxODQzLDcyNj
+eyJoaXN0b3J5IjpbLTExODM2NDgzMTEsNzc5NDYxODQzLDcyNj
 EwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMzA0NjM1NjUs
 LTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0MDM2LDE1MD
 EzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0
