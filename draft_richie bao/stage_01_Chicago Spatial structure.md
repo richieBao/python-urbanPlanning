@@ -85,7 +85,7 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400" align="left">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400" align="right">  
 </p>
-
+</br></br>
 
 #### 4.2 建成区连接度及其关键层级边缘 /connectivity of built-up areas and their critical level edges
 ##### 4.2.1 建成区连接度及其各个层级最大聚类的变化 /the connectivity  of built-up areas and the variation of maximum clustering at each level
@@ -106,11 +106,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTY4OTIxNSwtNzc0NjY4NTcxLDExMz
-Q3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgw
-NSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQzNSw1NzEzNTQ5MTcsLT
-czMjU1Mjk4MCwzNzM0OTczNDUsLTI3NDIwODM0LDcyNDQ0Mzc1
-OCwtMTY1OTE0MzMwNiwzNDQ0MTM2NzYsMTMwMzIyMTI3NCwtMT
-kyMzM3NjI1NCwtNjgxMzk0NjI4LDE5ODY0NDIxNTYsLTgxMzU0
-NTA0NV19
+eyJoaXN0b3J5IjpbLTE1NDY2MTkxNjcsLTc3NDY2ODU3MSwxMT
+M0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4
+MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC
+03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3
+NTgsLTE2NTkxNDMzMDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLT
+E5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1
+NDUwNDVdfQ==
 -->
