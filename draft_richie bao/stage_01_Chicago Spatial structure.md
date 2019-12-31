@@ -55,7 +55,7 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 <p align="right">
 <em>图1 遥感影像解译 /Fig1 remote sensing imagery interpretation</em>
 </p>
-首先利用Landsat 8遥感影像解译所需要的用地类型，如图1。影像的分辨率为30m，
+首先利用Landsat 8遥感影像解译所需要的用地类型，如图1。影像的分辨率为30m，如果30×30m单元栅格中某一解译要素占主导数量，则标识为该元素类型，所以可以con
 
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
@@ -82,11 +82,11 @@ The result of calculating connectivity degree will obtain the numerical mark of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE3ODE5NzMsLTE5MjMzNzYyNTQsLT
-Y4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1NDUwNDUsLTEzMTcw
-NTE2NDksMTgxNDYyODY3OSwtODUzNDIzNjM1LDE5ODU5NTI0Mj
-AsMTA3Mzk4MzAwLC01MzEyNTQzMjIsLTExOTU1MjcyMjgsLTUw
-NDQyMjcxMiwxMjM3MDI0NDMxLDgxOTI4NTUwMiwtMTc3OTg2NT
-Q0LC0yMDg4NjMyMTc5LC02NDUwMTE1MDEsMjAxNTg1OTU2MSw5
-Mzc0NDc4NjNdfQ==
+eyJoaXN0b3J5IjpbNzgyMTk0NzUzLC0xOTIzMzc2MjU0LC02OD
+EzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1MDQ1LC0xMzE3MDUx
+NjQ5LDE4MTQ2Mjg2NzksLTg1MzQyMzYzNSwxOTg1OTUyNDIwLD
+EwNzM5ODMwMCwtNTMxMjU0MzIyLC0xMTk1NTI3MjI4LC01MDQ0
+MjI3MTIsMTIzNzAyNDQzMSw4MTkyODU1MDIsLTE3Nzk4NjU0NC
+wtMjA4ODYzMjE3OSwtNjQ1MDExNTAxLDIwMTU4NTk1NjEsOTM3
+NDQ3ODYzXX0=
 -->
