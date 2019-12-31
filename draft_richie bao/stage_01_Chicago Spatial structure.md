@@ -82,8 +82,8 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 ##### 4.4.2 关键层级的提取及其覆盖范围 /extraction of critical levels and their coverage
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400" align="left">  
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400" align="right">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_1.jpg" width="400">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_01.jpg" width="400">  
 </p>
 </br></br>
 
@@ -106,11 +106,11 @@ Fig.3 and Fig 4 further illustrate the process of the expansion and extension of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY2MTkxNjcsLTc3NDY2ODU3MSwxMT
-M0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NTA4
-MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3LC
-03MzI1NTI5ODAsMzczNDk3MzQ1LC0yNzQyMDgzNCw3MjQ0NDM3
-NTgsLTE2NTkxNDMzMDYsMzQ0NDEzNjc2LDEzMDMyMjEyNzQsLT
-E5MjMzNzYyNTQsLTY4MTM5NDYyOCwxOTg2NDQyMTU2LC04MTM1
-NDUwNDVdfQ==
+eyJoaXN0b3J5IjpbNTg3NjAxMTU0LC03NzQ2Njg1NzEsMTEzND
+cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
+LC0xNDcwNjI3NDYzLC0xMjQ4MTg5NDM1LDU3MTM1NDkxNywtNz
+MyNTUyOTgwLDM3MzQ5NzM0NSwtMjc0MjA4MzQsNzI0NDQzNzU4
+LC0xNjU5MTQzMzA2LDM0NDQxMzY3NiwxMzAzMjIxMjc0LC0xOT
+IzMzc2MjU0LC02ODEzOTQ2MjgsMTk4NjQ0MjE1NiwtODEzNTQ1
+MDQ1XX0=
 -->
