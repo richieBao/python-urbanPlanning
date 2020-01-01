@@ -159,17 +159,17 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
  'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way'
  'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps'
  'speed_camera' 'street_lamp' 'rest_area' 'footway']
- ```
+```
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODM1MDUwOCwxNzUxNjgxMzEyLC00NT
-UzNjk2MTUsLTE0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0
-NDk4LC01MTM3MDYwODUsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMj
-c3NzgzODI4LC0xNzQwMTczNjU5LDEwMjEwNzIxNjEsLTM4Njc4
-NjM4OSwtMTEwMDk2ODU5OCwxMDM1NTg1ODk4LDE0ODk3OTUyNT
-YsLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMjgwMTUzNjYzLC0x
-NjczNDYzNDEyXX0=
+eyJoaXN0b3J5IjpbLTE2NzgwMjE2MDgsMTc1MTY4MTMxMiwtND
+U1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4
+NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLT
+I3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3
+ODYzODksLTExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1Mj
+U2LC0xMDg5MDY4MTEsLTE5Mjc2MDY3ODQsMTI4MDE1MzY2Mywt
+MTY3MzQ2MzQxMl19
 -->
