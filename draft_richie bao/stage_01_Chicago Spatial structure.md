@@ -194,16 +194,18 @@ City life behavior is affected by the distance, in line with the clustering resu
 ### 4 结果 /results
 #### 4.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征 /Based on the location information of nodes, study the spatial distance hierachy variation characteristics
 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_01.jpg)
+
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NT
-g4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIz
-ODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MC
-wxMzU4OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4
-MTMxMiwtNDU1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3Nz
-AsLTY3NDE4NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1
-NTcyNzFdfQ==
+eyJoaXN0b3J5IjpbLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0Nj
+AyNzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUw
+ODM1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2Ni
+wtNTE0MTQ1NjYwLDEzNTg5NTk1MTQsOTYxMTM2OTAxLDI0OTg1
+NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUsLTE0NzIzMTU4Mz
+IsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MTM3MDYwODUsOTYx
+MzEzNjQ4XX0=
 -->
