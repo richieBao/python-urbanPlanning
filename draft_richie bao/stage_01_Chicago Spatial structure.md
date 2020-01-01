@@ -176,7 +176,7 @@ Since each point data represents the potential daily behavior activities of peop
 #### 3.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征 /Based on the location information of nodes, study the spatial distance hierachy variation characteristics
 基于OSM的Nodes的位置信息发现城市生活空间的行为结果，将会包含两层含义，一层是数据本身所具有的属性意义，所包含的数据越准确，越全面，则分析的结果趋于真实；另一层是数据建立的行为，因为OSM数据的收集包含志愿者参与数据贡献的行为，某些区域可能广为关注，而部分区域则少人问津，因此会存在同类数据分布的不平衡，但同时也反应了人们更为关注的城市区域。
 
-城市生活行为是受到距离的影响，在不同的距离区间下，人们的生活行为往往会存在差异。因此发展了关于城市生活圈的研究，例如<![endif]--> 按照居民日常生活中各类活动发生的时间、空间以及功能特征，可以将居民的日常生活圈划分为五个等级层次，包括社会生活圈、基本生活圈、通勤生活圈、扩展生活圈以及都市区之间的协调生活圈<柴彦威,张雪,孙道胜.基于时空间行为的城市生活圈规划研究——以北京市为例[J].城市规划学刊,2015(03):61-69.>。在探索这些具有属性特征Nodes时，基于 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）聚类分析。
+城市生活行为是受到距离的影响，在不同的距离区间下，人们的生活行为往往会存在差异。因此发展了关于城市生活圈的研究，例如按照居民日常生活中各类活动发生的时间、空间以及功能特征，可以将居民的日常生活圈划分为五个等级层次，包括社会生活圈、基本生活圈、通勤生活圈、扩展生活圈以及都市区之间的协调生活圈*(柴彦威,张雪,孙道胜.基于时空间行为的城市生活圈规划研究——以北京市为例[J].城市规划学刊,2015(03):61-69.)*。在探索这些具有属性特征Nodes时，基于 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）聚类分析。
 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
@@ -184,11 +184,11 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjEzODg1MSwtMzM3OTIzODIyLDE3MT
-UyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MCwxMzU4OTU5
-NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMiwtND
-U1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4
-NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLT
-I3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3
-ODYzODldfQ==
+eyJoaXN0b3J5IjpbLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNz
+E1MjgzOTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1
+OTUxNCw5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLT
+Q1NTM2OTYxNSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQx
+ODQ0OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC
+0yNzc3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2
+Nzg2Mzg5XX0=
 -->
