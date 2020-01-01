@@ -142,7 +142,7 @@ ___
 ### 1 背景 /background
 城市的物质空间是人类建造的城市实体，承载着人类的生活、生产活动，并在一定程度上反应了城市生活的方式。当从宏观的建成区区域落实到能进一步反应人们生活方式，具有社会属性的基础设施时，例如停车场、礼拜、餐馆、学校、  加油站、咖啡馆、快餐馆、垃圾桶、银行，自行车停车位、药房、厕所、医院、警局、诊所等，则可以进一步具体探索城市生活空间的分布结构，发现城市中人们生活的运行方式。
 
-
+The phisical space of a city is an urban entity built by human beings, carrying human life and production activities, and reflecting the way of ur
 
 
 
@@ -150,11 +150,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc5MzkwLC0yNzc3ODM4MjgsLTE3ND
-AxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAwOTY4
-NTk4LDEwMzU1ODU4OTgsMTQ4OTc5NTI1NiwtMTA4OTA2ODExLC
-0xOTI3NjA2Nzg0LDEyODAxNTM2NjMsLTE2NzM0NjM0MTIsOTc2
-MDQwNjg5LC0xMzQ2MzE4NDE4LC01NTAwODA4OCw4MzEyNTkzMj
-csMTc1MTIyMzQ4LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAz
-NTY4MjI3XX0=
+eyJoaXN0b3J5IjpbLTEyNTIwNTcxODAsLTI3Nzc4MzgyOCwtMT
+c0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3ODYzODksLTExMDA5
+Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1MjU2LC0xMDg5MDY4MT
+EsLTE5Mjc2MDY3ODQsMTI4MDE1MzY2MywtMTY3MzQ2MzQxMiw5
+NzYwNDA2ODksLTEzNDYzMTg0MTgsLTU1MDA4MDg4LDgzMTI1OT
+MyNywxNzUxMjIzNDgsNDM0ODUzMzY2LC01Njg0NDk5ODEsLTEx
+MDM1NjgyMjddfQ==
 -->
