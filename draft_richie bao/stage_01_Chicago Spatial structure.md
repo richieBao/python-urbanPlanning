@@ -180,18 +180,18 @@ Based on the location information of Nodes from OSM, the behaviour results in ur
 
 城市生活行为是受到距离的影响，在不同的距离区间下，人们的生活行为往往会存在差异。因此发展了关于城市生活圈的研究，例如按照居民日常生活中各类活动发生的时间、空间以及功能特征，可以将居民的日常生活圈划分为五个等级层次，包括社会生活圈、基本生活圈、通勤生活圈、扩展生活圈以及都市区之间的协调生活圈*(柴彦威,张雪,孙道胜.基于时空间行为的城市生活圈规划研究——以北京市为例[J].城市规划学刊,2015(03):61-69.)*。在探索这些具有属性特征Nodes，基于 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）聚类分析时，设置不同的空间距离，此次设置的距离列表为从20m到520m，每10m设置一个值，共计50个距离值。
 
-Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, according to all kinds of activity time, space, and function characteristics of resident's daily life, it can be divided into five hierarchy, refering to social life circle, basic life circle, commuter life circle, extend life circle and the coordination circle between metropolitan areas.*((yan-wei chai,zhang xue,  dao-sheng sun.A Study on Life Circle Planning Based on Space Time Behabior Analysis: A Case Study of Beijing [J]. Journal of urban planning, 2015 (03) : 61-69. )* When exploring these Nodes with attribute characteristics and base on DBSCAN（Density-Based Spatial Clustering of Applications with Noise）clustering analysis, differnet spatial distances were set. The distance list was set from 20m to 520m, and 
+Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, according to all kinds of activity time, space, and function characteristics of resident's daily life, it can be divided into five hierarchy, refering to social life circle, basic life circle, commuter life circle, extend life circle and the coordination circle between metropolitan areas.*((yan-wei chai,zhang xue,  dao-sheng sun.A Study on Life Circle Planning Based on Space Time Behabior Analysis: A Case Study of Beijing [J]. Journal of urban planning, 2015 (03) : 61-69. )* When exploring these Nodes with attribute characteristics and base on DBSCAN（Density-Based Spatial Clustering of Applications with Noise）clustering analysis, differnet spatial distances were set. The distance list was set from 20m to 520m with an inteval of 10m, a total of 50 distance values.
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc0MTQ4MjQsLTU1ODg0NzExOCwxNz
-MzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4
-Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MT
-QsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUz
-Njk2MTUsLTE0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0ND
-k4LC01MTM3MDYwODUsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMjc3
-NzgzODI4XX0=
+eyJoaXN0b3J5IjpbMTcxMDYxMTA1NCwtNTU4ODQ3MTE4LDE3Mz
+M5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1Mjgz
+OTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNC
+w5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2
+OTYxNSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OT
+gsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNzc3
+ODM4MjhdfQ==
 -->
