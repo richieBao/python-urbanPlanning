@@ -156,13 +156,14 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 图1所提取的该部分数据包括81519个点，含所有类型的标签，“other_tags”字段非空标识为66263个点，其中"key"字段包含的类型有198个，未标识部分为公路设施内容，包含内容如下列表：
 </br></br>
 The extracted data shown in Fig 1 contains 81519points, including all types of tags, "other_tags" field have 66263 points, among witch the "key" field contains 198 types, and the undentified part is the content of highway facilities, contains the following list:
->  公路设施标签 /
+
+>  公路设施标签 /highway facility label
 
 ```python
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
 
-
+> "key"字段标签（1级标签） /“key” field label ()
 因为每一个点数据均代表了人们潜在的日常行为活动，因此所使用的OSM的Nodes节点数据包括所有一级分类Key标签及公路设施部分。
  
 Since each point data represents the potential daily behavior activities of people, the Nodes node data of OSM used includes all primary classification "Key" labels and highway facilities.
@@ -176,11 +177,11 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0MjM3NTgsMTcxNTI4Mzk1NCwtMT
-Y5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MTQsOTYxMTM2
-OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUsLT
-E0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MTM3
-MDYwODUsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMjc3NzgzODI4LC
-0xNzQwMTczNjU5LDEwMjEwNzIxNjEsLTM4Njc4NjM4OSwtMTEw
-MDk2ODU5OF19
+eyJoaXN0b3J5IjpbMTEyNjYwMDc5MCwxNzE1MjgzOTU0LC0xNj
+k0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNCw5NjExMzY5
+MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMT
+Q3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcw
+NjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLT
+E3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAw
+OTY4NTk4XX0=
 -->
