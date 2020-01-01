@@ -158,17 +158,17 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 ```python
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
-因为每一个点数据均代表了人们
+因为每一个点数据均代表了人们潜在的日常行为活动，因此所使用的OSM的Nodes节点数据包括Key标签
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMDU3MzM4LDk2MTEzNjkwMSwyNDk4NT
-c1NTAsMTc1MTY4MTMxMiwtNDU1MzY5NjE1LC0xNDcyMzE1ODMy
-LC00MDUxNTU3NzAsLTY3NDE4NDQ5OCwtNTEzNzA2MDg1LDk2MT
-MxMzY0OCw3ODc1NTcyNzEsLTI3Nzc4MzgyOCwtMTc0MDE3MzY1
-OSwxMDIxMDcyMTYxLC0zODY3ODYzODksLTExMDA5Njg1OTgsMT
-AzNTU4NTg5OCwxNDg5Nzk1MjU2LC0xMDg5MDY4MTEsLTE5Mjc2
-MDY3ODRdfQ==
+eyJoaXN0b3J5IjpbMTMwNzc2MjkxNSw5NjExMzY5MDEsMjQ5OD
+U3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgz
+MiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcwNjA4NSw5Nj
+EzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLTE3NDAxNzM2
+NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAwOTY4NTk4LD
+EwMzU1ODU4OTgsMTQ4OTc5NTI1NiwtMTA4OTA2ODExLC0xOTI3
+NjA2Nzg0XX0=
 -->
