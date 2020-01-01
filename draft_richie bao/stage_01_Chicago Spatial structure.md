@@ -123,7 +123,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 <p align="center">
 <em>图10 3×3m连接度聚类分布（前20组） /Fig 103×3m connectivity clustering distribution (first 20 groups)</em>
 </p>
-计算建成区的连接度，最小距离卷积核计算结果呈现出最大关联的区域，也是绿地率相对较小的区域。从图10结果分析，从芝加哥市中心向外延申为连续的建成区域，以W Garfield Blvd和CSXT运输铁路为界，主要集中于其北部和西部，是面积最大的连续建成区。
+计算建成区的连接度，最小距离卷积核计算结果呈现出最大关联的区域，也是绿地率相对较小的区域。从图10结果分析，从芝加哥市中心向外延申为连续的建成区域，以W Garfield Blvd和CSXT运输铁路为界，主要集中于其北部和西部，是面积最大的连续建成区。同时机场# O'Hare International Airport和
 
 
 ##### 4.2.2  连接度的关键层级确定及其空间范围变化 /critical level determinaiton of connectivity and its spacial range variation
@@ -141,11 +141,11 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODA4MTIzMiw5NzYwNDA2ODksLTEzND
-YzMTg0MTgsLTU1MDA4MDg4LDgzMTI1OTMyNywxNzUxMjIzNDgs
-NDM0ODUzMzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNz
-A0NTUwMiwtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4
-NDY3MjYzNjUsLTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Nj
-g1NzEsMTEzNDcxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3
-XX0=
+eyJoaXN0b3J5IjpbLTE2NDYzODc3ODAsOTc2MDQwNjg5LC0xMz
+Q2MzE4NDE4LC01NTAwODA4OCw4MzEyNTkzMjcsMTc1MTIyMzQ4
+LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3LC02Mz
+cwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MTA3NzMs
+ODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0Nj
+Y4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYz
+N119
 -->
