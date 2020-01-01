@@ -180,18 +180,18 @@ Based on the location information of Nodes from OSM, the behaviour results in ur
 
 城市生活行为是受到距离的影响，在不同的距离区间下，人们的生活行为往往会存在差异。因此发展了关于城市生活圈的研究，例如按照居民日常生活中各类活动发生的时间、空间以及功能特征，可以将居民的日常生活圈划分为五个等级层次，包括社会生活圈、基本生活圈、通勤生活圈、扩展生活圈以及都市区之间的协调生活圈*(柴彦威,张雪,孙道胜.基于时空间行为的城市生活圈规划研究——以北京市为例[J].城市规划学刊,2015(03):61-69.)*。在探索这些具有属性特征Nodes，基于 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）聚类分析时，设置不同的空间距离，此次设置的距离列表为从20m到520m，每10m设置一个值，共计50个距离值。
 
-Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, 
+Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, according to all kinds of activity time, space, and function characteristics of resident's daily life, 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMz
-M3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0
-NTY2MCwxMzU4OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMT
-c1MTY4MTMxMiwtNDU1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUx
-NTU3NzAsLTY3NDE4NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OC
-w3ODc1NTcyNzEsLTI3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIx
-MDcyMTYxXX0=
+eyJoaXN0b3J5IjpbLTI2MTM3ODA1NiwxNzMzOTc2NzM3LC0xOD
+MxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0
+MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MTQsOTYxMTM2OTAxLD
+I0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUsLTE0NzIz
+MTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MTM3MDYwOD
+UsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMjc3NzgzODI4LC0xNzQw
+MTczNjU5XX0=
 -->
