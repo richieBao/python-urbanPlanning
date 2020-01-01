@@ -123,7 +123,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 <p align="center">
 <em>图10 3×3m连接度聚类分布（前20组） /Fig 103×3m connectivity clustering distribution (first 20 groups)</em>
 </p>
-
+计算建成区的连接度，最小卷积核
 
 
 ##### 4.2.2  连接度的关键层级确定及其空间范围变化 /critical level determinaiton of connectivity and its spacial range variation
@@ -141,11 +141,11 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTc0NzgyNCw4MzEyNTkzMjcsMTc1MT
-IyMzQ4LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3
-LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MT
-A3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwt
-Nzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMT
-M0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQz
-NV19
+eyJoaXN0b3J5IjpbLTIxMTA5NjY3ODIsODMxMjU5MzI3LDE3NT
+EyMjM0OCw0MzQ4NTMzNjYsLTU2ODQ0OTk4MSwtMTEwMzU2ODIy
+NywtNjM3MDQ1NTAyLC0yNDYzMDIzODgsNzc5NDYxODQzLDcyNj
+EwNzczLDg0NjcyNjM2NSwtMTk2NDU5NzgzMCwyMzA0NjM1NjUs
+LTc3NDY2ODU3MSwxMTM0NzEwODE2LC0xMzgwOTI0MDM2LDE1MD
+EzNDk2MzcsNTc1NTA4MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0
+MzVdfQ==
 -->
