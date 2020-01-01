@@ -184,7 +184,7 @@ Urban living behavior is influenced by distance, and people's living behavior is
 
 同时为了观察各个层级聚类结果中最大组团的变化，分别增加字段“idx"和“layer”，其中每一层级的"idx"字段值均为1，对求和所有层级，则值越大的区域在各层级中出现的次数越多，可以观察最大组团扩张的趋势；而每一层级的“layer”字段为层级标识，融合时按照顺序保留字段值，重叠的区域仅保留上层字段值，计算结果反应了节点在各个层级下出现的次序。
 
-Meanwhile, in order to observe the change of the largest group in the clustering resluts of each level, the field "idx" and "layer" were added, where the field value of "idx" in each level was 1, if the sum was applied to all levels, the larger the value, the more times the area appeared in each level, and the trend of the largest group expansion could be observed. The "layer" field of each layer is the identificaiton of the hierarchy, and the value of the field is kept in order druing  
+Meanwhile, in order to observe the change of the largest group in the clustering resluts of each level, the field "idx" and "layer" were added, where the field value of "idx" in each level was 1, if the sum was applied to all levels, the larger the value, the more times the area appeared in each level, and the trend of the largest group expansion could be observed. The "layer" field of each layer is the identificaiton of the hierarchy, and the value of the field is kept in order during the fusion, while only the value of upper layer field is kept in the overlapping area. The calculated results reflects the order in which the nodes appera 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 城市生活行为受到距离的影响，根据每一层级的聚类结果，通过建立聚类最大总数、独立点频数与聚类距离的关系曲线，计算拐点，以及通过建立聚类频数与聚类距离的箱型图，确定城市生活空间的关键距离层级。
@@ -199,7 +199,7 @@ City life behavior is affected by the distance, in line with the clustering resu
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjcyMjkzNiw0NjAyNzkzMjgsLTU1OD
+eyJoaXN0b3J5IjpbMTYxNTk2OTAzOSw0NjAyNzkzMjgsLTU1OD
 g0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4
 MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLD
 EzNTg5NTk1MTQsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgx
