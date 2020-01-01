@@ -156,6 +156,7 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 图1所提取的该部分数据包括81519个点，含所有类型的标签，“other_tags”字段非空标识为66263个点，其中"key"字段包含的类型有198个，未标识部分为公路设施内容，包含内容如下列表：
 </br></br>
 The extracted data shown in Fig 1 contains 81519points, including all types of tags, "other_tags" field have 66263 points, among witch the "key" field contains 198 types, and the undentified part is the content of highway facilities, contains the following list:
+
 ```python
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
@@ -168,7 +169,7 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjMyMTQ5OCw5NjExMzY5MDEsMjQ5OD
+eyJoaXN0b3J5IjpbMTk5MTEwMjM5Miw5NjExMzY5MDEsMjQ5OD
 U3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgz
 MiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcwNjA4NSw5Nj
 EzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLTE3NDAxNzM2
