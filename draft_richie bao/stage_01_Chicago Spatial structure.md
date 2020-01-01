@@ -182,7 +182,7 @@ Based on the location information of Nodes from OSM, the behaviour results in ur
 
 Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, according to all kinds of activity time, space, and function characteristics of resident's daily life, it can be divided into five hierarchy, refering to social life circle, basic life circle, commuter life circle, extend life circle and the coordination circle between metropolitan areas.*((yan-wei chai,zhang xue,  dao-sheng sun.A Study on Life Circle Planning Based on Space Time Behabior Analysis: A Case Study of Beijing [J]. Journal of urban planning, 2015 (03) : 61-69. )* When exploring these Nodes with attribute characteristics and base on DBSCAN（Density-Based Spatial Clustering of Applications with Noise）clustering analysis, differnet spatial distances were set. The distance list was set from 20m to 520m with an inteval of 10m, a total of 50 distance values.
 
-同时为了观察各个层级聚类结果中最大组团的变化，分布增加字段“idx"和“layer”，其中每一层级的"idx"字段值均为1，对求和所有层级，则值越大的区域在各层级中出现的次数越多，可以观察最大组团扩张的趋势；而每一层级的“layer”字段为层级标识，
+同时为了观察各个层级聚类结果中最大组团的变化，分布增加字段“idx"和“layer”，其中每一层级的"idx"字段值均为1，对求和所有层级，则值越大的区域在各层级中出现的次数越多，可以观察最大组团扩张的趋势；而每一层级的“layer”字段为层级标识，融合时按照顺序保留字段值，重叠的区域仅保留上层字段值，计算结果反应了节点在各个层级下出现的次序。
 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
@@ -198,11 +198,11 @@ City life behavior is affected by the distance, in line with the clustering resu
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzI2MTkyNyw0NjAyNzkzMjgsLTU1OD
-g0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4
-MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLD
-EzNTg5NTk1MTQsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgx
-MzEyLC00NTUzNjk2MTUsLTE0NzIzMTU4MzIsLTQwNTE1NTc3MC
-wtNjc0MTg0NDk4LC01MTM3MDYwODUsOTYxMzEzNjQ4LDc4NzU1
-NzI3MV19
+eyJoaXN0b3J5IjpbNzkxMDgzMjc3LDQ2MDI3OTMyOCwtNTU4OD
+Q3MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgy
+MiwxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMT
+M1ODk1OTUxNCw5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEz
+MTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC
+02NzQxODQ0OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3
+MjcxXX0=
 -->
