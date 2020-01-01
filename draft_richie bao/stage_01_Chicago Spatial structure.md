@@ -144,18 +144,18 @@ ___
 
 The phisical space of a city is an urban entity built by human beings, carrying human life and production activities, and reflecting the way of urban life to a certain extent . When from the macroscope to the proper area can further reflect the way of people life with the social attribute of infrastructure, for example, parking, place_of_worship，restaurant，school，fuel，cafe，fast_food，waste_basket，bank，bicycle_parking，pharmacy，toilets，toilets，police，clinic,etc, can be further concrete exploration of urban living space distribution structure, found the operation mode of people's lives in a city.
 ### 2 数据 /data
-数据使用OSM(open street map)提供的开源数据。OSM地图数据是由志愿者使用手持GPS、笔记本电脑、
+数据使用OSM(open street map)提供的开源数据。OSM地图数据
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA5MTg3MjEsOTYxMzEzNjQ4LDc4Nz
-U1NzI3MSwtMjc3NzgzODI4LC0xNzQwMTczNjU5LDEwMjEwNzIx
-NjEsLTM4Njc4NjM4OSwtMTEwMDk2ODU5OCwxMDM1NTg1ODk4LD
-E0ODk3OTUyNTYsLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMjgw
-MTUzNjYzLC0xNjczNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMxOD
-QxOCwtNTUwMDgwODgsODMxMjU5MzI3LDE3NTEyMjM0OCw0MzQ4
-NTMzNjZdfQ==
+eyJoaXN0b3J5IjpbLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NT
+U3MjcxLC0yNzc3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2
+MSwtMzg2Nzg2Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMT
+Q4OTc5NTI1NiwtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAx
+NTM2NjMsLTE2NzM0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4ND
+E4LC01NTAwODA4OCw4MzEyNTkzMjcsMTc1MTIyMzQ4LDQzNDg1
+MzM2Nl19
 -->
