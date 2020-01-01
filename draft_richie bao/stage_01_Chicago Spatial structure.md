@@ -156,10 +156,7 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 图1所提取的该部分数据包括81519个点，含所有类型的标签，other_tags字段非空标识为66263个点，未标识部分为公路设施内容，包含内容如下列表：
 
 ```python
-['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle'
- 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way'
- 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps'
- 'speed_camera' 'street_lamp' 'rest_area' 'footway']
+['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
 
  
@@ -167,11 +164,11 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM2MTg4MjAsMTc1MTY4MTMxMiwtND
-U1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4
-NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLT
-I3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3
-ODYzODksLTExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1Mj
-U2LC0xMDg5MDY4MTEsLTE5Mjc2MDY3ODQsMTI4MDE1MzY2Mywt
-MTY3MzQ2MzQxMl19
+eyJoaXN0b3J5IjpbMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NT
+M2OTYxNSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0
+OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNz
+c3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2
+Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5NTI1Ni
+wtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAxNTM2NjMsLTE2
+NzM0NjM0MTJdfQ==
 -->
