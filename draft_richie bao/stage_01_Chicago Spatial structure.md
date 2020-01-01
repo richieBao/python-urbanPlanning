@@ -131,7 +131,7 @@ The connection degree of the built-up area is calculated, and the result of the 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_5.jpg)
 > 待解决 /to be solved.
 ### 5 讨论 /discusion
-#### 5.1 绿地与建成区互为钳制的关系及换位分析
+#### 5.1 绿地与建成区互为钳制的关系
 
 #### 5.2 
 
@@ -147,11 +147,11 @@ The connection degree of the built-up area is calculated, and the result of the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMj
-gwMTUzNjYzLC0xNjczNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMx
-ODQxOCwtNTUwMDgwODgsODMxMjU5MzI3LDE3NTEyMjM0OCw0Mz
-Q4NTMzNjYsLTU2ODQ0OTk4MSwtMTEwMzU2ODIyNywtNjM3MDQ1
-NTAyLC0yNDYzMDIzODgsNzc5NDYxODQzLDcyNjEwNzczLDg0Nj
-cyNjM2NSwtMTk2NDU5NzgzMCwyMzA0NjM1NjUsLTc3NDY2ODU3
-MV19
+eyJoaXN0b3J5IjpbMTQ4OTc5NTI1NiwtMTA4OTA2ODExLC0xOT
+I3NjA2Nzg0LDEyODAxNTM2NjMsLTE2NzM0NjM0MTIsOTc2MDQw
+Njg5LC0xMzQ2MzE4NDE4LC01NTAwODA4OCw4MzEyNTkzMjcsMT
+c1MTIyMzQ4LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4
+MjI3LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNz
+I2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2
+NV19
 -->
