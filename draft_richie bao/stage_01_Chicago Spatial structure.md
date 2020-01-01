@@ -112,7 +112,7 @@ The distance clustering method can be used to gather the positions that meet the
 <em>图8 连续卷积核距离下的连接度 /Fig 8 connection degree at continuous convolution kernel distance</em>
 </p>
 当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
-
+</br></br>
 When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attitude resolution is 90×90m square, the connections of each cell are basically the same, with the increase of convolution kernel distance, each cell connected to the peripheral cells scope expands, the connection degree of each unit is gradually began to differentiate, the cells with stronger connection degree begin to emerge. In order to clearly observe the connection degree distribution, cluster the results of connection degrees at each level, as shown in Fig 9.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_4.jpg)
 <p align="center">
@@ -187,7 +187,7 @@ Urban living behavior is influenced by distance, and people's living behavior is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA2NTA5MiwtNTU4ODQ3MTE4LDE3Mz
+eyJoaXN0b3J5IjpbMjA5MjQzOTkwMCwtNTU4ODQ3MTE4LDE3Mz
 M5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1Mjgz
 OTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNC
 w5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2
