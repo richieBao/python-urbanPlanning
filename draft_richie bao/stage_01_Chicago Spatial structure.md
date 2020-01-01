@@ -163,7 +163,18 @@ The extracted data shown in Fig 1 contains 81519points, including all types of t
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
 
-> "key"字段标签（1级标签） /“key” field label ()
+> "key"字段标签（1级标签） /“key” field label (primary label)
+
+```python
+['"curve_geometry"' '"noref"' '"operator"' '"amenity"' '"addr:housenumber"' '"traffic_signals"' '"railway"' '"network"' '"population"' '"ref:left"' '"bicycle"' '"crossing"' '"noexit"'
+ '"subway"' '"public_transport"' '"light_rail"' '"gnis:id"' '"census:population"' '"gnis:Class"' '"alt_name"' '"access"' '"traffic_calming"' '"stop"' '"foot"' '"crossing:barrier"' '"power"'
+ '"bus"' '"restriction:hgv"' '"addr:city"' '"gnis:feature_id"' '"direction"' '"button_operated"' '"cycleway"' '"old_name"' '"layer"' '"train"' '"junction"' '"entrance"' '"lit"' '"fee"' '"designation"' '"traffic_sign"' '"odbl"' '"owner"' '"lanes"' '"tourism"' '"FIXME:ref"' '"sport"' '"leisure"' '"shop"' '"waterway"' '"seamark:type"' '"level"' '"aeroway"' '"brand"' '"sprays"' '"fishing"' '"url"' '"bench"' '"kerb"' '"enforcement"' '"ref:right"' '"gnis:county_id"' '"gnis:created"' '"addr:postcode"' '"religion"' '"end_date"' '"building"' '"abandoned"'
+ '"natural"' '"landuse"' '"communication:radio"' '"tower:type"' '"historic"' '"artist_name"' '"disused"' '"harbour"' '"addr:state"' '"phone"' '"access:conditional"' '"height"' '"Comment"' '"type"' '"water"' '"atm"' '"addr:street"' '"wifi"' '"internet_access"' '"milepost"' '"construction"' '"closed"' '"electrified"' '"bottle"' '"restriction:conditional"' '"attraction"' '"dataset"' '"tower"' '"emergency"' '"addr:housename"' '"platforms"' '"office"' '"craft"' '"disused:railway"' '"opening_hours"' '"artwork_type"' '"surveillance"' '"name:ru"' '"door"' '"addr:country"' '"covered"' '"male"' '"chicago:building_id"' '"solar"' '"advertising"' '"bollard"' '"toilets:wheelchair"' '"website"' '"information"' '"vacant"' '"addr:street:name"' '"shower"' '"TODO"' '"contact:phone"' '"contact:fax"' '"description"' '"service"' '"elevator"' '"food"' '"wikidata"' '"crossing_ref"' '"fax"' '"wikipedia"' '"size"' '"addr:floor"' '"ele:msl"' '"sloped_curb"' '"shelter"' '"local_ref"' '"club"' '"email"' '"motor_vehicle"' '"artist"' '"diet:vegan"' '"country"' '"name:en"' '"indoor"' '"camera:mount"' '"disused:amenity"'
+ '"beauty"' '"destination"' '"maxspeed"' '"healthcare"' '"NHS"' '"razed:amenity"' '"tower:construction"' '"lamp_type"' '"manhole"' '"material"' '"abandoned:highway"' '"playground"'
+ '"healthcare:speciality"' '"traffic_signals:direction"' '"dock"' '"cuisine"' '"stars"' '"denotation"' '"generator:method"' '"elevation"' '"building:material"' '"cutting"' '"leaf_cycle"' '"label"' '"board_type"' '"cemetery"' '"restriction"' '"xmas:day_date"' '"was:xmas:feature"' '"payment:cash"' '"dance:teaching"' '"abandoned:railway"' '"leaf_type"' '"inscription"' '"color"' '"bin"' '"side"' '"bridge:support"' '"clothes"' '"airmark"' '"artwork"' '"ford"' '"contact:website"' '"bonnet:colour"' '"max_age"' '"colour"' '"disused:country"' '"flag:colour"'
+ '"communication:mobile_phone"' '"automatic_door"']
+```
+
 因为每一个点数据均代表了人们潜在的日常行为活动，因此所使用的OSM的Nodes节点数据包括所有一级分类Key标签及公路设施部分。
  
 Since each point data represents the potential daily behavior activities of people, the Nodes node data of OSM used includes all primary classification "Key" labels and highway facilities.
@@ -177,11 +188,11 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjYwMDc5MCwxNzE1MjgzOTU0LC0xNj
-k0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNCw5NjExMzY5
-MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMT
-Q3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcw
-NjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLT
-E3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAw
-OTY4NTk4XX0=
+eyJoaXN0b3J5IjpbMzY0MDY3NTI4LDE3MTUyODM5NTQsLTE2OT
+QxNDM2NjYsLTUxNDE0NTY2MCwxMzU4OTU5NTE0LDk2MTEzNjkw
+MSwyNDk4NTc1NTAsMTc1MTY4MTMxMiwtNDU1MzY5NjE1LC0xND
+cyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4NDQ5OCwtNTEzNzA2
+MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLTI3Nzc4MzgyOCwtMT
+c0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3ODYzODksLTExMDA5
+Njg1OThdfQ==
 -->
