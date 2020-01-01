@@ -183,11 +183,11 @@ Based on the location information of Nodes from OSM, the behaviour results in ur
 Urban living behavior is influenced by distance, and people's living behavior is often different at different distances. Therefore developed teh research on city life circle, for example, according to all kinds of activity time, space, and function characteristics of resident's daily life, it can be divided into five hierarchy, refering to social life circle, basic life circle, commuter life circle, extend life circle and the coordination circle between metropolitan areas.*((yan-wei chai,zhang xue,  dao-sheng sun.A Study on Life Circle Planning Based on Space Time Behabior Analysis: A Case Study of Beijing [J]. Journal of urban planning, 2015 (03) : 61-69. )* When exploring these Nodes with attribute characteristics and base on DBSCAN（Density-Based Spatial Clustering of Applications with Noise）clustering analysis, differnet spatial distances were set. The distance list was set from 20m to 520m with an inteval of 10m, a total of 50 distance values.
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
-城市生活行为受到距离的影响，根据每一层级的聚类结果，通过建立聚类最大总数、独立点频数与聚类距离
+城市生活行为受到距离的影响，根据每一层级的聚类结果，通过建立聚类最大总数、独立点频数与聚类距离的关系曲线，计算拐点，以及通过建立聚类频数与聚类距离的箱型图，确定城市生活空间的关键距离层级。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg2MTQxOTQsLTU1ODg0NzExOCwxNz
+eyJoaXN0b3J5IjpbLTE5NDU4NDMxNTYsLTU1ODg0NzExOCwxNz
 MzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4
 Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MT
 QsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUz
