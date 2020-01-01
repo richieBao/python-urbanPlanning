@@ -160,12 +160,13 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
  'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps'
  'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
+
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgwMjE2MDgsMTc1MTY4MTMxMiwtND
+eyJoaXN0b3J5IjpbLTEyNjc5MzMyNzAsMTc1MTY4MTMxMiwtND
 U1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4
 NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLT
 I3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3
