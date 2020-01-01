@@ -185,10 +185,13 @@ Urban living behavior is influenced by distance, and people's living behavior is
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 城市生活行为受到距离的影响，根据每一层级的聚类结果，通过建立聚类最大总数、独立点频数与聚类距离的关系曲线，计算拐点，以及通过建立聚类频数与聚类距离的箱型图，确定城市生活空间的关键距离层级。
 
-City life behavior is affected by the distance, in line with the clustering results of each level, through the establishment of line graph between the maximum number of clusters, independent point frequency and clustering distance, and by establishing the box graph between clustering frequency 
+City life behavior is affected by the distance, in line with the clustering results of each level, through the establishment of line graph between the maximum number of clusters, independent point frequency and clustering distance, and by establishing the box graph between clustering frequency and clustering distance, determine the critical level of urban life space.
+
+### 4 结果 /results
+#### 4.1 连续
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDAyNzQ4NSwtNTU4ODQ3MTE4LDE3Mz
+eyJoaXN0b3J5IjpbMTc3NzAyNDI0MCwtNTU4ODQ3MTE4LDE3Mz
 M5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1Mjgz
 OTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNC
 w5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2
