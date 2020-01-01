@@ -146,7 +146,7 @@ The phisical space of a city is an urban entity built by human beings, carrying 
 ### 2 数据 /data
 数据使用OSM(open street map)提供的开源数据。OSM地图数据已经被广泛应用于制作地图以及相关研究，用户包括Facebook、Craigslist、Seznam、OsmAnd、Geocaching等，芝加哥部分的OSM数据内容满足本次研究的要求。
 
-The data uses open source data provided by OSM(open street map). 
+The data uses open source data provided by OSM(open street map). OSM map has been widely used in mapping and related research including Facebook、Craigslist、Seznam、OsmAnd、Geocaching, etc. OSM data content in Chicago met the requirement of this study.
 <p align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_03.jpg" width="400">  
 </p>
@@ -157,11 +157,11 @@ The data uses open source data provided by OSM(open street map).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODUzMTM5MSwtNDA1MTU1NzcwLC02Nz
-QxODQ0OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3Mjcx
-LC0yNzc3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMz
-g2Nzg2Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5
-NTI1NiwtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAxNTM2Nj
-MsLTE2NzM0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01
-NTAwODA4OF19
+eyJoaXN0b3J5IjpbLTE0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNj
+c0MTg0NDk4LC01MTM3MDYwODUsOTYxMzEzNjQ4LDc4NzU1NzI3
+MSwtMjc3NzgzODI4LC0xNzQwMTczNjU5LDEwMjEwNzIxNjEsLT
+M4Njc4NjM4OSwtMTEwMDk2ODU5OCwxMDM1NTg1ODk4LDE0ODk3
+OTUyNTYsLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMjgwMTUzNj
+YzLC0xNjczNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMxODQxOCwt
+NTUwMDgwODhdfQ==
 -->
