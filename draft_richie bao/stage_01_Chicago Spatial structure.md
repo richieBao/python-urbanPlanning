@@ -119,6 +119,10 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 <em>图9 连接度聚类（前20组） /Fig 9 connectivity clustering(first 20 groups)</em>
 </p>
 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_02.jpg)
+<p align="center">
+<em>图10 连接度聚类（前20组） /Fig 10 connectivity clustering(first 20 groups)</em>
+</p>
 
 
 
@@ -137,11 +141,11 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjU5MzI3LDE3NTEyMjM0OCw0MzQ4NT
-MzNjYsLTU2ODQ0OTk4MSwtMTEwMzU2ODIyNywtNjM3MDQ1NTAy
-LC0yNDYzMDIzODgsNzc5NDYxODQzLDcyNjEwNzczLDg0NjcyNj
-M2NSwtMTk2NDU5NzgzMCwyMzA0NjM1NjUsLTc3NDY2ODU3MSwx
-MTM0NzEwODE2LC0xMzgwOTI0MDM2LDE1MDEzNDk2MzcsNTc1NT
-A4MDUsLTE0NzA2Mjc0NjMsLTEyNDgxODk0MzUsNTcxMzU0OTE3
-XX0=
+eyJoaXN0b3J5IjpbMTM4ODY1MjU5OSw4MzEyNTkzMjcsMTc1MT
+IyMzQ4LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3
+LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MT
+A3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwt
+Nzc0NjY4NTcxLDExMzQ3MTA4MTYsLTEzODA5MjQwMzYsMTUwMT
+M0OTYzNyw1NzU1MDgwNSwtMTQ3MDYyNzQ2MywtMTI0ODE4OTQz
+NV19
 -->
