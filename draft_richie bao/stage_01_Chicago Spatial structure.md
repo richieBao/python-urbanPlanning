@@ -174,7 +174,7 @@ The extracted data shown in Fig 1 contains 81519points, including all types of t
 Since each point data represents the potential daily behavior activities of people, the Nodes node data of OSM used includes all primary classification "Key" labels and highway facilities.
 ### 3 方法 /method
 #### 3.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征 /Based on the location information of nodes, study the spatial distance hierachy variation characteristics
-基于OSM的Nodes的位置信息发现城市生活空间的行为结果，将会包含两层含义，一层是数据本身所具有的属性意义，所包含的数据越准确，越全面，则分析的结果；另一层是数据建立的行为
+基于OSM的Nodes的位置信息发现城市生活空间的行为结果，将会包含两层含义，一层是数据本身所具有的属性意义，所包含的数据越准确，越全面，则分析的结果趋于真实；另一层是数据建立的行为，因为OSM数据的收集包含志愿者参与数据贡献的行为，在某些趋于中
 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
@@ -182,7 +182,7 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU1ODU1NjEsMTcxNTI4Mzk1NCwtMT
+eyJoaXN0b3J5IjpbLTIwMTE3NzAzNzksMTcxNTI4Mzk1NCwtMT
 Y5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MTQsOTYxMTM2
 OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUsLT
 E0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MTM3
