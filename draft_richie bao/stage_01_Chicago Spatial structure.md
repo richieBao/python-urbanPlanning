@@ -138,7 +138,9 @@ The connection degree of the built-up area is calculated, and the result of the 
 
 
 ___
-## B.  城市生活空间连续距离聚类下空间结构变化 /
+## B.  城市生活空间连续距离聚类下空间结构变化 /the spatial structure of urban living space changes under continous distance clustering
+### 1 背景 /background
+
 
 
 
@@ -147,11 +149,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDE0MTEwMCwxMDM1NTg1ODk4LDE0OD
-k3OTUyNTYsLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMjgwMTUz
-NjYzLC0xNjczNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMxODQxOC
-wtNTUwMDgwODgsODMxMjU5MzI3LDE3NTEyMjM0OCw0MzQ4NTMz
-NjYsLTU2ODQ0OTk4MSwtMTEwMzU2ODIyNywtNjM3MDQ1NTAyLC
-0yNDYzMDIzODgsNzc5NDYxODQzLDcyNjEwNzczLDg0NjcyNjM2
-NV19
+eyJoaXN0b3J5IjpbLTExMDA5Njg1OTgsMTAzNTU4NTg5OCwxND
+g5Nzk1MjU2LC0xMDg5MDY4MTEsLTE5Mjc2MDY3ODQsMTI4MDE1
+MzY2MywtMTY3MzQ2MzQxMiw5NzYwNDA2ODksLTEzNDYzMTg0MT
+gsLTU1MDA4MDg4LDgzMTI1OTMyNywxNzUxMjIzNDgsNDM0ODUz
+MzY2LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUwMi
+wtMjQ2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3MjYz
+NjVdfQ==
 -->
