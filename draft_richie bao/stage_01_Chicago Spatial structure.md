@@ -123,7 +123,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 <p align="center">
 <em>图10 3×3m连接度聚类分布（前20组） /Fig 103×3m connectivity clustering distribution (first 20 groups)</em>
 </p>
-计算建成区的连接度，最小距离卷积核计算结果呈现出最大关联的区域，也是绿地率相对较小的区域。从图10结果分析，从芝加哥市中心向外延申为连续的建成区域，主要集中与
+计算建成区的连接度，最小距离卷积核计算结果呈现出最大关联的区域，也是绿地率相对较小的区域。从图10结果分析，从芝加哥市中心向外延申为连续的建成区域，以W Garfield Blvd和，主要集中与
 
 
 ##### 4.2.2  连接度的关键层级确定及其空间范围变化 /critical level determinaiton of connectivity and its spacial range variation
@@ -141,11 +141,11 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQzODE5MjcsLTEzNDYzMTg0MTgsLT
-U1MDA4MDg4LDgzMTI1OTMyNywxNzUxMjIzNDgsNDM0ODUzMzY2
-LC01Njg0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUwMiwtMj
-Q2MzAyMzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUs
-LTE5NjQ1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzND
-cxMDgxNiwtMTM4MDkyNDAzNiwxNTAxMzQ5NjM3LDU3NTUwODA1
-XX0=
+eyJoaXN0b3J5IjpbOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01NT
+AwODA4OCw4MzEyNTkzMjcsMTc1MTIyMzQ4LDQzNDg1MzM2Niwt
+NTY4NDQ5OTgxLC0xMTAzNTY4MjI3LC02MzcwNDU1MDIsLTI0Nj
+MwMjM4OCw3Nzk0NjE4NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0x
+OTY0NTk3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MT
+A4MTYsLTEzODA5MjQwMzYsMTUwMTM0OTYzNyw1NzU1MDgwNV19
+
 -->
