@@ -176,7 +176,7 @@ Since each point data represents the potential daily behavior activities of peop
 #### 3.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征 /Based on the location information of nodes, study the spatial distance hierachy variation characteristics
 基于OSM的Nodes的位置信息发现城市生活空间的行为结果，将会包含两层含义，一层是数据本身所具有的属性意义，所包含的数据越准确，越全面，则分析的结果趋于真实；另一层是数据建立的行为，因为OSM数据的收集包含志愿者参与数据贡献的行为，某些区域可能广为关注，而部分区域则少人问津，因此会存在同类数据分布的不平衡，但同时也反应了人们更为关注的城市区域。
 
-在探索这些具有属性特征Nodes时，基于
+城市生活行为是受到距离的影响，。在探索这些具有属性特征Nodes时，基于 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）聚类分析。
 
 
 #### 3.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
@@ -184,7 +184,7 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTU1ODI2NywxNzE1MjgzOTU0LC0xNj
+eyJoaXN0b3J5IjpbLTk3NDk4MDk4OCwxNzE1MjgzOTU0LC0xNj
 k0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNCw5NjExMzY5
 MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMT
 Q3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcw
