@@ -121,7 +121,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_02.jpg)
 <p align="center">
-<em>图10 3×3m连接度聚类分布（前20组） /Fig 10 connectivity clustering(first 20 groups)</em>
+<em>图10 3×3m连接度聚类分布（前20组） /Fig 103×3m connectivity clustering distribution (first 20 groups)</em>
 </p>
 
 
@@ -141,7 +141,7 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzkwODM3NCw4MzEyNTkzMjcsMTc1MT
+eyJoaXN0b3J5IjpbMTc2NTc0NzgyNCw4MzEyNTkzMjcsMTc1MT
 IyMzQ4LDQzNDg1MzM2NiwtNTY4NDQ5OTgxLC0xMTAzNTY4MjI3
 LC02MzcwNDU1MDIsLTI0NjMwMjM4OCw3Nzk0NjE4NDMsNzI2MT
 A3NzMsODQ2NzI2MzY1LC0xOTY0NTk3ODMwLDIzMDQ2MzU2NSwt
