@@ -164,12 +164,13 @@ The extracted data shown in Fig 1 contains 81519points, including all types of t
 因为每一个点数据均代表了人们潜在的日常行为活动，因此所使用的OSM的Nodes节点数据包括所有一级分类Key标签及公路设施部分。
  
 Since each point data represents the potential daily behavior activities of people, the Nodes node data of OSM used includes all primary classification "Key" labels and highway facilities.
-
+### 3 方法 /method
+#### 3.1 基于
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTEwMjM5Miw5NjExMzY5MDEsMjQ5OD
+eyJoaXN0b3J5IjpbMTM1ODk1OTUxNCw5NjExMzY5MDEsMjQ5OD
 U3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgz
 MiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcwNjA4NSw5Nj
 EzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLTE3NDAxNzM2
