@@ -153,16 +153,16 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 <p>
 <em>图1 OSM点数据范围 /Fig1 OSM points data range</em>
 </p>
-图1所提取的该部分数据包括81519个点，含所有类型的标签，other_tags字段非空标识为66263个点，
+图1所提取的该部分数据包括81519个点，含所有类型的标签，other_tags字段非空标识为66263个点，未标shi
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyMDE5MzYsLTQ1NTM2OTYxNSwtMT
-Q3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcw
-NjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLT
-E3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAw
-OTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5NTI1NiwtMTA4OTA2OD
-ExLC0xOTI3NjA2Nzg0LDEyODAxNTM2NjMsLTE2NzM0NjM0MTIs
-OTc2MDQwNjg5XX0=
+eyJoaXN0b3J5IjpbMzUzNjc1NjgxLC00NTUzNjk2MTUsLTE0Nz
+IzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MTM3MDYw
+ODUsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMjc3NzgzODI4LC0xNz
+QwMTczNjU5LDEwMjEwNzIxNjEsLTM4Njc4NjM4OSwtMTEwMDk2
+ODU5OCwxMDM1NTg1ODk4LDE0ODk3OTUyNTYsLTEwODkwNjgxMS
+wtMTkyNzYwNjc4NCwxMjgwMTUzNjYzLC0xNjczNDYzNDEyLDk3
+NjA0MDY4OV19
 -->
