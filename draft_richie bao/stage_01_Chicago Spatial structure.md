@@ -140,7 +140,7 @@ The connection degree of the built-up area is calculated, and the result of the 
 ___
 ## B.  城市生活空间连续距离聚类下空间结构变化 /the spatial structure of urban living space changes under continous distance clustering
 ### 1 背景 /background
-城市的物质空间是人类建造的城市实体，承载着人类的生活、生产活动，并在一定程度上反应了城市生活的方式。当从宏观的建成区区域落实到能进一步反应人们生活方式的基础设施时，例如  等，则可以进一步探索城市生活空间
+城市的物质空间是人类建造的城市实体，承载着人类的生活、生产活动，并在一定程度上反应了城市生活的方式。当从宏观的建成区区域落实到能进一步反应人们生活方式的基础设施时，例如  等，则可以进一步具体探索城市生活空间的分布结构，发现城市中人们的生活运行方式。
 
 
 
@@ -149,7 +149,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUwMDE0MjcsMTAyMTA3MjE2MSwtMz
+eyJoaXN0b3J5IjpbLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMz
 g2Nzg2Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5
 NTI1NiwtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAxNTM2Nj
 MsLTE2NzM0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01
