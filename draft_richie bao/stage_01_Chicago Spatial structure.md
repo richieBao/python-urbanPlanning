@@ -197,16 +197,16 @@ City life behavior is affected by the distance, in line with the clustering resu
 <p align="middle">
 <em>图2 OSM的Nodes点50个层级聚类结果 /Fig2 OSM Nodes 50 hierarchical clustering results</em>
 </p>
-随着聚类距离的不断增加，点数据不断的集聚，形成大大小小的组团，每一组团dai'b
+随着聚类距离的不断增加，点数据不断的集聚，形成大大小小的组团，每一组团代表着组团内的成员之间具有较强的空间依赖关系。最初形成的具有一定规模的组团分布于芝加哥中心城区、Ev
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDAwMDY0MCwtMTY3OTk1MTc5LC03OT
-cyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4NDcx
-MTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzODIyLD
-E3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MCwxMzU4
-OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMi
-wtNDU1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3
-NDE4NDQ5OF19
+eyJoaXN0b3J5IjpbNjMxOTA3MTczLC0xNjc5OTUxNzksLTc5Nz
+IzOTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzEx
+OCwxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMT
+cxNTI4Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5
+NTk1MTQsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC
+00NTUzNjk2MTUsLTE0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0
+MTg0NDk4XX0=
 -->
