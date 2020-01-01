@@ -149,17 +149,17 @@ The phisical space of a city is an urban entity built by human beings, carrying 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_03.jpg" width="400">  
 </p>
 <p>
-<em>图1 OSM点数据范围 /Fig1 OSM point</em>
+<em>图1 OSM点数据范围 /Fig1 OSM points data range</em>
 </p>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTA4NjgyNCwtNDA1MTU1NzcwLC02Nz
-QxODQ0OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3Mjcx
-LC0yNzc3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMz
-g2Nzg2Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5
-NTI1NiwtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAxNTM2Nj
-MsLTE2NzM0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01
-NTAwODA4OF19
+eyJoaXN0b3J5IjpbNDExMzY4NzQ4LC00MDUxNTU3NzAsLTY3ND
+E4NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEs
+LTI3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zOD
+Y3ODYzODksLTExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1
+MjU2LC0xMDg5MDY4MTEsLTE5Mjc2MDY3ODQsMTI4MDE1MzY2My
+wtMTY3MzQ2MzQxMiw5NzYwNDA2ODksLTEzNDYzMTg0MTgsLTU1
+MDA4MDg4XX0=
 -->
