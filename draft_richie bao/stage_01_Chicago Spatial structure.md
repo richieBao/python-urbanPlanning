@@ -165,16 +165,16 @@ The extracted data shown in Fig 1 contains 81519points, including all types of t
  
 Since each point data represents the potential daily behavior activities of people, the Nodes node data of OSM used includes all primary classification "Key" labels and highway facilities.
 ### 3 方法 /method
-#### 3.1 基于节点的位置信息
+#### 3.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NTQ3NTA2LDEzNTg5NTk1MTQsOTYxMT
-M2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUs
-LTE0NzIzMTU4MzIsLTQwNTE1NTc3MCwtNjc0MTg0NDk4LC01MT
-M3MDYwODUsOTYxMzEzNjQ4LDc4NzU1NzI3MSwtMjc3NzgzODI4
-LC0xNzQwMTczNjU5LDEwMjEwNzIxNjEsLTM4Njc4NjM4OSwtMT
-EwMDk2ODU5OCwxMDM1NTg1ODk4LDE0ODk3OTUyNTYsLTEwODkw
-NjgxMV19
+eyJoaXN0b3J5IjpbLTM1ODMxMTcyOSwxMzU4OTU5NTE0LDk2MT
+EzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMiwtNDU1MzY5NjE1
+LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4NDQ5OCwtNT
+EzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLTI3Nzc4Mzgy
+OCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3ODYzODksLT
+ExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1MjU2LC0xMDg5
+MDY4MTFdfQ==
 -->
