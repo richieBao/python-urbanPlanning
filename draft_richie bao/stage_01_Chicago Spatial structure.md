@@ -129,7 +129,9 @@ The connection degree of the built-up area is calculated, and the result of the 
 
 ##### 4.2.2  连接度空间变化趋势及其空间范围变化 /the variation trend of connectivity space and its spacial range variation
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_5.jpg)
-> 待解决 /being settled
+> 待解决 /to be solved.
+
+
 
 
 
@@ -142,11 +144,11 @@ The connection degree of the built-up area is calculated, and the result of the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODU5NTU3NiwxMjgwMTUzNjYzLC0xNj
-czNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMxODQxOCwtNTUwMDgw
-ODgsODMxMjU5MzI3LDE3NTEyMjM0OCw0MzQ4NTMzNjYsLTU2OD
-Q0OTk4MSwtMTEwMzU2ODIyNywtNjM3MDQ1NTAyLC0yNDYzMDIz
-ODgsNzc5NDYxODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2ND
-U5NzgzMCwyMzA0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NTE5MzQxNjUsMTI4MDE1MzY2MywtMT
+Y3MzQ2MzQxMiw5NzYwNDA2ODksLTEzNDYzMTg0MTgsLTU1MDA4
+MDg4LDgzMTI1OTMyNywxNzUxMjIzNDgsNDM0ODUzMzY2LC01Nj
+g0NDk5ODEsLTExMDM1NjgyMjcsLTYzNzA0NTUwMiwtMjQ2MzAy
+Mzg4LDc3OTQ2MTg0Myw3MjYxMDc3Myw4NDY3MjYzNjUsLTE5Nj
+Q1OTc4MzAsMjMwNDYzNTY1LC03NzQ2Njg1NzEsMTEzNDcxMDgx
+Nl19
 -->
