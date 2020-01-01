@@ -197,19 +197,19 @@ City life behavior is affected by the distance, in line with the clustering resu
 <p align="middle">
 <em>图2 OSM的Nodes点50个层级聚类结果 /Fig2 OSM Nodes 50 hierarchical clustering results</em>
 </p>
-随着聚类距离的不断增加，点数据不断的集聚图2，形成大大小小的组团，每一组团代表着组团内的成员之间具有较强的空间依赖关系。最初形成的具有一定规模的组团主要分布于downtown、Evaston、O'Hare International Airport、Oak Park等区域，进而在downtown周边不断出现新的组团，并不同融入到downtown，downtown具有明显的吸附作用。
+随着聚类距离的不断增加，点数据不断的集聚（图2），形成大大小小的组团，每一组团代表着组团内的成员之间具有较强的空间依赖关系。最初形成的具有一定规模的组团主要分布于downtown、Evaston、O'Hare International Airport、Oak Park等区域，进而在downtown周边不断出现新的组团，并不断融入到downtown，downtown具有明显的吸附作用。
 
-
+With the continuous increase of clustering distance, point data is continuously gathered
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjExMDE2MzEsLTE2Nzk5NTE3OSwtNz
-k3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3
-MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMi
-wxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1
-ODk1OTUxNCw5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMT
-IsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC02
-NzQxODQ0OThdfQ==
+eyJoaXN0b3J5IjpbMTQzODk1MzE3OSwtMTY3OTk1MTc5LC03OT
+cyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4NDcx
+MTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzODIyLD
+E3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MCwxMzU4
+OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMi
+wtNDU1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3
+NDE4NDQ5OF19
 -->
