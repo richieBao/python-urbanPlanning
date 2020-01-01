@@ -128,8 +128,8 @@ When convolution kernel distance is small, such as 3×3 convolution kernel, unde
 The connection degree of the built-up area is calculated, and the result of the calculation of the minimum distance convolution kernel presents the region with the greatest correlation, which is also the region with relatively small green land rate. According to the result analysis in Fig 10, the continuous built-up area from downtown of Chicago mainly concentrated in the north and west of the area bounded by W Garfield Blvd and CSXT transportation railway. At the same time, airport O'Hare International Airport, Gary/Chicago International Airport, port ndiana Harbor, storage and other places have small green rate, with relatively large areas of impervious areas.
 
 ##### 4.2.2  连接度空间变化趋势及其空间范围变化 /the variation trend of connectivity space and its spacial range variation
-
-
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_5.jpg)
+> 待解决 /
 
 
 
@@ -142,11 +142,11 @@ The connection degree of the built-up area is calculated, and the result of the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3MjgxMzA0LDEyODAxNTM2NjMsLTE2Nz
-M0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01NTAwODA4
-OCw4MzEyNTkzMjcsMTc1MTIyMzQ4LDQzNDg1MzM2NiwtNTY4ND
-Q5OTgxLC0xMTAzNTY4MjI3LC02MzcwNDU1MDIsLTI0NjMwMjM4
-OCw3Nzk0NjE4NDMsNzI2MTA3NzMsODQ2NzI2MzY1LC0xOTY0NT
-k3ODMwLDIzMDQ2MzU2NSwtNzc0NjY4NTcxLDExMzQ3MTA4MTZd
-fQ==
+eyJoaXN0b3J5IjpbMTAxNzQ5NTAxNiwxMjgwMTUzNjYzLC0xNj
+czNDYzNDEyLDk3NjA0MDY4OSwtMTM0NjMxODQxOCwtNTUwMDgw
+ODgsODMxMjU5MzI3LDE3NTEyMjM0OCw0MzQ4NTMzNjYsLTU2OD
+Q0OTk4MSwtMTEwMzU2ODIyNywtNjM3MDQ1NTAyLC0yNDYzMDIz
+ODgsNzc5NDYxODQzLDcyNjEwNzczLDg0NjcyNjM2NSwtMTk2ND
+U5NzgzMCwyMzA0NjM1NjUsLTc3NDY2ODU3MSwxMTM0NzEwODE2
+XX0=
 -->
