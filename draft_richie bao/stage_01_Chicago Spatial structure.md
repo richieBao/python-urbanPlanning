@@ -154,6 +154,7 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 <em>图1 OSM点数据范围 /Fig1 OSM points data range</em>
 </p>
 图1所提取的该部分数据包括81519个点，含所有类型的标签，other_tags字段非空标识为66263个点，未标识部分为公路设施内容，包含内容如下列表：
+
 ```python
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle'
  'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way'
@@ -166,7 +167,7 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc5MzMyNzAsMTc1MTY4MTMxMiwtND
+eyJoaXN0b3J5IjpbLTE0MDM2MTg4MjAsMTc1MTY4MTMxMiwtND
 U1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4
 NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLT
 I3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3
