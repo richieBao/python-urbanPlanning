@@ -195,14 +195,14 @@ City life behavior is affected by the distance, in line with the clustering resu
 #### 4.1 基于节点的位置信息研究城市生活行为的空间距离层级变化特征 /Based on the location information of nodes, study the spatial distance hierachy variation characteristics
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_01.jpg)
 <p align="middle">
-<em>图2 OSM点数据范围 /Fig1 OSM points data range</em>
+<em>图2 OSM的Nodes点50个层级聚类结果 /Fig2 OSM points data range</em>
 </p>
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjQzNjE4MSwtNzk3MjM5Njk0LC0xND
+eyJoaXN0b3J5IjpbMTM1ODg3NTgyMCwtNzk3MjM5Njk0LC0xND
 A5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3
 MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1MjgzOTU0LC
 0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNCw5NjEx
