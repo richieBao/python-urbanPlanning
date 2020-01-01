@@ -158,17 +158,17 @@ The data uses open source data provided by OSM(open street map). OSM map has bee
 ```python
 ['motorway_junction' None 'traffic_signals' 'crossing' 'turning_circle' 'stop' 'turning_loop' 'passing_place' 'mini_roundabout' 'give_way' 'bus_stop' 'stop;crossing' 'priority' 'construction' 'elevator' 'steps' 'speed_camera' 'street_lamp' 'rest_area' 'footway']
 ```
-
+在other_tags标签中，"key"字段包含的类型有198个，
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNj
-gxMzEyLC00NTUzNjk2MTUsLTE0NzIzMTU4MzIsLTQwNTE1NTc3
-MCwtNjc0MTg0NDk4LC01MTM3MDYwODUsOTYxMzEzNjQ4LDc4Nz
-U1NzI3MSwtMjc3NzgzODI4LC0xNzQwMTczNjU5LDEwMjEwNzIx
-NjEsLTM4Njc4NjM4OSwtMTEwMDk2ODU5OCwxMDM1NTg1ODk4LD
-E0ODk3OTUyNTYsLTEwODkwNjgxMSwtMTkyNzYwNjc4NCwxMjgw
-MTUzNjYzXX0=
+eyJoaXN0b3J5IjpbMTYwNzM3OTcxOSw5NjExMzY5MDEsMjQ5OD
+U3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgz
+MiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLTUxMzcwNjA4NSw5Nj
+EzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4MjgsLTE3NDAxNzM2
+NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC0xMTAwOTY4NTk4LD
+EwMzU1ODU4OTgsMTQ4OTc5NTI1NiwtMTA4OTA2ODExLC0xOTI3
+NjA2Nzg0XX0=
 -->
