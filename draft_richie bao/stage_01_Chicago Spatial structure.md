@@ -1,5 +1,5 @@
 # 阶段1 芝加哥城市空间结构/stage 1 the city spatial structure of Chicago
-> 无参考文献版 /no reference version  初稿 /
+> 无参考文献版 /no reference version  初稿 /draft
 ## A. 城市物质空间连续距离聚类下空间结构变化 /Spatial structure changes under continuous distances clustering of urban material space
 ### 1 背景 /background
 在一定程度上，城市的物质空间变化反应了城市的蔓延趋势，包括城市的扩张和收缩。城市在扩张阶段会不断的侵占自然资源，影响自然生态平衡，尤其对生物群落分布、地表径流区域、气候环境变化有直接的影响。而在城市的收缩阶段则需要考虑更多如何有效自然恢复的问题。同时，城市物质空间的变化反应了城市居民的分布情况，其集聚的程度，分布的结构变化反应了人们分布的密度和活动的程度。因此对于城市尺度下物质空间结构的分析可以理解城市的分布，尤其自然与城市的交融关系，为保护自然，恢复自然和改善城市环境提供基础的分析。
@@ -174,11 +174,11 @@ Since each point data represents the potential daily behavior activities of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUyNjk5MTcsMTM1ODk1OTUxNCw5Nj
-ExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2OTYx
-NSwtMTQ3MjMxNTgzMiwtNDA1MTU1NzcwLC02NzQxODQ0OTgsLT
-UxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3MjcxLC0yNzc3ODM4
-MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMzg2Nzg2Mzg5LC
-0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5NTI1NiwtMTA4
-OTA2ODExXX0=
+eyJoaXN0b3J5IjpbLTUxNDE0NTY2MCwxMzU4OTU5NTE0LDk2MT
+EzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMiwtNDU1MzY5NjE1
+LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3NDE4NDQ5OCwtNT
+EzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEsLTI3Nzc4Mzgy
+OCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zODY3ODYzODksLT
+ExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1MjU2LC0xMDg5
+MDY4MTFdfQ==
 -->
