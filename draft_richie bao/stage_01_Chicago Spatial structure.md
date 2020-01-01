@@ -145,7 +145,7 @@ ___
 The phisical space of a city is an urban entity built by human beings, carrying human life and production activities, and reflecting the way of urban life to a certain extent . When from the macroscope to the proper area can further reflect the way of people life with the social attribute of infrastructure, for example, parking, place_of_worship，restaurant，school，fuel，cafe，fast_food，waste_basket，bank，bicycle_parking，pharmacy，toilets，toilets，police，clinic,etc, can be further concrete exploration of urban living space distribution structure, found the operation mode of people's lives in a city.
 ### 2 数据 /data
 数据使用OSM(open street map)提供的开源数据。OSM地图数据已经被广泛应用于制作地图以及相关研究，用户包括Facebook、Craigslist、Seznam、OsmAnd、Geocaching等，芝加哥部分的OSM数据内容满足本次研究的要求。
-<p>
+<p align="right">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_03.jpg" width="400">  
 </p>
 <p>
@@ -155,11 +155,11 @@ The phisical space of a city is an urban entity built by human beings, carrying 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzY4NzQ4LC00MDUxNTU3NzAsLTY3ND
-E4NDQ5OCwtNTEzNzA2MDg1LDk2MTMxMzY0OCw3ODc1NTcyNzEs
-LTI3Nzc4MzgyOCwtMTc0MDE3MzY1OSwxMDIxMDcyMTYxLC0zOD
-Y3ODYzODksLTExMDA5Njg1OTgsMTAzNTU4NTg5OCwxNDg5Nzk1
-MjU2LC0xMDg5MDY4MTEsLTE5Mjc2MDY3ODQsMTI4MDE1MzY2My
-wtMTY3MzQ2MzQxMiw5NzYwNDA2ODksLTEzNDYzMTg0MTgsLTU1
-MDA4MDg4XX0=
+eyJoaXN0b3J5IjpbMTQxMDU1Mjk3NiwtNDA1MTU1NzcwLC02Nz
+QxODQ0OTgsLTUxMzcwNjA4NSw5NjEzMTM2NDgsNzg3NTU3Mjcx
+LC0yNzc3ODM4MjgsLTE3NDAxNzM2NTksMTAyMTA3MjE2MSwtMz
+g2Nzg2Mzg5LC0xMTAwOTY4NTk4LDEwMzU1ODU4OTgsMTQ4OTc5
+NTI1NiwtMTA4OTA2ODExLC0xOTI3NjA2Nzg0LDEyODAxNTM2Nj
+MsLTE2NzM0NjM0MTIsOTc2MDQwNjg5LC0xMzQ2MzE4NDE4LC01
+NTAwODA4OF19
 -->
