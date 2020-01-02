@@ -286,13 +286,13 @@ The distance of 190m is the turning point of the clustering total nunber change.
 ### 2 数据 /data
 Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM（图3）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_15.jpg" width="420">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="420">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_15.jpg" width="450">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="450">
 </p>
 <p>
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_19.jpg" width="420">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_20.jpg" width="420">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_19.jpg" width="450">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_20.jpg" width="450">
 </p>
 <p>
 <em>图3 140m层级聚类结果（10组）/Fig 3 140m hierarchical clustering results(10 groups)</em>
@@ -301,7 +301,7 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 <em>图4 160m层级聚类结果（10组）/Fig 4 160m hierarchical clustering results(10 groups)</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTY4OTQ0Niw0MDg0ODM0NzgsLTEzMD
+eyJoaXN0b3J5IjpbMTUwODU5ODk1MCw0MDg0ODM0NzgsLTEzMD
 U5NzgzODksMTU2NTMyMzkzMiwtOTMzMTk5NjA2LC02NzI3NzM2
 NTIsLTE3OTQ1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMT
 I3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2
