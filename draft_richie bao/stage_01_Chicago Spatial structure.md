@@ -284,7 +284,7 @@ The distance of 190m is the turning point of the clustering total nunber change.
 ## C. 雷达数据与全尺度分析 /Lidar data and full scale analysis
 > 研究思考 /research pondering
 ### 2 数据 /data
-Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM（图3）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
+Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM(Digital _Surface_ Model)（图3）、DTM（Digital Terrain Model）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
 <p>
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_15.jpg" width="400">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
@@ -301,13 +301,13 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 <em>图2 S.R. Crown Hall分类数据细节/Fig 2 detailsof  S.R. Crown Hall classification </em>
 </p>
 <p>
-<em>图3 140m层级聚类结果（10组）/Fig 3 140m hierarchical clustering results(10 groups)</em>
+<em>图3 S.R. Crown Hall D/Fig 3 140m hierarchical clustering results(10 groups)</em>
 </p>
 <p>
 <em>图4 160m层级聚类结果（10组）/Fig 4 160m hierarchical clustering results(10 groups)</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzIwMDEzMzQsNDA4NDgzNDc4LC0xMz
+eyJoaXN0b3J5IjpbLTE0NzA0ODEwMjAsNDA4NDgzNDc4LC0xMz
 A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
 NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
 EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
