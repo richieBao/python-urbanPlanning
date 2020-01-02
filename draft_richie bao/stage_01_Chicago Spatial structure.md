@@ -205,7 +205,7 @@ With the continuous increase of clustering distance, point data is continuously 
 <p align="middle">
 <em>图3 各层级最大组团变化与芝加哥社区 /Fig3 Maximum group change at each level with Chicago community areas</em>
 </p>
-将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，
+将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，描述随着聚类距离的增加，最大组团的形成与扩张途径。
 
 
 
@@ -213,11 +213,11 @@ With the continuous increase of clustering distance, point data is continuously 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MT
-g1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5
-NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNz
-MzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4
-Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MT
-QsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUz
-Njk2MTVdfQ==
+eyJoaXN0b3J5IjpbLTM0OTk4NjA3LDE4ODU0MTQwOTgsLTgxMj
+Q0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1MTc5
+LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NT
+g4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIz
+ODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MC
+wxMzU4OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4
+MTMxMl19
 -->
