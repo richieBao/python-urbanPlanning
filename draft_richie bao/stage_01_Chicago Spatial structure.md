@@ -301,13 +301,13 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 <em>图2 S.R. Crown Hall分类数据细节/Fig 2 detailsof  S.R. Crown Hall classification </em>
 </p>
 <p>
-<em>图3 S.R. Crown Hall D/Fig 3 140m hierarchical clustering results(10 groups)</em>
+<em>图3 S.R. Crown Hall DSM数据细节/Fig 3 details of S.R. Crown Hall DSM data</em>
 </p>
 <p>
-<em>图4 160m层级聚类结果（10组）/Fig 4 160m hierarchical clustering results(10 groups)</em>
+<em>图4 S.R. Crown Hall SVF 细节/Fig 4 details of S.R. Crown Hall SVF data</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA0ODEwMjAsNDA4NDgzNDc4LC0xMz
+eyJoaXN0b3J5IjpbLTE4MzM1NzA4OTQsNDA4NDgzNDc4LC0xMz
 A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
 NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
 EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
