@@ -228,7 +228,7 @@ The hierarchy of the largest group that first appeared in each community areas w
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="280">
 </p>
 <p>
-<em>图6 主城区扩张的延申方向(待替换)/Fig 6 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
+<em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line g</em>
 </p>
 <p>
 <em>图7 占绝对优势的层级/Fig 7 the dominant hierarchy</em>
@@ -237,11 +237,11 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图8 占绝对优势的层级/Fig 8 the dominant hierarchy</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNDI3NTMsLTI4MTI0MjE5NywxMDY4Mz
-QwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0
-NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMj
-gxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5
-Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LD
-E3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1
-MjgzOTU0XX0=
+eyJoaXN0b3J5IjpbLTE0NTM1NDg2NTAsLTI4MTI0MjE5NywxMD
+Y4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4
+Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3Nj
+EsMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3
+MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MT
+E4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwx
+NzE1MjgzOTU0XX0=
 -->
