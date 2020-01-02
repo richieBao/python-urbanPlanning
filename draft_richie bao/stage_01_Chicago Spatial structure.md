@@ -259,13 +259,14 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图12 250m层级聚类结果（10组）/Fig 12 250m hierarchical clustering results(10 groups)</em>
 </p>
 分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点，以及通过建立聚类频数与聚类距离的箱型图，获得关键层级的距离为140m，190m以及160m和250m。在140m距离，是独立点在各层级变化中的降速分界点，小于该距离时的降速相对较快，而之后逐渐变缓慢，表明节点的分布上更多的较为集中于140m距离之下, 为当前城市所接受的适宜距离，是可达性较高的距离区域。满足该距离要求的区域以Loop和Near North Side 为核心，向北延Lack Michigan 延申，包括Lincoln Park、North Center Lakeview、Uptown区域，及向西、向南包括Near West Side和Near South side。同时，以Evaston为核心，想南延申，包括Rogers Park和Edge Water。O'Hare、River Forest也形成了一定的规模。
+</br></br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjg1NDM1MiwyNzA2NjYxLC0xODc2NT
-QwMTY1LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3MjQ0OTQs
-LTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMz
-gzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0
-MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLT
-E2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3
-OTMyOF19
+eyJoaXN0b3J5IjpbNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1ND
+AxNjUsODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwt
+MjgxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzOD
+MwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQw
+OTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMT
+Y3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5
+MzI4XX0=
 -->
