@@ -209,20 +209,20 @@ With the continuous increase of clustering distance, point data is continuously 
 </br></br>
 The changes of the largest cluster groups at each level (Fig 3) were superimposed with the different Chicago community areas to describe the formation and expansion of the largest cluster grjoups as the clustering distance increased. At the distance of 20 ～70m,  Loop and Near North Side form a number of larger groups and continue to merge. At the same time, Evaston also has obvious advantages at this distance. At the distance of 70m～100m, it begins to expand to Near West Side, but basically lies in its eastern half. At the distance of 100m～140m, along the Lake Michigan extends northward to Lincoin Park、Lake View、Up Town, and southward to Near South Side. At this distance , most coastal areas in the north are closely related to the initial downtown area, while the south is weak. At the distance of 140m～180m, the extension points to the northwest, west and southwest, to Logan Suqare、Avondale、Humboldt Park、East Garfield Park、North Lawndale and South Lawndale, and to the north, Edge Water、Rogers Park and Evaston are connected. Since 180m, it has extended to the west and south and gradually extended to the outer edge. By 250m, it has basically covered all areas, except the area of O'Hare airport and South Deering golf course.
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_4.jpg" width="400">  
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/31_7.jpg" width="400"> </p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_09.jpg.jpg" width="400">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_08.jpg.jpg" width="400"> </p>
 <p>
-<em>图6 最大聚类区域所包含数量变化值 /Fig6 the quantitative variation value contained in the maximum clustering region</em>
+<em>图4 最大聚类区域所包含数量变化值 /Fig 4 the quantitative variation value contained in the maximum clustering region</em>
 </p>
 <p>
-<em>图7 最大聚类区域的连续扩张 /Fig7 continous expansion of the maximum clustering region</em>
+<em>图5 最大聚类区域的连续扩张 /Fig5 continous expansion of the maximum clustering region</em>
 </p>
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc4MjA0MDksLTIzODMwMjg1NCwtMj
+eyJoaXN0b3J5IjpbLTIwNDk4NzY3NzEsLTIzODMwMjg1NCwtMj
 ExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0
 Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1MTc5LC
 03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4
