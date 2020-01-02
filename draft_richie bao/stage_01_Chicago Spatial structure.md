@@ -236,14 +236,24 @@ The hierarchy of the largest group that first appeared in each community areas w
 <p>
 <em>图8 聚类频数分布与最大聚类组团数量变化/Fig 8 the clustering frequency distribution and the maximu cluster number change</em>
 </p>
+<p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="280">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="280">
+</p>
+<p>
+<em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line graph and infleciton point</em>
+</p>
+<p>
+<em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection point</em>
+</p>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDcyNDQ5NCwtMjgxMjQyMTk3LDEwNj
-gzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1NCwtMjExMDg3
-NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0Nzc2MS
-wyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1MTc5LC03OTcy
-Mzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4NDcxMT
-gsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzODIyLDE3
-MTUyODM5NTRdfQ==
+eyJoaXN0b3J5IjpbLTk2MDA5ODA4NywtOTkwNzI0NDk0LC0yOD
+EyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAy
+ODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OC
+wtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5
+OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMj
+gsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0z
+Mzc5MjM4MjJdfQ==
 -->
