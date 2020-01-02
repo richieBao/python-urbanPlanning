@@ -202,14 +202,15 @@ City life behavior is affected by the distance, in line with the clustering resu
 With the continuous increase of clustering distance, point data is continuously gathered(Fig 2), forming clusters with large and small sizes. Each cluster represents a strong spatial dependency among the members of the cluster. The group with a certain size formed at the beginning were mainly ditributed in downtown、Evaston、O'Hare International Airport、Oak Park , etc, and new groups were constantly emerging around downtown ,and then integrating into downtown, which had an obvious adsorption effect. 
 
 
+
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTE0MzkyMiwtMTY3OTk1MTc5LC03OT
-cyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4NDcx
-MTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzODIyLD
-E3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MCwxMzU4
-OTU5NTE0LDk2MTEzNjkwMSwyNDk4NTc1NTAsMTc1MTY4MTMxMi
-wtNDU1MzY5NjE1LC0xNDcyMzE1ODMyLC00MDUxNTU3NzAsLTY3
-NDE4NDQ5OF19
+eyJoaXN0b3J5IjpbMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nz
+k5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMy
+OCwtNTU4ODQ3MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLT
+MzNzkyMzgyMiwxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01MTQx
+NDU2NjAsMTM1ODk1OTUxNCw5NjExMzY5MDEsMjQ5ODU3NTUwLD
+E3NTE2ODEzMTIsLTQ1NTM2OTYxNSwtMTQ3MjMxNTgzMiwtNDA1
+MTU1NzcwXX0=
 -->
