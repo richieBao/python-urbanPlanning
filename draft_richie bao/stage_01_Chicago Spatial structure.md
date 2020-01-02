@@ -228,20 +228,20 @@ The hierarchy of the largest group that first appeared in each community areas w
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="280">
 </p>
 <p>
-<em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line g</em>
+<em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line graph and infleciton point</em>
 </p>
 <p>
-<em>图7 占绝对优势的层级/Fig 7 the dominant hierarchy</em>
+<em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection </em>
 </p>
 <p>
 <em>图8 占绝对优势的层级/Fig 8 the dominant hierarchy</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM1NDg2NTAsLTI4MTI0MjE5NywxMD
-Y4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4
-Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3Nj
-EsMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3
-MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MT
-E4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwx
-NzE1MjgzOTU0XX0=
+eyJoaXN0b3J5IjpbLTgwOTMwNTQxLC0yODEyNDIxOTcsMTA2OD
+M0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3
+NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLD
+I4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIz
+OTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOC
+wxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcx
+NTI4Mzk1NF19
 -->
