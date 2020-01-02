@@ -203,9 +203,9 @@ With the continuous increase of clustering distance, point data is continuously 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_07.jpg)
 <p align="middle">
-<em>图2 OSM的Nodes点50个层级聚类结果 /Fig2 OSM Nodes 50 hierarchical clustering results</em>
+<em>图3 OSM的Nodes点50个层级聚类结果 /Fig3 OSM Nodes 50 hierarchical clustering results</em>
 </p>
-将
+将每个层级最大的聚类组团的变化（图3）与
 
 
 
@@ -213,11 +213,11 @@ With the continuous increase of clustering distance, point data is continuously 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MTAwMjMyLDI4MTg1NTM2NCwxNTk5MT
-QzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5
-NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xOD
-MxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0
-MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MTQsOTYxMTM2OTAxLD
-I0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUzNjk2MTUsLTE0NzIz
-MTU4MzJdfQ==
+eyJoaXN0b3J5IjpbMjA1NzU5NjQ3MCwyODE4NTUzNjQsMTU5OT
+E0MzkyMiwtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUx
+OTUsNDYwMjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMT
+gzMTQ1MDgzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQx
+NDM2NjYsLTUxNDE0NTY2MCwxMzU4OTU5NTE0LDk2MTEzNjkwMS
+wyNDk4NTc1NTAsMTc1MTY4MTMxMiwtNDU1MzY5NjE1LC0xNDcy
+MzE1ODMyXX0=
 -->
