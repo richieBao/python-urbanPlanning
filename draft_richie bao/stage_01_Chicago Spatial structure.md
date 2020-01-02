@@ -291,17 +291,17 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 </p>
 <p>
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_105.jpg" width="400">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_19.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_20.jpg" width="400">
 </p>
 <p>
-<em>图1 140m层级聚类结果（10组）/Fig 1 140m hierarchical clustering results(10 groups)</em>
+<em>图3 140m层级聚类结果（10组）/Fig 3 140m hierarchical clustering results(10 groups)</em>
 </p>
 <p>
-<em>图2 160m层级聚类结果（10组）/Fig 2 160m hierarchical clustering results(10 groups)</em>
+<em>图4 160m层级聚类结果（10组）/Fig 4 160m hierarchical clustering results(10 groups)</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0ODk0MTg5LDQwODQ4MzQ3OCwtMTMwNT
+eyJoaXN0b3J5IjpbMTUwOTA0MzA4LDQwODQ4MzQ3OCwtMTMwNT
 k3ODM4OSwxNTY1MzIzOTMyLC05MzMxOTk2MDYsLTY3Mjc3MzY1
 MiwtMTc5NDUwMTEwLDIwNTY2NTQ1MTYsMTcxMDI1Mzk0MSwxMj
 c4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1
