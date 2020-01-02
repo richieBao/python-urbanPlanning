@@ -237,19 +237,28 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图8 聚类频数分布与最大聚类组团数量变化/Fig 8 the clustering frequency distribution and the maximu cluster number change</em>
 </p>
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="280">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="280">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_10.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_11.jpg" width="400">
 </p>
 <p>
-<em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line graph and infleciton point</em>
+<em>图9 独立点频数变化曲线与拐点/Fig 9 independent point frequency line graph and infleciton point</em>
 </p>
 <p>
-<em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection point</em>
+<em>图10 聚类最大总数变化曲线与拐点/Fig 10 the maximum total amount and inflection point</em>
 </p>
-
+<p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_12.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_13.jpg" width="400">
+</p>
+<p>
+<em>图9 独立点频数变化曲线与拐点/Fig 9 independent point frequency line graph and infleciton point</em>
+</p>
+<p>
+<em>图10 聚类最大总数变化曲线与拐点/Fig 10 the maximum total amount and inflection point</em>
+</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDA5ODA4NywtOTkwNzI0NDk0LC0yOD
+eyJoaXN0b3J5IjpbMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yOD
 EyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAy
 ODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OC
 wtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5
