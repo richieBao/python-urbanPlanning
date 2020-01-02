@@ -260,16 +260,16 @@ The hierarchy of the largest group that first appeared in each community areas w
 </p>
 分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点(如图6，7)，以及通过建立聚类频数与聚类距离的箱型图(图8)，获得关键层级的距离为140m，190m以及160m和250m。在140m距离（图9），是独立点在各层级变化中的降速分界点，小于该距离时的降速相对较快，而之后逐渐变缓慢，表明节点的分布上更多的较为集中于140m距离之下, 为当前城市所接受的适宜距离，是可达性较高的距离区域。满足该距离要求的区域以Loop和Near North Side 为核心，向北延Lack Michigan 延申，包括Lincoln Park、North Center Lakeview、Uptown区域，及向西、向南包括Near West Side和Near South side。同时，以Evaston为核心，向南延申，包括Rogers Park和Edge Water。O'Hare、River Forest也形成了一定的规模。
 </br></br>
-The line curves and inflection points between the maximum total number of clustering, the frequency of indepenent points and the clustering distance were calculated respectively(Fig 6, 7), and the box graph (Fig 8)of the clustering freqency was also established to obtain the distance of the critical levels of 140m,190m,160m and 250m.  t is the cut-off point of the desending speed of the independent points in the variation of various levels. When the distance is smaller than that, the descending speed is relatively fast, and then it gradually slows down, indicating that the nodes are more concentrated under the distance of 140m, which is the appropriate distance accepted by current city with high accessiblity. The areas that meet the requirements of this distance are centered  on Loop and Near North Side, extending north along the coast of Lack Michigan, including Lincoln Park、North Center Lakeview、Uptown area, and west, south including Near West Side and Near South side . Meanwhile, with Evaston as the core, it extends south to contain Rogers Park and Edge Water. O'Hare, River Forest also formed a certain scale.
+The line curves and inflection points between the maximum total number of clustering, the frequency of indepenent points and the clustering distance were calculated respectively(Fig 6, 7), and the box graph (Fig 8)of the clustering freqency was also established to obtain the distance of the critical levels of 140m,190m,160m and 250m.  At the distance of 140m(Fig 9),it is the cut-off point of the desending speed of the independent points in the variation of various levels. When the distance is smaller than that, the descending speed is relatively fast, and then it gradually slows down, indicating that the nodes are more concentrated under the distance of 140m, which is the appropriate distance accepted by current city with high accessiblity. The areas that meet the requirements of this distance are centered  on Loop and Near North Side, extending north along the coast of Lack Michigan, including Lincoln Park、North Center Lakeview、Uptown area, and west, south including Near West Side and Near South side . Meanwhile, with Evaston as the core, it extends south to contain Rogers Park and Edge Water. O'Hare, River Forest also formed a certain scale.
 
-
+在190m聚类距离之，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNTU5MDMyLDU1MjI0NzAzOCwyNzA2Nj
-YxLC0xODc2NTQwMTY1LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05
-OTA3MjQ0OTQsLTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5OD
-c2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcy
-NiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OT
-kxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1
-MTk1XX0=
+eyJoaXN0b3J5IjpbMTA1NTU5MDgxOCw1NTIyNDcwMzgsMjcwNj
+Y2MSwtMTg3NjU0MDE2NSw4Njk1NDM1MzIsMjAyMjc4Mzc1OCwt
+OTkwNzI0NDk0LC0yODEyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OT
+g3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3
+MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNT
+k5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkz
+NTE5NV19
 -->
