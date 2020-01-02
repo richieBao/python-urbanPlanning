@@ -212,19 +212,19 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_09.jpg" width="400">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_08.jpg" width="400"> </p>
 <p>
-<em>图4 主城区扩张的延申方向(待替换)/Fig 4 the extended direcrion of the expasion of the main urban area</em>
+<em>图4 主城区扩张的延申方向(待替换)/Fig 4 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
 </p>
 <p>
 <em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
 </p>
-
+计算每一社区图5
 
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjM0NzE2MCwtMjA0OTg3Njc3MSwtMj
+eyJoaXN0b3J5IjpbLTQzMDk5ODkzMywtMjA0OTg3Njc3MSwtMj
 M4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQx
 NDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC
 0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAy
