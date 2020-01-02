@@ -264,9 +264,9 @@ The line curves and inflection points between the maximum total number of cluste
 </br></br>
 在190m聚类距离，是聚类总数变化的转折点，在该转折点之后，形成新组团的速度趋于平缓，即组团基本达到稳定平衡的状态，所分布的区域基本满足城市生活需求，是城市生活主要分布的区域，主要涵盖Central, West Side, North Side,  Far North Side 东部和部分South Side. 
 </br></br>
-The distance of 190m is the turning point of the clustering total nunber change. 
+The distance of 190m is the turning point of the clustering total nunber change. After the inflection point, the rate of formation of new clusters has leveled off,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNDEwODY3LDE3MTAyNTM5NDEsMTI3OD
+eyJoaXN0b3J5IjpbNTk0OTgwODI2LDE3MTAyNTM5NDEsMTI3OD
 Q4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2NSw4
 Njk1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyND
 IxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0
