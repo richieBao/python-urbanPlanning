@@ -268,14 +268,15 @@ The distance of 190m is the turning point of the clustering total nunber change.
 </br></br>
 250m（图8）是基于城市生活数据城市边缘区域的界定距离，是人们实际主要活动的区域。内部的空白区域主要为具有一定规模的公园绿地， 以及大部分的居住区域。因为所选择的数据包含公路设施标签，因此可以明显观察到在居住区域延道路方格网布置的基础设施。主要的节点位于downtown和commercial区域（图12、13）。
 </br></br>
-250m(Fig 8)is the defined distance of the urban fringe based on the data of urban life, which is the actual main acitivity area of people. The blank area inside is mainly the park green space with a certain scale, and most of the residential areas. Since the selected data contains road facility labels, the infrastructure layout along the road
+250m(Fig 8)is the defined distance of the urban fringe based on the data of urban life, which is the actual main acitivity area of people. The blank area inside is mainly the park green space with a certain scale, and most of the residential area. Since the selected data contains road facility labels, the infrastructure layout along the road grid in the residential area can be clearly observed. The main nodes are located in downtown and commerical areas(Fig 12,13).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDcwMTIyLC02NzI3NzM2NTIsLTE3OT
-Q1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMTI3ODQ4OTcy
-OSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2NSw4Njk1ND
-M1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIxOTcs
-MTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMT
-EwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3
-NzYxXX0=
+eyJoaXN0b3J5IjpbMjEzMTg3ODgxMCwtNjcyNzczNjUyLC0xNz
+k0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLDEyNzg0ODk3
+MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAxNjUsODY5NT
+QzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMjgxMjQyMTk3
+LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1NCwtMj
+ExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0
+Nzc2MV19
 -->
