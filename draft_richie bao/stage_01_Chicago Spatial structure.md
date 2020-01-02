@@ -286,7 +286,7 @@ The distance of 190m is the turning point of the clustering total nunber change.
 ### 2 数据 /data
 Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM(Digital _Surface_ Model)（图3）、DTM（Digital Terrain Model）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
 
-Illinois State Geological Survey Prairie research institute provides open source Lidar data covering the entire Illinois region, and this study datga is downloadable .las format data, containing standardized classification and surface elevation information, can process and generate classification data with a resolution of 1m(Fig 1,2), DSM(Digital _Surface_ Model)(Fig 3), DTM（Digital Terrain Model）、DEM and other data, as well as SVF（sky view factor）reflecting urbans
+Illinois State Geological Survey Prairie research institute provides open source Lidar data covering the entire Illinois region, and this study datga is downloadable .las format data, containing standardized classification and surface elevation information, can process and generate classification data with a resolution of 1m(Fig 1,2), DSM(Digital _Surface_ Model)(Fig 3), DTM（Digital Terrain Model）、DEM and other data, as well as SVF（sky view factor）reflecting urban spatial structure calculated based on DSM data.
 <p>
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_15.jpg" width="400">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
@@ -311,11 +311,11 @@ Illinois State Geological Survey Prairie research institute provides open source
 
 基于1m分辨率的3D lidar全城数据，可以探索更多
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODM5NTMxMCw0MDg0ODM0NzgsLTEzMD
-U5NzgzODksMTU2NTMyMzkzMiwtOTMzMTk5NjA2LC02NzI3NzM2
-NTIsLTE3OTQ1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMT
-I3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2
-NSw4Njk1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yOD
-EyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAy
-ODU0XX0=
+eyJoaXN0b3J5IjpbNDY1MTg2MjEwLDQwODQ4MzQ3OCwtMTMwNT
+k3ODM4OSwxNTY1MzIzOTMyLC05MzMxOTk2MDYsLTY3Mjc3MzY1
+MiwtMTc5NDUwMTEwLDIwNTY2NTQ1MTYsMTcxMDI1Mzk0MSwxMj
+c4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1
+LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3MjQ0OTQsLTI4MT
+I0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4
+NTRdfQ==
 -->
