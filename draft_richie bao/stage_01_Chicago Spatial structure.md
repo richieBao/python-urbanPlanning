@@ -231,13 +231,13 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图6 独立点频数变化曲线与拐点/Fig 6 independent point frequency line graph and infleciton point</em>
 </p>
 <p>
-<em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection </em>
+<em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection point</em>
 </p>
 <p>
-<em>图8 占绝对优势的层级/Fig 8 the dominant hierarchy</em>
+<em>图8 聚类频数分布与/Fig 8 the dominant hierarchy</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTMwNTQxLC0yODEyNDIxOTcsMTA2OD
+eyJoaXN0b3J5IjpbODEwODIwNTUyLC0yODEyNDIxOTcsMTA2OD
 M0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3
 NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLD
 I4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIz
