@@ -262,14 +262,14 @@ The hierarchy of the largest group that first appeared in each community areas w
 </br></br>
 The line curves and inflection points between the maximum total number of clustering, the frequency of indepenent points and the clustering distance were calculated respectively(Fig 6, 7), and the box graph (Fig 8)of the clustering freqency was also established to obtain the distance of the critical levels of 140m,190m,160m and 250m.  At the distance of 140m(Fig 9),it is the cut-off point of the desending speed of the independent points in the variation of various levels. When the distance is smaller than that, the descending speed is relatively fast, and then it gradually slows down, indicating that the nodes are more concentrated under the distance of 140m, which is the appropriate distance accepted by current city with high accessiblity. The areas that meet the requirements of this distance are centered  on Loop and Near North Side, extending north along the coast of Lack Michigan, including Lincoln Park、North Center Lakeview、Uptown area, and west, south including Near West Side and Near South side . Meanwhile, with Evaston as the core, it extends south to contain Rogers Park and Edge Water. O'Hare, River Forest also formed a certain scale.
 
-在190m聚类距离，是聚类总数变化的转折点，在该转折点之后，形成新组团的速度趋于平缓，即组团基本达到稳定平衡的状态，所分布的区域基本满足城市生活需求，是城市sheng'h。
+在190m聚类距离，是聚类总数变化的转折点，在该转折点之后，形成新组团的速度趋于平缓，即组团基本达到稳定平衡的状态，所分布的区域基本满足城市生活需求，是城市生活主要分布的区域，主要涵盖Central, West Side, North Side, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NTgwNDMwLDE3MTAyNTM5NDEsMTI3OD
-Q4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2NSw4
-Njk1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyND
-IxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0
-LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtOD
-EyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUx
-NzldfQ==
+eyJoaXN0b3J5IjpbLTIxMDM2Njk2OTIsMTcxMDI1Mzk0MSwxMj
+c4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1
+LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3MjQ0OTQsLTI4MT
+I0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4
+NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC
+04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5
+NTE3OV19
 -->
