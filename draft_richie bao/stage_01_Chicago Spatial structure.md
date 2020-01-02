@@ -219,16 +219,16 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 </p>
 计算每一社区中最先出现的最大组团所在层级（图5），反应了聚类距离增加过程中，主要组团不断拓展的方向，其Chicago Sanitary and Ship Canal成为南北区域划分的关键线性空间。图6则计算每一社区中占绝对数量优势组团所在的层级，反映了该区域在整个芝加哥城中倾向的距离层级。例如O'Hare区域，为第40层级，即410m的距离，因为机场的功能性需求，处于城区的外围，通常需要跨越较大的距离才能够到达；而标识为15层级的中心城区，距离为160m，是可达性较高的区域。
 </br></br>
-The hierarchy of the largest group that first appeared in each community area
+The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY4NzQyNiwtMjA0OTg3Njc3MSwtMj
-M4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQx
-NDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC
-0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAy
-NzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwOD
-M1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2Niwt
-NTE0MTQ1NjYwXX0=
+eyJoaXN0b3J5IjpbNDU3MjI1NzExLC0yMDQ5ODc2NzcxLC0yMz
+gzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0
+MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLT
+E2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3
+OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4Mz
+UsLTMzNzkyMzgyMiwxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01
+MTQxNDU2NjBdfQ==
 -->
