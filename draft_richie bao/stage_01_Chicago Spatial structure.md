@@ -286,7 +286,7 @@ The distance of 190m is the turning point of the clustering total nunber change.
 ### 2 数据 /data
 Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM(Digital _Surface_ Model)（图3）、DTM（Digital Terrain Model）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
 
-Illinois State Geological Survey Prairie research institute provides open source 
+Illinois State Geological Survey Prairie research institute provides open source Lidar data covering the entire Illinois region, and this study datga is downloadable .las format data, containing standar
 <p>
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_15.jpg" width="400">
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
@@ -311,7 +311,7 @@ Illinois State Geological Survey Prairie research institute provides open source
 
 基于1m分辨率的3D lidar全城数据，可以探索更多
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg3NDcyOTMsNDA4NDgzNDc4LC0xMz
+eyJoaXN0b3J5IjpbLTE3MjUyMzg4NzgsNDA4NDgzNDc4LC0xMz
 A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
 NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
 EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
