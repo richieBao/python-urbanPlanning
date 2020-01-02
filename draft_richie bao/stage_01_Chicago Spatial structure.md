@@ -285,13 +285,27 @@ The distance of 190m is the turning point of the clustering total nunber change.
 > 研究思考 /research pondering
 ### 2 数据 /data
 Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据（图1，2）、DSM（图3）、DEM等数据，以及基于DSM数据可以计算SVF（sky view factor）等反应城市空间结构的指数（图4）。
-
+<p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_105.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
+</p>
+<p>
+<p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_105.jpg" width="400">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_16.jpg" width="400">
+</p>
+<p>
+<em>图1 140m层级聚类结果（10组）/Fig 1 140m hierarchical clustering results(10 groups)</em>
+</p>
+<p>
+<em>图2 160m层级聚类结果（10组）/Fig 2 160m hierarchical clustering results(10 groups)</em>
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY0Njk4MDcsNDA4NDgzNDc4LC0xMz
-A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
-NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
-EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
-NjUsODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMj
-gxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMw
-Mjg1NF19
+eyJoaXN0b3J5IjpbNzY0ODk0MTg5LDQwODQ4MzQ3OCwtMTMwNT
+k3ODM4OSwxNTY1MzIzOTMyLC05MzMxOTk2MDYsLTY3Mjc3MzY1
+MiwtMTc5NDUwMTEwLDIwNTY2NTQ1MTYsMTcxMDI1Mzk0MSwxMj
+c4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1
+LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3MjQ0OTQsLTI4MT
+I0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4
+NTRdfQ==
 -->
