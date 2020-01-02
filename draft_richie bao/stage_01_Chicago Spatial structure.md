@@ -115,6 +115,7 @@ The distance clustering method can be used to gather the positions that meet the
 当卷积核距离较小时，例如3×3的卷积核，在30m高空分辨率下所达到的范围为90×90m方格，计算每一单元的连接度基本相同，随着卷积核距离的增加，每一单元与周边单元连接范围的扩大，每一单元的连接度值逐渐开始分化，具有更强连接程度的单元开始显现。为了能够清晰的观察连接的程度分布，计算每一层级连接度的结果，如图9。
 </br></br>
 When convolution kernel distance is small, such as 3×3 convolution kernel, under 30m high attitude resolution is 90×90m square, the connections of each cell are basically the same, with the increase of convolution kernel distance, each cell connected to the peripheral cells scope expands, the connection degree of each unit is gradually began to differentiate, the cells with stronger connection degree begin to emerge. In order to clearly observe the connection degree distribution, cluster the results of connection degrees at each level, as shown in Fig 9.
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_4.jpg)
 <p align="center">
 <em>图9 连接度聚类（前20组） /Fig 9 connectivity clustering(first 20 groups)</em>
@@ -259,11 +260,11 @@ The hierarchy of the largest group that first appeared in each community areas w
 </p>
 分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点，以及通过建立聚类频数与聚类距离的箱型图，获得关键层级的距离为140m，190m以及160m和250m。在140m距离，是独立点在各层级变化中的降速分界点，小于该距离时的降速相对较快，而之后逐渐变缓慢，表明节点的分布上更多的较为集中于140m距离之下, 为当前城市所接受的适宜距离，是可达性较高的距离区域，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzk0OTg0MywtMTg3NjU0MDE2NSw4Nj
-k1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIx
-OTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC
-0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEy
-NDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNz
-ksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1
-ODg0NzExOF19
+eyJoaXN0b3J5IjpbMjcwNjY2MSwtMTg3NjU0MDE2NSw4Njk1ND
+M1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIxOTcs
+MTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMT
+EwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3
+NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLT
+c5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0
+NzExOF19
 -->
