@@ -215,18 +215,18 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 <em>图4 主城区扩张的延申方向/Fig 4 the extended direcrion of the expasion of the main urban area</em>
 </p>
 <p>
-<em>图5 占绝对优势的层级/Fig5 continous expansion of the maximum clustering region</em>
+<em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
 </p>
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzU2NzM5OCwtMjA0OTg3Njc3MSwtMj
-M4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQx
-NDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC
-0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAy
-NzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwOD
-M1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2Niwt
-NTE0MTQ1NjYwXX0=
+eyJoaXN0b3J5IjpbLTEyNTEyMjAyODcsLTIwNDk4NzY3NzEsLT
+IzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0
+MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMi
+wtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYw
+Mjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MD
+gzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYs
+LTUxNDE0NTY2MF19
 -->
