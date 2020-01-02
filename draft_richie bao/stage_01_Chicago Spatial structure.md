@@ -256,13 +256,13 @@ The hierarchy of the largest group that first appeared in each community areas w
 <p>
 <em>图12 250m层级聚类结果（10组）/Fig 12 250m hierarchical clustering results(10 groups)</em>
 </p>
-分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点，以及通过建立聚类频数与聚类距离的箱型图，获得关键层级的距离为
+分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点，以及通过建立聚类频数与聚类距离的箱型图，获得关键层级的距离为140m，190m以及160m和250m。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NTU1ODA1LDg2OTU0MzUzMiwyMDIyNz
-gzNzU4LC05OTA3MjQ0OTQsLTI4MTI0MjE5NywxMDY4MzQwMTQ1
-LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLT
-UzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1
-MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0LC
-0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3MzM5
-NzY3MzddfQ==
+eyJoaXN0b3J5IjpbMTg2NjQ3MzM4NSw4Njk1NDM1MzIsMjAyMj
+c4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIxOTcsMTA2ODM0MDE0
+NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC
+01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1
+NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NC
+wtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNzMz
+OTc2NzM3XX0=
 -->
