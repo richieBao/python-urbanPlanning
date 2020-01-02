@@ -241,7 +241,7 @@ The hierarchy of the largest group that first appeared in each community areas w
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_11.jpg" width="400">
 </p>
 <p>
-<em>图9 140m/Fig 9 independent point frequency line graph and infleciton point</em>
+<em>图9 140m层级聚类结果（10组）/Fig 9 independent point frequency line graph and infleciton point</em>
 </p>
 <p>
 <em>图10 聚类最大总数变化曲线与拐点/Fig 10 the maximum total amount and inflection point</em>
@@ -258,11 +258,11 @@ The hierarchy of the largest group that first appeared in each community areas w
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTQxMDM3OSwyMDIyNzgzNzU4LC05OT
-A3MjQ0OTQsLTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2
-NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNi
-wxODg1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkx
-NDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1MT
-k1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3MzcsLTE4
-MzE0NTA4MzVdfQ==
+eyJoaXN0b3J5IjpbMzc1ODIyNjgyLDIwMjI3ODM3NTgsLTk5MD
+cyNDQ5NCwtMjgxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3
+NzEsLTIzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LD
+E4ODU0MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0
+MzkyMiwtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOT
+UsNDYwMjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgz
+MTQ1MDgzNV19
 -->
