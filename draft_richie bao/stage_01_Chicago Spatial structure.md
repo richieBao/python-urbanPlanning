@@ -254,15 +254,15 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图11 190m层级聚类结果（10组）/Fig 10 190m hierarchical clustering results(10 groups)</em>
 </p>
 <p>
-<em>图12 聚类最大总数变化曲线与拐点/Fig 12 the maximum total amount and inflection point</em>
+<em>图12 250m层级聚类结果（10组）/Fig 12 250m hierarchical clustering results(10 groups)</em>
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwOTE2ODYsMjAyMjc4Mzc1OCwtOTkwNz
-I0NDk0LC0yODEyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3
-MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMT
-g4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQz
-OTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NS
-w0NjAyNzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMx
-NDUwODM1XX0=
+eyJoaXN0b3J5IjpbODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MD
+cyNDQ5NCwtMjgxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3
+NzEsLTIzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LD
+E4ODU0MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0
+MzkyMiwtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOT
+UsNDYwMjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgz
+MTQ1MDgzNV19
 -->
