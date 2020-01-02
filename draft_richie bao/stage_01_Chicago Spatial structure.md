@@ -205,7 +205,7 @@ With the continuous increase of clustering distance, point data is continuously 
 <p align="middle">
 <em>图3 OSM的Nodes点50个层级聚类结果 /Fig3 OSM Nodes 50 hierarchical clustering results</em>
 </p>
-将每个层级最大的聚类组团的变化（图3）与
+将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，
 
 
 
@@ -213,7 +213,7 @@ With the continuous increase of clustering distance, point data is continuously 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzU5NjQ3MCwyODE4NTUzNjQsMTU5OT
+eyJoaXN0b3J5IjpbLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OT
 E0MzkyMiwtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUx
 OTUsNDYwMjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMT
 gzMTQ1MDgzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQx
