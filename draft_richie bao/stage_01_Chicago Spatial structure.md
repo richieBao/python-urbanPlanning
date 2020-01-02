@@ -284,14 +284,14 @@ The distance of 190m is the turning point of the clustering total nunber change.
 ## C. 雷达数据与全尺度分析 /Lidar data and full scale analysis
 > 研究思考 /research pondering
 ### 2 数据 /data
-Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含
+Illinois State Geological Survey Prairie research institute提供了开源的Lidar数据，包含整个Illinois区域，本次研究数据为下载的.las格式数据，包含标准化的分类信息和地表高程信息，可以处理生成高空分辨率为1m的分类数据和
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjU3ODg2NywxNTY1MzIzOTMyLC05Mz
-MxOTk2MDYsLTY3Mjc3MzY1MiwtMTc5NDUwMTEwLDIwNTY2NTQ1
-MTYsMTcxMDI1Mzk0MSwxMjc4NDg5NzI5LDU1MjI0NzAzOCwyNz
-A2NjYxLC0xODc2NTQwMTY1LDg2OTU0MzUzMiwyMDIyNzgzNzU4
-LC05OTA3MjQ0OTQsLTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMD
-Q5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcx
-MzcyNl19
+eyJoaXN0b3J5IjpbLTEzMDU5NzgzODksMTU2NTMyMzkzMiwtOT
+MzMTk5NjA2LC02NzI3NzM2NTIsLTE3OTQ1MDExMCwyMDU2NjU0
+NTE2LDE3MTAyNTM5NDEsMTI3ODQ4OTcyOSw1NTIyNDcwMzgsMj
+cwNjY2MSwtMTg3NjU0MDE2NSw4Njk1NDM1MzIsMjAyMjc4Mzc1
+OCwtOTkwNzI0NDk0LC0yODEyNDIxOTcsMTA2ODM0MDE0NSwtMj
+A0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3
+MTM3MjZdfQ==
 -->
