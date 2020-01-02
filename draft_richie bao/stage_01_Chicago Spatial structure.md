@@ -311,9 +311,9 @@ Illinois State Geological Survey Prairie research institute provides open source
 
 一方面基于高分辨率的3D lidar数据，可以探索更多城市三维空间结构相关的问题，例如无人驾驶城市项目等；同时，基于全城的lidar数据则可以尝试全尺度的城市空间结构分析，即避免低分辨率影像带来的信息确实。当然高分辨的雷达数据会带来更多的计算量，对于硬件和代码的优化编写提出一定的要求。更多的探索将在第2 阶段开展。
 </br></br>
-On the one hand, based on high-resolution 3D lidar data, it can explore more problems related to the three-dimensional spatial structure of citites, such as driverless city project. At the same time, lidat data based on the whole city can be used to try to analyze the spatial structure of the city at full scale, that is, to avoid missing
+On the one hand, based on high-resolution 3D lidar data, it can explore more problems related to the three-dimensional spatial structure of citites, such as driverless city project. At the same time, lidat data based on the whole city can be used to try to analyze the spatial structure of the city at full scale, that is, to avoid missing information brought by low-resolution images, of course, the high-resolution images lidar data will bring more computation , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mjk4NDk2Nyw0MDg0ODM0NzgsLTEzMD
+eyJoaXN0b3J5IjpbMTU5MzMzNzE2Miw0MDg0ODM0NzgsLTEzMD
 U5NzgzODksMTU2NTMyMzkzMiwtOTMzMTk5NjA2LC02NzI3NzM2
 NTIsLTE3OTQ1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMT
 I3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2
