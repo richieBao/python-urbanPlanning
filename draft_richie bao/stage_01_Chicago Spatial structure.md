@@ -219,16 +219,16 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 </p>
 计算每一社区中最先出现的最大组团所在层级（图5），反应了聚类距离增加过程中，主要组团不断拓展的方向，其Chicago Sanitary and Ship Canal成为南北区域划分的关键线性空间。图6则计算每一社区中占绝对数量优势组团所在的层级，反映了该区域在整个芝加哥城中倾向的距离层级。例如O'Hare区域，为第40层级，即410m的距离，因为机场的功能性需求，处于城区的外围，通常需要跨越较大的距离才能够到达；而标识为15层级的中心城区，距离为160m，是可达性较高的区域。
 </br></br>
-The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority 
+The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority amount in earch community area, reflecting the distance hierarchy that this area tends to have in the entire city of Chicago. For example, O'Har
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjAxNTI0NiwtMjA0OTg3Njc3MSwtMj
-M4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQx
-NDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC
-0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAy
-NzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwOD
-M1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2Niwt
-NTE0MTQ1NjYwXX0=
+eyJoaXN0b3J5IjpbLTE1NDA5Njk2NzQsLTIwNDk4NzY3NzEsLT
+IzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0
+MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMi
+wtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYw
+Mjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MD
+gzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYs
+LTUxNDE0NTY2MF19
 -->
