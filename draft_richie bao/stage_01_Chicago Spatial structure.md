@@ -309,13 +309,15 @@ Illinois State Geological Survey Prairie research institute provides open source
 <em>图4 S.R. Crown Hall SVF 细节/Fig 4 details of S.R. Crown Hall SVF data</em>
 </p>
 
-一方面基于高分辨率的3D lidar数据，可以探索更多城市三维空间结构相关的问题，l；同时，基于全城的lidar数据则可以尝试全尺度的城市空间结构分析，即避免低分辨率影像带来的信息确实。更多的探索将在第2 阶段开展。
+一方面基于高分辨率的3D lidar数据，可以探索更多城市三维空间结构相关的问题，例如无人驾驶城市项目等；同时，基于全城的lidar数据则可以尝试全尺度的城市空间结构分析，即避免低分辨率影像带来的信息确实。当然高分辨的雷达数据会带来更多的计算量，对于硬件和代码的优化编写提出一定的要求。更多的探索将在第2 阶段开展。
+</br></br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMzQ3OTAsNDA4NDgzNDc4LC0xMzA1OT
-c4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzczNjUy
-LC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLDEyNz
-g0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAxNjUs
-ODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMjgxMj
-QyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1
-NF19
+eyJoaXN0b3J5IjpbMTQ1ODMzODUyLDQwODQ4MzQ3OCwtMTMwNT
+k3ODM4OSwxNTY1MzIzOTMyLC05MzMxOTk2MDYsLTY3Mjc3MzY1
+MiwtMTc5NDUwMTEwLDIwNTY2NTQ1MTYsMTcxMDI1Mzk0MSwxMj
+c4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1
+LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3MjQ0OTQsLTI4MT
+I0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4
+NTRdfQ==
 -->
