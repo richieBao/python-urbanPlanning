@@ -205,15 +205,14 @@ With the continuous increase of clustering distance, point data is continuously 
 <p align="middle">
 <em>图3 各层级最大组团变化与芝加哥社区 /Fig3 Maximum group change at each level with Chicago community areas</em>
 </p>
-将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，描述随着聚类距离的增加，最大组团的形成与扩张途径。在20m～70m距离下，Loop 和Near North Side形成多个较大的组团，并不断融合，同时Evaston在该距离下亦具有明显优势。
-
+将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，描述随着聚类距离的增加，最大组团的形成与扩张途径。在20m～70m距离下，Loop 和Near North Side形成多个较大的组团，并不断融合，同时Evaston在该距离下亦具有明显优势；在70m～100m距离下，开始向Near West Side方向延申，但基本位于其东半部；
 
 
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODI5MDc2OSwxODg1NDE0MDk4LC04MT
+eyJoaXN0b3J5IjpbMTAxNDMwODg0OCwxODg1NDE0MDk4LC04MT
 I0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3
 OSwtNzk3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNT
 U4ODQ3MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzky
