@@ -107,6 +107,7 @@ The total number of clusters decreased with the increase of the clustering dista
 采用距离聚类的方法可以将满足指定距离要求的位置集聚，每一聚类组团自身在空间上是连续的。为了探究空间上连续的程度，计算每一单元与周边单元在连续卷积核距离下的连接程度，计算结果如图8。
 
 The distance clustering method can be used to gather the positions that meet the requirements of the specific distance, and each cluster itself is spatically continous. In order to explore the degree of spatial continuity, the connection degree between each cell and the surrounding cells under the distance of continuous convolution kernel is calculated, and the calculated result is shown in Fig 8.
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/32_3.jpg)
 <p align="center">
 <em>图8 连续卷积核距离下的连接度 /Fig 8 connection degree at continuous convolution kernel distance</em>
@@ -258,7 +259,7 @@ The hierarchy of the largest group that first appeared in each community areas w
 </p>
 分别计算聚类最大总数、独立点频数与聚类距离的关系曲线及拐点，以及通过建立聚类频数与聚类距离的箱型图，获得关键层级的距离为140m，190m以及160m和250m。在140m距离，是独立点在各层级变化中的降速分界点，小于该距离时的降速相对较快，而之后逐渐变缓慢，表明节点的分布上更多的较为集中于140m距离之下, 为当前城市所接受的适宜距离，是可达性较高的距离区域，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDYxOTEzNywtMTg3NjU0MDE2NSw4Nj
+eyJoaXN0b3J5IjpbMTE1Nzk0OTg0MywtMTg3NjU0MDE2NSw4Nj
 k1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIx
 OTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC
 0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEy
