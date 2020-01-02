@@ -207,16 +207,18 @@ With the continuous increase of clustering distance, point data is continuously 
 </p>
 将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，描述随着聚类距离的增加，最大组团的形成与扩张途径。在20m～70m距离下，Loop 和Near North Side形成多个较大的组团，并不断融合，同时Evaston在该距离下亦具有明显优势；在70m～100m距离下，开始向Near West Side方向延申，但基本位于其东半部；100m～140m距离下，延湖岸向北延申至Lincoin Park、Lake View、Up Town区域，向南延申至Near South Side，在此距离下北部多数沿岸区域与起始downtown区域联系紧密，而南部较弱；在140m～180m距离下，延申方向指向西北方向，西向和西南方向，分别至Logan Suqare、Avondale、Humboldt Park、East Garfield Park、North Lawndale和South Lawndale，向北则包含Edge Water、Rogers Park与Evaston相连；自180m开始向西和南延申，并逐渐的延外层边缘向外拓展，至250m时，已经基本涵盖所有区域，除O'Hare机场区域、South Deering 高尔夫球场等区域外。
 
-The changes of the largest cluster groups at each level (Fig 3) were superimposed with the different Chicago community areas to describe the formation and expansion of the largest cluster grjoups as the clustering distance increased. At the distance of 20 ～70m,  Loop and Near North Side form a number of larger groups and continue to merge. At the same time, Evaston also has obvious advantages at this distance. At the distance of 70m～100m, it begins to expand to Near West Side, but basically lies in its eastern half. At the distance of 100m～140m, along the Lake Michigan extends northward to Lincoin Park、Lake View、Up Town, and southward to Near South Side. At this distance , most coastal areas in the north are closely related to the initial downtown area, while the south is weak. At the distance of 140m～180m, the extension points to the northwest, west and southwest, to Logan Suqare、Avondale、Humboldt Park、East Garfield Park、North Lawndale and South Lawndale, and to the north, Edge Water、Rogers Park and Evaston are connected. Since 180m, it has 
+The changes of the largest cluster groups at each level (Fig 3) were superimposed with the different Chicago community areas to describe the formation and expansion of the largest cluster grjoups as the clustering distance increased. At the distance of 20 ～70m,  Loop and Near North Side form a number of larger groups and continue to merge. At the same time, Evaston also has obvious advantages at this distance. At the distance of 70m～100m, it begins to expand to Near West Side, but basically lies in its eastern half. At the distance of 100m～140m, along the Lake Michigan extends northward to Lincoin Park、Lake View、Up Town, and southward to Near South Side. At this distance , most coastal areas in the north are closely related to the initial downtown area, while the south is weak. At the distance of 140m～180m, the extension points to the northwest, west and southwest, to Logan Suqare、Avondale、Humboldt Park、East Garfield Park、North Lawndale and South Lawndale, and to the north, Edge Water、Rogers Park and Evaston are connected. Since 180m, it has extended to the west and south and gradually extended to the outer edge. By 250m, it has basically covered all areas, except the area of O'Hare airport and South Deering golf course.
+
+
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ1NjQ0LC0yMzgzMDI4NTQsLTIxMT
-A4Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3
-NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNz
-k3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3
-MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMi
-wxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1
-ODk1OTUxNF19
+eyJoaXN0b3J5IjpbLTEwOTgyNjEzNzYsLTIzODMwMjg1NCwtMj
+ExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0
+Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1MTc5LC
+03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4
+NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzOD
+IyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUxNDE0NTY2MCwx
+MzU4OTU5NTE0XX0=
 -->
