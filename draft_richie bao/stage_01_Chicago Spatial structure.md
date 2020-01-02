@@ -266,13 +266,13 @@ The line curves and inflection points between the maximum total number of cluste
 </br></br>
 The distance of 190m is the turning point of the clustering total nunber change. （Fig 7）After the inflection point, the rate of formation of new clusters has leveled off, the group achieves the stable equilibrium state. The distribution of the region basically meet the demand of the city life, is the main ditribution area, mainly covers Central, West Side, North Side,  the east of Far North Side  and parts of South Side(Fig 11).
 </br></br>
-250m是
+250m是基于城市生活数据的城市bian'y
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjY1NDUxNiwxNzEwMjUzOTQxLDEyNz
-g0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAxNjUs
-ODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMjgxMj
-QyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1
-NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLT
-gxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1
-MTc5XX0=
+eyJoaXN0b3J5IjpbNTc4NTAwODA0LDIwNTY2NTQ1MTYsMTcxMD
+I1Mzk0MSwxMjc4NDg5NzI5LDU1MjI0NzAzOCwyNzA2NjYxLC0x
+ODc2NTQwMTY1LDg2OTU0MzUzMiwyMDIyNzgzNzU4LC05OTA3Mj
+Q0OTQsLTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMDQ5ODc2Nzcx
+LC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNiwxOD
+g1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5
+MjJdfQ==
 -->
