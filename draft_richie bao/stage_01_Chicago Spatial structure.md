@@ -203,7 +203,7 @@ With the continuous increase of clustering distance, point data is continuously 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_07.jpg)
 <p align="middle">
-<em>图3 各层级最大组团变化与芝加哥社区 /Fig3 Maximum group change </em>
+<em>图3 各层级最大组团变化与芝加哥社区 /Fig3 Maximum group change at each level with Chicago community areas</em>
 </p>
 将每个层级最大的聚类组团的变化（图3）与芝加哥不同的社区叠合，
 
@@ -213,11 +213,11 @@ With the continuous increase of clustering distance, point data is continuously 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMzk3MTg5LC04MTI0NDc3NjEsMjgxOD
-U1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0
-LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3Mz
-M5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1Mjgz
-OTU0LC0xNjk0MTQzNjY2LC01MTQxNDU2NjAsMTM1ODk1OTUxNC
-w5NjExMzY5MDEsMjQ5ODU3NTUwLDE3NTE2ODEzMTIsLTQ1NTM2
-OTYxNV19
+eyJoaXN0b3J5IjpbMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MT
+g1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5
+NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNz
+MzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4
+Mzk1NCwtMTY5NDE0MzY2NiwtNTE0MTQ1NjYwLDEzNTg5NTk1MT
+QsOTYxMTM2OTAxLDI0OTg1NzU1MCwxNzUxNjgxMzEyLC00NTUz
+Njk2MTVdfQ==
 -->
