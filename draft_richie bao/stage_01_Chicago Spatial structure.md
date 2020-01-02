@@ -217,7 +217,7 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 <p>
 <em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
 </p>
-计算每一社区中最先出现的最大组团所在层级（图5），反应了聚类距离增加过程中，主要组团不断拓展的方向，其Chicago Sanitary and Ship Canal成为南北区域划分的关键线性空间。图6则计算每一社区中占绝对数量优势组团所在的层级，反映了该区域在整个芝加哥城中倾向的距离层级。例如O'Hare区域，为第40层级，即410m的距离，因为机场的功能性需求，处于城区的外围，通常需要跨越较大的距离才能够到达；而标识为15层级的中心城区，距离为160m，是可达性较高的区域。
+计算每一社区中最先出现的最大组团所在层级（图4），反应了聚类距离增加过程中，主要组团不断拓展的方向，其Chicago Sanitary and Ship Canal成为南北区域划分的关键线性空间。图5则计算每一社区中占绝对数量优势组团所在的层级，反映了该区域在整个芝加哥城中倾向的距离层级。例如O'Hare区域，为第40层级，即410m的距离，因为机场的功能性需求，处于城区的外围，通常需要跨越较大的距离才能够到达；而标识为15层级的中心城区，距离为160m，是可达性较高的区域。
 </br></br>
 The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority amount in earch community area, reflecting the distance hierarchy that this area tends to have in the entire city of Chicago. For example, O'Hare area is the 40th level, that is the distance of 410m. Because of the functional requirements of the airport , it is located at the periphery of the urban area,  which usually needs to be reached over a large distance. The downtown area marked as level 15, with a distance of 160m, is the area with high accessibility.
 
@@ -228,20 +228,20 @@ The hierarchy of the largest group that first appeared in each community areas w
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="280">
 </p>
 <p>
-<em>图4 主城区扩张的延申方向(待替换)/Fig 4 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
+<em>图6 主城区扩张的延申方向(待替换)/Fig 6 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
 </p>
 <p>
-<em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
+<em>图7 占绝对优势的层级/Fig 7 the dominant hierarchy</em>
 </p>
 <p>
-<em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
+<em>图8 占绝对优势的层级/Fig 8 the dominant hierarchy</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTI0MjE5NywxMDY4MzQwMTQ1LC0yMD
-Q5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcx
-MzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LD
-E1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5
-OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3Mz
-csLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1MjgzOTU0LC0x
-Njk0MTQzNjY2XX0=
+eyJoaXN0b3J5IjpbNjMyNDI3NTMsLTI4MTI0MjE5NywxMDY4Mz
+QwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0
+NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMj
+gxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5
+Njk0LC0xNDA5OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LD
+E3MzM5NzY3MzcsLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1
+MjgzOTU0XX0=
 -->
