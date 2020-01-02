@@ -222,13 +222,26 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority amount in earch community area, reflecting the distance hierarchy that this area tends to have in the entire city of Chicago. For example, O'Hare area is the 40th level, that is the distance of 410m. Because of the functional requirements of the airport , it is located at the periphery of the urban area,  which usually needs to be reached over a large distance. The downtown area marked as level 15, with a distance of 160m, is the area with high accessibility.
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
-
+<p>
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="300" align="right">
+</p>
+<p>
+<em>图4 主城区扩张的延申方向(待替换)/Fig 4 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
+</p>
+<p>
+<em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
+</p>
+<p>
+<em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMj
-M4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3MjYsMTg4NTQx
-NDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNTk5MTQzOTIyLC
-0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkzNTE5NSw0NjAy
-NzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2NzM3LC0xODMxNDUwOD
-M1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwtMTY5NDE0MzY2Niwt
-NTE0MTQ1NjYwXX0=
+eyJoaXN0b3J5IjpbLTE2NTE1MDk0NTQsMTA2ODM0MDE0NSwtMj
+A0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3
+MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NC
+wxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQw
+OTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2Nz
+M3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwt
+MTY5NDE0MzY2Nl19
 -->
