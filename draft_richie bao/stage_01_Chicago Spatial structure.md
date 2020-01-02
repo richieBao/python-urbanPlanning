@@ -313,13 +313,13 @@ Illinois State Geological Survey Prairie research institute provides open source
 </br></br>
 On the one hand, based on high-resolution 3D lidar data, it can explore more problems related to the three-dimensional spatial structure of citites, such as driverless city project. At the same time, lidat data based on the whole city can be used to try to analyze the spatial structure of the city at full scale, that is, to avoid missing information brought by low-resolution images, of course, the high-resolution images lidar data will bring more computation , which put forward certain requirements for the optimization of hardware and code. More exploration will take place in phase 2.
 </br></br>
-
+第1阶段时间 /stage 1 time: 10.9.2019-1.9.2020
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxMjk1MTUsNDA4NDgzNDc4LC0xMz
-A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
-NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
-EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
-NjUsODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMj
-gxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMw
-Mjg1NF19
+eyJoaXN0b3J5IjpbLTEwODE5MDM1Myw0MDg0ODM0NzgsLTEzMD
+U5NzgzODksMTU2NTMyMzkzMiwtOTMzMTk5NjA2LC02NzI3NzM2
+NTIsLTE3OTQ1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMT
+I3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2
+NSw4Njk1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yOD
+EyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAy
+ODU0XX0=
 -->
