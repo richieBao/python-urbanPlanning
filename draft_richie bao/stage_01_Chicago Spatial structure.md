@@ -234,14 +234,16 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图7 聚类最大总数变化曲线与拐点/Fig 7 the maximum total amount and inflection point</em>
 </p>
 <p>
-<em>图8 聚类频数分布与/Fig 8 the dominant hierarchy</em>
+<em>图8 聚类频数分布与最大聚类组团数量变化/Fig 8 the clustering frequency distribution and the maximu cluster number change</em>
 </p>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwODIwNTUyLC0yODEyNDIxOTcsMTA2OD
-M0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3
-NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLD
-I4MTg1NTM2NCwxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIz
-OTY5NCwtMTQwOTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOC
-wxNzMzOTc2NzM3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcx
-NTI4Mzk1NF19
+eyJoaXN0b3J5IjpbLTk5MDcyNDQ5NCwtMjgxMjQyMTk3LDEwNj
+gzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1NCwtMjExMDg3
+NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0Nzc2MS
+wyODE4NTUzNjQsMTU5OTE0MzkyMiwtMTY3OTk1MTc5LC03OTcy
+Mzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5MzI4LC01NTg4NDcxMT
+gsMTczMzk3NjczNywtMTgzMTQ1MDgzNSwtMzM3OTIzODIyLDE3
+MTUyODM5NTRdfQ==
 -->
