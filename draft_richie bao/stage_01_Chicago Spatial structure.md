@@ -262,14 +262,14 @@ The hierarchy of the largest group that first appeared in each community areas w
 </br></br>
 The line curves and inflection points between the maximum total number of clustering, the frequency of indepenent points and the clustering distance were calculated respectively(Fig 6, 7), and the box graph (Fig 8)of the clustering freqency was also established to obtain the distance of the critical levels of 140m,190m,160m and 250m.  At the distance of 140m(Fig 9),it is the cut-off point of the desending speed of the independent points in the variation of various levels. When the distance is smaller than that, the descending speed is relatively fast, and then it gradually slows down, indicating that the nodes are more concentrated under the distance of 140m, which is the appropriate distance accepted by current city with high accessiblity. The areas that meet the requirements of this distance are centered  on Loop and Near North Side, extending north along the coast of Lack Michigan, including Lincoln Park、North Center Lakeview、Uptown area, and west, south including Near West Side and Near South side . Meanwhile, with Evaston as the core, it extends south to contain Rogers Park and Edge Water. O'Hare, River Forest also formed a certain scale.
 
-在190m聚类距离，是聚类总数变化的转折点，
+在190m聚类距离，是聚类总数变化的转折点，在该转折点之后，形成新组团的速度
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNj
-Y2MSwtMTg3NjU0MDE2NSw4Njk1NDM1MzIsMjAyMjc4Mzc1OCwt
-OTkwNzI0NDk0LC0yODEyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OT
-g3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3MTM3
-MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NCwxNT
-k5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQwOTkz
-NTE5NV19
+eyJoaXN0b3J5IjpbMTc4NzQ4NzI2MSwxMjc4NDg5NzI5LDU1Mj
+I0NzAzOCwyNzA2NjYxLC0xODc2NTQwMTY1LDg2OTU0MzUzMiwy
+MDIyNzgzNzU4LC05OTA3MjQ0OTQsLTI4MTI0MjE5NywxMDY4Mz
+QwMTQ1LC0yMDQ5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0
+NzMsLTUzMzcxMzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMj
+gxODU1MzY0LDE1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5
+Njk0XX0=
 -->
