@@ -295,7 +295,7 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_20.jpg" width="400">
 </p>
 <p>
-<em>图1 基于雷达数据的全城分类数据/Fig 1 140m hierarchical clustering results(10 groups)</em>
+<em>图1 基于雷达数据的全城分类数据(1m 高空分辨率)/Fig 1 citywild classification data bsaed on lidar</em>
 </p>
 <p>
 <em>图2 160m层级聚类结果（10组）/Fig 2 160m hierarchical clustering results(10 groups)</em>
@@ -307,11 +307,11 @@ Illinois State Geological Survey Prairie research institute提供了开源的Lid
 <em>图4 160m层级聚类结果（10组）/Fig 4 160m hierarchical clustering results(10 groups)</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM2ODA4MzEsNDA4NDgzNDc4LC0xMz
-A1OTc4Mzg5LDE1NjUzMjM5MzIsLTkzMzE5OTYwNiwtNjcyNzcz
-NjUyLC0xNzk0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLD
-EyNzg0ODk3MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAx
-NjUsODY5NTQzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMj
-gxMjQyMTk3LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMw
-Mjg1NF19
+eyJoaXN0b3J5IjpbMTQ1NTc0NDQyNyw0MDg0ODM0NzgsLTEzMD
+U5NzgzODksMTU2NTMyMzkzMiwtOTMzMTk5NjA2LC02NzI3NzM2
+NTIsLTE3OTQ1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMT
+I3ODQ4OTcyOSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2
+NSw4Njk1NDM1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yOD
+EyNDIxOTcsMTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAy
+ODU0XX0=
 -->
