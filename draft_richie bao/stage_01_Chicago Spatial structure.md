@@ -223,9 +223,9 @@ The hierarchy of the largest group that first appeared in each community areas w
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 <p>
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="300" align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="300" align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_05.jpg" width="300">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_06.jpg" width="300">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/35_07.jpg" width="300">
 </p>
 <p>
 <em>图4 主城区扩张的延申方向(待替换)/Fig 4 the extended direcrion of the expasion of the main urban area(to be replaced)</em>
@@ -237,11 +237,11 @@ The hierarchy of the largest group that first appeared in each community areas w
 <em>图5 占绝对优势的层级/Fig5 the dominant hierarchy</em>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE1MDk0NTQsMTA2ODM0MDE0NSwtMj
-A0OTg3Njc3MSwtMjM4MzAyODU0LC0yMTEwODc3NDczLC01MzM3
-MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3NzYxLDI4MTg1NTM2NC
-wxNTk5MTQzOTIyLC0xNjc5OTUxNzksLTc5NzIzOTY5NCwtMTQw
-OTkzNTE5NSw0NjAyNzkzMjgsLTU1ODg0NzExOCwxNzMzOTc2Nz
-M3LC0xODMxNDUwODM1LC0zMzc5MjM4MjIsMTcxNTI4Mzk1NCwt
-MTY5NDE0MzY2Nl19
+eyJoaXN0b3J5IjpbMTkxNjQ1NjQ1NCwxMDY4MzQwMTQ1LC0yMD
+Q5ODc2NzcxLC0yMzgzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcx
+MzcyNiwxODg1NDE0MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LD
+E1OTkxNDM5MjIsLTE2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5
+OTM1MTk1LDQ2MDI3OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3Mz
+csLTE4MzE0NTA4MzUsLTMzNzkyMzgyMiwxNzE1MjgzOTU0LC0x
+Njk0MTQzNjY2XX0=
 -->
