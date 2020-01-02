@@ -212,7 +212,7 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_09.jpg" width="400">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_08.jpg" width="400"> </p>
 <p>
-<em>图4 最大聚类区域所包含数量变化值 /Fig 4 the quantitative variation value contained in the maximum clustering region</em>
+<em>图4 主城区扩张的延申方向/Fig 4 the quantitative variation value contained in the maximum clustering region</em>
 </p>
 <p>
 <em>图5 最大聚类区域的连续扩张 /Fig5 continous expansion of the maximum clustering region</em>
@@ -222,11 +222,11 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE3ODM3NDcsLTIwNDk4NzY3NzEsLT
-IzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0
-MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMi
-wtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYw
-Mjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MD
-gzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYs
-LTUxNDE0NTY2MF19
+eyJoaXN0b3J5IjpbNjA4MzE3NDIsLTIwNDk4NzY3NzEsLTIzOD
+MwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQw
+OTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMiwtMT
+Y3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYwMjc5
+MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MDgzNS
+wtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYsLTUx
+NDE0NTY2MF19
 -->
