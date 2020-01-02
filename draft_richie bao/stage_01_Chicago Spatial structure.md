@@ -219,16 +219,16 @@ The changes of the largest cluster groups at each level (Fig 3) were superimpose
 </p>
 计算每一社区中最先出现的最大组团所在层级（图5），反应了聚类距离增加过程中，主要组团不断拓展的方向，其Chicago Sanitary and Ship Canal成为南北区域划分的关键线性空间。图6则计算每一社区中占绝对数量优势组团所在的层级，反映了该区域在整个芝加哥城中倾向的距离层级。例如O'Hare区域，为第40层级，即410m的距离，因为机场的功能性需求，处于城区的外围，通常需要跨越较大的距离才能够到达；而标识为15层级的中心城区，距离为160m，是可达性较高的区域。
 </br></br>
-The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority amount in earch community area, reflecting the distance hierarchy that this area tends to have in the entire city of Chicago. For example, O'Hare area is the 40th level, that is the distance of 410m. Because of the functional requirements of the airport , it is located at the periphery of the urban area, 
+The hierarchy of the largest group that first appeared in each community areas was calculated(Fig 5), which reflected the direction of the main groups expanding in the process of increasing the clustering distance. And Chicago Sanitary and Ship Canal became the key linear space for the division  of the north and south regions. Fig 6 calculates the hierarchy of the groups with the absolute majority amount in earch community area, reflecting the distance hierarchy that this area tends to have in the entire city of Chicago. For example, O'Hare area is the 40th level, that is the distance of 410m. Because of the functional requirements of the airport , it is located at the periphery of the urban area,  which usually needs to be reached over a large distance. The downtown area marked as level 15, with a distance of 160m, is the area with high accessibility.
 
 #### 4.2 寻找城市生活空间的关键距离层级 /find the critical distance hierarhcy of urban living spaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU3NTI0NjEsLTIwNDk4NzY3NzEsLT
-IzODMwMjg1NCwtMjExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0
-MTQwOTgsLTgxMjQ0Nzc2MSwyODE4NTUzNjQsMTU5OTE0MzkyMi
-wtMTY3OTk1MTc5LC03OTcyMzk2OTQsLTE0MDk5MzUxOTUsNDYw
-Mjc5MzI4LC01NTg4NDcxMTgsMTczMzk3NjczNywtMTgzMTQ1MD
-gzNSwtMzM3OTIzODIyLDE3MTUyODM5NTQsLTE2OTQxNDM2NjYs
-LTUxNDE0NTY2MF19
+eyJoaXN0b3J5IjpbOTAwMjc2ODY2LC0yMDQ5ODc2NzcxLC0yMz
+gzMDI4NTQsLTIxMTA4Nzc0NzMsLTUzMzcxMzcyNiwxODg1NDE0
+MDk4LC04MTI0NDc3NjEsMjgxODU1MzY0LDE1OTkxNDM5MjIsLT
+E2Nzk5NTE3OSwtNzk3MjM5Njk0LC0xNDA5OTM1MTk1LDQ2MDI3
+OTMyOCwtNTU4ODQ3MTE4LDE3MzM5NzY3MzcsLTE4MzE0NTA4Mz
+UsLTMzNzkyMzgyMiwxNzE1MjgzOTU0LC0xNjk0MTQzNjY2LC01
+MTQxNDU2NjBdfQ==
 -->
