@@ -273,15 +273,15 @@ The distance of 190m is the turning point of the clustering total nunber change.
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/replenish_14.jpg" width="400">
 </p>
 <p>
-<em>图13 250m层级聚类结果与用地分区/Fig 13 190m hierarchical clustering results</em>
+<em>图13 250m层级聚类结果与用地分区/Fig 13 250m hierarchical clustering results and zoning districts</em>
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODg4MTQxLC02NzI3NzM2NTIsLTE3OT
-Q1MDExMCwyMDU2NjU0NTE2LDE3MTAyNTM5NDEsMTI3ODQ4OTcy
-OSw1NTIyNDcwMzgsMjcwNjY2MSwtMTg3NjU0MDE2NSw4Njk1ND
-M1MzIsMjAyMjc4Mzc1OCwtOTkwNzI0NDk0LC0yODEyNDIxOTcs
-MTA2ODM0MDE0NSwtMjA0OTg3Njc3MSwtMjM4MzAyODU0LC0yMT
-EwODc3NDczLC01MzM3MTM3MjYsMTg4NTQxNDA5OCwtODEyNDQ3
-NzYxXX0=
+eyJoaXN0b3J5IjpbMjA5MTg0ODk0MSwtNjcyNzczNjUyLC0xNz
+k0NTAxMTAsMjA1NjY1NDUxNiwxNzEwMjUzOTQxLDEyNzg0ODk3
+MjksNTUyMjQ3MDM4LDI3MDY2NjEsLTE4NzY1NDAxNjUsODY5NT
+QzNTMyLDIwMjI3ODM3NTgsLTk5MDcyNDQ5NCwtMjgxMjQyMTk3
+LDEwNjgzNDAxNDUsLTIwNDk4NzY3NzEsLTIzODMwMjg1NCwtMj
+ExMDg3NzQ3MywtNTMzNzEzNzI2LDE4ODU0MTQwOTgsLTgxMjQ0
+Nzc2MV19
 -->
