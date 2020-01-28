@@ -13,3 +13,7 @@ SHAPE，FRAC, S,L等基本指数公式书写与计算。boxplot统计分析。
 ## 距离权重网络结构graph
 其中Node为公园中心点位置，大小代表面积。edge为前93%，具有较大距离权重的值，线的粗细为距离权重大小。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/36_02.png)
+
+## 网络结构的边
+提取了在距离权重大于96%部分，最大边，与长度大于10（°）的值
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/36_03.jpg)
