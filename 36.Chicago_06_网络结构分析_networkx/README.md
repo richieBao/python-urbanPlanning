@@ -9,6 +9,6 @@
 ## 基本统计
 SHAPE，FRAC, S,L等基本指数公式书写与计算。boxplot统计分析。
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/36_01.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/36_01.png)
 
 ## 距离权重网络结构graph
