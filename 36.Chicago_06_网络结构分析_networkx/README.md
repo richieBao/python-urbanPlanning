@@ -4,9 +4,9 @@
 
 同时，为了更加方便的观察网络结构中，提取联系紧密的区域，距离权重大于96%部分，最大边，与长度大于10（°）的值。可以依据计算的结果，进一步分析公园分别的特点，以及与城市环境之间的关系。
 
-在计算公园边界形式指数的过程中，使用sympy库来书写公式，其结构清晰。初步计算HAPE，FRAC, S,L等基本指数，并用boxplot箱型图统计分析结果。
+在计算公园边界形式指数的过程中，使用sympy库来书写公式，其结构清晰。初步计算SHAPE，FRAC, S,L等基本指数，并用boxplot箱型图统计分析结果。
 # 计算结果
-
-
-
-## 聚类过程
+## 基本统计
+SHAPE，FRAC, S,L等基本指数公式书写与计算。boxplot统计分析。
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/36_01.jpg)
+## 距离权重网络结构graph
