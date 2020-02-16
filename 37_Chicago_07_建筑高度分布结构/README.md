@@ -16,5 +16,6 @@
 
 # 计算结果
 > 主要部分内容
-
+### 全程分类数据
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_01.png)
 
