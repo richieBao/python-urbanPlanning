@@ -16,6 +16,16 @@
 
 # 计算结果
 > 主要部分内容
-### 全程分类数据
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_01.png)
-
+### 全城分类数据+DTM数据+建筑高度
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_01.png" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_02.png" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_03.png" width="300" align="right">
+### 连续纵向距离切分建筑水平向分布
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_04.jpg)
+### 建筑高度区间单元频数+建筑高度水平向分布数量及拐点高度
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_05.jpg" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_026.png" width="300" align="right">
+### 建筑高度水平向连续距离聚类
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_07.jpg)
+### 130m距离聚类簇分布
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/37_09.jpg)
