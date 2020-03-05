@@ -3,6 +3,7 @@
 
 本次实验以芝加哥城可获取的公园信息为待处理的数据，主要包括：
 数据内容 | 数据类型 | 数据来源
+------------ | ------------- | -------------
 1 | 公园边界及基本属性（名称、位置、类别等）	Shapefile	Chicago Data Portal
 2	公园设施(类标、位置等)	Shapefile	Chicago Data Portal
 3	土地覆盖	IMAGINE Image (1m)	Chicago Metropolitan Agency for Planning
