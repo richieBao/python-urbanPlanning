@@ -20,3 +20,7 @@
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_01.jpg" width="300" align="right">
 
 ## 2 形状指数
+* Shape Idx 和FRAC
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_02.jpg)
+* 比较两个指数的数据分布
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_03.jpg" width="300" align="right">
