@@ -22,5 +22,15 @@
 ## 2 形状指数
 * Shape Idx 和FRAC
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_02.jpg)
-* 比较两个指数的数据分布
+* 比较两个指数的数据分布。 violin
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_03.jpg" width="300" align="right">
+
+## 3 土地覆盖
+* box
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_04.jpg)
+* 冠层高度分布
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_05.jpg" width="300" align="right">
+
+## 4 设施统计
+* line
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_07.jpg" width="300" align="right">
