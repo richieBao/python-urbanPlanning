@@ -171,6 +171,10 @@
     4. 切分建筑高度生产单独的建筑空间分布数据
     5. 针对大数据量单独栅格文件的重分类方法
     6.栅格聚类与点数据聚类方法的调整
-
+38. Chicago_08_数据图表描述
+    1. 图表-python库
+    2. 基本信息/形状指数/土地覆盖/冠层高度/设施要素/天空视域因子
+    3. 相关结构
+    
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
