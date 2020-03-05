@@ -14,8 +14,9 @@
 
 ## 1 基本信息
 * 公园类型
-
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/8_00.jpg)
+
 * pie 百分比
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_01.jpg" width="300" align="right">
+
 ## 2 形状指数
