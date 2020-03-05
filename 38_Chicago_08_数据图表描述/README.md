@@ -34,3 +34,12 @@
 ## 4 设施统计
 * line
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_07.jpg" width="300" align="right">
+
+## 5 天空视域因子 SVF
+* 3m高空分辨率，DSM大栅格SVF计算。
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_08.jpg)
+* SVF数值统计
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_09.jpg)
+
+## 6 相关关系及结构
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_10.jpg)
