@@ -42,4 +42,4 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_09.jpg)
 
 ## 6 相关关系及结构
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_10.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_10.png)
