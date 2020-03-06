@@ -175,6 +175,9 @@
     1. 图表-python库
     2. 基本信息/形状指数/土地覆盖/冠层高度/设施要素/天空视域因子
     3. 相关结构
+39. Chicago_09_距离权重的环境指数
+    1. raster cells到polygons空间距离权重
+    2. polygons到polygons空间距离权重
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
