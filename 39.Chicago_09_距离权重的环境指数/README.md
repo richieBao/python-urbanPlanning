@@ -9,7 +9,7 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/39_03.jpg)
 
 SVF权重环境
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_02.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/39_02.jpg)
 
 ## 人口环境压力
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/38_01.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/39_01.jpg)
