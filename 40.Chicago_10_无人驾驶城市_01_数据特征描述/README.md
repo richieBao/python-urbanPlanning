@@ -1,3 +1,9 @@
-# 40.Chicago_10_无人驾驶城市_01_数据特征描述市场化，
+# 40.Chicago_10_无人驾驶城市_01_数据特征描述市场化
 无人驾驶如火如荼的进行了多年，目前已经取得了丰硕的成果，虽然保守预测2030s-2040s年左右能够达到无人驾驶的市场化，但是位于6个阶段的哪个阶段，需要时间来验证
-* SAE Level 0
+* SAE Level 0 No Automation
+* SAE Level 1 Driver assistance
+* SAE Level 2 Partial automation
+* SAE Level 3 Conditional automation
+* SAE Level 4 High automation
+* SAE Level 5 Full automation
+
