@@ -19,7 +19,7 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 
 ### 网络结构的建立
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_03.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_03.jpg)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_05.png)
 
 ### 特征描述方法-A
