@@ -26,3 +26,8 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_04.jpg)
 * 二值，位置中心点，MLP网络
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
+
+比较的深度学习网络：
+> 深度卷积网络 AlexNet Model
+> 网络中的网络 NiN Model
+> 多层感知机 MLP
