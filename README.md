@@ -183,6 +183,10 @@
     2. 激光雷达扫描评估值  
     3. 网络结构的建立
     4. 特征描述方法-A
+41. Chicago_11_无人驾驶城市_02_pytorch深度学习模型-beta
+    1. 训练数据集的建立
+    2. 输出类别方式  
+    3. 多层感知机 MLP/网络中的网络 NiN Model/深度卷积网络 AlexNet Model
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
