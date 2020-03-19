@@ -178,6 +178,11 @@
 39. Chicago_09_距离权重的环境指数
     1. raster cells到polygons空间距离权重
     2. polygons到polygons空间距离权重
+40. Chicago_10_无人驾驶城市_01_数据特征描述
+    1. 无人车位置与扫描区域特征点
+    2. 激光雷达扫描评估值  
+    3. 网络结构的建立
+    4. 特征描述方法-A
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
