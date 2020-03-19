@@ -15,4 +15,12 @@
 ### 无人车位置与扫描区域特征点
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_01.png)
 
-## 
+## 激光雷达扫描评估值
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
+
+## 网络结构的建立
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_03.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_05.png)
+
+## 特征描述方法-A
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_06.png)
