@@ -14,3 +14,15 @@
 * 空间特征表示方法-栅格化
   1. 应用numpy.histogram2d转换位置点及对应扫描区特征点为图片栅格数据（紧凑形式，位置点未在中心）
   ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_02.jpg)
+  2. 将位置点作为栅格中心，图片栅格格式(位置点在栅格中心)
+  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
+* 输出类别
+  1. 原始连续值
+  2. 用Percentile百分位数分类连续数值用作输出类别
+  3. 均分方式分类连续数值用作输出类别
+  4. math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值
+### 结果
+* 二值，非位置中心点，MLP网络
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_04.jpg)
+* 二值，位置中心点，MLP网络
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
