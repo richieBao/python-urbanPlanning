@@ -71,6 +71,11 @@
 </p>
 以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为测试数据集下的预测结果。
 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03jpg)
+<p align="center">
+<em>图6 MLP网络预测模型真实值与预测值 /Fig6 </em>
+</p>
+
 
 
 
@@ -106,7 +111,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTg2NzA1OSwtOTIyMDA4ODEyLDgwNT
+eyJoaXN0b3J5IjpbLTIzNjk0ODM3NiwtOTIyMDA4ODEyLDgwNT
 k4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEw
 NDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2MzE4ND
 YsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0NzIyOTAzNSwxNDgz
