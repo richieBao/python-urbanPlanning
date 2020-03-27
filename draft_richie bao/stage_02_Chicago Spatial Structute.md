@@ -42,6 +42,15 @@
 
 * 交互网络结构
 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
+<p align="center">
+<em>图1 无人车位置、地标与Phmi /Fig 1 </em>
+</p>
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_b.gif)
+<p align="right">
+<em>图2 Phmi数值分布 /Fig2 </em>
+</p>
 
 ##### 4.2 基于模式预测phmi学习模型
 
@@ -79,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4Mz
-kzMTc4MSwtMTA1NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0
-ODIsMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNT
-MxMDA3Njk4LDE3Njc4OTIwMDgsLTEwMzY4MDU1MDEsNjQzMjc4
-ODQzLC0xOTEyMzI4NTQ2LDk4ODA4NDIyNiwxMjEzMTEwOTg2LD
-YyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0MTc1MzEsLTUyNDg0
-Nzc2N119
+eyJoaXN0b3J5IjpbLTEyMDgwMzQyNTYsNzg5NjU5Mjg1LDE1ND
+cyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC05MTkxMTI3
+MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLT
+QyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIwMDgsLTEwMzY4
+MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LDk4ODA4NDIyNi
+wxMjEzMTEwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0
+MTc1MzFdfQ==
 -->
