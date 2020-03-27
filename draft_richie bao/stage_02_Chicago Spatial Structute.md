@@ -24,6 +24,9 @@
 * 输出类别的方式
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
 
+模型选择上比较了深度卷积网络 AlexNet Model、网络中的网络 NiN Model和多层感知机 MLP等机器学习模型，
+
+
 #### 3.3 交互式操作探索模式特征
 
 ### 4 结果 /results
@@ -104,11 +107,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTA2OTEwNyw4MDU5ODI0MzksMTYxOT
-U0NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2
-MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMD
-csNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1
-NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwND
-gyNSw0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3
-Njc4OTIwMDhdfQ==
+eyJoaXN0b3J5IjpbMjE2NjEyNCw4MDU5ODI0MzksMTYxOTU0ND
+AxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2
+LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNz
+g5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEz
+NDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNS
+w0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4
+OTIwMDhdfQ==
 -->
