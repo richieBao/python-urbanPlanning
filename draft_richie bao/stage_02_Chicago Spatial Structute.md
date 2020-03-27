@@ -88,7 +88,7 @@
 
 ### 5 讨论 /discussion
 #### 5.1 时间序列空间数据与独立位置数据分析
-无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，
+无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，前后测量结果相互影响，同时地标空间模式随车行变化是一个
 
 
 
@@ -118,7 +118,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDMyNzA1NCwxODU1MTA1NzI1LDk0Mz
+eyJoaXN0b3J5IjpbLTI4NTAxNDQwMSwxODU1MTA1NzI1LDk0Mz
 ExNDk1NywtMTIwNjM1MDE5MCwxMjY5NDIxOTAzLC05MjIwMDg4
 MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1NjkwODEsLT
 EwODY5MTA0MzksMTc3ODY0NjIxNiwtMTIyMTkxMDQwMywtMTE4
