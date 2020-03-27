@@ -69,15 +69,12 @@
 <p align="center">
 <em>图5 特征值栅格 /Fig5 </em>
 </p>
-以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为测试数据集下的预测结果。
+以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为基于MLP网络模型测试数据集下的预测结果。
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
 <p align="center">
 <em>图6 MLP网络预测模型结果 /Fig6 </em>
 </p>
-
-
-
 
 ##### 4.3 交互式操作探索模式特征
 
@@ -111,11 +108,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjUxODU5LC05MjIwMDg4MTIsODA1OT
-gyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0
-MzksMTc3ODY0NjIxNiwtMTIyMTkxMDQwMywtMTE4ODYzMTg0Ni
-wxNTg3MDk5MTA3LDc4OTY1OTI4NSwxNTQ3MjI5MDM1LDE0ODM5
-MzE3ODEsLTEwNTYxMzQwNSwtOTE5MTEyNzEzLC0xNzgyMDIzND
-gyLDE4OTI3MDQ4MjUsNDc4OTIwODcwLC00MjE0MDkxNTQsMTUz
-MTAwNzY5OF19
+eyJoaXN0b3J5IjpbMTkyMTE1NTQyNSwtOTIyMDA4ODEyLDgwNT
+k4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEw
+NDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2MzE4ND
+YsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0NzIyOTAzNSwxNDgz
+OTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMjcxMywtMTc4MjAyMz
+Q4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1
+MzEwMDc2OThdfQ==
 -->
