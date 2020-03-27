@@ -41,7 +41,7 @@
 </p>
 
 * 交互网络结构
-因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域
+因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域地标的关系，因此借助bokeh库
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
 <p align="center">
@@ -89,11 +89,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTczMDEzNywxNTg3MDk5MTA3LDc4OT
-Y1OTI4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQw
-NSwtOTE5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsND
-c4OTIwODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwxNzY3ODky
-MDA4LC0xMDM2ODA1NTAxLDY0MzI3ODg0MywtMTkxMjMyODU0Ni
-w5ODgwODQyMjYsMTIxMzExMDk4Niw2MjA0MTQ2NTYsLTExOTc0
-NTQ0MV19
+eyJoaXN0b3J5IjpbMTY3MTUzNDg4LDE1ODcwOTkxMDcsNzg5Nj
+U5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1
+LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nz
+g5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIw
+MDgsLTEwMzY4MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LD
+k4ODA4NDIyNiwxMjEzMTEwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1
+NDQxXX0=
 -->
