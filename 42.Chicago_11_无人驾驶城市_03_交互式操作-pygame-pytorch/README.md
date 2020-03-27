@@ -3,6 +3,14 @@
 
 因为需要寻找模式Pattern，即调整栅格landmarks点的位置，观察phmi值的变化。使用“41.Chicago_11_无人驾驶城市_02_pytorch深度学习模型-beta”，训练好的模型。这个过程，需要交互式操作，能够直接观察位置变化，和对应的预测值变化，从而能够直观的分析landamarks的位置模式。使用pygame库实现。
 
-### 演示
+## 演示
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
 
+## 两个变化比较图
+> 第1组
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_01.png" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_02.png" width="300" align="right">
+
+> 第2组
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_03.png" width="300" align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_04.png" width="300" align="right">
