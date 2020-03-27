@@ -13,22 +13,25 @@
 
 #### 3.2  基于模式预测phmi学习模型
 
-#### 3.3 交互式操作
+#### 3.3 交互式操作探索模式特征
 
 ### 4 结果 /results
-##### 4.1 
+##### 4.1 模式数据特征描述
 
 
 
-##### 4.2 
+##### 4.2 基于模式预测phmi学习模型
 
 
 
-##### 4.3
+##### 4.3 交互式操作探索模式特征
 
 
 
 ### 5 讨论 /discussion
+
+
+
 
 ## B 已完成论文
 ### 1 芝加哥物质空间连续距离聚类下的空间结构变化
@@ -36,7 +39,7 @@
 
 ### 2 芝加哥城公园属性描述与空间分布结构
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQxNzUzMSwtNTI0ODQ3NzY3LDExOD
-cxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Njk5MDg3
-NzddfQ==
+eyJoaXN0b3J5IjpbLTExOTc0NTQ0MSwxOTAwNDE3NTMxLC01Mj
+Q4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtODUwOTM5
+MjksMTk2OTkwODc3N119
 -->
