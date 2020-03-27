@@ -12,7 +12,7 @@
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
-在测量和模拟部分已经完成地标与Phmi之间的对应关系，为更加清晰的观察随时间推移测量和模拟的数值对应的空间位置变化关系，给出新的图表表达方法，主要包括两类，其一是静态的显示地标与Phmi的空间位置
+在测量和模拟部分已经完成地标与Phmi之间的对应关系，为更加清晰的观察随时间推移测量和模拟的数值对应的空间位置变化关系，给出新的图表表达方法，主要包括两类，其一是静态的显示地标与Phmi的空间位置；其二是构建无人车测量位置与地标对应关系的网络结构，交互显示
 
 #### 3.2  基于模式预测phmi学习模型
 
@@ -59,7 +59,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTQ0ODA0MywtMTkxMjMyODU0Niw5OD
+eyJoaXN0b3J5IjpbMTMyNTMxMzYyMiwtMTkxMjMyODU0Niw5OD
 gwODQyMjYsMTIxMzExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0
 MSwxOTAwNDE3NTMxLC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMT
 YzMzg2MjE4NSwtODUwOTM5MjksMTk2OTkwODc3N119
