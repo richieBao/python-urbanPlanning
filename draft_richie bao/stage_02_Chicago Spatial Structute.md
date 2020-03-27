@@ -12,7 +12,7 @@
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
-在测量和模拟部分已经完成
+在测量和模拟部分已经完成地标与PHmi之间的对应关系，
 
 #### 3.2  基于模式预测phmi学习模型
 
@@ -59,8 +59,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMT
-MxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUz
-MSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLT
-g1MDkzOTI5LDE5Njk5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbMTYwNTQ1Mjk3OSwtMTkxMjMyODU0Niw5OD
+gwODQyMjYsMTIxMzExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0
+MSwxOTAwNDE3NTMxLC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMT
+YzMzg2MjE4NSwtODUwOTM5MjksMTk2OTkwODc3N119
 -->
