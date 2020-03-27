@@ -12,7 +12,7 @@
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
-由
+在测量和模拟部分已经完成
 
 #### 3.2  基于模式预测phmi学习模型
 
@@ -59,8 +59,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDQwMjUzNiw5ODgwODQyMjYsMTIxMz
-ExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOTAwNDE3NTMx
-LC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtOD
-UwOTM5MjksMTk2OTkwODc3N119
+eyJoaXN0b3J5IjpbLTE5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMT
+MxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUz
+MSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLT
+g1MDkzOTI5LDE5Njk5MDg3NzddfQ==
 -->
