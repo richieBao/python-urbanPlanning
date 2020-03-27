@@ -69,7 +69,7 @@
 <p align="center">
 <em>图5 特征值栅格 /Fig5 </em>
 </p>
-以小于math.pow(10,-5)和大于弃
+以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值
 
 
 
@@ -106,7 +106,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1MjQyOTEsODA1OTgyNDM5LDE2MT
+eyJoaXN0b3J5IjpbLTE2MjQ4Mjk1MzcsODA1OTgyNDM5LDE2MT
 k1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3ODY0
 NjIxNiwtMTIyMTkxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MT
 A3LDc4OTY1OTI4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEw
