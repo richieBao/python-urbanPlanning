@@ -7,7 +7,7 @@
 
 
 ### 2 数据 /data
-以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）--->三维点云数据处理，即格式转换。
+以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）。--->三维点云数据处理，及格式转换。--->针对地标的数据特征提取（二维空间位置）。--->
 
 
 ### 3 方法 /method
@@ -118,7 +118,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MDk2NTcwLDEyNDA5MTU1MDIsMTg1NT
+eyJoaXN0b3J5IjpbNTc2NjAxMzE5LDEyNDA5MTU1MDIsMTg1NT
 EwNTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMTI2OTQyMTkw
 MywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC0xNj
 M5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLTEyMjE5
