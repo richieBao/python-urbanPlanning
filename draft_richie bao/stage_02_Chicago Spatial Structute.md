@@ -27,7 +27,7 @@
 *  静态空间位置描述
 为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。Phmi值小于pow(10,-5)不满足基于激光雷达扫描导航要求，因为值的变化比较小不易于观察不满足要求的变化位置，因此通过缩放该部分的值来突出显示。
 
-此次测量区域Phmi值大部分位于0.05之下，在此之上多处跳变到较高值，并持续不同变化的行驶区域后跳变回低值。
+此次测量区域Phmi值大部分位于0.05之下，在此之上多处跳变到较高值，并持续不同变化的行驶区域后跳变回低值。不满足导航需求的位置点多数为单点跳变，少部分持续较小的形式qu'd
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
@@ -76,11 +76,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzk3Mjk2LDE0ODM5MzE3ODEsLTEwNT
-YxMzQwNSwtOTE5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4
-MjUsNDc4OTIwODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwxNz
-Y3ODkyMDA4LC0xMDM2ODA1NTAxLDY0MzI3ODg0MywtMTkxMjMy
-ODU0Niw5ODgwODQyMjYsMTIxMzExMDk4Niw2MjA0MTQ2NTYsLT
-ExOTc0NTQ0MSwxOTAwNDE3NTMxLC01MjQ4NDc3NjcsMTE4NzE2
-Mjk1N119
+eyJoaXN0b3J5IjpbMTMzNjg1MTYwOSwxNDgzOTMxNzgxLC0xMD
+U2MTM0MDUsLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0
+ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2OTgsMT
+c2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIz
+Mjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwNDE0NjU2LC
+0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNTI0ODQ3NzY3LDExODcx
+NjI5NTddfQ==
 -->
