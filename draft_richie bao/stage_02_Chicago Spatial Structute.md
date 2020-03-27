@@ -59,7 +59,7 @@
 
 ##### 4.2 基于模式预测phmi学习模型
 * 建立特征值数据结构
-设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格为栅格中心位置，即无人车采样位置，图5
+设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格为栅格中心位置，即无人车采样位置，图5给出了16个随机采样位置的栅格。
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
@@ -103,11 +103,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NzQzMSw4MDU5ODI0MzksMTYxOTU0ND
-AxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2
-LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNz
-g5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEz
-NDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNS
-w0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4
-OTIwMDhdfQ==
+eyJoaXN0b3J5IjpbMTA4NjQwMzE1Niw4MDU5ODI0MzksMTYxOT
+U0NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2
+MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMD
+csNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1
+NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwND
+gyNSw0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3
+Njc4OTIwMDhdfQ==
 -->
