@@ -21,7 +21,8 @@
 
 * 建立特征值数据结构
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
-* 输出类别
+* 输出类别的方式
+调试学习模型过程同时，探索不同
 
 
 #### 3.3 交互式操作探索模式特征
@@ -98,7 +99,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjUzNDA0MiwtMTA4NjkxMDQzOSwxNz
+eyJoaXN0b3J5IjpbMTMxMzQzNjg2NSwtMTA4NjkxMDQzOSwxNz
 c4NjQ2MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcw
 OTkxMDcsNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MS
 wtMTA1NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5
