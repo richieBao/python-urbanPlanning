@@ -47,7 +47,7 @@
 <em>图3  /Fig 3 </em>
 </p>
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_cc.gif)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_c.gif)
 <p align="center">
 <em>图2 Phmi数值分布 /Fig2 </em>
 </p>
@@ -88,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NjI0OTUxLDE1ODcwOTkxMDcsNzg5Nj
-U5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1
-LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nz
-g5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIw
-MDgsLTEwMzY4MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LD
-k4ODA4NDIyNiwxMjEzMTEwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1
-NDQxXX0=
+eyJoaXN0b3J5IjpbMjQxNjkyODIsMTU4NzA5OTEwNyw3ODk2NT
+kyODUsMTU0NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUs
+LTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3OD
+kyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2OTgsMTc2Nzg5MjAw
+OCwtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOT
+g4MDg0MjI2LDEyMTMxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0
+NDFdfQ==
 -->
