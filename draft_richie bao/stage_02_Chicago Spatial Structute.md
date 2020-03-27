@@ -25,6 +25,7 @@
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
 *  静态空间位置描述
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 
 
 
@@ -64,9 +65,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2ND
-MyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5
-ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNT
-I0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkz
-OTI5LDE5Njk5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbLTE1ODY1MTMxOTgsMTc2Nzg5MjAwOCwtMT
+AzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0
+MjI2LDEyMTMxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMT
+kwMDQxNzUzMSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4
+NjIxODUsLTg1MDkzOTI5LDE5Njk5MDg3NzddfQ==
 -->
