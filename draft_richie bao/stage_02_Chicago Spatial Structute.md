@@ -1,6 +1,7 @@
 # 阶段2 芝加哥城市空间结构/stage 2 the city spatial structure of Chicago
 > 无参考文献版 /no reference version  初稿 /draft  by richie bao
 ## A. 无人驾驶城市-1
+> 
 ### 1 背景 /background 
 
 
@@ -56,8 +57,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwND
-E0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNTI0ODQ3NzY3
-LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Nj
-k5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbLTE5MTM5MDYxMjIsOTg4MDg0MjI2LDEyMT
+MxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUz
+MSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLT
+g1MDkzOTI5LDE5Njk5MDg3NzddfQ==
 -->
