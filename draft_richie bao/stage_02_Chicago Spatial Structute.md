@@ -78,7 +78,7 @@
 </p>
 
 ##### 4.3 交互式操作探索模式特征
-
+图7中红色中间位置为无人车位置，多个绿色块为Landmarks位置，并标识了数字为其到无人处的距离。右上角PHmi_reclassify显示更新预测值。模型为Pytorch训练的深度学习模型。
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
 <p align="center">
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc5MzA0ODgsMTI2OTQyMTkwMywtOT
-IyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5
-MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MD
-MsLTExODg2MzE4NDYsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0
-NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMj
-cxMywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwt
-NDIxNDA5MTU0XX0=
+eyJoaXN0b3J5IjpbMTYwNDA3NDQ3NywxMjY5NDIxOTAzLC05Mj
+IwMDg4MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1Njkw
+ODEsLTEwODY5MTA0MzksMTc3ODY0NjIxNiwtMTIyMTkxMDQwMy
+wtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OTI4NSwxNTQ3
+MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNSwtOTE5MTEyNz
+EzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4OTIwODcwLC00
+MjE0MDkxNTRdfQ==
 -->
