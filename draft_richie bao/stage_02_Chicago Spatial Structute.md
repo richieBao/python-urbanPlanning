@@ -37,9 +37,11 @@
 ### 1 芝加哥物质空间连续距离聚类下的空间结构变化
 > 摘 要： 对城市物质空间结构变化的量化描述可以为城市的可持续发展提供有效的参照。以芝加哥城为研究对象，将其视为具有层级结构的物质空间，提出连续距离聚类描述城市空间结构特征的方法，同时视空间结构存在连续变化的关联强度，提出连续距离卷积核卷积计算连接度的方法，界定城市建成区连接度强度，确定具有意义的关键层级，获得180m聚类距离城市建成区边缘的界定；15×15卷积核城市建成区连接强度界定；39m建筑高度城市建筑高度分布区间的界定；130m聚类距离建筑高度水平向分布的特征界定。连续距离聚类的动态量化描述城市物质空间结构的方法，可以界定具体的空间范围，落实规划内容并提供有效参照。
 
+> 
+
 > 关键词：城市规划；物质空间；聚类；动态层级；芝加哥；
 
->
+> Keywords：Urban planning；Physical space；Clustering；Dynamic hierarchy；Chicago
 
 
 ### 2 芝加哥城公园属性描述与空间分布结构/Property Description and Spatial Distribution Structure of Chicago City Parks
@@ -54,7 +56,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NDEzMjI2LDEyMTMxMTA5ODYsNjIwND
+eyJoaXN0b3J5IjpbOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwND
 E0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNTI0ODQ3NzY3
 LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Nj
 k5MDg3NzddfQ==
