@@ -12,7 +12,7 @@
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
-
+由
 
 #### 3.2  基于模式预测phmi学习模型
 
@@ -59,7 +59,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDY5OTc3NSw5ODgwODQyMjYsMTIxMz
+eyJoaXN0b3J5IjpbMTIzNDQwMjUzNiw5ODgwODQyMjYsMTIxMz
 ExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOTAwNDE3NTMx
 LC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtOD
 UwOTM5MjksMTk2OTkwODc3N119
