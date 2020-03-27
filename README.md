@@ -187,6 +187,9 @@
     1. 训练数据集的建立
     2. 输出类别方式  
     3. 多层感知机 MLP/网络中的网络 NiN Model/深度卷积网络 AlexNet Model
+42. Chicago_12_无人驾驶城市_03_交互式操作-pygame-pytorch
+    1. 使用pygame库实现交互式操作
+    
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
