@@ -17,7 +17,10 @@
 图表表述主要使用python的matplotlib和bokeh库；网络结果的建立使用networkx库，互动网络结构结合bokeh库。网络结构建立过程确定无人车各个位置对应激光雷达扫描距离为25m，提取所有无人车位置对应该范围内的地标建立网络结构。
 
 #### 3.2  基于模式预测phmi学习模型
+探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
+* 建立特征值数据结构
+无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素。栅格建立
 
 
 #### 3.3 交互式操作探索模式特征
@@ -54,10 +57,8 @@
 </p>
 
 ##### 4.2 基于模式预测phmi学习模型
-探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
-* 建立特征值数据结构
-无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，
+
 
 
 
@@ -96,11 +97,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMTk3MTIsMTc3ODY0NjIxNiwtMTIyMT
-kxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OTI4
-NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNSwtOT
-E5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4OTIw
-ODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwxNzY3ODkyMDA4LC
-0xMDM2ODA1NTAxLDY0MzI3ODg0MywtMTkxMjMyODU0Niw5ODgw
-ODQyMjZdfQ==
+eyJoaXN0b3J5IjpbMTgxMTI2MTI0OSwxNzc4NjQ2MjE2LC0xMj
+IxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5NjU5
+Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC
+05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5
+MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIwMD
+gsLTEwMzY4MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LDk4
+ODA4NDIyNl19
 -->
