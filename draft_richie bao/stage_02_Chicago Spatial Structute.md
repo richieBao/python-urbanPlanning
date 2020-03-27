@@ -25,7 +25,7 @@
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
 *  静态空间位置描述
-为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。因为Phmi值小于pow(10,-5)
+为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。因为Phmi值小于pow(10,-5)不满足基于激光雷达扫描导航要求，
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 <p align="center">
@@ -69,7 +69,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzYyMTI2NSw0Nzg5MjA4NzAsLTQyMT
+eyJoaXN0b3J5IjpbMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLTQyMT
 QwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIwMDgsLTEwMzY4MDU1
 MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LDk4ODA4NDIyNiwxMj
 EzMTEwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0MTc1
