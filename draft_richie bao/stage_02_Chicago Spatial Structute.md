@@ -11,9 +11,9 @@
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
 
-#### 3.2  基于模式预测学习模型
+#### 3.2  基于模式预测phmi学习模型
 
-#### 3.3 
+#### 3.3 交互式操作
 
 ### 4 结果 /results
 ##### 4.1 
@@ -36,7 +36,7 @@
 
 ### 2 芝加哥城公园属性描述与空间分布结构
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzOTcxNjUsLTUyNDg0Nzc2NywxMT
-g3MTYyOTU3LC0xNjMzODYyMTg1LC04NTA5MzkyOSwxOTY5OTA4
-Nzc3XX0=
+eyJoaXN0b3J5IjpbMTkwMDQxNzUzMSwtNTI0ODQ3NzY3LDExOD
+cxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Njk5MDg3
+NzddfQ==
 -->
