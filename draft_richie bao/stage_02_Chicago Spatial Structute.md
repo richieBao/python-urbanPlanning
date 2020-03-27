@@ -54,7 +54,7 @@
 </p>
 
 ##### 4.2 基于模式预测phmi学习模型
-探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，
+探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置dian
 
 
 ##### 4.3 交互式操作探索模式特征
@@ -89,11 +89,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzgyMzk2NCwxNzc4NjQ2MjE2LC0xMj
-IxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5NjU5
-Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC
-05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5
-MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIwMD
-gsLTEwMzY4MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LDk4
-ODA4NDIyNl19
+eyJoaXN0b3J5IjpbNzg5NjkwODQ2LDE3Nzg2NDYyMTYsLTEyMj
+E5MTA0MDMsLTExODg2MzE4NDYsMTU4NzA5OTEwNyw3ODk2NTky
+ODUsMTU0NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUsLT
+kxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3ODky
+MDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2OTgsMTc2Nzg5MjAwOC
+wtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4
+MDg0MjI2XX0=
 -->
