@@ -30,7 +30,7 @@
 寻找地标空间模式是能够通过调整地标的位置，或增减地标，根据变化的Phmi预测值来确定调整方案的合理性。为了能够交互式操作，使用python的pygame库建立平台，基于pytorch训练的机器模型预测Phmi值。
 
 ### 4 结果 /results
-##### 4.1 模式数据特征描述
+#### 4.1 模式数据特征描述
 *  静态空间位置描述
 为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。Phmi值小于pow(10,-5)不满足基于激光雷达扫描导航要求，因为值的变化比较小不易于观察不满足要求的变化位置，因此通过缩放该部分的值来突出显示。
 
@@ -60,7 +60,7 @@
 <em>图4 交互网络结构 /Fig4 </em>
 </p>
 
-##### 4.2 基于模式预测phmi学习模型
+#### 4.2 基于模式预测phmi学习模型
 * 建立特征值数据结构
 设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格单元为栅格中心位置，即无人车采样位置。如图5给出了16个随机采样位置的栅格，并标识了对应的Phmi值。
 
@@ -77,7 +77,7 @@
 <em>图6 MLP网络预测模型结果 /Fig6 </em>
 </p>
 
-##### 4.3 交互式操作探索模式特征
+#### 4.3 交互式操作探索模式特征
 图7中红色中间位置为无人车位置，多个绿色块为Landmarks位置，并标识了数字为其到无人处的距离。右上角PHmi_reclassify显示更新预测值。基于pytorch训练的深度学习模型预测变化地标空间模式的Phmi预测值。
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
@@ -86,9 +86,8 @@
 </p>
 
 
-
 ### 5 讨论 /discussion
-
+#### 5.1 
 
 
 
@@ -115,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNTQ1OTYsLTEyMDYzNTAxOTAsMTI2OT
-QyMTkwMywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0
-LC0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLT
-EyMjE5MTA0MDMsLTExODg2MzE4NDYsMTU4NzA5OTEwNyw3ODk2
-NTkyODUsMTU0NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MD
-UsLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3
-ODkyMDg3MF19
+eyJoaXN0b3J5IjpbOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNj
+k0MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAx
+NCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC
+0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5
+NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzND
+A1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0
+Nzg5MjA4NzBdfQ==
 -->
