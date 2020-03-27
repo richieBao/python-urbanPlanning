@@ -13,6 +13,7 @@
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
 
+
 #### 3.2  基于模式预测phmi学习模型
 
 #### 3.3 交互式操作探索模式特征
@@ -58,8 +59,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NjAyMjg3LDk4ODA4NDIyNiwxMjEzMT
-EwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0MTc1MzEs
-LTUyNDg0Nzc2NywxMTg3MTYyOTU3LC0xNjMzODYyMTg1LC04NT
-A5MzkyOSwxOTY5OTA4Nzc3XX0=
+eyJoaXN0b3J5IjpbLTgyNDY5OTc3NSw5ODgwODQyMjYsMTIxMz
+ExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOTAwNDE3NTMx
+LC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtOD
+UwOTM5MjksMTk2OTkwODc3N119
 -->
