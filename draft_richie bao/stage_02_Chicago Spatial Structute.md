@@ -41,7 +41,7 @@
 </p>
 
 * 交互网络结构
-因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域地标的关系，因此借助bokeh库实现交互观察变化关系图4。无人车连续扫描采样，地标的空间位置相对无人车连续移动变化，交互方式可以很好的观察空间对位关系，但是连续动态密集的采样过程，仍旧很难通过肉眼观察地标空间模式的变化与Phmi的gua
+因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域地标的关系，因此借助bokeh库实现交互观察变化关系图4。无人车连续扫描采样，地标的空间位置相对无人车连续移动变化，交互方式可以很好的观察空间对位关系，但是连续动态密集的采样过程，仍旧很难通过肉眼观察地标空间模式的变化与Phmi的关系。
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
 <p align="center">
@@ -89,11 +89,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg0Nzg5NDMsLTEyMjE5MTA0MDMsLT
-ExODg2MzE4NDYsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0NzIy
-OTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMjcxMy
-wtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwtNDIx
-NDA5MTU0LDE1MzEwMDc2OTgsMTc2Nzg5MjAwOCwtMTAzNjgwNT
-UwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0MjI2LDEy
-MTMxMTA5ODZdfQ==
+eyJoaXN0b3J5IjpbMTc3ODY0NjIxNiwtMTIyMTkxMDQwMywtMT
+E4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OTI4NSwxNTQ3MjI5
+MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNSwtOTE5MTEyNzEzLC
+0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4OTIwODcwLC00MjE0
+MDkxNTQsMTUzMTAwNzY5OCwxNzY3ODkyMDA4LC0xMDM2ODA1NT
+AxLDY0MzI3ODg0MywtMTkxMjMyODU0Niw5ODgwODQyMjYsMTIx
+MzExMDk4Nl19
 -->
