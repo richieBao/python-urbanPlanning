@@ -1,12 +1,13 @@
 # 阶段2 芝加哥城市空间结构/stage 2 the city spatial structure of Chicago
 > 无参考文献版 /no reference version  初稿 /draft  by richie bao
 ## A. 无人驾驶城市-1
-> @author: Richie Bao-Chicago.IIT(driverless city project) data:IIT(driverless city project)
+> @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
 ### 1 背景 /background 
 
 
 
 ### 2 数据 /data
+
 
 
 ### 3 方法 /method
@@ -57,8 +58,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkxMDYwNjIsOTg4MDg0MjI2LDEyMT
-MxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUz
-MSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLT
-g1MDkzOTI5LDE5Njk5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbMjI2NjAyMjg3LDk4ODA4NDIyNiwxMjEzMT
+EwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0MTc1MzEs
+LTUyNDg0Nzc2NywxMTg3MTYyOTU3LC0xNjMzODYyMTg1LC04NT
+A5MzkyOSwxOTY5OTA4Nzc3XX0=
 -->
