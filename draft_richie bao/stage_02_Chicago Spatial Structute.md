@@ -27,7 +27,7 @@
 模型选择上比较了深度卷积网络 AlexNet Model、网络中的网络 NiN Model和多层感知机 MLP等机器学习模型。
 
 #### 3.3 交互式操作探索模式特征
-寻找地标空间模式是能够通过调整地标的位置，或增减地标，根据变化的Phmi预测值来确定调整方案的合理性。
+寻找地标空间模式是能够通过调整地标的位置，或增减地标，根据变化的Phmi预测值来确定调整方案的合理性。为了能够交互式操作，使用python的pygame库建立平台，
 
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
@@ -109,11 +109,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzYzNDk2NCwxMjY5NDIxOTAzLC05Mj
-IwMDg4MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1Njkw
-ODEsLTEwODY5MTA0MzksMTc3ODY0NjIxNiwtMTIyMTkxMDQwMy
-wtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OTI4NSwxNTQ3
-MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNSwtOTE5MTEyNz
-EzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4OTIwODcwLC00
-MjE0MDkxNTRdfQ==
+eyJoaXN0b3J5IjpbNTIzODY2MTUzLDEyNjk0MjE5MDMsLTkyMj
+AwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4
+MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIxOTEwNDAzLC
+0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5NjU5Mjg1LDE1NDcy
+MjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC05MTkxMTI3MT
+MsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLTQy
+MTQwOTE1NF19
 -->
