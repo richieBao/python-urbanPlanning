@@ -80,9 +80,9 @@
 ##### 4.3 交互式操作探索模式特征
 
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
 <p align="center">
-<em>图7 MLP网络预测模型结果 /Fig6 </em>
+<em>图7 交互式操作 /Fig7 </em>
 </p>
 
 
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjcyODg0LDEyNjk0MjE5MDMsLTkyMj
-AwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4
-MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIxOTEwNDAzLC
-0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5NjU5Mjg1LDE1NDcy
-MjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC05MTkxMTI3MT
-MsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLTQy
-MTQwOTE1NF19
+eyJoaXN0b3J5IjpbLTExMzc5MzA0ODgsMTI2OTQyMTkwMywtOT
+IyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5
+MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MD
+MsLTExODg2MzE4NDYsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0
+NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMj
+cxMywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwt
+NDIxNDA5MTU0XX0=
 -->
