@@ -9,7 +9,7 @@
 ### 2 数据 /data
 以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）。--->三维点云数据处理，及格式转换。--->针对地标的数据特征提取（二维空间位置）。--->基于MatLab模拟计算Phmi值。--->图表打印分析。
 
-通过工程组计算，获取te
+通过工程组计算，获取特征提取后的地标位置，以及对应的无人车位置，和用于ji'guang
 
 
 ### 3 方法 /method
@@ -120,11 +120,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAzNDAzNDksMTI0MDkxNTUwMiwxOD
-U1MTA1NzI1LDk0MzExNDk1NywtMTIwNjM1MDE5MCwxMjY5NDIx
-OTAzLC05MjIwMDg4MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLT
-E2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3ODY0NjIxNiwtMTIy
-MTkxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OT
-I4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNSwt
-OTE5MTEyNzEzXX0=
+eyJoaXN0b3J5IjpbMTM2NTUwNDQzMywxMjQwOTE1NTAyLDE4NT
+UxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5
+MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMT
+YzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIx
+OTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcsNzg5NjU5Mj
+g1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC05
+MTkxMTI3MTNdfQ==
 -->
