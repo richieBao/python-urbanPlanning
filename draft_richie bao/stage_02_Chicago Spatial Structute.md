@@ -59,9 +59,9 @@
 
 ##### 4.2 基于模式预测phmi学习模型
 * 建立特征值数据结构
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_c.gif)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
-<em>图5 交互网络结构 /Fig4 </em>
+<em>图5 特征值栅格 /Fig5 </em>
 </p>
 
 
@@ -101,11 +101,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUzNjE1NTIsODA1OTgyNDM5LDE2MT
-k1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3ODY0
-NjIxNiwtMTIyMTkxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MT
-A3LDc4OTY1OTI4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEw
-NTYxMzQwNSwtOTE5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MD
-Q4MjUsNDc4OTIwODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwx
-NzY3ODkyMDA4XX0=
+eyJoaXN0b3J5IjpbMTMyNzM0Mjg4LDgwNTk4MjQzOSwxNjE5NT
+Q0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYy
+MTYsLTEyMjE5MTA0MDMsLTExODg2MzE4NDYsMTU4NzA5OTEwNy
+w3ODk2NTkyODUsMTU0NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2
+MTM0MDUsLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0OD
+I1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2OTgsMTc2
+Nzg5MjAwOF19
 -->
