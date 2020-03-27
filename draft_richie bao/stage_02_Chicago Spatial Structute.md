@@ -20,7 +20,8 @@
 探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
 * 建立特征值数据结构
-无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素。
+无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
+* 输出类别
 
 
 #### 3.3 交互式操作探索模式特征
@@ -97,11 +98,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5MTA0MzksMTc3ODY0NjIxNiwtMT
-IyMTkxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1
-OTI4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEwNTYxMzQwNS
-wtOTE5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4
-OTIwODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwxNzY3ODkyMD
-A4LC0xMDM2ODA1NTAxLDY0MzI3ODg0MywtMTkxMjMyODU0Niw5
-ODgwODQyMjZdfQ==
+eyJoaXN0b3J5IjpbLTU1MjUzNDA0MiwtMTA4NjkxMDQzOSwxNz
+c4NjQ2MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcw
+OTkxMDcsNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MS
+wtMTA1NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5
+MjcwNDgyNSw0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Nj
+k4LDE3Njc4OTIwMDgsLTEwMzY4MDU1MDEsNjQzMjc4ODQzLC0x
+OTEyMzI4NTQ2XX0=
 -->
