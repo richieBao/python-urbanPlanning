@@ -61,7 +61,7 @@
 * 建立特征值数据结构
 设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格单元为栅格中心位置，即无人车采样位置。如图5给出了16个随机采样位置的栅格，并标识了对应的Phmi值。
 
-同时，除了栅格所表述的空间位置关系
+同时，除了栅格所表述的空间位置关系，在模型调试过程中，将代表地标的栅格单元赋值为各个地标到无人车位置的距离值，增加相关因素
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
@@ -105,11 +105,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU2NTQ3NzYsODA1OTgyNDM5LDE2MT
-k1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3ODY0
-NjIxNiwtMTIyMTkxMDQwMywtMTE4ODYzMTg0NiwxNTg3MDk5MT
-A3LDc4OTY1OTI4NSwxNTQ3MjI5MDM1LDE0ODM5MzE3ODEsLTEw
-NTYxMzQwNSwtOTE5MTEyNzEzLC0xNzgyMDIzNDgyLDE4OTI3MD
-Q4MjUsNDc4OTIwODcwLC00MjE0MDkxNTQsMTUzMTAwNzY5OCwx
-NzY3ODkyMDA4XX0=
+eyJoaXN0b3J5IjpbODgyNzM5NTQ2LDgwNTk4MjQzOSwxNjE5NT
+Q0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYy
+MTYsLTEyMjE5MTA0MDMsLTExODg2MzE4NDYsMTU4NzA5OTEwNy
+w3ODk2NTkyODUsMTU0NzIyOTAzNSwxNDgzOTMxNzgxLC0xMDU2
+MTM0MDUsLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxODkyNzA0OD
+I1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2OTgsMTc2
+Nzg5MjAwOF19
 -->
