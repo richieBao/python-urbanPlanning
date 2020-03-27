@@ -38,7 +38,8 @@ Phmi值大部分稳定在
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_01.png" width="400"> 
 </p>
 <p align="right">
-
+<em>图2 Phmi数值分布 /Fig2 </em>
+</p>
 
 ##### 4.2 基于模式预测phmi学习模型
 
@@ -76,7 +77,7 @@ Phmi值大部分稳定在
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTczODE1MSwtMTc4MjAyMzQ4MiwxOD
+eyJoaXN0b3J5IjpbLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxOD
 kyNzA0ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2
 OTgsMTc2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLT
 E5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwNDE0
