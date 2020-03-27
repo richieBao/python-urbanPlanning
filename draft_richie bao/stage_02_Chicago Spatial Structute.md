@@ -36,7 +36,7 @@
 </p>
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_02_a.gif)
-<p align="right">
+<p align="center">
 <em>图2 Phmi数值分布 /Fig2 </em>
 </p>
 
@@ -44,11 +44,11 @@
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
 <p align="center">
-<em>图1 无人车位置、地标与Phmi /Fig 1 </em>
+<em>图3  /Fig 3 </em>
 </p>
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_b.gif)
-<p align="right">
+<p align="center">
 <em>图2 Phmi数值分布 /Fig2 </em>
 </p>
 
@@ -88,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgwMzQyNTYsNzg5NjU5Mjg1LDE1ND
-cyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1NjEzNDA1LC05MTkxMTI3
-MTMsLTE3ODIwMjM0ODIsMTg5MjcwNDgyNSw0Nzg5MjA4NzAsLT
-QyMTQwOTE1NCwxNTMxMDA3Njk4LDE3Njc4OTIwMDgsLTEwMzY4
-MDU1MDEsNjQzMjc4ODQzLC0xOTEyMzI4NTQ2LDk4ODA4NDIyNi
-wxMjEzMTEwOTg2LDYyMDQxNDY1NiwtMTE5NzQ1NDQxLDE5MDA0
-MTc1MzFdfQ==
+eyJoaXN0b3J5IjpbMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0Nz
+IyOTAzNSwxNDgzOTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMjcx
+MywtMTc4MjAyMzQ4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwtND
+IxNDA5MTU0LDE1MzEwMDc2OTgsMTc2Nzg5MjAwOCwtMTAzNjgw
+NTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0MjI2LD
+EyMTMxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQx
+NzUzMV19
 -->
