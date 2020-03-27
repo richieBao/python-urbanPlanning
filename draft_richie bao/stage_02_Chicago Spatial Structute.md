@@ -9,7 +9,11 @@
 
 
 ### 3 方法 /method
-#### 3.1
+#### 3.1 数据特征描述
+
+#### 3.2  学习模型
+
+#### 3.3 
 
 ### 4 结果 /results
 ##### 4.1 
@@ -32,7 +36,7 @@
 
 ### 2 芝加哥城公园属性描述与空间分布结构
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjY3NTAxNCwtNTI0ODQ3NzY3LDExOD
+eyJoaXN0b3J5IjpbLTM3MjY2OTIyMCwtNTI0ODQ3NzY3LDExOD
 cxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Njk5MDg3
 NzddfQ==
 -->
