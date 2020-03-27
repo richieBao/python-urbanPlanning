@@ -34,9 +34,8 @@ Phmi值大部分稳定在
 <p align="center">
 <em>图1 无人车位置、地标与Phmi /Fig 1 </em>
 </p>
-<p align="right">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_01.png" width="400"> 
-</p>
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_02.gif)
 <p align="right">
 <em>图2 Phmi数值分布 /Fig2 </em>
 </p>
@@ -77,11 +76,11 @@ Phmi值大部分稳定在
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTExMjcxMywtMTc4MjAyMzQ4MiwxOD
-kyNzA0ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2
-OTgsMTc2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLT
-E5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwNDE0
-NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNTI0ODQ3NzY3LD
-ExODcxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkzOTI5LDE5Njk5
-MDg3NzddfQ==
+eyJoaXN0b3J5IjpbLTEwNTYxMzQwNSwtOTE5MTEyNzEzLC0xNz
+gyMDIzNDgyLDE4OTI3MDQ4MjUsNDc4OTIwODcwLC00MjE0MDkx
+NTQsMTUzMTAwNzY5OCwxNzY3ODkyMDA4LC0xMDM2ODA1NTAxLD
+Y0MzI3ODg0MywtMTkxMjMyODU0Niw5ODgwODQyMjYsMTIxMzEx
+MDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOTAwNDE3NTMxLC
+01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtODUw
+OTM5MjldfQ==
 -->
