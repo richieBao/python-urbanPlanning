@@ -88,7 +88,9 @@
 
 ### 5 讨论 /discussion
 #### 5.1 时间序列空间数据与独立位置数据分析
-无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，前后测量结果相互影响；同时地标空间模式随车行变化是一个连续移动的变化模式；再者，针对独立位置的地标变化是会影响到前后位置的导航评估，因此如果满足了独立位置的导航要求，即Phmi值大于math.pow(10,-5)，可能带来前后位置评估的变化，尤其降低Phmi值至不满足要求。因此，
+无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，前后测量结果相互影响；同时地标空间模式随车行变化是一个连续移动的变化模式；再者，针对独立位置的地标变化是会影响到前后位置的导航评估，因此如果满足了独立位置的导航要求，即Phmi值大于math.pow(10,-5)，可能带来前后位置评估的变化，尤其降低Phmi值至不满足要求。
+
+本次实验
 
 
 
@@ -118,7 +120,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MTM3ODUyLDE4NTUxMDU3MjUsOTQzMT
+eyJoaXN0b3J5IjpbNjc1OTIwNDU3LDE4NTUxMDU3MjUsOTQzMT
 E0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgx
 Miw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4MSwtMT
 A4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIxOTEwNDAzLC0xMTg4
