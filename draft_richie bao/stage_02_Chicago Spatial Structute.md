@@ -69,7 +69,7 @@
 <p align="center">
 <em>图5 特征值栅格 /Fig5 </em>
 </p>
-以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求。
+以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为测试数据集下的预测结果。
 
 
 
@@ -106,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOT
-U0NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2
-MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMD
-csNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1
-NjEzNDA1LC05MTkxMTI3MTMsLTE3ODIwMjM0ODIsMTg5MjcwND
-gyNSw0Nzg5MjA4NzAsLTQyMTQwOTE1NCwxNTMxMDA3Njk4LDE3
-Njc4OTIwMDhdfQ==
+eyJoaXN0b3J5IjpbMTMxNTg2NzA1OSwtOTIyMDA4ODEyLDgwNT
+k4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEw
+NDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2MzE4ND
+YsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0NzIyOTAzNSwxNDgz
+OTMxNzgxLC0xMDU2MTM0MDUsLTkxOTExMjcxMywtMTc4MjAyMz
+Q4MiwxODkyNzA0ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1
+MzEwMDc2OThdfQ==
 -->
