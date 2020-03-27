@@ -25,10 +25,11 @@
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
 *  静态空间位置描述
+为了能够观察无人车位置、地标与Phmiji'gua
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 <p align="center">
-<em>图1 连接度聚类（前20组） /Fig 1 </em>
+<em>图1 无人车位置、地标与Phmi（前20组） /Fig 1 </em>
 </p>
 
 
@@ -68,9 +69,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc5MjkzNDgsMTc2Nzg5MjAwOCwtMT
-AzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0
-MjI2LDEyMTMxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMT
-kwMDQxNzUzMSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4
-NjIxODUsLTg1MDkzOTI5LDE5Njk5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbMTQ5NDQ1NTQ3OCwxNzY3ODkyMDA4LC0xMD
+M2ODA1NTAxLDY0MzI3ODg0MywtMTkxMjMyODU0Niw5ODgwODQy
+MjYsMTIxMzExMDk4Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOT
+AwNDE3NTMxLC01MjQ4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2
+MjE4NSwtODUwOTM5MjksMTk2OTkwODc3N119
 -->
