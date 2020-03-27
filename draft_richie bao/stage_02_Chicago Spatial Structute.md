@@ -27,8 +27,9 @@
 
 ### 5 讨论 /discusion
 
-## B 
+## B 已完成论文
+### 1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIxMTM0MzEsLTg1MDkzOTI5LDE5Nj
-k5MDg3NzddfQ==
+eyJoaXN0b3J5IjpbMTAzNDM5MTk0NiwtODUwOTM5MjksMTk2OT
+kwODc3N119
 -->
