@@ -13,6 +13,7 @@
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
 在测量和模拟部分已经完成地标与Phmi之间的对应关系，为更加清晰的观察随时间推移测量和模拟的数值对应的空间位置变化关系，给出新的图表表达方法，主要包括两类，其一是静态的显示地标与Phmi的空间位置；其二是构建无人车测量位置与地标对应关系的网络结构，交互显示对应空间关系。
+
 图表表述主要使用python的matplotlib和bokeh库；网络结果的建立使用networkx库，互动网络结构结合bokeh库。网络结构建立过程确定无人车各个位置对应激光雷达扫描距离为25m，提取所有无人车位置对应该范围内的地标建立网络结构。
 
 #### 3.2  基于模式预测phmi学习模型
@@ -23,6 +24,7 @@
 
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
+*  静态空间位置描述
 
 
 
@@ -62,9 +64,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NzkxMTA2LC0xMDM2ODA1NTAxLDY0Mz
-I3ODg0MywtMTkxMjMyODU0Niw5ODgwODQyMjYsMTIxMzExMDk4
-Niw2MjA0MTQ2NTYsLTExOTc0NTQ0MSwxOTAwNDE3NTMxLC01Mj
-Q4NDc3NjcsMTE4NzE2Mjk1NywtMTYzMzg2MjE4NSwtODUwOTM5
-MjksMTk2OTkwODc3N119
+eyJoaXN0b3J5IjpbMTc2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2ND
+MyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5
+ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMTkwMDQxNzUzMSwtNT
+I0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4NjIxODUsLTg1MDkz
+OTI5LDE5Njk5MDg3NzddfQ==
 -->
