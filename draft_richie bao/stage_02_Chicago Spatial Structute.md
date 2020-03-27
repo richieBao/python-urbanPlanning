@@ -34,7 +34,10 @@ Phmi值大部分稳定在
 <p align="center">
 <em>图1 无人车位置、地标与Phmi /Fig 1 </em>
 </p>
-
+<p align="right">
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_01.png" width="400"> 
+</p>
+<p align="right">
 
 
 ##### 4.2 基于模式预测phmi学习模型
@@ -73,7 +76,7 @@ Phmi值大部分稳定在
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDQ1MTA4NCwtMTc4MjAyMzQ4MiwxOD
+eyJoaXN0b3J5IjpbMTQ4NTczODE1MSwtMTc4MjAyMzQ4MiwxOD
 kyNzA0ODI1LDQ3ODkyMDg3MCwtNDIxNDA5MTU0LDE1MzEwMDc2
 OTgsMTc2Nzg5MjAwOCwtMTAzNjgwNTUwMSw2NDMyNzg4NDMsLT
 E5MTIzMjg1NDYsOTg4MDg0MjI2LDEyMTMxMTA5ODYsNjIwNDE0
