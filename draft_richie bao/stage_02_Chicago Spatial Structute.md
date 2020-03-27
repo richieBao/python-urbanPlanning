@@ -3,7 +3,7 @@
 ## A. 无人驾驶城市-1
 > @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
 ### 1 背景 /background 
-无人驾驶研究已经取得了丰富的研究成果，保守预测2030s-2040s年左右能够达到无人驾驶的市场化。此次研究是由Illinois Institute of Technology(IIT)主持的无人驾驶城市项目，目前主要涉及GPS和车载激光雷达导航两部分。对于景观/规划学科与无人驾驶工程学科的跨学科
+无人驾驶研究已经取得了丰富的研究成果，保守预测2030s-2040s年左右能够达到无人驾驶的市场化。此次研究是由Illinois Institute of Technology(IIT)主持的无人驾驶城市项目，目前主要涉及GPS和车载激光雷达导航两部分。对于景观/规划学科与无人驾驶工程学科的跨学科结合，景观/规划部分主要分析城市要素与导航之间的关系，一方面将分析反馈给工程组，
 
 ### 2 数据 /data
 以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）。--->三维点云数据处理，及格式转换。--->针对地标的数据特征提取（二维空间位置）。--->基于MatLab模拟计算Phmi值。--->图表打印分析。
@@ -118,7 +118,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDUxNTc2MiwxNjQ2NzgwNTc0LDEyND
+eyJoaXN0b3J5IjpbMTkwNTUyNjAyMiwxNjQ2NzgwNTc0LDEyND
 A5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAx
 OTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNj
 E5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2
