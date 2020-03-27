@@ -59,7 +59,7 @@
 
 ##### 4.2 基于模式预测phmi学习模型
 * 建立特征值数据结构
-设置栅格单元大小为1m，
+设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
@@ -103,7 +103,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzI2MzU0NSw4MDU5ODI0MzksMTYxOT
+eyJoaXN0b3J5IjpbMjAzODk4NjUyNCw4MDU5ODI0MzksMTYxOT
 U0NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2
 MjE2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMD
 csNzg5NjU5Mjg1LDE1NDcyMjkwMzUsMTQ4MzkzMTc4MSwtMTA1
