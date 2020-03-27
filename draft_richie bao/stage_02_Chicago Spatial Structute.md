@@ -25,8 +25,11 @@
 ### 4 结果 /results
 ##### 4.1 模式数据特征描述
 *  静态空间位置描述
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
+<p align="center">
+<em>图1 连接度聚类（前20组） /Fig 1 </em>
+</p>
 
 
 ##### 4.2 基于模式预测phmi学习模型
@@ -65,7 +68,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY1MTMxOTgsMTc2Nzg5MjAwOCwtMT
+eyJoaXN0b3J5IjpbLTEwNDc5MjkzNDgsMTc2Nzg5MjAwOCwtMT
 AzNjgwNTUwMSw2NDMyNzg4NDMsLTE5MTIzMjg1NDYsOTg4MDg0
 MjI2LDEyMTMxMTA5ODYsNjIwNDE0NjU2LC0xMTk3NDU0NDEsMT
 kwMDQxNzUzMSwtNTI0ODQ3NzY3LDExODcxNjI5NTcsLTE2MzM4
