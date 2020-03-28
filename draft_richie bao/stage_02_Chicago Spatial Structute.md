@@ -35,11 +35,9 @@ The best way to explore the relationship between spatial patterns and Phmi evalu
 
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
 
-<![endif]-->
-
 The spatial position relation exists between the AV and the landmarks, and the change of the spatial position relation affects the accuracy of the lidar navigation. Therefore, the spatial position relation is expressed in the form of two-dimensional array or matrix. The values of different cells represent different elements, including the position of the AV’s, the landmarks and the occupied grid.
 
-* 输出类别的方式
+* 输出类别的方式 /The way of the output category  
 
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
 
@@ -137,7 +135,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTc4MjQ4Miw1NjM1NDY2ODIsMTQ1Mj
+eyJoaXN0b3J5IjpbMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1Mj
 UyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5
 LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNz
 Q0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1
