@@ -47,8 +47,10 @@ In the process of debugging the learning machine, different feature data structu
 
 The deep convolutional network AlexNet Model, network NiN Model and MLP are compared in the model selection.
 
-#### 3.3 交互式操作探索模式特征 /exploring 
+#### 3.3 交互式操作探索模式特征 /Exploring pattern characteristics using interactive operations 
 寻找地标空间模式是能够通过调整地标的位置，或增减地标，根据变化的Phmi预测值来确定调整方案的合理性。为了能够交互式操作，使用python的pygame库建立平台，基于pytorch训练的机器模型预测Phmi值。
+
+
 
 ### 4 结果 /results
 #### 4.1 模式数据特征描述
@@ -139,11 +141,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY0OTcxOTksMTg5ODQ4OTc5Nyw1Nj
-M1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkw
-OTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtOD
-M2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4
-MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC
-0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgxMiw4MDU5
-ODI0MzldfQ==
+eyJoaXN0b3J5IjpbMTA4NDc4OTIzNSwxODk4NDg5Nzk3LDU2Mz
+U0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLTc0ODU1OTA5
+Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC04Mz
+YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
+NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
+EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
+MjQzOV19
 -->
