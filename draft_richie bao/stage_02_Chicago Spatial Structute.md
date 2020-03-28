@@ -58,7 +58,9 @@ To find the landmarks pattern, we can determine the rationality of the plan by a
 
 为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。Phmi值小于pow(10,-5)不满足基于激光雷达扫描导航要求，因为值的变化比较小不易于观察不满足要求的变化位置，因此通过缩放该部分的值来突出显示。
 
+<![endif]-->
 
+In order to observe the relationship between the location of AV, landmarks and the evaluation value of Phmi used to evaluate AVs’ navigation, chart 1 was established. The gray line was the driving path of the AV, the blue cross was the landmark, and the red curve was the Phmi values. Phmi value less than pow(10,-5) does not meet the navigation requirements based on lidar scan, because the change of value is relatively small and it is not easy to observe the change position, so it is highlighted by scaling the value of this part.
 
 此次测量区域Phmi值大部分位于0.05之下，在此之上多处跳变到较高值，并持续不同变化的行驶区域后跳变回低值。不满足导航需求的位置点多数为单点跳变，少部分持续较小的行驶距离。
 
@@ -144,11 +146,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMD
-g0Nzg5MjM1LDE4OTg0ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAw
-ODMsLTU4NzQ1NjY2NywtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMz
-I2ODQ5NjI2LDE3MDE3MjYxMDYsLTgzNjMyMzk4OSwyMDc0NDc3
-NTM5LC0xMzA0MjQ1OTY5LDE2NDY3ODA1NzQsMTI0MDkxNTUwMi
-wxODU1MTA1NzI1LDk0MzExNDk1NywtMTIwNjM1MDE5MCwxMjY5
-NDIxOTAzXX0=
+eyJoaXN0b3J5IjpbLTE5NzMyOTIzOTIsMTgxNDAwNjA3NCwtMT
+Q1NDM3MjA0NiwxMDg0Nzg5MjM1LDE4OTg0ODk3OTcsNTYzNTQ2
+NjgyLDE0NTI1MjAwODMsLTU4NzQ1NjY2NywtNzQ4NTU5MDk2LD
+kxNDc2NjU3OSwtMzI2ODQ5NjI2LDE3MDE3MjYxMDYsLTgzNjMy
+Mzk4OSwyMDc0NDc3NTM5LC0xMzA0MjQ1OTY5LDE2NDY3ODA1Nz
+QsMTI0MDkxNTUwMiwxODU1MTA1NzI1LDk0MzExNDk1NywtMTIw
+NjM1MDE5MF19
 -->
