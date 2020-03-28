@@ -125,8 +125,10 @@ In fig. 7, the red centric position is the AV’s location, and multiple green b
 </p>
 
 ### 5 讨论 /discussion
-#### 5.1 时间序列空间数据与独立位置数据分析 /
+#### 5.1 时间序列空间数据与独立位置数据分析 /Time series spatial data and independent location data analysis
 无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，前后测量结果相互影响；同时地标空间模式随车行变化是一个连续移动的变化模式；再者，针对独立位置的地标变化是会影响到前后位置的导航评估，因此如果满足了独立位置的导航要求，即Phmi值大于math.pow(10,-5)，可能带来前后位置评估的变化，尤其降低Phmi值至不满足要求。
+
+
 
 本次实验主要针对独立位置的数据分析，探索无人驾驶激光雷达导航下地标空间模式与采样位置关系的方法，通过模式数据特征描述初步观察地标空间位置与评估值直接的关系；通过建立学习模型尝试对任何地标空间模式预测评估值的变化；并通过交互式操作探索模式特征。在独立位置数据分析基础上，进一步分析无人驾驶时间序列空间数据。
 ___
@@ -156,11 +158,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDYzNjE1NCwxNDc0MTAyODAyLC04ND
-YzNzI4NjUsMTQzMTE2OTYyMywtOTUxNjU0MjQwLDE1NDU1NjY5
-MTQsMTQ2MjU3MjgzMSwxODE0MDA2MDc0LC0xNDU0MzcyMDQ2LD
-EwODQ3ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1MjUy
-MDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5LC
-0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0
-Nzc1MzldfQ==
+eyJoaXN0b3J5IjpbODAzMDY2MTE2LDE0NzQxMDI4MDIsLTg0Nj
+M3Mjg2NSwxNDMxMTY5NjIzLC05NTE2NTQyNDAsMTU0NTU2Njkx
+NCwxNDYyNTcyODMxLDE4MTQwMDYwNzQsLTE0NTQzNzIwNDYsMT
+A4NDc4OTIzNSwxODk4NDg5Nzk3LDU2MzU0NjY4MiwxNDUyNTIw
+MDgzLC01ODc0NTY2NjcsLTc0ODU1OTA5Niw5MTQ3NjY1NzksLT
+MyNjg0OTYyNiwxNzAxNzI2MTA2LC04MzYzMjM5ODksMjA3NDQ3
+NzUzOV19
 -->
