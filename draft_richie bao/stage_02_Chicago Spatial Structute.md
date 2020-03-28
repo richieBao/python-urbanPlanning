@@ -99,7 +99,9 @@ Set the grid cell size to 1m, calculate the position of the landmark in the grid
 
 同时，除了栅格所表述的空间位置关系，在模型调试过程中，将代表地标的栅格单元赋值为各个地标到无人车位置的距离值，增加相关因素，收敛模型。
 
+<![endif]-->
 
+At the same time, in addition to the spatial position relation expressed by the grid, during the model building, the grid unit representing the landmark is assigned to the distance value from each landmark to the position of the AV, and correlation factors are added to converge the model training.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
@@ -153,11 +155,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE2OTYyMywtOTUxNjU0MjQwLDE1ND
-U1NjY5MTQsMTQ2MjU3MjgzMSwxODE0MDA2MDc0LC0xNDU0Mzcy
-MDQ2LDEwODQ3ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMT
-Q1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2
-NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LD
-IwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQw
-OTE1NTAyXX0=
+eyJoaXN0b3J5IjpbLTExOTQ0NzU5NzMsMTQzMTE2OTYyMywtOT
+UxNjU0MjQwLDE1NDU1NjY5MTQsMTQ2MjU3MjgzMSwxODE0MDA2
+MDc0LC0xNDU0MzcyMDQ2LDEwODQ3ODkyMzUsMTg5ODQ4OTc5Ny
+w1NjM1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1
+NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNi
+wtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0
+Njc4MDU3NF19
 -->
