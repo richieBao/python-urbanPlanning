@@ -5,6 +5,9 @@
 ### 1 背景 /background 
 无人驾驶研究已经取得了丰富的研究成果，保守预测2030s-2040s年左右能够达到无人驾驶的市场化。此次研究是由Illinois Institute of Technology(IIT)主持的无人驾驶城市项目，目前主要涉及GPS和车载激光雷达导航两部分。对于景观/规划学科与无人驾驶工程学科的跨学科结合，景观/规划部分主要分析城市要素与导航之间的关系，一方面将分析反馈给工程组，用于模拟模型的调整，提高导航精度；再者是指导规划，找出和避免影响导航的潜在规划因素，及达到适于未来无人驾驶可能的城市模式指引。
 
+<![endif]-->
+
+Abundant research achievements have been made in autonomous vehicle (AVs). It is conservatively predicted that the market of AVs will be achieved in 2030s to 2040s. The study, a driverless city project led by the Illinois Institute of Technology (IIT), currently involves two parts: GPS and on-board lidar navigation. For the interdisciplinary combination of landscape /planning discipline and UVs engineering discipline, the landscape /planning section mainly analyzes the relationship between urban elements and navigation. The third is to guide the planning, to identify and avoid the potential planning factors affecting the navigation, and to achieve the city model suitable for future driverless possible guidance.
 
 
 ### 2 数据 /data
@@ -120,11 +123,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNj
-Q2NzgwNTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5
-NTcsLTEyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLD
-gwNTk4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2
-OTEwNDM5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2Mz
-E4NDYsMTU4NzA5OTEwNyw3ODk2NTkyODUsMTU0NzIyOTAzNSwx
-NDgzOTMxNzgxXX0=
+eyJoaXN0b3J5IjpbMTYwMTYyMTIyMCwyMDc0NDc3NTM5LC0xMz
+A0MjQ1OTY5LDE2NDY3ODA1NzQsMTI0MDkxNTUwMiwxODU1MTA1
+NzI1LDk0MzExNDk1NywtMTIwNjM1MDE5MCwxMjY5NDIxOTAzLC
+05MjIwMDg4MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1
+NjkwODEsLTEwODY5MTA0MzksMTc3ODY0NjIxNiwtMTIyMTkxMD
+QwMywtMTE4ODYzMTg0NiwxNTg3MDk5MTA3LDc4OTY1OTI4NSwx
+NTQ3MjI5MDM1XX0=
 -->
