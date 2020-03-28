@@ -53,7 +53,7 @@ The deep convolutional network AlexNet Model, network NiN Model and MLP are comp
 To find the landmarks pattern, we can determine the rationality of the plan by adjusting the position of the landmarks, adding or removing the landmark according to the change of the Phmi predicted value. In order to be able to operate interactively, the platform was built using python’s pygame library, and the Phmi value was predicted bases on the machine learning model trained by pytorch.
 
 ### 4 结果 /results
-#### 4.1 模式数据特征描述 /
+#### 4.1 模式数据特征描述 /Pattern feature description
 *  静态空间位置描述
 为了能够观察无人车位置、地标与Phmi激光雷达扫描导航评估值之间的关系，建立图表1，灰色线为无人车行驶路径，蓝色十字为地标，红色折现为Phmi值。Phmi值小于pow(10,-5)不满足基于激光雷达扫描导航要求，因为值的变化比较小不易于观察不满足要求的变化位置，因此通过缩放该部分的值来突出显示。
 
@@ -141,11 +141,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxODY5NzA4LDEwODQ3ODkyMzUsMTg5OD
-Q4OTc5Nyw1NjM1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3
-LC03NDg1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMT
-cyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5
-NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOT
-QzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAw
-ODgxMl19
+eyJoaXN0b3J5IjpbLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxOD
+k4NDg5Nzk3LDU2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2
+NjcsLTc0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNz
+AxNzI2MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0
+NTk2OSwxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNS
+w5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIy
+MDA4ODEyXX0=
 -->
