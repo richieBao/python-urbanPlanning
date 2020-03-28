@@ -132,8 +132,6 @@ The navigation based on the lidar of AVs is a time continuous process along the 
 
 本次实验主要针对独立位置的数据分析，探索无人驾驶激光雷达导航下地标空间模式与采样位置关系的方法，通过模式数据特征描述初步观察地标空间位置与评估值直接的关系；通过建立学习模型尝试对任何地标空间模式预测评估值的变化；并通过交互式操作探索模式特征。在独立位置数据分析基础上，进一步分析无人驾驶时间序列空间数据。
 
-<![endif]-->
-
 This experiment mainly focuses on the data analysis of independent positions, exploring the relationship between the spatial pattern of landmarks and the sampling position under the guidance of on-board lidar, and preliminarily observing the direct relationship between the spatial position of landmarks and the evaluation value by describing the characteristics of the data pattern. By establishing a learning model, we try to predict the change of evaluation of any landmark spatial pattern. The feature of the pattern are explored through interactive operation. Based on the analysis of independent location data, the spatial data of AVs’ time series should be further analyzed.
 
 ___
@@ -163,7 +161,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ5MzQ0MTAsLTg5MTQwMzMxMSw4MD
+eyJoaXN0b3J5IjpbLTE5OTUyMzIyNDEsLTg5MTQwMzMxMSw4MD
 MwNjYxMTYsMTQ3NDEwMjgwMiwtODQ2MzcyODY1LDE0MzExNjk2
 MjMsLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0NjI1NzI4MzEsMT
 gxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5MjM1LDE4OTg0
