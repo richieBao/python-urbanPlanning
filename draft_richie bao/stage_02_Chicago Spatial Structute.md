@@ -138,8 +138,8 @@ ___
 
 
 
-## B 已完成论文
-### 1 芝加哥物质空间连续距离聚类下的空间结构变化
+## B 已完成论文 /Completed paper
+### 1 芝加哥物质空间连续距离聚类下的空间结构变化 /
 > 摘 要： 对城市物质空间结构变化的量化描述可以为城市的可持续发展提供有效的参照。以芝加哥城为研究对象，将其视为具有层级结构的物质空间，提出连续距离聚类描述城市空间结构特征的方法，同时视空间结构存在连续变化的关联强度，提出连续距离卷积核卷积计算连接度的方法，界定城市建成区连接度强度，确定具有意义的关键层级，获得180m聚类距离城市建成区边缘的界定；15×15卷积核城市建成区连接强度界定；39m建筑高度城市建筑高度分布区间的界定；130m聚类距离建筑高度水平向分布的特征界定。连续距离聚类的动态量化描述城市物质空间结构的方法，可以界定具体的空间范围，落实规划内容并提供有效参照。
 
 > 
@@ -161,11 +161,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyMzIyNDEsLTg5MTQwMzMxMSw4MD
-MwNjYxMTYsMTQ3NDEwMjgwMiwtODQ2MzcyODY1LDE0MzExNjk2
-MjMsLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0NjI1NzI4MzEsMT
-gxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5MjM1LDE4OTg0
-ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAwODMsLTU4NzQ1NjY2Ny
-wtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMzI2ODQ5NjI2LDE3MDE3
-MjYxMDZdfQ==
+eyJoaXN0b3J5IjpbLTQ3NjIyMzk3NCwtODkxNDAzMzExLDgwMz
+A2NjExNiwxNDc0MTAyODAyLC04NDYzNzI4NjUsMTQzMTE2OTYy
+MywtOTUxNjU0MjQwLDE1NDU1NjY5MTQsMTQ2MjU3MjgzMSwxOD
+E0MDA2MDc0LC0xNDU0MzcyMDQ2LDEwODQ3ODkyMzUsMTg5ODQ4
+OTc5Nyw1NjM1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC
+03NDg1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcy
+NjEwNl19
 -->
