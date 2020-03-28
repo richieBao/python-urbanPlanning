@@ -35,6 +35,8 @@ The best way to explore the relationship between spatial patterns and Phmi evalu
 
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
 
+
+
 * 输出类别的方式
 
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
@@ -133,11 +135,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzM2ODE3MCwxNDUyNTIwMDgzLC01OD
-c0NTY2NjcsLTc0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYy
-NiwxNzAxNzI2MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMT
-MwNDI0NTk2OSwxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMTg1NTEw
-NTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMTI2OTQyMTkwMy
-wtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC0xNjM5
-NTY5MDgxXX0=
+eyJoaXN0b3J5IjpbNTYzNTQ2NjgyLDE0NTI1MjAwODMsLTU4Nz
+Q1NjY2NywtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMzI2ODQ5NjI2
+LDE3MDE3MjYxMDYsLTgzNjMyMzk4OSwyMDc0NDc3NTM5LC0xMz
+A0MjQ1OTY5LDE2NDY3ODA1NzQsMTI0MDkxNTUwMiwxODU1MTA1
+NzI1LDk0MzExNDk1NywtMTIwNjM1MDE5MCwxMjY5NDIxOTAzLC
+05MjIwMDg4MTIsODA1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1
+NjkwODFdfQ==
 -->
