@@ -17,7 +17,7 @@ For the data of landmark spatial pattern analysis by the measurement of engineer
 Through the calculation of the engineering group, the landmark position after feature extraction, the corresponding AV’s position, and the Phmi value for on-board lidar navigation evaluation are obtained.
 
 ### 3 方法 /method
-#### 3.1 模式数据特征描述
+#### 3.1 模式数据特征描述 /Pattern feature description
 在测量和模拟部分已经完成地标与Phmi之间的对应关系，为更加清晰的观察随时间推移测量和模拟的数值对应的空间位置变化关系，给出新的图表表达方法，主要包括两类，其一是静态的显示地标与Phmi的空间位置；其二是构建无人车测量位置与地标对应关系的网络结构，交互显示对应空间关系。
 
 图表表述主要使用python的matplotlib和bokeh库；网络结果的建立使用networkx库，互动网络结构结合bokeh库。网络结构建立过程确定无人车各个位置对应激光雷达扫描距离为25m，提取所有无人车位置对应该范围内的地标建立网络结构。
@@ -124,7 +124,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTcwNzE0OSwxNzAxNzI2MTA2LC04Mz
+eyJoaXN0b3J5IjpbLTk0MjE1NTM5MCwxNzAxNzI2MTA2LC04Mz
 YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
 NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
 EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
