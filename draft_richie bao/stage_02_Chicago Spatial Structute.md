@@ -32,8 +32,11 @@ The chart presentation mainly uses python’s matplotlib and bokeh libraries. Th
 The best way to explore the relationship between spatial patterns and Phmi evalution values is to use the engineering group’s simulation model directly, but there are several reasons to build the prediction model. First, the simulation model is currently established in the MatLab environment, so the interface call model with python needs to be coded. Secondly, in order to find the spatial pattern of landmarks and the AV’s data sampling locations, it is necessary to find a way to express the spatial pattern, so as to guide the planning of the driverless city. At the same time, the analysis information will be feedback to the engineering team to improve the simulation model, so as to develop the accuracy of on-board lidar scanning navigation. Third, it is used to establish a platform for interactive operation to explore the characteristics of the landmarks spatial pattern.
 
 * 建立特征值数据结构 /
+
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
+
 * 输出类别的方式
+
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
 
 模型选择上比较了深度卷积网络 AlexNet Model、网络中的网络 NiN Model和多层感知机 MLP等机器学习模型。
@@ -130,11 +133,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzQ1NjY2NywtNzQ4NTU5MDk2LDkxND
-c2NjU3OSwtMzI2ODQ5NjI2LDE3MDE3MjYxMDYsLTgzNjMyMzk4
-OSwyMDc0NDc3NTM5LC0xMzA0MjQ1OTY5LDE2NDY3ODA1NzQsMT
-I0MDkxNTUwMiwxODU1MTA1NzI1LDk0MzExNDk1NywtMTIwNjM1
-MDE5MCwxMjY5NDIxOTAzLC05MjIwMDg4MTIsODA1OTgyNDM5LD
-E2MTk1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3
-ODY0NjIxNl19
+eyJoaXN0b3J5IjpbMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03ND
+g1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEw
+NiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMT
+Y0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0
+OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgxMi
+w4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4MSwtMTA4
+NjkxMDQzOV19
 -->
