@@ -2,9 +2,7 @@
 > 无参考文献版 /no reference version  初稿 /draft  by richie bao
 ## A. 无人驾驶城市-1
 > @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
-### 1 背景 /background 。
-。
-
+### 1 背景 /background 
 无人驾驶研究已经取得了丰富的研究成果，保守预测2030s-2040s年左右能够达到无人驾驶的市场化。此次研究是由Illinois Institute of Technology(IIT)主持的无人驾驶城市项目，目前主要涉及GPS和车载激光雷达导航两部分。对于景观/规划学科与无人驾驶工程学科的跨学科结合，景观/规划部分主要分析城市要素与导航之间的关系，一方面将分析反馈给工程组，用于模拟模型的调整，提高导航精度；再者是指导规划，找出和避免影响导航的潜在规划因素，及达到适于未来无人驾驶可能的城市模式指引。
 
 ### 2 数据 /data
@@ -120,11 +118,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzE2MTc3LC0xMzA0MjQ1OTY5LDE2ND
-Y3ODA1NzQsMTI0MDkxNTUwMiwxODU1MTA1NzI1LDk0MzExNDk1
-NywtMTIwNjM1MDE5MCwxMjY5NDIxOTAzLC05MjIwMDg4MTIsOD
-A1OTgyNDM5LDE2MTk1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5
-MTA0MzksMTc3ODY0NjIxNiwtMTIyMTkxMDQwMywtMTE4ODYzMT
-g0NiwxNTg3MDk5MTA3LDc4OTY1OTI4NSwxNTQ3MjI5MDM1LDE0
-ODM5MzE3ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQyNDU5NjksLTEzMDQyNDU5NjksMT
+Y0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0
+OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgxMi
+w4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4MSwtMTA4
+NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIxOTEwNDAzLC0xMTg4Nj
+MxODQ2LDE1ODcwOTkxMDcsNzg5NjU5Mjg1LDE1NDcyMjkwMzUs
+MTQ4MzkzMTc4MV19
 -->
