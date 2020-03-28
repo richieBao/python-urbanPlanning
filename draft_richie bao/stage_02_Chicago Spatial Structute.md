@@ -29,6 +29,8 @@ The chart presentation mainly uses python’s matplotlib and bokeh libraries. Th
 #### 3.2  基于模式预测phmi学习模型 /Prediction of the Phmi learning model based on spatial pattern
 探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
+
+
 * 建立特征值数据结构
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
 * 输出类别的方式
@@ -128,11 +130,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA5MTMzMDgsOTE0NzY2NTc5LC0zMj
-Y4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1
-MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLD
-E4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0
-MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNC
-wtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0x
-MjIxOTEwNDAzXX0=
+eyJoaXN0b3J5IjpbLTc0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNj
+g0OTYyNiwxNzAxNzI2MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUz
+OSwtMTMwNDI0NTk2OSwxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMT
+g1NTEwNTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMTI2OTQy
+MTkwMywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC
+0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLTEy
+MjE5MTA0MDNdfQ==
 -->
