@@ -107,7 +107,9 @@ At the same time, in addition to the spatial position relation expressed by the 
 </p>
 以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为基于MLP网络模型测试数据集下的预测结果。
 
+<![endif]-->
 
+The evaluation value of math.pow(10,-5) Phmi is used as the boundary to classify the output, 0 is less than the evaluation value, that is, it does not meet the lidar navigation requirements. 1 is greater than the evaluation value and meets the navigation requirements. Fig. 6 shows the prediction results under the rest data set based on MLP network model.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
 <p align="center">
@@ -155,11 +157,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjM3Mjg2NSwxNDMxMTY5NjIzLC05NT
-E2NTQyNDAsMTU0NTU2NjkxNCwxNDYyNTcyODMxLDE4MTQwMDYw
-NzQsLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxODk4NDg5Nzk3LD
-U2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLTc0ODU1
-OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC
-04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2
-NzgwNTc0XX0=
+eyJoaXN0b3J5IjpbMTU3MTg4MTU5MSwtODQ2MzcyODY1LDE0Mz
+ExNjk2MjMsLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0NjI1NzI4
+MzEsMTgxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5MjM1LD
+E4OTg0ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAwODMsLTU4NzQ1
+NjY2NywtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMzI2ODQ5NjI2LD
+E3MDE3MjYxMDYsLTgzNjMyMzk4OSwyMDc0NDc3NTM5LC0xMzA0
+MjQ1OTY5XX0=
 -->
