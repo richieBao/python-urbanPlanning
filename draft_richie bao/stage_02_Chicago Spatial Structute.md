@@ -10,8 +10,11 @@ Abundant research achievements have been made in autonomous vehicle (AVs). It is
 ### 2 数据 /data
 以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）。--->三维点云数据处理，及格式转换。--->针对地标的数据特征提取（二维空间位置）。--->基于MatLab模拟计算Phmi值。--->图表打印分析。
 
+For the data of landmark spatial pattern analysis by the measurement of engineering group, the data processing is: data measured along city road (3d lidar scanning points cloud data, 2d images photoed camera, (Inertial measurement unit, IMU) measuring three-axis attitude angle and acceleration) --> 3d point cloud data processing, and format conversion -->data feature extraction for landmarks (2d spatial position) --> Phmi value simulated based on MatLab. --> chart printing analysis.
 
 通过工程组计算，获取特征提取后的地标位置，以及对应的无人车位置，和用于车载激光雷达导航评估的Phmi值。
+
+
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
@@ -121,11 +124,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMTMwMzY1LC04MzYzMjM5ODksMjA3ND
-Q3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2NzgwNTc0LDEyNDA5MTU1
-MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMT
-I2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0
-MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMT
-YsLTEyMjE5MTA0MDMsLTExODg2MzE4NDYsMTU4NzA5OTEwNyw3
-ODk2NTkyODVdfQ==
+eyJoaXN0b3J5IjpbMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNz
+Q0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1
+NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLD
+EyNjk0MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0
+NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2Mj
+E2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcs
+Nzg5NjU5Mjg1XX0=
 -->
