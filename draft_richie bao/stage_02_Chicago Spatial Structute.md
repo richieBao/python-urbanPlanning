@@ -10,11 +10,11 @@ Abundant research achievements have been made in autonomous vehicle (AVs). It is
 ### 2 数据 /data
 以工程组的测量和模拟数据为地标空间模式分析的分析数据，工程组的数据处理流程为：延城市道路实测数据（激光雷达扫描的三维点云数据、相机二维图像、惯性测量单元(Inertial measurement unit,IMU)测量三轴姿态角及加速度）。--->三维点云数据处理，及格式转换。--->针对地标的数据特征提取（二维空间位置）。--->基于MatLab模拟计算Phmi值。--->图表打印分析。
 
-For the data of landmark spatial pattern analysis by the measurement of engineering group, the data processing is: data measured along city road (3d lidar scanning points cloud data, 2d images photoed camera, (Inertial measurement unit, IMU) measuring three-axis attitude angle and acceleration) --> 3d point cloud data processing, and format conversion -->data feature extraction for landmarks (2d spatial position) --> Phmi value simulated based on MatLab. --> chart printing analysis.
+For the data of landmark spatial pattern analysis by the measurement of engineering group, the data processing is: data measured along city road (3d lidar scanning points cloud data, 2d images shoot by camera, (Inertial measurement unit, IMU) measuring three-axis attitude angle and acceleration) --> 3d point cloud data processing, and format conversion -->data feature extraction for landmarks (2d spatial position) --> Phmi value simulated based on MatLab. --> chart printing analysis.
 
 通过工程组计算，获取特征提取后的地标位置，以及对应的无人车位置，和用于车载激光雷达导航评估的Phmi值。
 
-
+Through the calculation of the engineering group, the landmark position after feature extraction, the corresponding AV’s position, and the Phmi value for on-board lidar navigation evaluation are obtained.
 
 ### 3 方法 /method
 #### 3.1 模式数据特征描述
@@ -124,11 +124,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNz
-Q0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1
-NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLD
-EyNjk0MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0
-NDAxNCwtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2Mj
-E2LC0xMjIxOTEwNDAzLC0xMTg4NjMxODQ2LDE1ODcwOTkxMDcs
-Nzg5NjU5Mjg1XX0=
+eyJoaXN0b3J5IjpbMjExMTcwNzE0OSwxNzAxNzI2MTA2LC04Mz
+YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
+NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
+EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
+MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwND
+M5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2MzE4NDYs
+MTU4NzA5OTEwN119
 -->
