@@ -31,7 +31,9 @@ The chart presentation mainly uses python’s matplotlib and bokeh libraries. Th
 
 The best way to explore the relationship between spatial patterns and Phmi evalution values is to use the engineering group’s simulation model directly, but there are several reasons to build the prediction model. First, the simulation model is currently established in the MatLab environment, so the interface call model with python needs to be coded. Secondly, in order to find the spatial pattern of landmarks and the AV’s data sampling locations, it is necessary to find a way to express the spatial pattern, so as to guide the planning of the driverless city. At the same time, the analysis information will be feedback to the engineering team to improve the simulation model, so as to develop the accuracy of on-board lidar scanning navigation. Third, it is used to establish a platform for interactive operation to explore the characteristics of the landmarks spatial pattern.
 
-* 建立特征值数据结构 /
+* 建立特征值数据结构 /<![endif]-->
+
+Establish the feature data structure
 
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
 
@@ -133,11 +135,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03ND
-g1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEw
-NiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMT
-Y0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0
-OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgxMi
-w4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4MSwtMTA4
-NjkxMDQzOV19
+eyJoaXN0b3J5IjpbLTEzNTY4OTM5MzcsMTQ1MjUyMDA4MywtNT
+g3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2
+MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLT
+EzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUx
+MDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MD
+MsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYz
+OTU2OTA4MV19
 -->
