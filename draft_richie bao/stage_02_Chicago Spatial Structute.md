@@ -71,11 +71,14 @@ Most of the Phmi values in this measurement area were below 0.05, and jumped to 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_02_a.gif)
 <p align="center">
-<em>图2 Phmi数值分布 /Fig2 </em>
+<em>图2 Phmi数值分布 /Fig2  Location, landmarks and Phmi</em>
 </p>
 
-* 交互网络结构
+* 交互网络结构 /Interactive network structure
+
 因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域地标的关系，因此借助bokeh库实现交互观察变化关系图4。无人车连续扫描采样，地标的空间位置相对无人车连续移动变化，交互方式可以很好的观察空间对位关系，但是连续动态密集的采样过程，仍旧很难通过肉眼观察地标空间模式的变化与Phmi的关系。
+
+
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
 <p align="center">
@@ -145,7 +148,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzEzNTE5NywxNDYyNTcyODMxLDE4MT
+eyJoaXN0b3J5IjpbMTU0NTU2NjkxNCwxNDYyNTcyODMxLDE4MT
 QwMDYwNzQsLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxODk4NDg5
 Nzk3LDU2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLT
 c0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2
