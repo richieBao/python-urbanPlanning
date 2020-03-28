@@ -142,9 +142,7 @@ ___
 ### 1 芝加哥物质空间连续距离聚类下的空间结构变化 /Spatial structure changes under continuous distance clustering of Chicago physical space
 > 摘 要： 对城市物质空间结构变化的量化描述可以为城市的可持续发展提供有效的参照。以芝加哥城为研究对象，将其视为具有层级结构的物质空间，提出连续距离聚类描述城市空间结构特征的方法，同时视空间结构存在连续变化的关联强度，提出连续距离卷积核卷积计算连接度的方法，界定城市建成区连接度强度，确定具有意义的关键层级，获得180m聚类距离城市建成区边缘的界定；15×15卷积核城市建成区连接强度界定；39m建筑高度城市建筑高度分布区间的界定；130m聚类距离建筑高度水平向分布的特征界定。连续距离聚类的动态量化描述城市物质空间结构的方法，可以界定具体的空间范围，落实规划内容并提供有效参照。
 
-> <![endif]-->
-
-Abstract: the quantitative description of the change of urban physical spatial structure can provide an effective reference for the sustainable development of the city. In the city of Chicago as the research object, regard it as a hierarchy of the structure of the physical space, put forward the continuous distance method of clustering to describe the characteristics of urban spatial structure, at the same time regarding as the spatial structure of continuously variable correlation intensity, put forward the continuous distance convolution kernel convolution method of connection degree, defining the city proper connection degree of intensity, determine the meaningful key levels, get the 180m clustering distance from the edge of the city proper to define. 15×15 convolution kernel urban built-up area connection intensity definition. 39m building height definition of urban building height distribution interval. Feature definition of horizontal distribution of 130m clustering distance from building height. The dynamic quantitative method of continuous distance clustering to describe the physical spatial structure of the city can define the specific spatial scope, implement the planning content and provide effective reference.
+>Abstract: the quantitative description of the change of urban physical spatial structure can provide an effective reference for the sustainable development of the city. In the city of Chicago as the research object, regard it as a hierarchy of the structure of the physical space, put forward the continuous distance method of clustering to describe the characteristics of urban spatial structure, at the same time regarding as the spatial structure of continuously variable correlation intensity, put forward the continuous distance convolution kernel convolution method of connection degree, defining the city proper connection degree of intensity, determine the meaningful key levels, get the 180m clustering distance from the edge of the city proper to define. 15×15 convolution kernel urban built-up area connection intensity definition. 39m building height definition of urban building height distribution interval. Feature definition of horizontal distribution of 130m clustering distance from building height. The dynamic quantitative method of continuous distance clustering to describe the physical spatial structure of the city can define the specific spatial scope, implement the planning content and provide effective reference.
 
 > 关键词：城市规划；物质空间；聚类；动态层级；芝加哥；
 
@@ -163,11 +161,11 @@ Abstract: the quantitative description of the change of urban physical spatial s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDcyMzc2NSwtMTA4NDkzMDQ4MiwtOD
-kxNDAzMzExLDgwMzA2NjExNiwxNDc0MTAyODAyLC04NDYzNzI4
-NjUsMTQzMTE2OTYyMywtOTUxNjU0MjQwLDE1NDU1NjY5MTQsMT
-Q2MjU3MjgzMSwxODE0MDA2MDc0LC0xNDU0MzcyMDQ2LDEwODQ3
-ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1MjUyMDA4My
-wtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5LC0zMjY4
-NDk2MjZdfQ==
+eyJoaXN0b3J5IjpbODg3NzM3MDE0LC0xMDg0OTMwNDgyLC04OT
+E0MDMzMTEsODAzMDY2MTE2LDE0NzQxMDI4MDIsLTg0NjM3Mjg2
+NSwxNDMxMTY5NjIzLC05NTE2NTQyNDAsMTU0NTU2NjkxNCwxND
+YyNTcyODMxLDE4MTQwMDYwNzQsLTE0NTQzNzIwNDYsMTA4NDc4
+OTIzNSwxODk4NDg5Nzk3LDU2MzU0NjY4MiwxNDUyNTIwMDgzLC
+01ODc0NTY2NjcsLTc0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0
+OTYyNl19
 -->
