@@ -95,8 +95,6 @@ Due to the intensive sampling of AV’s position points, it is difficult to obse
 
 设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格单元为栅格中心位置，即无人车采样位置。如图5给出了16个随机采样位置的栅格，并标识了对应的Phmi值。
 
-<![endif]-->
-
 Set the grid cell size to 1m, calculate the position of the landmark in the grid, the red dot is the actual position of the landmark, and the green grid cell contains each landmark, which is the spatial identification of the landmark position. The yellow grid cell is the grid center position, that is, the sampling position of AV. Fig. 5 shows the grid of 16 random sampling locations and identifications, the corresponding Phmi value.
 
 同时，除了栅格所表述的空间位置关系，在模型调试过程中，将代表地标的栅格单元赋值为各个地标到无人车位置的距离值，增加相关因素，收敛模型。
@@ -155,11 +153,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg0NDA0OTYsLTk1MTY1NDI0MCwxNT
-Q1NTY2OTE0LDE0NjI1NzI4MzEsMTgxNDAwNjA3NCwtMTQ1NDM3
-MjA0NiwxMDg0Nzg5MjM1LDE4OTg0ODk3OTcsNTYzNTQ2NjgyLD
-E0NTI1MjAwODMsLTU4NzQ1NjY2NywtNzQ4NTU5MDk2LDkxNDc2
-NjU3OSwtMzI2ODQ5NjI2LDE3MDE3MjYxMDYsLTgzNjMyMzk4OS
-wyMDc0NDc3NTM5LC0xMzA0MjQ1OTY5LDE2NDY3ODA1NzQsMTI0
-MDkxNTUwMl19
+eyJoaXN0b3J5IjpbMTQzMTE2OTYyMywtOTUxNjU0MjQwLDE1ND
+U1NjY5MTQsMTQ2MjU3MjgzMSwxODE0MDA2MDc0LC0xNDU0Mzcy
+MDQ2LDEwODQ3ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMT
+Q1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2
+NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LD
+IwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQw
+OTE1NTAyXX0=
 -->
