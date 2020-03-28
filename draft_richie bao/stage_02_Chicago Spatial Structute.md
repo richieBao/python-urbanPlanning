@@ -20,9 +20,11 @@ Through the calculation of the engineering group, the landmark position after fe
 #### 3.1 模式数据特征描述 /Pattern feature description
 在测量和模拟部分已经完成地标与Phmi之间的对应关系，为更加清晰的观察随时间推移测量和模拟的数值对应的空间位置变化关系，给出新的图表表达方法，主要包括两类，其一是静态的显示地标与Phmi的空间位置；其二是构建无人车测量位置与地标对应关系的网络结构，交互显示对应空间关系。
 
-
+In the measurement and simulation part, the correspondence between the landmarks and Phmi has been completed. In order to observe more clearly the spatial position change relation corresponding to the measured and simulated values over time, a new chart expression method is presented. The second is to construct the network structure of the corresponding relationship between the measured position of the AV and the landmarks, and to interactively display the corresponding spatial relationship.
 
 图表表述主要使用python的matplotlib和bokeh库；网络结果的建立使用networkx库，互动网络结构结合bokeh库。网络结构建立过程确定无人车各个位置对应激光雷达扫描距离为25m，提取所有无人车位置对应该范围内的地标建立网络结构。
+
+
 
 #### 3.2  基于模式预测phmi学习模型
 探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
@@ -126,11 +128,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC04Mz
-YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
-NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
-EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
-MjQzOSwxNjE5NTQ0MDE0LC0xNjM5NTY5MDgxLC0xMDg2OTEwND
-M5LDE3Nzg2NDYyMTYsLTEyMjE5MTA0MDMsLTExODg2MzE4NDYs
-MTU4NzA5OTEwN119
+eyJoaXN0b3J5IjpbOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMT
+cyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5
+NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOT
+QzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAw
+ODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMTYzOTU2OTA4MS
+wtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIxOTEwNDAzLC0x
+MTg4NjMxODQ2XX0=
 -->
