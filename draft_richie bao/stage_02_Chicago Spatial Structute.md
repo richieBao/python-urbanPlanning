@@ -41,9 +41,11 @@ The spatial position relation exists between the AV and the landmarks, and the c
 
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
 
-
+In the process of debugging the learning machine, different feature data structures and output categories are explored to optimize the model and subdivide the problem. The output category can be divided into the original continuous value of Phmi, using percentile to classify continuous values as output categories, splitting continuous values by means of equipartition, setting to greater than and less than the math.pow(10,-5) to two values, splitting bases on the change of jump interval.
 
 模型选择上比较了深度卷积网络 AlexNet Model、网络中的网络 NiN Model和多层感知机 MLP等机器学习模型。
+
+
 
 #### 3.3 交互式操作探索模式特征
 寻找地标空间模式是能够通过调整地标的位置，或增减地标，根据变化的Phmi预测值来确定调整方案的合理性。为了能够交互式操作，使用python的pygame库建立平台，基于pytorch训练的机器模型预测Phmi值。
@@ -137,11 +139,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODA1OTU0MywxODk4NDg5Nzk3LDU2Mz
-U0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLTc0ODU1OTA5
-Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC04Mz
-YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
-NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
-EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
-MjQzOV19
+eyJoaXN0b3J5IjpbLTE1NTYzNzUwNTIsMTg5ODQ4OTc5Nyw1Nj
+M1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkw
+OTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtOD
+M2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4
+MDU3NCwxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC
+0xMjA2MzUwMTkwLDEyNjk0MjE5MDMsLTkyMjAwODgxMiw4MDU5
+ODI0MzldfQ==
 -->
