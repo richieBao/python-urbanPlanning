@@ -99,15 +99,15 @@ Set the grid cell size to 1m, calculate the position of the landmark in the grid
 
 同时，除了栅格所表述的空间位置关系，在模型调试过程中，将代表地标的栅格单元赋值为各个地标到无人车位置的距离值，增加相关因素，收敛模型。
 
-<![endif]-->
-
 At the same time, in addition to the spatial position relation expressed by the grid, during the model building, the grid unit representing the landmark is assigned to the distance value from each landmark to the position of the AV, and correlation factors are added to converge the model training.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
-<em>图5 特征值栅格 /Fig5 </em>
+<em>图5 特征值栅格 /Fig5 Feature raster</em>
 </p>
 以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为基于MLP网络模型测试数据集下的预测结果。
+
+
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
 <p align="center">
@@ -155,11 +155,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ0NzU5NzMsMTQzMTE2OTYyMywtOT
-UxNjU0MjQwLDE1NDU1NjY5MTQsMTQ2MjU3MjgzMSwxODE0MDA2
-MDc0LC0xNDU0MzcyMDQ2LDEwODQ3ODkyMzUsMTg5ODQ4OTc5Ny
-w1NjM1NDY2ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1
-NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNi
-wtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0
-Njc4MDU3NF19
+eyJoaXN0b3J5IjpbLTg0NjM3Mjg2NSwxNDMxMTY5NjIzLC05NT
+E2NTQyNDAsMTU0NTU2NjkxNCwxNDYyNTcyODMxLDE4MTQwMDYw
+NzQsLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxODk4NDg5Nzk3LD
+U2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLTc0ODU1
+OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC
+04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2
+NzgwNTc0XX0=
 -->
