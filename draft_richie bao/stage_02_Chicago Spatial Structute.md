@@ -24,11 +24,9 @@ In the measurement and simulation part, the correspondence between the landmarks
 
 图表表述主要使用python的matplotlib和bokeh库；网络结果的建立使用networkx库，互动网络结构结合bokeh库。网络结构建立过程确定无人车各个位置对应激光雷达扫描距离为25m，提取所有无人车位置对应该范围内的地标建立网络结构。
 
-<![endif]-->
-
 The chart presentation mainly uses python’s matplotlib and bokeh libraries. The establishment of network uses the network library, and the interactive network structure combines with the bokeh library. During the construction of the network structure, the corresponding lidar scanning distance of each AV’s position was determined to be 25m, and the network structure was built by extracting all the landmarks within the range of the AV’s position pairs.
 
-#### 3.2  基于模式预测phmi学习模型
+#### 3.2  基于模式预测phmi学习模型 /Prediction of the Phmi learning model based on spatial pattern
 探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
 * 建立特征值数据结构
@@ -130,11 +128,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MTE0MzIsOTE0NzY2NTc5LC0zMjY4ND
-k2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1Mzks
-LTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NT
-UxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0MjE5
-MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNCwtMT
-YzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0xMjIx
-OTEwNDAzXX0=
+eyJoaXN0b3J5IjpbLTEwMzA5MTMzMDgsOTE0NzY2NTc5LC0zMj
+Y4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1
+MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLD
+E4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLDEyNjk0
+MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0NDAxNC
+wtMTYzOTU2OTA4MSwtMTA4NjkxMDQzOSwxNzc4NjQ2MjE2LC0x
+MjIxOTEwNDAzXX0=
 -->
