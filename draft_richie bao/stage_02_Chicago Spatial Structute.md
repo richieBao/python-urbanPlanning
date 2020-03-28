@@ -117,16 +117,15 @@ The evaluation value of math.pow(10,-5) Phmi is used as the boundary to classify
 #### 4.3 交互式操作探索模式特征 /Exploring pattern characteristics using interactive operations 
 图7中红色中间位置为无人车位置，多个绿色块为Landmarks位置，并标识了数字为其到无人处的距离。右上角PHmi_reclassify显示更新预测值。基于pytorch训练的深度学习模型预测变化地标空间模式的Phmi预测值。
 
-
+In fig. 7, the red centric position is the AV’s location, and multiple green blocks are the landmarks position, and the number is the distance to the AV’s location. The upper right PHmi_reclassify display updates the predicted value. The deep learning model based on pytorch training predicted the Phmi prediction of the changing of landmark spatial pattern.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
 <p align="center">
-<em>图7 交互式操作 /Fig7 </em>
+<em>图7 交互式操作 /Fig7 Interactive operation</em>
 </p>
 
-
 ### 5 讨论 /discussion
-#### 5.1 时间序列空间数据与独立位置数据分析
+#### 5.1 时间序列空间数据与独立位置数据分析 /
 无人驾驶车载激光雷达导航是延车行路径的一个时间性连续过程，前后测量结果相互影响；同时地标空间模式随车行变化是一个连续移动的变化模式；再者，针对独立位置的地标变化是会影响到前后位置的导航评估，因此如果满足了独立位置的导航要求，即Phmi值大于math.pow(10,-5)，可能带来前后位置评估的变化，尤其降低Phmi值至不满足要求。
 
 本次实验主要针对独立位置的数据分析，探索无人驾驶激光雷达导航下地标空间模式与采样位置关系的方法，通过模式数据特征描述初步观察地标空间位置与评估值直接的关系；通过建立学习模型尝试对任何地标空间模式预测评估值的变化；并通过交互式操作探索模式特征。在独立位置数据分析基础上，进一步分析无人驾驶时间序列空间数据。
@@ -157,11 +156,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDEwMjgwMiwtODQ2MzcyODY1LDE0Mz
-ExNjk2MjMsLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0NjI1NzI4
-MzEsMTgxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5MjM1LD
-E4OTg0ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAwODMsLTU4NzQ1
-NjY2NywtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMzI2ODQ5NjI2LD
-E3MDE3MjYxMDYsLTgzNjMyMzk4OSwyMDc0NDc3NTM5LC0xMzA0
-MjQ1OTY5XX0=
+eyJoaXN0b3J5IjpbMjAyMDYzNjE1NCwxNDc0MTAyODAyLC04ND
+YzNzI4NjUsMTQzMTE2OTYyMywtOTUxNjU0MjQwLDE1NDU1NjY5
+MTQsMTQ2MjU3MjgzMSwxODE0MDA2MDc0LC0xNDU0MzcyMDQ2LD
+EwODQ3ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1MjUy
+MDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5LC
+0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0
+Nzc1MzldfQ==
 -->
