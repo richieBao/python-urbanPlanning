@@ -107,17 +107,17 @@ At the same time, in addition to the spatial position relation expressed by the 
 </p>
 以小于和大于math.pow(10,-5)Phmi评估值为界划分分类输出，并赋值为0和1，0为小于评估值，即不满足激光雷达导航要求；1为大于评估值，满足导航要求。图6为基于MLP网络模型测试数据集下的预测结果。
 
-<![endif]-->
-
 The evaluation value of math.pow(10,-5) Phmi is used as the boundary to classify the output, 0 is less than the evaluation value, that is, it does not meet the lidar navigation requirements. 1 is greater than the evaluation value and meets the navigation requirements. Fig. 6 shows the prediction results under the rest data set based on MLP network model.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_03.jpg)
 <p align="center">
-<em>图6 MLP网络预测模型结果 /Fig6 </em>
+<em>图6 MLP网络预测模型结果 /Fig6 MLP network prediction model results </em>
 </p>
 
-#### 4.3 交互式操作探索模式特征
+#### 4.3 交互式操作探索模式特征 /Exploring pattern characteristics using interactive operations 
 图7中红色中间位置为无人车位置，多个绿色块为Landmarks位置，并标识了数字为其到无人处的距离。右上角PHmi_reclassify显示更新预测值。基于pytorch训练的深度学习模型预测变化地标空间模式的Phmi预测值。
+
+
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/42_00.gif)
 <p align="center">
@@ -157,7 +157,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTg4MTU5MSwtODQ2MzcyODY1LDE0Mz
+eyJoaXN0b3J5IjpbMTQ3NDEwMjgwMiwtODQ2MzcyODY1LDE0Mz
 ExNjk2MjMsLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0NjI1NzI4
 MzEsMTgxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5MjM1LD
 E4OTg0ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAwODMsLTU4NzQ1
