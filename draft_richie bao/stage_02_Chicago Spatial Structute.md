@@ -90,12 +90,16 @@ Due to the intensive sampling of AV’s position points, it is difficult to obse
 <em>图4 交互网络结构 /Fig4 Interactive network structure</em>
 </p>
 
-#### 4.2 基于模式预测phmi学习模型 /
-* 建立特征值数据结构
+#### 4.2 基于模式预测phmi学习模型 /Prediction of the Phmi learning model based on spatial pattern
+* 建立特征值数据结构 /Establish the feature data structure
 
 设置栅格单元大小为1m，计算地标位于栅格的位置，红色圆点为地标实际位置，绿色栅格单元包含各个地标，为地标位置的空间标识。黄色栅格单元为栅格中心位置，即无人车采样位置。如图5给出了16个随机采样位置的栅格，并标识了对应的Phmi值。
 
+
+
 同时，除了栅格所表述的空间位置关系，在模型调试过程中，将代表地标的栅格单元赋值为各个地标到无人车位置的距离值，增加相关因素，收敛模型。
+
+
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/41_01.jpg)
 <p align="center">
@@ -149,7 +153,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDU2ODQyNCwxNTQ1NTY2OTE0LDE0Nj
+eyJoaXN0b3J5IjpbLTk1MTY1NDI0MCwxNTQ1NTY2OTE0LDE0Nj
 I1NzI4MzEsMTgxNDAwNjA3NCwtMTQ1NDM3MjA0NiwxMDg0Nzg5
 MjM1LDE4OTg0ODk3OTcsNTYzNTQ2NjgyLDE0NTI1MjAwODMsLT
 U4NzQ1NjY2NywtNzQ4NTU5MDk2LDkxNDc2NjU3OSwtMzI2ODQ5
