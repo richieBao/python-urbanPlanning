@@ -41,6 +41,8 @@ The spatial position relation exists between the AV and the landmarks, and the c
 
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
 
+
+
 模型选择上比较了深度卷积网络 AlexNet Model、网络中的网络 NiN Model和多层感知机 MLP等机器学习模型。
 
 #### 3.3 交互式操作探索模式特征
@@ -135,11 +137,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1Mj
-UyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5
-LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNz
-Q0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1
-NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2MzUwMTkwLD
-EyNjk0MjE5MDMsLTkyMjAwODgxMiw4MDU5ODI0MzksMTYxOTU0
-NDAxNF19
+eyJoaXN0b3J5IjpbLTIzODA1OTU0MywxODk4NDg5Nzk3LDU2Mz
+U0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLTc0ODU1OTA5
+Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2MTA2LC04Mz
+YzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OSwxNjQ2Nzgw
+NTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMxMTQ5NTcsLT
+EyMDYzNTAxOTAsMTI2OTQyMTkwMywtOTIyMDA4ODEyLDgwNTk4
+MjQzOV19
 -->
