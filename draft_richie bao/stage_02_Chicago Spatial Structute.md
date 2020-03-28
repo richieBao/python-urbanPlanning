@@ -78,7 +78,9 @@ Most of the Phmi values in this measurement area were below 0.05, and jumped to 
 
 因为无人车位置点采样密集，如图3所示的静态图表格式很难观察各个车行采样位置点与对应25m扫描区域地标的关系，因此借助bokeh库实现交互观察变化关系图4。无人车连续扫描采样，地标的空间位置相对无人车连续移动变化，交互方式可以很好的观察空间对位关系，但是连续动态密集的采样过程，仍旧很难通过肉眼观察地标空间模式的变化与Phmi的关系。
 
+<![endif]-->
 
+Due to the intensive sampling of AV’s position points, it is difficult to observe the relationship between each sampling position points and the landmarks in the corresponding 25m scan area in the static chart as shown in figure 3. Therefore, bokeh library is used to realize the interactive observation change relationship as shown in figure 4. For the continuous scanning and sampling of the AV, the interactive mode can well observe the spatial para-position relationship, but it is still hard to observe the relationship between the spatial pattern change and Phmi by naked eyes during the continuous dynamic and intensive sampling process.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03.png)
 <p align="center">
@@ -148,11 +150,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTU2NjkxNCwxNDYyNTcyODMxLDE4MT
-QwMDYwNzQsLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxODk4NDg5
-Nzk3LDU2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLT
-c0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2
-MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OS
-wxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMx
-MTQ5NTddfQ==
+eyJoaXN0b3J5IjpbNTM2MDAwNDI5LDE1NDU1NjY5MTQsMTQ2Mj
+U3MjgzMSwxODE0MDA2MDc0LC0xNDU0MzcyMDQ2LDEwODQ3ODky
+MzUsMTg5ODQ4OTc5Nyw1NjM1NDY2ODIsMTQ1MjUyMDA4MywtNT
+g3NDU2NjY3LC03NDg1NTkwOTYsOTE0NzY2NTc5LC0zMjY4NDk2
+MjYsMTcwMTcyNjEwNiwtODM2MzIzOTg5LDIwNzQ0Nzc1MzksLT
+EzMDQyNDU5NjksMTY0Njc4MDU3NCwxMjQwOTE1NTAyLDE4NTUx
+MDU3MjVdfQ==
 -->
