@@ -29,9 +29,9 @@ The chart presentation mainly uses python’s matplotlib and bokeh libraries. Th
 #### 3.2  基于模式预测phmi学习模型 /Prediction of the Phmi learning model based on spatial pattern
 探索空间模式与Phmi评估值之间关系最好的方式是直接使用工程组的模拟模型，出于几个原因单独建立预测模型。其一模拟模型当前建立于MatLab环境下，需要建立与python的接口调用模型；其二是为了寻找地标与无人车采样位置点的空间模式，需要找到表达空间模式的途径，从而能够指导无人驾驶城市规划，同时将信息反馈到工程组改进模拟模型，提高车载激光雷达扫描导航的精度；其三用于建立交互式操作探索模式特征的平台。
 
+The best way to explore the relationship between spatial patterns and Phmi evalution values is to use the engineering group’s simulation model directly, but there are several reasons to build the prediction model. First, the simulation model is currently established in the MatLab environment, so the interface call model with python needs to be coded. Secondly, in order to find the spatial pattern of landmarks and the AV’s data sampling locations, it is necessary to find a way to express the spatial pattern, so as to guide the planning of the driverless city. At the same time, the analysis information will be feedback to the engineering team to improve the simulation model, so as to develop the accuracy of on-board lidar scanning navigation. Third, it is used to establish a platform for interactive operation to explore the characteristics of the landmarks spatial pattern.
 
-
-* 建立特征值数据结构
+* 建立特征值数据结构 /
 无人车与扫描获取的地标存在空间位置关系，该位置关系的变化影响到激光雷达导航的精度，因此采用二维栅格（array数组/矩阵）的形式表述空间位置关系，不同栅格单元值代表不同要素，包括无人车位置、地标和占位栅格。
 * 输出类别的方式
 调试学习模型过程同时，探索不同特征值数据结构和输出类别方式优化模型，及细分问题。输出类别可以分为Phmi的原始连续值；用Percentile百分位数分类连续数值用作输出类别；均分方式分类连续数值用作输出类别；math.pow(10,-5)为评估标准值，设置为大于和小于等于两个值；基于跳变区间变化确定输出分类。
@@ -130,11 +130,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNj
-g0OTYyNiwxNzAxNzI2MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUz
-OSwtMTMwNDI0NTk2OSwxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMT
-g1NTEwNTcyNSw5NDMxMTQ5NTcsLTEyMDYzNTAxOTAsMTI2OTQy
-MTkwMywtOTIyMDA4ODEyLDgwNTk4MjQzOSwxNjE5NTQ0MDE0LC
-0xNjM5NTY5MDgxLC0xMDg2OTEwNDM5LDE3Nzg2NDYyMTYsLTEy
-MjE5MTA0MDNdfQ==
+eyJoaXN0b3J5IjpbLTU4NzQ1NjY2NywtNzQ4NTU5MDk2LDkxND
+c2NjU3OSwtMzI2ODQ5NjI2LDE3MDE3MjYxMDYsLTgzNjMyMzk4
+OSwyMDc0NDc3NTM5LC0xMzA0MjQ1OTY5LDE2NDY3ODA1NzQsMT
+I0MDkxNTUwMiwxODU1MTA1NzI1LDk0MzExNDk1NywtMTIwNjM1
+MDE5MCwxMjY5NDIxOTAzLC05MjIwMDg4MTIsODA1OTgyNDM5LD
+E2MTk1NDQwMTQsLTE2Mzk1NjkwODEsLTEwODY5MTA0MzksMTc3
+ODY0NjIxNl19
 -->
