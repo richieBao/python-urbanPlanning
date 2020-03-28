@@ -62,7 +62,7 @@ In order to observe the relationship between the location of AV, landmarks and t
 
 此次测量区域Phmi值大部分位于0.05之下，在此之上多处跳变到较高值，并持续不同变化的行驶区域后跳变回低值。不满足导航需求的位置点多数为单点跳变，少部分持续较小的行驶距离。
 
-
+Most of the Phmi values in this measurement area were below 0.05, and jumped to higher values at several points above, and then jumped back to lower values in driving areas with continuous changes. Most of the position points that do not meet the navigation requirements are single-point jump, and a few of them have a relatively small driving distance.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/40_02.png)
 <p align="center">
@@ -145,11 +145,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjU3MjgzMSwxODE0MDA2MDc0LC0xND
-U0MzcyMDQ2LDEwODQ3ODkyMzUsMTg5ODQ4OTc5Nyw1NjM1NDY2
-ODIsMTQ1MjUyMDA4MywtNTg3NDU2NjY3LC03NDg1NTkwOTYsOT
-E0NzY2NTc5LC0zMjY4NDk2MjYsMTcwMTcyNjEwNiwtODM2MzIz
-OTg5LDIwNzQ0Nzc1MzksLTEzMDQyNDU5NjksMTY0Njc4MDU3NC
-wxMjQwOTE1NTAyLDE4NTUxMDU3MjUsOTQzMTE0OTU3LC0xMjA2
-MzUwMTkwXX0=
+eyJoaXN0b3J5IjpbLTgzMzEzNTE5NywxNDYyNTcyODMxLDE4MT
+QwMDYwNzQsLTE0NTQzNzIwNDYsMTA4NDc4OTIzNSwxODk4NDg5
+Nzk3LDU2MzU0NjY4MiwxNDUyNTIwMDgzLC01ODc0NTY2NjcsLT
+c0ODU1OTA5Niw5MTQ3NjY1NzksLTMyNjg0OTYyNiwxNzAxNzI2
+MTA2LC04MzYzMjM5ODksMjA3NDQ3NzUzOSwtMTMwNDI0NTk2OS
+wxNjQ2NzgwNTc0LDEyNDA5MTU1MDIsMTg1NTEwNTcyNSw5NDMx
+MTQ5NTddfQ==
 -->
