@@ -189,7 +189,10 @@
     3. 多层感知机 MLP/网络中的网络 NiN Model/深度卷积网络 AlexNet Model
 42. Chicago_12_无人驾驶城市_03_交互式操作-pygame-pytorch
     1. 使用pygame库实现交互式操作
-    
+43. Chicago_13_无人驾驶城市_04_数据特征描述_B
+    1. 基于1维卷积曲线跳变点识别切分
+    2. 空间点格局模式-初步| rpy1/spatstat
+    3. 数据汇总（dataFrame）与相关性分析
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
