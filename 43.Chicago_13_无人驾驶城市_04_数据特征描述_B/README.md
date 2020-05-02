@@ -5,4 +5,4 @@
 引入空间点格局，借助rpy2库调用R语言，及其spatstat库，实现样方分析，最近距离分等内容，判断空间点模式是趋于均匀分布，还是趋于集中分布。计算有Variance-Mean Ratio(VMR)方差均值比，以及F(r)和G(r)等，推荐参考：Adrian Baddeley,Ege Rubak,Rolf Turner.Spatial point patterns methodology and application with R[M].CRC Press. 2016. 空间点格局部分是城市空间数据分析方法的一项重要内容，在后续的研究中将由实际研究案例详细阐述，本次无人驾驶部分仅是分析landmarks分布特点是否与雷达导航评估值之间存在相关性。
 
 ### 曲线跳变点切分
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/43_01.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/43_01.jpg)
