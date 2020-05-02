@@ -6,3 +6,9 @@
 
 ### 曲线跳变点切分
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/43_01.jpg)
+
+### 空间点格局
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/43_02.jpg)
+
+### 相关性分析
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/43_03.jpg)
