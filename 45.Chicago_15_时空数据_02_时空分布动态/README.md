@@ -88,3 +88,73 @@ chi-2:
  Geographic Rank Markov
   ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_07.jpg)
  
+### 07-数值流动性/mobility of values
+```python
+Shorrock1’s mobility measure: 0.40061912189412874
+Shorroks2’s mobility measure: 0.8947596046400575
+Sommers and Conlisk’s mobility measure: 0.1512614999713907
+Bartholomew1’s mobility measure: 0.45222897037897725
+Bartholomew2’s mobility measure: 0.11041662306388621
+```
+
+### 08-动态LISA方向分析/directional analysis of dynamic LISAs
+ ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_08.jpg)
+ 
+### 09-肯德尔等级相关系数/kendalls tao
+* 经典/Classic Kendall’s tau
+```python
+tau.concordant: 1113.0
+tau.discordant: 894.0
+tau.tau: 0.10585418308712077
+tau.tau_p: 0.20891363352187065
+```
+
+* 空间/Spatial Kendall’s tau
+```python
+tau_w.concordant: 1113.0
+tau_w.concordant_spatial: 50
+tau_w.discordant: 894.0
+tau_w.discordant_spatial: 24
+tau_w.tau_spatial: 0.3337725078760129
+tau_w.tau_spatial_psim: 0.001
+```
+
+* 区域间，区域内，Kendall'stau 分解/Inter- and Intra-regional decomposition of Kendall’s tau
+```python
+tau_w.tau_reg: [[ 0.7         0.6        -0.6         1.          1.          1.
+   0.52       -0.4        -0.2         0.6         0.6         1.
+   0.8        -0.6         0.2         0.         -0.2         0.2
+   0.          0.4         0.6         0.2        -0.6         0.2
+  -0.2         0.          0.6         0.75      ]
+ [ 0.6         1.          0.          1.         -1.          1.
+   0.3        -0.83333333 -0.5         0.          1.          0.75
+   1.          0.         -0.5         0.14285714 -0.5         0.
+  -0.75        1.         -0.125       0.         -1.         -0.5
+  -1.         -0.33333333  0.         -0.25      ]
+  
+  tau_w.tau_reg_pvalues: [[0.088 0.129 0.147 0.001 0.095 0.092 0.06  0.068 0.302 0.285 0.274 0.011
+  0.143 0.169 0.543 0.336 0.275 0.562 0.344 0.293 0.039 0.529 0.174 0.53
+  0.417 0.43  0.139 0.006]
+ [0.129 0.506 0.628 0.027 0.2   0.308 0.359 0.028 0.22  0.618 0.3   0.16
+  0.305 0.633 0.279 0.504 0.22  0.6   0.017 0.107 0.34  0.642 0.219 0.275
+  0.224 0.285 0.578 0.272]
+  
+  tau_w.tau_reg * (tau_w.tau_reg_pvalues<0.05): [[ 0.          0.         -0.          1.          0.          0.
+   0.         -0.         -0.          0.          0.          1.
+   0.         -0.          0.          0.         -0.          0.
+   0.          0.          0.6         0.         -0.          0.
+  -0.          0.          0.          0.75      ]
+ [ 0.          0.          0.          1.         -0.          0.
+   0.         -0.83333333 -0.          0.          0.          0.
+   0.          0.         -0.          0.         -0.          0.
+  -0.75        0.         -0.          0.         -0.         -0.
+  -0.         -0.          0.         -0.        ]
+ [-0.          0.                 nan  0.         -0.          0.
+  -1.          0.         -0.         -0.         -0.         -0.
+   0.         -0.         -0.          0.         -0.         -0.
+  -1.         -0.          0.         -0.         -0.          0.
+  -0.         -0.         -0.         -0.        ]
+  ```
+  
+
+
