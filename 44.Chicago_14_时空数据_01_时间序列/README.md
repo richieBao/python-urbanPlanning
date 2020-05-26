@@ -1,7 +1,8 @@
 # Chicago_14_时空数据_01_时间序列
 
 >数据来源：Chicago Data Portal https://data.cityofchicago.org 可以自行搜索Covid-19
-参考:1.Open Machine Learning Course. Topic 9. Part 1. Time series analysis in Python https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3
+
+>参考:1.Open Machine Learning Course. Topic 9. Part 1. Time series analysis in Python https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3
 2. 时间序列分析完整过程 https://blog.csdn.net/jh1137921986/article/details/90257764
 3. 时间序列与时间序列分析 https://www.cnblogs.com/tianqizhi/p/9277376.html
 
