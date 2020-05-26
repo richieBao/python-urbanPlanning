@@ -19,11 +19,11 @@
 计算罗列如下：
 #### 1-Chicago：Covid-19 基本数据
 * 01-日感染人数与日死亡人数
-
+<p>
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png" width="400" align="left">  
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png" width="400" align="left"> 
+</p>
 
-&nbsp;
 * 02-数据预处理 （见文件 44.Chicago_14_时空数据_01_时间序列.html）
 #日期索引/#缺失数据填充/#数据采样
 
