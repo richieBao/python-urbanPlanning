@@ -48,5 +48,9 @@ DMC-fmpt [[ 5.52293606 11.32091921 16.01694736 16.98271948 21.43511836]
 ```
  
  ### 03-区域背景（分位数）与莫兰指数/Regional context and Morans Is
+ 各周感染案例分位数（5）
+ ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_03.png)
+ 值为正且显著，各感染区域并不相互独立
+ ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_04.png)
  
  
