@@ -20,24 +20,25 @@
 #### 1-Chicago：Covid-19 基本数据
 * 01-日感染人数与日死亡人数
 
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png" width="400" align="left">  
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png" width="400" align="left">     
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png)
 
 * 02-数据预处理 （见文件 <em>44.Chicago_14_时空数据_01_时间序列.html</em>）
 #日期索引/#缺失数据填充/#数据采样
 
 * 03-平滑/滑动窗口
 > A-平均平滑数据
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_03.png" width="400" align="left">  
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_04.png" width="400" align="left">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_05.png" width="400" align="left">
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_03.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_04.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_05.png)
+
 > B-指数平滑
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_09.png" width="400" align="left">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_10.png" width="400" align="left">
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_09.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_10.png)
 > C-加权平均/weighted average
 > D-异常检测/置信区间
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_06.png" width="400" align="left">
-<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_07.png" width="400" align="left">
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_06.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_07.png)
 
 * 04-时间序列交叉验证/Time series cross validation
 * 05-特征提取
