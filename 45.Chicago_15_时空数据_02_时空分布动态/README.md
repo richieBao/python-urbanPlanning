@@ -53,4 +53,7 @@ DMC-fmpt [[ 5.52293606 11.32091921 16.01694736 16.98271948 21.43511836]
  值为正且显著，各感染区域并不相互独立
  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_04.png)
  
- 
+### 04-空间马尔可夫/spatial markov
+(空间)马尔可夫转移概率矩阵
+空间滞后，参数之一为邻里区域距离范围均值（y）;看对角线值，可以说明邻里区感染率高，则该区感染率高，反之亦然
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_05.png)
