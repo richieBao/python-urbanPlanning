@@ -156,5 +156,19 @@ tau_w.tau_reg: [[ 0.7         0.6        -0.6         1.          1.          1.
   -0.         -0.         -0.         -0.        ]
   ```
   
+* 本地/Local Kendall’s tau
+```python
+Local Kendall’s tau:   STATE_NAME  $\tau_r$
+0      60647  0.030769
+1      60639 -0.569231
+2      60622  0.046154
+3      60651 -0.569231
+4      60641 -0.430769
+```
 
-
+* 基于本地LIMA流动性指标/Local indicator of mobility association-LIMA
+  Neighbor set LIMA
+ ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_09.jpg)
+ 
+  Neighborhood set LIMA
+  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_10.jpg)
