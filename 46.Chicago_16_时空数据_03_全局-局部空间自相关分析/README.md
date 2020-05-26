@@ -7,4 +7,4 @@
 ### 01-分位数/spatial lag_quantile-Attribute Similarity
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_01.png)
 ### 02-全局空间自相关 Global Spatial Autocorrelation
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_02.png)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_02.jpg)
