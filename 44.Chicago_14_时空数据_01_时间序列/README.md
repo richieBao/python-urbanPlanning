@@ -17,7 +17,7 @@
 单纯的时间序列分析则不涉及到空间的问题，更多内容涉及到数据处理，随时间的变化规律，（feature）特征提取，预测模型例如ARIMA(autoregression integrated moving average model)或者自定义回归模型。
 
 计算罗列如下：
-#### 1-Chicago：Covid-19 基本数据
+#### Chicago：Covid-19 基本数据
 * 01-日感染人数与日死亡人数
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png)
@@ -46,4 +46,25 @@
 
 * 04-时间序列交叉验证/Time series cross validation
 * 05-特征提取
+> A-时间序列滞后值
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_11.png)
+> B-窗口相关统计量
+> C-日期和时间特征
+> D-ts|fresh features
+
+* 06-时间序列的（非）线性模型
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_12.png)
+
+#### ARIMA（autoregression integrated moving average model） 差分自回归移动平均模型
+* 07-平稳性检验-差分法
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_20.png)
+
+* 08-相关函数评估方法
+> A-相关函数
+
+偏自相关函数PACF(partial autocorrelation function)
+自相关函数ACF（autocorrelation function）
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_14.png)
+
+
 
