@@ -25,7 +25,7 @@
 
 ### 02-离散马尔可夫链/Discrete Markov Chains
 转移矩阵|转移概率|稳态分布 |平均通过时间 
-'''
+'''python
 DMC-transitions:
  [[111.  14.   2.   2.   4.]
  [ 17.  74.  16.   6.   2.]
