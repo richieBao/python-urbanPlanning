@@ -9,7 +9,7 @@
 
 > 分析结果罗列如下：
 
-### 01-基础数据处理
+### 00-基础数据处理
 * csv数据（Covid-19 by zip code）
 
   转换为时间序列dataframe
@@ -19,3 +19,7 @@
 * 读取zip .shp文件
 * 人口数据分位数/父区域划分（zip）
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_01.jpg)
+
+### 01-时空数据绝对-相对动态变化/absolute dynamics and relative dynamics
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_02.jpg)
+
