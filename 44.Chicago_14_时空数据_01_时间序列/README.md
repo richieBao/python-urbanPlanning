@@ -13,7 +13,12 @@
 6. 基于web图表分析-dash
 
 
-### A-时间序列分析(时空数据分析方法)
+### A-时空数据-时间序列分析
 单纯的时间序列分析则不涉及到空间的问题，更多内容涉及到数据处理，随时间的变化规律，（feature）特征提取，预测模型例如ARIMA(autoregression integrated moving average model)或者自定义回归模型。
 
+计算罗列如下：
+#### 1-Chicago：Covid-19 基本数据
+日感染人数与日死亡人数
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png" width="400" align="left">  
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png" width="400" align="left">  
 
