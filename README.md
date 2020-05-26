@@ -193,6 +193,11 @@
     1. 基于1维卷积曲线跳变点识别切分
     2. 空间点格局模式-初步| rpy1/spatstat
     3. 数据汇总（dataFrame）与相关性分析
+44. Chicago_14_时空数据_01_时间序列
+    1. 时序数据预处理 | 平滑/滑动窗口 | 时间序列交叉验证/Time series cross validation | 特征提取
+    2. ARIMA
+    3. 平稳性检验-差分法 | 相关函数评估方法 | 模型评估标准 |模型残差检验
+    4. 时间序列的（非）线性模型
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
