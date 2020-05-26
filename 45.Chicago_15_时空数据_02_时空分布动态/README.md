@@ -5,4 +5,8 @@
 2-GIDDY/GeospatIal Distribution DYnamics https://giddy.readthedocs.io/en/latest/index.html
 
 城市时空数据分析的目的，通常是探查城市区域间某一随时间变化因素之间存在的关系，例如全局相关性变化，LISA变化，从一分位数区域转变到另一分位数区域的概率、
-时间，以及方向，亦包括各区域变化因素的稳定性确定等内容。本次分析所使用的python库为giddy，用于探索城市时空分布动态。
+时间，以及方向，亦包括各区域变化因素的稳定性确定等内容。本次分析所使用的python库为giddy，用于探索城市时空分布动态-Covid-19时空变化。
+
+> 分析结果罗列如下：
+
+
