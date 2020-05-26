@@ -28,15 +28,19 @@
 
 * 03-平滑/滑动窗口
 > A-平均平滑数据
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_03.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_04.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_05.png)
 
 > B-指数平滑
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_09.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_10.png)
+
 > C-加权平均/weighted average
 > D-异常检测/置信区间
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_06.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_07.png)
 
