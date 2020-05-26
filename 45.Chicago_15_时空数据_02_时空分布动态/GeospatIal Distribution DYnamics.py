@@ -3,6 +3,7 @@
 Created on Mon May 25 22:01:03 2020
 
 @author: :Richie Bao-caDesign设计(cadesign.cn).Chicago
+ref:GIDDY/GeospatIal Distribution DYnamics https://giddy.readthedocs.io/en/latest/index.html
 """
 import os,shapely
 import pandas as pd
