@@ -83,5 +83,8 @@ chi-2:
  ```
  
  ### 06-全秩马尔可夫|地理秩马尔可夫/full rank markov and Geographic Rank Markov
- 
+ 全秩马尔可夫
+ ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_06.jpg)
+ Geographic Rank Markov
+  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_07.jpg)
  
