@@ -9,5 +9,12 @@
 ### 02-全局空间自相关 Global Spatial Autocorrelation
 2位/Binary Case / 2位连接数/Join counts / 连续情况/Continuous Case
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_02.jpg)
-### 局部自相关：热点，冷点和异常值/Local Autocorrelation: Hot Spots, Cold Spots, and Spatial Outliers
+### 03-局部自相关：热点，冷点和异常值/Local Autocorrelation: Hot Spots, Cold Spots, and Spatial Outliers
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_03.jpg)
+### 04-聚类（分析区域）内及间观测值特征相似性/Silhouette statistics
+* 感染数分布/社区分类
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_04.jpg)
+* 分组吻合度（well-fit）/The Silhouette Score /benchmark
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_05.png)
+> 使用sklearn.cluster.KMeans聚类后，用于Silhouette Score分析，比较社区分类
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_06.jpg)
