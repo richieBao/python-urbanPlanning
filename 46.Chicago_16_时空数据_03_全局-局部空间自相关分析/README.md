@@ -10,3 +10,4 @@
 2位/Binary Case / 2位连接数/Join counts / 连续情况/Continuous Case
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_02.jpg)
 ### 局部自相关：热点，冷点和异常值/Local Autocorrelation: Hot Spots, Cold Spots, and Spatial Outliers
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_03.jpg)
