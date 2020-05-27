@@ -198,6 +198,12 @@
     2. ARIMA
     3. 平稳性检验-差分法 | 相关函数评估方法 | 模型评估标准 |模型残差检验
     4. 时间序列的（非）线性模型
+45. Chicago_15_时空数据_02_时间序列
+    1. giddy-空间马尔科夫链/markov chains
+    2. 莫兰指数/Moran's Is
+    3. 数值流动性/mobility of values
+    4. 动态LISA方向分析
+    5. 肯德尔等级相关系数/kendalls tao
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
