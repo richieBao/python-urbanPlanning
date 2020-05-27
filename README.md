@@ -204,6 +204,10 @@
     3. 数值流动性/mobility of values
     4. 动态LISA方向分析
     5. 肯德尔等级相关系数/kendalls tao
+46. Chicago_16_时空数据_03_全局-局部空间自相关分析
+    1. 全局/局部空间自相关 Global/Local Spatial Autocorrelation
+    2. 聚类（分析区域）内及间观测值特征相似性/Silhouette statistics-组间|内相似度/Path Silhouettes/组缘相似度/Boundary Silhouettes
+    3. 网络结构/Geographical Structure
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
