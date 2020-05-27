@@ -18,3 +18,9 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_05.png)
 > 使用sklearn.cluster.KMeans聚类后，用于Silhouette Score分析，比较社区分类
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_06.jpg)
+* 最近邻吻合分布/Nearest Label
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_07.jpg)
+* 地理/网络结构/Geographical Structure
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_08.png)
+* 组间|内相似度/Path Silhouettes
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_09.png)
