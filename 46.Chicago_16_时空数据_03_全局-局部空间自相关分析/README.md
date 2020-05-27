@@ -24,3 +24,5 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_08.png)
 * 组间|内相似度/Path Silhouettes
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_09.png)
+* 组缘相似度/Boundary Silhouettes
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/46_10.jpg)
