@@ -88,6 +88,19 @@ infer_D_eve.p_value: 0.0
 null_approach = "evenness" 拒绝原假设，即区域间存在差异性  | null_approach = "systematic"
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_12._13jpg.jpg)
 
+2. 二值测试/TwoValueTest /比较推断/Comparative Inference
+* 仍以差异性为例/Comparative Dissimilarity | 以Gini为例/Comparative Gini | 以空间差异性为例/Comparative Spatial Dissimilarity
+```python
+D_19-D_15: -7.507823217456355e-05
+compare_D_fit.p_value: 0.986
+```
+接受原假设，即15周和19周两个时期的感染率区域差异性分布变化不明显
+
+
+* 相对集中隔离指数/Relative Concentration (RCO) segregation index
+### 04-推断统计显著性实现/inferencewrappers use cases
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_14_15_16.jpg)
+
 
 
 
