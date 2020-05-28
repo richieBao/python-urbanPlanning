@@ -139,5 +139,44 @@ compare_D_fit.p_value: 0.986
 空间分布相对集中程度
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_18.jpg)
 区位多样性/Local Diversity | 区位熵/Local Entropy | Local Simpson Interaction | 区位辛普森集中度/Local Simpson Concentration  | 区位集中度/Local Centralization
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_20_21_22_23_24.jpg)
+### 05-多组空间隔离指标/Multigroup aspatial indexes of segregation
+```python
+MultiDissim 0.385428235157427
+Multigroup Gini Index: 0.495131873642657
+Multigroup Normalized Exposure Index: 0.2190304202432846
+Multigroup Information Theory Index: 0.16298313632840697
+Multigroup Relative Diversity Index: 0.18906928526838498
+Multigroup Squared Coefficient of Variation Index: 0.08438918370781343
+Multigroup Diversity Index: 0.7195336679224532
+Simpson's Concentration Index (lambda): 0.6012630764331958
+Simpson's Interaction Index (I) 0.39873692356680424
+Multigroup Divergence Index 0.1172718538918839
+```
+### 06-城市空间因素影响
+1. 权重空间结构/weights matrices structure
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_25.png)
+2. 权重影响
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_26.png)
+```python
+aspatial: 0.16298313632840697
+rook neighborhood: 0.07958101545505616
+queen neighborhood: 0.08128474935636046
+kernel distance neighborhood_A: 0.14482963125123702
+kernel distance neighborhood_B: 0.13043727028007907
 
+euclidian_profile {0: 0.058180633435165705, 2000.0: 0.15484216004384405, 3000.0: 0.13043727028007907, 4000.0: 0.10541368127271342, 5000.0: 0.088480858647156}.
+```
+3. 城市路网影响
+> 人人之间，接触的容易程度
 
+get_osm_network
+> 计算较花时间，计算距离越大，计算时间逾常
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_27.png)
+### 07-城市空间因素.路网/context-a walkabel street network
+避免了单位区域面积大小的影响，尤其单个区域数值高，而面积大的部分，使分析区域合理
+距离：5000m
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_28.png)
+距离权重密度/distance-weighted densities
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_29.png)
