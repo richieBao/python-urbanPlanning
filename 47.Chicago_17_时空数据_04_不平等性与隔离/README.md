@@ -29,7 +29,7 @@ bgs: [0.7158024691358025, 0.7158024691358025, 0.7184627170582227, 0.631228087501
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_05.png)
 
 ## 城市隔离模式/segregation/analyzing patterns of urban segregation
-* 隔离模型/指数/PySAL segregation module for aspatial indexes 
+### 隔离模型/指数/PySAL segregation module for aspatial indexes 
 ```python
 dissimilarity: 0.2514104848644326
 Gini: 0.3431758903870853
@@ -44,7 +44,7 @@ Modified Gini : 0.3022909570381693
 Density-Corrected Dissimilarity: 0.24539833442240042
 Minimum-Maximum Index (MM): 0.4018033857078772
 ```
-* 分解/decomposition 基于Shapley分解
+### 分解/decomposition 基于Shapley分解
 
 1. Composition Approach (default) 
 ```python
@@ -63,4 +63,5 @@ Shapley's Attribute Component of the decomposition: -0.019157651901702294
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_07.png)
 'maps' : visualize the spatial distributions for original data and counterfactuals generated and Shapley's components (only available for GeoDataFrames)
 
-
+2. Share Approach
+The share approach takes into consideration the share of each group in each city
