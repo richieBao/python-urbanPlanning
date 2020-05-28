@@ -12,5 +12,6 @@
 
 ## 空间分布的不平等性/inequality/Methods for measuring spatial inequality.
 > Gini度量不均衡指标
+
 * 基础数据
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_02_01.jpg)
