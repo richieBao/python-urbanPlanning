@@ -28,5 +28,39 @@ bgs: [0.7158024691358025, 0.7158024691358025, 0.7184627170582227, 0.631228087501
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_05.png)
 
+## 城市隔离模式/segregation/analyzing patterns of urban segregation
+* 隔离模型/指数/PySAL segregation module for aspatial indexes 
+```python
+dissimilarity: 0.2514104848644326
+Gini: 0.3431758903870853
+Entropy: 0.0638402221878651
+Atkinson: 0.0979389074656376
+Concentration Profile: 0.1348143466256669
+Isolation: 0.30999981199698434
+Exposure: 0.6900001880030157
+Correlation Ratio: 0.06916324447557028
+Modified Dissimilarity: 0.2197276595293781
+Modified Gini : 0.3022909570381693
+Density-Corrected Dissimilarity: 0.24539833442240042
+Minimum-Maximum Index (MM): 0.4018033857078772
+```
+* 分解/decomposition 基于Shapley分解
+
+1. Composition Approach (default) 
+```python
+G19_gini: 0.3845662699919272
+G15_gini: 0.38466250563878474
+G_19-G_15: -9.623564685751207e-05
+```
+分解为两个分量：空间分量，属性分量/The Spatial component and the attribute component
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_06.png)
+```python
+Shapley's Spatial Component of the decomposition: 0.019061416254844782
+Shapley's Attribute Component of the decomposition: -0.019157651901702294
+```
+可视化分量累积量/visualize the cumulative distribution functions of the compositions/shares
+|Spatial Component|>|Attribute Component|
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_07.png)
+'maps' : visualize the spatial distributions for original data and counterfactuals generated and Shapley's components (only available for GeoDataFrames)
 
 
