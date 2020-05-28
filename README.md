@@ -206,8 +206,13 @@
     5. 肯德尔等级相关系数/kendalls tao
 46. Chicago_16_时空数据_03_全局-局部空间自相关分析
     1. 全局/局部空间自相关 Global/Local Spatial Autocorrelation
-    2. 聚类（分析区域）内及间观测值特征相似性/Silhouette statistics-组间|内相似度/Path Silhouettes/组缘相似度/Boundary Silhouettes
+    2. 城市隔离模式/segregation/analyzing patterns of urban segregation
     3. 网络结构/Geographical Structure
+47. Chicago_17_时空数据_04_不平等性与隔离
+    1. 空间分布的不平等性/inequality/Methods for measuring spatial inequality | Gini
+    2. 聚类（分析区域）内及间观测值特征相似性/Silhouette statistics-组间|内相似度/Path Silhouettes/组缘相似度/Boundary Silhouettes
+    3. decomposition 基于Shapley分解  
+    4. 城市空间因素影响
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
