@@ -3,6 +3,7 @@
 Created on Tue May 26 21:07:04 2020
 
 @author: :Richie Bao-caDesign设计(cadesign.cn).Chicago
+ref:http://pysal.org/notebooks/explore/segregation/intro.html
 """
 import os,shapely,inequality,segregation
 import pandas as pd
