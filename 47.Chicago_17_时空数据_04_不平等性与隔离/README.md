@@ -98,10 +98,46 @@ compare_D_fit.p_value: 0.986
 
 
 * 相对集中隔离指数/Relative Concentration (RCO) segregation index
-### 04-推断统计显著性实现/inferencewrappers use cases
+### 04-隔离局部方法/Local Measures of segregation
+1. 基础数据处理
+```python
+                    'Community Area':'社区', 
+                    'Community Area Name':'社区名',
+                    'Birth Rate':'出生率',
+                    'General Fertility Rate':'一般生育率',
+                    'Low Birth Weight':'低出生体重',
+                    'Prenatal Care Beginning in First Trimester':'产前3个月护理', 
+                    'Preterm Births':'早产',
+                    'Teen Birth Rate':'青少年生育率',
+                    'Assault (Homicide)':'攻击（杀人）',
+                    'Breast cancer in females':'女性乳腺癌',
+                    'Cancer (All Sites)':'癌症', 
+                    'Colorectal Cancer':'结肠直肠癌',
+                    'Diabetes-related':'糖尿病相关',
+                    'Firearm-related':'枪支相关',
+                    'Infant Mortality Rate':'婴儿死亡率', 
+                    'Lung Cancer':'肺癌',
+                    'Prostate Cancer in Males':'男性前列腺癌',
+                    'Stroke (Cerebrovascular Disease)':'中风(脑血管疾病)',
+                    'Childhood Blood Lead Level Screening':'儿童血铅水平检查',
+                    'Childhood Lead Poisoning':'儿童铅中毒',
+                    'Gonorrhea in Females':'女性淋病', 
+                    'Gonorrhea in Males':'男性淋病', 
+                    'Tuberculosis':'肺结核',
+                    'Below Poverty Level':'贫困水平以下', 
+                    'Crowded Housing':'拥挤的住房', 
+                    'Dependency':'依赖',
+                    'No High School Diploma':'没有高中文凭', 
+                    'Per Capita Income':'人均收入',
+                    'Unemployment':'失业',
+```
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_14_15_16.jpg)
-
-
-
+> 分析要素组成比例
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_17_18.jpg)
+2. 测量指数
+空间分布相对集中程度
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_18.jpg)
+区位多样性/Local Diversity | 区位熵/Local Entropy | Local Simpson Interaction | 区位辛普森集中度/Local Simpson Concentration  | 区位集中度/Local Centralization
 
 
