@@ -9,3 +9,8 @@
 亦给出了基于Shapley分解不均衡变化值为两个分量，其一为空间分量，通常挂钩于w空间权重；其二为属性分量，即所分析的数据，本次为感染案例的两个时间点数据。
 为确定分析的可靠性，推断统计显著性。同时，以Chicago疾病分布数据为例，探索多组空间隔离指标，以及除了空间区域权重，加入反映人人之间接触容易程度
 的路网因素。
+
+## 空间分布的不平等性/inequality/Methods for measuring spatial inequality.
+> Gini度量不均衡指标
+* 基础数据
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_02_01.jpg)
