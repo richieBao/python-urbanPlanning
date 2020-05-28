@@ -29,7 +29,7 @@ bgs: [0.7158024691358025, 0.7158024691358025, 0.7184627170582227, 0.631228087501
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_05.png)
 
 ## 城市隔离模式/segregation/analyzing patterns of urban segregation
-### 隔离模型/指数/PySAL segregation module for aspatial indexes 
+### 01-隔离模型/指数/PySAL segregation module for aspatial indexes 
 ```python
 dissimilarity: 0.2514104848644326
 Gini: 0.3431758903870853
@@ -44,7 +44,7 @@ Modified Gini : 0.3022909570381693
 Density-Corrected Dissimilarity: 0.24539833442240042
 Minimum-Maximum Index (MM): 0.4018033857078772
 ```
-### 分解/decomposition 基于Shapley分解
+### 02-分解/decomposition 基于Shapley分解
 
 1. Composition Approach (default) 
 ```python
@@ -65,3 +65,30 @@ Shapley's Attribute Component of the decomposition: -0.019157651901702294
 
 2. Share Approach
 The share approach takes into consideration the share of each group in each city
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_08_09.jpg)
+
+3. Dual Composition Approach 
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_10_11.jpg)
+
+4. Inspecting a different index: Relative Concentration
+```python
+RCO_19.statistic - RCO_15.statistic -0.5248753285836719
+RCO_DS_composition.c_s: -0.5613371055626936
+RCO_DS_composition.c_a: 0.03646177697902156
+```
+
+### 03-推断统计显著性实现/inferencewrappers use cases
+1. 单值测试/SingleValueTest：
+* 以差异性为例/Dissimilarity case
+```python
+dissimilarity: 0.2853070962596731
+infer_D_eve.est_sim.mean: 0.052974912348536435
+infer_D_eve.p_value: 0.0
+```
+null_approach = "evenness" 拒绝原假设，即区域间存在差异性  | null_approach = "systematic"
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_12._13jpg.jpg)
+
+
+
+
+
