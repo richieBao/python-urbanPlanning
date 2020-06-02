@@ -15,13 +15,13 @@
 
 ### 2-landmarks分布方向的影响
 
-### 3-
+### 3-观察样方大小与
 
 ### 4-评估值的划分途径
 
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxOD
-g0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbLTE1MTY2NTcxNDAsMTk4MzM5MTMyNSwtMT
+Q1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
 -->
