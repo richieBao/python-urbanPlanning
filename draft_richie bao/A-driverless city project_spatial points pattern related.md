@@ -10,7 +10,8 @@
 
 ## A-数据
 分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。可以进一步划分为，原始测量数据，基于原始数据调整规划布局后的数据，重新规划后的数据。
-此次实验数据包含两组，一组为原始模拟数据；一组为西
+此次实验数据包含两组，一组为原始模拟数据；一组为新规划模拟数据。
+
 ## B-关于相关性
 
 
@@ -27,7 +28,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTg3MjIzNCw1NzEwOTU4MjksMTk4Mz
+eyJoaXN0b3J5IjpbLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4Mz
 M5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2
 MF19
 -->
