@@ -293,6 +293,8 @@
 ```
 计算结果中相关系数比较低，一是所选择的自变量与PHMI的相关性极弱，可以继续尝试反映空间模式的新指数；二是所选择数据
 不能涵盖所有情况或数据量偏低，可以丰富数据模拟类型，以及增加数据量。
+
+虽然相关系数比较低，但是通过对某一类型自变量相关系数的比较分析，可以得出有价值的一些结论，或者得出时间序列下空间点模式的特征，用于指导提升导航评估值的规划方式。
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -305,11 +307,11 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNz
-c5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAx
-ODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3ND
-IwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3
-NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5Mz
-AsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1
-ODg3MTMxMF19
+eyJoaXN0b3J5IjpbLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMT
+Y1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjEx
+Mzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMT
+I5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEz
+NDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0OD
+E4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4
+MzM5MTMyNV19
 -->
