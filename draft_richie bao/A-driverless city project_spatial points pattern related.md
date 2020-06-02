@@ -314,7 +314,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 <em>图7 含距离值（左）/有无landmarks（中）/空间点变化（右）与PHMI的相关系数  /Fig 7 </em>
 </p>
 
-激光雷达在每个位置点旋转扫描，提取的特征点位于各个方向上，因此尝试在每个位置点划分36个方向区域（数量大小在进一步分析中可以为连续数量切分，），分析
+激光雷达在每个位置点旋转扫描，提取的特征点位于各个方向上，因此尝试在每个位置点划分36个方向区域（数量大小在进一步分析中可以为连续数量切分，例如4份，8份...72份），分析landmarks位置对PHMI值的影响。同时应用三种数据类型，一是含距离值
 
 
 
@@ -327,11 +327,11 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODE2NDcyLC0xMzQ0MDgzMDE1LDM1MT
-kyMjU4MywxNjM5ODgzNjg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4
-MSwtNzY0OTMxNDY5LC0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNj
-kxODI5MDIwLC0xNDI2MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0
-NDg1MzMyLC0xMTM3NzIxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MT
-czLC0yNzU0MjI0NzQsMTM0NTkxOTAyNyw1Njc3MDU5MCwzMzA1
-NzE0ODVdfQ==
+eyJoaXN0b3J5IjpbLTUyNDkxNTk3MCwtMTM0NDA4MzAxNSwzNT
+E5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0
+ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLD
+Y5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQw
+NDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNj
+E3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMw
+NTcxNDg1XX0=
 -->
