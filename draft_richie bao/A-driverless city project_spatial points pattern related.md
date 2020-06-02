@@ -48,7 +48,7 @@
 	2.  location x与y坐标
 	3. landmarks与location之间的距离：平均距离，最小和最大距离
 	4. 以location为圆心划分36个方向：包含landmarks，不含landmarks，包含与否的边界
-	5. 
+	5. landmarks密度（intensity）：
 
 
 ## C-问题
@@ -64,9 +64,9 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjQ1OTk2Nyw1MjYxMDYxNzMsLTI3NT
-QyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwt
-MTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMD
-k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
-NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbNTI1MDQ0NDM0LDUyNjEwNjE3MywtMjc1ND
+IyNDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0x
+NzA5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOT
+U4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0
+LDMxMTI0MDU2MF19
 -->
