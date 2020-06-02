@@ -364,7 +364,33 @@ Out[81]:
 每一方向以最近点距离占位，如果没有landmark则配置值为9999.
 
 * 二是有无landmarks，数据示例：
+``` python
+distance_eachDirection_isOrNone.head()
+Out[83]: 
+   0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  \
+0  1  0  1  0  1  0  0  1  1  0   0   0   1   1   1   1   1   1   1   1   1   
+1  1  0  0  0  1  0  0  1  1  0   0   0   1   1   1   1   1   1   1   1   1   
+2  1  0  0  0  1  0  0  1  1  0   0   0   1   1   1   1   1   1   1   1   1   
+3  1  0  0  0  1  0  0  1  1  0   0   0   1   1   1   1   1   1   1   1   1   
+4  1  0  0  0  1  0  0  1  1  0   0   0   1   1   1   1   1   1   1   1   1   
 
+   21  22  23  24  25  26  27  28  29  30  31  32  33  34  35      PHMI  \
+0   0   0   0   0   1   1   0   0   0   1   0   0   1   1   0  1.000000   
+1   0   0   0   0   1   1   0   0   0   1   0   0   1   1   0  1.000000   
+2   0   0   0   0   1   1   0   0   0   1   0   0   1   1   0  0.004501   
+3   0   0   0   0   1   1   0   0   0   1   0   0   1   1   0  0.033961   
+4   0   0   0   0   1   1   0   0   0   1   0   0   1   1   0  0.075248   
+
+      loc_x  
+0  0.000000  
+1 -0.002472  
+2  0.013612  
+3  0.024895  
+4  0.054708  
+```
+如果存在landmark则配置值为0，如果不含landmarkze 配置值为1.
+
+* 三是有无landmarks，数据示例：
 
 
 
@@ -376,7 +402,7 @@ Out[81]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODU0MDQ1NCwtMTM0NDA4MzAxNSwzNT
+eyJoaXN0b3J5IjpbMTAzMzQzMTcwNSwtMTM0NDA4MzAxNSwzNT
 E5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0
 ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLD
 Y5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQw
