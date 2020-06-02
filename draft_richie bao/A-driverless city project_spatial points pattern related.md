@@ -311,7 +311,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_07.jpg)
 <p align="center">
-<em>图7 含距离值/有无landmarks/  /Fig 7 </em>
+<em>图7 含距离值/有无landmarks/空间点变化与PHMI的相关系数  /Fig 7 </em>
 </p>
 
 
@@ -326,11 +326,11 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcwMTA2NywzNTE5MjI1ODMsMTYzOT
-g4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2
-OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMT
-QyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEz
-NzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyND
-c0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5
-MjI0ODE4XX0=
+eyJoaXN0b3J5IjpbLTE1NTA2Mjk0NjQsMzUxOTIyNTgzLDE2Mz
+k4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0
+NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLT
+E0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTEx
+Mzc3MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMj
+Q3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcw
+OTIyNDgxOF19
 -->
