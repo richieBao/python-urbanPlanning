@@ -475,7 +475,7 @@ if __name__ == "__main__":
     
     #D-change of position
     distance_eachDirection_change_before=distance_eachDirection_isOrNone[list(range(36))].copy()
-    distance_eachDirection_change_after=distance_eachDirection_change_b.shift(periods=-1, fill_value=0)
+    distance_eachDirection_change_after=distance_eachDirection_change_before.shift(periods=-1, fill_value=0)
     distance_eachDirection_change_before=distance_eachDirection_change_before.astype(str) 
     distance_eachDirection_change_after=distance_eachDirection_change_after.astype(str)
     direction_change=distance_eachDirection_change_before+distance_eachDirection_change_after
