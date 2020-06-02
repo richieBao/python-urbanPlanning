@@ -22,7 +22,7 @@
 </p>
 
 ## B-关于相关性
-使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数有三种方法，如下：
+使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数method有三种方法，如下：
 -   pearson : （线性数据）标准相关系数/standard correlation coefficient    
 -   kendall : 等级相关系数/Kendall Tau correlation coefficient    
 -   spearman :等级相关系数/Spearman rank correlation
@@ -43,9 +43,6 @@
 
 
 
-
-
-
 ## C-问题
 
 ### 1-距离是否影响激光雷达导航评估值
@@ -59,7 +56,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTYwNTQxNCwtMjc1NDIyNDc0LDEzND
+eyJoaXN0b3J5IjpbMTkxMzExODI4OSwtMjc1NDIyNDc0LDEzND
 U5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4
 LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4Mz
 M5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2
