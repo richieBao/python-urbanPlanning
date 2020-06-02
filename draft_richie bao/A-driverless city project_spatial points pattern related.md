@@ -36,7 +36,7 @@
 <em>图4 PHMI相关的pearson相关系数  /Fig 4 </em>
 </p>
 
->相关系数值描述： 
+>相关系数值描述： |r|
 
 
 
@@ -53,8 +53,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYxNzUyODcsNTY3NzA1OTAsMzMwNT
-cxNDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1
-NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxOD
-g0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbLTk3OTkzNjAwNSw1Njc3MDU5MCwzMzA1Nz
+E0ODUsLTE3MDkyMjQ4MTgsMTc3MjU1NzkzMCwtOTM5Mzc5MTU1
+LDU3MTA5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcxMzEwLDE4OD
+QzOTAzNjQsMzExMjQwNTYwXX0=
 -->
