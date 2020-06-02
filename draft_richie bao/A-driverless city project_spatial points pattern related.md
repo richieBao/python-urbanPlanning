@@ -38,6 +38,7 @@
 
 >相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|<0.8 中度相关； 0.3=<|r|<0.5 低度相关； |r|<0.3 关系极弱，认为不相关；|r|=0 不相关。
 
+显著性检验：
 
 
 
@@ -56,8 +57,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMjMwOTE3LDEzNDU5MTkwMjcsNTY3Nz
-A1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5MzAs
-LTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1OD
-g3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbMjA1MTk5MDM5MSwxMzQ1OTE5MDI3LDU2Nz
+cwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNzcyNTU3OTMw
+LC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NT
+g4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
 -->
