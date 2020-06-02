@@ -50,13 +50,11 @@
 	5. landmarks密度（intensity）：最小边界范围，凸包
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
 	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
-	8.  与连续距离下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量
+	8.  与连续距离（0-18）下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量
 	9. 离散化方法（可用于进一步预测模型的建立）：基于分位数，基于跳变点，基于pow(10,-5)即评估值的界定值
 
-
-
-
 ## C-问题
+### 0-相关性
 
 ### 1-距离是否影响激光雷达导航评估值
 
@@ -69,7 +67,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjA4ODMyNCwtMTQwNDQ4NTMzMiwtMT
+eyJoaXN0b3J5IjpbMTY1MDQ0NTgwMywtMTQwNDQ4NTMzMiwtMT
 EzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIy
 NDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNz
 A5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4
