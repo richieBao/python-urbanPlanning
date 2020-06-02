@@ -50,7 +50,8 @@
 	5. landmarks密度（intensity）：最小边界范围，凸包
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
 	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
-	8.  与连续距离下样方统计的相关量：反应点模式dchi2
+	8.  与连续距离下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量
+	9. 
 
 
 
@@ -68,7 +69,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYwMDg0NzIsLTExMzc3MjEyOTUsMT
+eyJoaXN0b3J5IjpbLTE0MDQ0ODUzMzIsLTExMzc3MjEyOTUsMT
 UyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5
 MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNz
 cyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEz
