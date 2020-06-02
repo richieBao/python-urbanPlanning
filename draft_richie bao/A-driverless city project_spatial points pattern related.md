@@ -31,6 +31,10 @@
 <em>图3 pearson相关系数  /Fig 3 </em>
 </p>
 
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_04.png)
+<p align="center">
+<em>图4 PHMI相关的pearson相关系数  /Fig 4 </em>
+</p>
 
 
 ## C-问题
@@ -46,7 +50,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MzY2NjUsMzMwNTcxNDg1LC0xNzA5Mj
+eyJoaXN0b3J5IjpbNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5Mj
 I0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4Mjks
 MTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMT
 I0MDU2MF19
