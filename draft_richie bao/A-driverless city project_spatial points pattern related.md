@@ -20,6 +20,7 @@
 <p align="center">
 <em>图2 新规划模拟数据  /Fig 2 </em>
 </p>
+
 ## B-关于相关性
 
 
@@ -36,7 +37,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTEwMjY4LDE3NzI1NTc5MzAsLTkzOT
-M3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMx
-MCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbLTE3MDkyMjQ4MTgsMTc3MjU1NzkzMCwtOT
+M5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcx
+MzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
 -->
