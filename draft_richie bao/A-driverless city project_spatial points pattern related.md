@@ -15,13 +15,13 @@
 
 ### 2-landmarks分布方向的影响
 
-### 3-观察样方大小与
+### 3-观察样方大小与landmarks分布距离对导航评估值的影响
 
 ### 4-评估值的划分途径
 
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY2NTcxNDAsMTk4MzM5MTMyNSwtMT
-Q1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbLTU0ODQzNDQ4NSwxOTgzMzkxMzI1LC0xND
+U4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
 -->
