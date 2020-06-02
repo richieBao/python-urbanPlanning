@@ -300,7 +300,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 
 在landmarks分布方向分析中，去除landmarks与location间的距离影响，其与PHMI的相关系数基本保持不变，可以初步说明距离与PHMI值相关性不明显。
 
-通过上述
+通过上述两个方向的分析，初步确定基于本次实验数据下，距离对于激光雷达评估值的影响不明显，即在规划布局中可以不用考虑te'zheng'dian
 
 ### 2-landmarks分布方向的影响
 
@@ -312,11 +312,11 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NTM1MzYwLDE2Mzk4ODM2ODcsNjY2Mz
-I4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3
-MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLT
-E3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3MjEyOTUsMTUy
-ODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5MD
-I3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNzcy
-NTU3OTMwXX0=
+eyJoaXN0b3J5IjpbLTExMTIwMjIyMTMsMTYzOTg4MzY4Nyw2Nj
+YzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAz
+MjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OC
+wtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwx
+NTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MT
+kwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3
+NzI1NTc5MzBdfQ==
 -->
