@@ -46,11 +46,11 @@
 	1. landmarks点数量	<LM_amount>
 	2.  location x与y坐标 <loc_x,loc_y>
 	3. landmarks与location之间的距离：平均距离，最小和最大距离 <distance_mean,distance_min,distance_max>
-	4. 以location为圆心划分36个方向：包含landmarks，不含landmarks，包含与否的边界 <direction_is, direction_naone>
-	5. landmarks密度（intensity）：最小边界范围，凸包
-	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
-	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
-	8.  与连续距离（0-18）下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量
+	4. 以location为圆心划分36个方向：包含landmarks，不含landmarks，包含与否的边界 <direction_is, direction_none, direction_edge>
+	5. landmarks密度（intensity）：最小边界范围，凸包 <intensity_mbb,intensity_hull>
+	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值 <ndd_max,ndd_min,ndd_mean>
+	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机 <G>
+	8.  与连续距离（0-18）下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量 <qdt_chi2_, >
 	9. 离散化方法（可用于进一步预测模型的建立）：基于分位数，基于跳变点，基于pow(10,-5)即评估值的界定值
 
 ## C-问题
@@ -68,10 +68,10 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDg4MTE5OCwtMTQwNDQ4NTMzMiwtMT
-EzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIy
-NDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNz
-A5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4
-MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LD
-MxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbLTEwODA4NjcyMDgsLTE0MDQ0ODUzMzIsLT
+ExMzc3MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQy
+MjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMT
+cwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1
+ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NC
+wzMTEyNDA1NjBdfQ==
 -->
