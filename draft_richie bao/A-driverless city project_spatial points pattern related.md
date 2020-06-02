@@ -17,7 +17,9 @@
 
 ### 3-
 
+### 4-评估值的分类方式
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY4MTQ4MTIsLTE0NTg4NzEzMTAsMT
-g4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTk2NTY3MzgwMywtMTQ1ODg3MTMxMCwxOD
+g0MzkwMzY0LDMxMTI0MDU2MF19
 -->
