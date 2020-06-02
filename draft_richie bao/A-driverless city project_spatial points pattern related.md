@@ -134,6 +134,8 @@
  'PHMI': (0.999999999999999, 0.0)}
 ```
  pearson相关系数显著性检验中，distance_min，（qdt_chi2_6dis，qdt_chi2_8dis），qdt_num_5dis，（qdt_n/Q_10dis，qdt_n/Q_3dis，qdt_n/Q_6dis，qdt_n/Q_8dis，qdt_n/Q_9dis）p-value大于0.05，不能拒绝原假设，因此放弃对应的相关性分析，其中包括连续距离（0-18）下样方统计的相关量qdt_n/Q_。
+
+
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -145,10 +147,10 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTA1MTA3MiwtMTQyNjExMzc4OCwtMT
-c2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4
-NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMj
-csNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1
-NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNS
-wtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbNjkxODI5MDIwLC0xNDI2MTEzNzg4LC0xNz
+Y3MDE4MjQwLC0xNDA0NDg1MzMyLC0xMTM3NzIxMjk1LDE1Mjg3
+Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQsMTM0NTkxOTAyNy
+w1Njc3MDU5MCwzMzA1NzE0ODUsLTE3MDkyMjQ4MTgsMTc3MjU1
+NzkzMCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1LC
+0xNDU4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
 -->
