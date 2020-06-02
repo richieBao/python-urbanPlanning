@@ -42,7 +42,7 @@
 
 与landmarks空间点模式相关的变量（指数）选择：
 > landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。	
-
+> 
 	1. landmarks点数量	
 	2.  location x与y坐标
 	3. landmarks与location之间的距离：平均距离，最小和最大距离
@@ -51,7 +51,7 @@
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
 	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
 	8.  与连续距离下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量
-	9. 
+	9. 离散化方法（可用于进一步预测模型的建立）：基于分位数，基于
 
 
 
@@ -69,10 +69,10 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ0ODUzMzIsLTExMzc3MjEyOTUsMT
-UyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5
-MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNz
-cyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEz
-MjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ
-==
+eyJoaXN0b3J5IjpbMTU4NzQxOTExNSwtMTQwNDQ4NTMzMiwtMT
+EzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIy
+NDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNz
+A5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4
+MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LD
+MxMTI0MDU2MF19
 -->
