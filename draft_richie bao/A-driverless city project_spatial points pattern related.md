@@ -7,8 +7,7 @@
 当前无人驾驶城市项目的核心内容是探索GPS和车载激光雷达无人驾驶导航问题。无人驾驶的最终目的是应用研究成果于现实世界，服务人们的日常生活，因此需要探索城市布局与无人驾驶之间的博弈关系。一是改善导航技术，减弱城市空间对导航的影响；二是，对导航有影响的区域（例如高容积率，高密度的城市中心），适当布局城市，使得空间格局适应无人驾驶导航需求。
 
 ## A-数据
-分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。
-
+分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。可以进一步划分为，原始
 
 ## B-关于相关性
 
@@ -25,6 +24,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NT
-g4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTg1OTc5OTgxMSw1NzEwOTU4MjksMTk4Mz
+M5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2
+MF19
 -->
