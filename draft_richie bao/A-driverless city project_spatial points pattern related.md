@@ -133,7 +133,7 @@
  'jitter_mean': (0.9600013225494279, 0.0),
  'PHMI': (0.999999999999999, 0.0)}
 ```
-显著性检验中，distance_min，（qdt_chi2_6dis，qdt_chi2_8dis），qdt_num_5dis，（qdt_n/Q_10dis，qdt_n/Q_3dis，qdt_n/Q_6dis，qdt_n/Q_8dis，qdt_n/Q_9dis）p-value大于0.05，不能拒绝原假设，因此放弃对应的相关性分析，
+ pearson显著性检验中，distance_min，（qdt_chi2_6dis，qdt_chi2_8dis），qdt_num_5dis，（qdt_n/Q_10dis，qdt_n/Q_3dis，qdt_n/Q_6dis，qdt_n/Q_8dis，qdt_n/Q_9dis）p-value大于0.05，不能拒绝原假设，因此放弃对应的相关性分析，其中包括连续距离（0-18）下样方统计的相关量qdt_n/Q_。
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -145,7 +145,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzM2MTYzNCwtMTQyNjExMzc4OCwtMT
+eyJoaXN0b3J5IjpbMTM0NjU5NDczNiwtMTQyNjExMzc4OCwtMT
 c2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4
 NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMj
 csNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1
