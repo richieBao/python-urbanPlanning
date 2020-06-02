@@ -133,7 +133,7 @@
  'jitter_mean': (0.9600013225494279, 0.0),
  'PHMI': (0.999999999999999, 0.0)}
 ```
-显著性j
+显著性检验中，
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -145,7 +145,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTUxOTE5MCwtMTQyNjExMzc4OCwtMT
+eyJoaXN0b3J5IjpbLTg4NDQxMDA4NSwtMTQyNjExMzc4OCwtMT
 c2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4
 NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMj
 csNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1
