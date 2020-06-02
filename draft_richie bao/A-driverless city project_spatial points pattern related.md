@@ -36,7 +36,7 @@
 <em>图4 PHMI相关的pearson相关系数  /Fig 4 </em>
 </p>
 
->相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|
+>相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|<0.8 中度相关； 0.3=<|r|<0.5 低度相关； |r|<0.3 关系极弱，认为不相关；|r|=0
 
 
 
@@ -53,8 +53,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MzY3MDM2LDU2NzcwNTkwLDMzMDU3MT
-Q4NSwtMTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUs
-NTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4ND
-M5MDM2NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE0NjkyODI0ODcsNTY3NzA1OTAsMzMwNT
+cxNDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1
+NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxOD
+g0MzkwMzY0LDMxMTI0MDU2MF19
 -->
