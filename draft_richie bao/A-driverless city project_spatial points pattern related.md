@@ -22,10 +22,11 @@
 </p>
 
 ## B-关于相关性
-使用pandas(python库)的# pandas.DataFrame.corr或者scipy库显著性检验：使用scipy.stats计算方法计算相关系数，其中参数有三种方法，如下：
+使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数有三种方法，如下：
 -   pearson : （线性数据）标准相关系数/standard correlation coefficient    
 -   kendall : 等级相关系数/Kendall Tau correlation coefficient    
 -   spearman :等级相关系数/Spearman rank correlation
+或者scipy库scipy.stats.pearsonr计算，返回值1为pearson相关系数，值2为p-value（
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_03S.jpg)
 <p align="center">
 <em>图3 pearson相关系数  /Fig 3 </em>
@@ -57,8 +58,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE0NTc2NzMsMTM0NTkxOTAyNyw1Nj
-c3MDU5MCwzMzA1NzE0ODUsLTE3MDkyMjQ4MTgsMTc3MjU1Nzkz
-MCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1LC0xND
-U4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
+eyJoaXN0b3J5IjpbLTk0ODc2ODAyNSwxMzQ1OTE5MDI3LDU2Nz
+cwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNzcyNTU3OTMw
+LC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NT
+g4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
 -->
