@@ -6,6 +6,13 @@
 ## 
 
 
+## 数据
+
+
+
+## 关于型惯性
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzI5MTU3OTgsMTg4NDM5MDM2NCwzMT
+EyNDA1NjBdfQ==
 -->
