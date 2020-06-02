@@ -22,7 +22,7 @@
 </p>
 
 ## B-关于相关性
-
+使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中
 
 ## C-问题
 
@@ -37,7 +37,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkyMjQ4MTgsMTc3MjU1NzkzMCwtOT
-M5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcx
-MzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
+eyJoaXN0b3J5IjpbMTkwNzcyNDMwMCwtMTcwOTIyNDgxOCwxNz
+cyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEz
+MjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ
+==
 -->
