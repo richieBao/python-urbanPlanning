@@ -41,7 +41,9 @@
 >相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|<0.8 中度相关； 0.3=<|r|<0.5 低度相关； |r|<0.3 关系极弱，认为不相关；|r|=0 不相关。
 
 与landmarks空间点模式相关的变量（指数）选择：
-
+基础变量：
+	1. landmarks点数量
+	2.  
 
 
 ## C-问题
@@ -57,9 +59,9 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MTA2MTczLC0yNzU0MjI0NzQsMTM0NT
-kxOTAyNyw1Njc3MDU5MCwzMzA1NzE0ODUsLTE3MDkyMjQ4MTgs
-MTc3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMz
-kxMzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYw
-XX0=
+eyJoaXN0b3J5IjpbLTIwNjc3MDUwMjgsNTI2MTA2MTczLC0yNz
+U0MjI0NzQsMTM0NTkxOTAyNyw1Njc3MDU5MCwzMzA1NzE0ODUs
+LTE3MDkyMjQ4MTgsMTc3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MT
+A5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAz
+NjQsMzExMjQwNTYwXX0=
 -->
