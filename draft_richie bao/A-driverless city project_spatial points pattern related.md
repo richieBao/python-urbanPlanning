@@ -213,7 +213,84 @@
  'jitter_mean': KendalltauResult(correlation=0.9999999999999999, pvalue=0.0),
  'PHMI': KendalltauResult(correlation=0.7738124836302662, pvalue=0.0)}
 ```
-* 
+* corr_kendall_phmiPercentile
+```python
+{'LM_amount': KendalltauResult(correlation=0.08961546276798454, pvalue=2.223047713516011e-15),
+ 'loc_x': KendalltauResult(correlation=0.1876276969165557, pvalue=9.803649669663785e-70),
+ 'loc_y': KendalltauResult(correlation=-0.18641850360590406, pvalue=7.302761802157774e-69),
+ 'distance_mean': KendalltauResult(correlation=0.10095425066773046, pvalue=2.1212347260433728e-21),
+ 'distance_min': KendalltauResult(correlation=0.0048559946198022605, pvalue=0.6477386543010681),
+ 'distance_max': KendalltauResult(correlation=0.05187769767832519, pvalue=1.054260175019762e-06),
+ 'direction_is': KendalltauResult(correlation=0.08094245073176216, pvalue=1.0912271345221358e-12),
+ 'direction_none': KendalltauResult(correlation=-0.08094245073176216, pvalue=1.0912271345221358e-12),
+ 'direction_edge': KendalltauResult(correlation=0.05105446729636025, pvalue=6.622757030430316e-05),
+ 'intensity_mbb': KendalltauResult(correlation=-0.12496438468773123, pvalue=7.744049700875297e-32),
+ 'intensity_hull': KendalltauResult(correlation=-0.11707354743052766, pvalue=3.788487054735656e-28),
+ 'nnd_max': KendalltauResult(correlation=0.11154311342417249, pvalue=5.031023580458995e-25),
+ 'nnd_min': KendalltauResult(correlation=-0.14599017231622016, pvalue=1.4214571356887376e-40),
+ 'nnd_mean': KendalltauResult(correlation=-0.027841862799819643, pvalue=0.008894629915481485),
+ 'nnd2_mean': KendalltauResult(correlation=0.09760673146326482, pvalue=4.7629134074104553e-20),
+ 'G': KendalltauResult(correlation=0.12999595248808604, pvalue=3.7415612024370314e-30),
+ 'chi2_10': KendalltauResult(correlation=-0.11937988988004337, pvalue=8.096393407786574e-28),
+ 'chi2_10_pval': KendalltauResult(correlation=0.1060422496363851, pvalue=2.2258889843361202e-23),
+ 'qdt_chi2_10dis': KendalltauResult(correlation=-0.04374444048118387, pvalue=4.740523271978433e-05),
+ 'qdt_chi2_11dis': KendalltauResult(correlation=0.038540932155002594, pvalue=0.0003602598487254125),
+ 'qdt_chi2_12dis': KendalltauResult(correlation=0.18899057646902404, pvalue=1.0066544615986812e-67),
+ 'qdt_chi2_13dis': KendalltauResult(correlation=0.16128591737817127, pvalue=1.3391173016119451e-48),
+ 'qdt_chi2_14dis': KendalltauResult(correlation=0.1795108477679639, pvalue=3.395523066865452e-61),
+ 'qdt_chi2_15dis': KendalltauResult(correlation=0.14252406390139033, pvalue=9.039838553276616e-39),
+ 'qdt_chi2_16dis': KendalltauResult(correlation=0.11271914551101037, pvalue=8.579072140138712e-25),
+ 'qdt_chi2_17dis': KendalltauResult(correlation=0.13541164304221515, pvalue=1.8541670745709252e-34),
+ 'qdt_chi2_18dis': KendalltauResult(correlation=0.09022658830135098, pvalue=1.7527875301316066e-16),
+ 'qdt_chi2_19dis': KendalltauResult(correlation=0.06871669299568499, pvalue=3.739694683719628e-10),
+ 'qdt_chi2_2dis': KendalltauResult(correlation=0.18168277183165535, pvalue=1.5906922852940667e-61),
+ 'qdt_chi2_3dis': KendalltauResult(correlation=-0.12883220200070897, pvalue=1.8796442405085248e-32),
+ 'qdt_chi2_4dis': KendalltauResult(correlation=0.11862590996562515, pvalue=1.4402334536172776e-27),
+ 'qdt_chi2_5dis': KendalltauResult(correlation=0.16769553345005014, pvalue=4.60206017932778e-55),
+ 'qdt_chi2_6dis': KendalltauResult(correlation=0.007176170776773096, pvalue=0.5087940783441287),
+ 'qdt_chi2_7dis': KendalltauResult(correlation=-0.08453338337522931, pvalue=3.4463888527478023e-15),
+ 'qdt_chi2_8dis': KendalltauResult(correlation=-0.060962484853064276, pvalue=1.4182853127371603e-08),
+ 'qdt_chi2_9dis': KendalltauResult(correlation=-0.05550579145369161, pvalue=2.6179619199753596e-07),
+ 'qdt_num_10dis': KendalltauResult(correlation=0.10927997930704673, pvalue=3.20919962014549e-22),
+ 'qdt_num_11dis': KendalltauResult(correlation=0.07925356257491366, pvalue=2.5819472932465053e-12),
+ 'qdt_num_12dis': KendalltauResult(correlation=0.02596550406938023, pvalue=0.021955415499862668),
+ 'qdt_num_13dis': KendalltauResult(correlation=0.06112669325549831, pvalue=7.209224248563611e-08),
+ 'qdt_num_14dis': KendalltauResult(correlation=0.06711044875789476, pvalue=3.253603703458507e-09),
+ 'qdt_num_15dis': KendalltauResult(correlation=0.06620925261871313, pvalue=5.17883454828841e-09),
+ 'qdt_num_16dis': KendalltauResult(correlation=0.07820562728528012, pvalue=4.552377470127661e-12),
+ 'qdt_num_17dis': KendalltauResult(correlation=0.07245768980044065, pvalue=1.6269714264584118e-10),
+ 'qdt_num_18dis': KendalltauResult(correlation=0.07952653495322036, pvalue=2.0507256035132146e-12),
+ 'qdt_num_19dis': KendalltauResult(correlation=0.0813286658112664, pvalue=6.28186143492422e-13),
+ 'qdt_num_2dis': KendalltauResult(correlation=nan, pvalue=nan),
+ 'qdt_num_3dis': KendalltauResult(correlation=0.15514165846542866, pvalue=8.487300223920043e-36),
+ 'qdt_num_4dis': KendalltauResult(correlation=0.06926706941834453, pvalue=1.1534918915387463e-08),
+ 'qdt_num_5dis': KendalltauResult(correlation=0.0045028658957819885, pvalue=0.6982110032839934),
+ 'qdt_num_6dis': KendalltauResult(correlation=0.079820654674057, pvalue=1.8762986708407602e-12),
+ 'qdt_num_7dis': KendalltauResult(correlation=0.14464336009551293, pvalue=1.43202394595863e-37),
+ 'qdt_num_8dis': KendalltauResult(correlation=0.10516993944519157, pvalue=6.281214468489417e-21),
+ 'qdt_num_9dis': KendalltauResult(correlation=0.10773187540913474, pvalue=9.094175931824968e-22),
+ 'qdt_n/Q_10dis': KendalltauResult(correlation=-0.013589573131979641, pvalue=0.22164120398341147),
+ 'qdt_n/Q_11dis': KendalltauResult(correlation=0.06375164190787723, pvalue=6.477211445396178e-09),
+ 'qdt_n/Q_12dis': KendalltauResult(correlation=0.13123527321467277, pvalue=8.49899400041638e-33),
+ 'qdt_n/Q_13dis': KendalltauResult(correlation=0.07947719408840288, pvalue=8.124499417046193e-13),
+ 'qdt_n/Q_14dis': KendalltauResult(correlation=0.07669430217857677, pvalue=5.3398658255254135e-12),
+ 'qdt_n/Q_15dis': KendalltauResult(correlation=0.09563992027806814, pvalue=9.28658060455712e-18),
+ 'qdt_n/Q_16dis': KendalltauResult(correlation=0.07961891067613498, pvalue=8.94204411775824e-13),
+ 'qdt_n/Q_17dis': KendalltauResult(correlation=0.09542183467510656, pvalue=1.2892174054725692e-17),
+ 'qdt_n/Q_18dis': KendalltauResult(correlation=0.09196053313497345, pvalue=1.9480689792257866e-16),
+ 'qdt_n/Q_19dis': KendalltauResult(correlation=0.0791909175613904, pvalue=1.5418501668246077e-12),
+ 'qdt_n/Q_2dis': KendalltauResult(correlation=0.08961546276798454, pvalue=2.223047713516011e-15),
+ 'qdt_n/Q_3dis': KendalltauResult(correlation=-0.027668697474119493, pvalue=0.012609763624936043),
+ 'qdt_n/Q_4dis': KendalltauResult(correlation=0.08356657336430603, pvalue=5.6397536882338285e-14),
+ 'qdt_n/Q_5dis': KendalltauResult(correlation=0.12138935244230212, pvalue=7.882768496012775e-29),
+ 'qdt_n/Q_6dis': KendalltauResult(correlation=0.010476672011104837, pvalue=0.33899306464773993),
+ 'qdt_n/Q_7dis': KendalltauResult(correlation=-0.04925688095983496, pvalue=5.73348123568502e-06),
+ 'qdt_n/Q_8dis': KendalltauResult(correlation=-0.03582773322813216, pvalue=0.0010885648912275564),
+ 'qdt_n/Q_9dis': KendalltauResult(correlation=-0.019265429328328997, pvalue=0.08463728424443277),
+ 'PHMI_percentile': KendalltauResult(correlation=1.0, pvalue=0.0),
+ 'jitter_mean': KendalltauResult(correlation=0.7807271070109543, pvalue=0.0),
+ 'PHMI': KendalltauResult(correlation=0.9530007857079026, pvalue=0.0)}
+```
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -225,11 +302,11 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODgzOTg2LDY5MTgyOTAyMCwtMTQyNj
-ExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcy
-MTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LD
-EzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0
-ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4MjksMT
-k4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0
-MDU2MF19
+eyJoaXN0b3J5IjpbLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0Mj
+YxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3
+MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NC
+wxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIy
+NDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LD
+E5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEy
+NDA1NjBdfQ==
 -->
