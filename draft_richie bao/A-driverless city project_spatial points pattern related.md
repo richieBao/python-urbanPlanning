@@ -291,7 +291,8 @@
  'jitter_mean': KendalltauResult(correlation=0.7807271070109543, pvalue=0.0),
  'PHMI': KendalltauResult(correlation=0.9530007857079026, pvalue=0.0)}
 ```
-计算结果中相关系数比较低，关系极弱，可能存在
+计算结果中相关系数比较低，一是所选择的自变量与PHMI的相关性极弱，可以继续尝试反映空间模式的新指数；二是所选择数据
+不能涵盖所有情况或数据量偏低，可以丰富数据模拟类型，以及增加数据量。
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
@@ -304,11 +305,11 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OT
-E4MjkwMjAsLTE0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0
-ODUzMzIsLTExMzc3MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNz
-MsLTI3NTQyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3
-MTQ4NSwtMTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNT
-UsNTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4
-NDM5MDM2NF19
+eyJoaXN0b3J5IjpbLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNz
+c5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAx
+ODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3ND
+IwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3
+NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5Mz
+AsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1
+ODg3MTMxMF19
 -->
