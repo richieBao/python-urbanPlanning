@@ -305,7 +305,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 ### 2-landmarks分布方向的影响
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_0506.jpg)
 <p align="center">
-<em>图4 原始模拟数据  /Fig 4 </em>
+<em>图4 原始模拟数据  /Fig 4 </em><em>图4 原始模拟数据  /Fig 4 </em>
 </p>
 
 
@@ -320,7 +320,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM2MzU2NjgsMzUxOTIyNTgzLDE2Mz
+eyJoaXN0b3J5IjpbLTE4MTIyMjgyNDgsMzUxOTIyNTgzLDE2Mz
 k4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0
 NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLT
 E0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTEx
