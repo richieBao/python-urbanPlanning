@@ -47,7 +47,7 @@
 	1. landmarks点数量
 	2.  location x与y坐标
 	3. landmarks与location之间的距离：平均距离，最小和最大距离
-	4. landmarksxiang'dui
+	4. 以location为圆心划分36个方向：包含landmarks，不含landmarks，包含与否的边界
 
 
 ## C-问题
@@ -63,7 +63,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTU5ODkyMCw1MjYxMDYxNzMsLTI3NT
+eyJoaXN0b3J5IjpbLTc4ODc0OTAwMCw1MjYxMDYxNzMsLTI3NT
 QyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwt
 MTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMD
 k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
