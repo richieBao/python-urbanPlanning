@@ -41,10 +41,8 @@
 >相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|<0.8 中度相关； 0.3=<|r|<0.5 低度相关； |r|<0.3 关系极弱，认为不相关；|r|=0 不相关。
 
 与landmarks空间点模式相关的变量（指数）选择：
-> landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。
+> landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。	
 
-基础变量：
-	
 	1. landmarks点数量	
 	2.  location x与y坐标
 	3. landmarks与location之间的距离：平均距离，最小和最大距离
@@ -52,6 +50,9 @@
 	5. landmarks密度（intensity）：最小边界范围，凸包
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
 	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
+	8.  
+
+
 
 
 ## C-问题
@@ -67,7 +68,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNzg3MjY3LC0xMTM3NzIxMjk1LDE1Mj
+eyJoaXN0b3J5IjpbNTQwOTAwNzA2LC0xMTM3NzIxMjk1LDE1Mj
 g3Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQsMTM0NTkxOTAy
 Nyw1Njc3MDU5MCwzMzA1NzE0ODUsLTE3MDkyMjQ4MTgsMTc3Mj
 U1NzkzMCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1
