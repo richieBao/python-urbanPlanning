@@ -315,7 +315,7 @@ PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525
 </p>
 
 激光雷达在每个位置点旋转扫描，提取的特征点位于各个方向上，因此尝试在每个位置点划分36个方向区域（数量大小在进一步分析中可以为连续数量切分，例如4份，8份...72份），分析landmarks位置对PHMI值的影响。同时应用三种数据类型：
-一是含距离值，数据示例：
+* 一是含距离值，数据示例：
 ```python
 distance_eachDirection_df.head()
 Out[81]: 
@@ -361,7 +361,10 @@ Out[81]:
 3                5     0.059328  
 4                6     0.059328  
 ```
-每一方向以最近点距离占位，如果没有landmark则配置值
+每一方向以最近点距离占位，如果没有landmark则配置值为9999.
+
+* 二是有无landmarks，数据示例：
+
 
 
 
@@ -373,7 +376,7 @@ Out[81]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODY5NjA0MiwtMTM0NDA4MzAxNSwzNT
+eyJoaXN0b3J5IjpbMTMyODU0MDQ1NCwtMTM0NDA4MzAxNSwzNT
 E5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0
 ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLD
 Y5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQw
