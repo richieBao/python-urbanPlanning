@@ -50,7 +50,7 @@
 	4. 以location为圆心划分36个方向：包含landmarks，不含landmarks，包含与否的边界
 	5. landmarks密度（intensity）：最小边界范围，凸包
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
-	7. 反应点模式为随机、均匀或者聚集的G函数值
+	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
 
 
 ## C-问题
@@ -66,9 +66,9 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NT
-QyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwt
-MTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMD
-k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
-NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTExMzc3MjEyOTUsMTUyODcyNzQyMCw1Mj
+YxMDYxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkw
+LDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05Mz
+kzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEz
+MTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ==
 -->
