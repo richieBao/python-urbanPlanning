@@ -41,7 +41,7 @@
 >相关系数值描述： |r|>0.95 存在显著性相关；|r|>=0.8 高度相关；0.5=<|r|<0.8 中度相关； 0.3=<|r|<0.5 低度相关； |r|<0.3 关系极弱，认为不相关；|r|=0 不相关。
 
 与landmarks空间点模式相关的变量（指数）选择：
-> landmarks为激光雷达拾取的环境特征点；location为无人车位置
+> landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。
 基础变量：
 	1. landmark点数量
 	2.  location x与y坐标
@@ -61,7 +61,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODE2MjQ0Niw1MjYxMDYxNzMsLTI3NT
+eyJoaXN0b3J5IjpbMTI4NzcwNTYyNyw1MjYxMDYxNzMsLTI3NT
 QyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwt
 MTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMD
 k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
