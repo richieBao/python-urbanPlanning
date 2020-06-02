@@ -50,7 +50,7 @@
 	5. landmarks密度（intensity）：最小边界范围，凸包
 	6. landmarks最近邻：最大值，最小值，均值以及最近邻为2个点的均值
 	7. 反应点模式为随机、均匀或者聚集的G函数值，其大于期望值（expectation）趋于聚集，小于则趋于均匀，等于则趋于随机
-	8.  
+	8.  与连续距离下样方统计的相关量：反应点模式dchi2
 
 
 
@@ -68,9 +68,10 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwOTAwNzA2LC0xMTM3NzIxMjk1LDE1Mj
-g3Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQsMTM0NTkxOTAy
-Nyw1Njc3MDU5MCwzMzA1NzE0ODUsLTE3MDkyMjQ4MTgsMTc3Mj
-U1NzkzMCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkxMzI1
-LC0xNDU4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX0=
+eyJoaXN0b3J5IjpbLTIwOTYwMDg0NzIsLTExMzc3MjEyOTUsMT
+UyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5
+MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgxOCwxNz
+cyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEz
+MjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ
+==
 -->
