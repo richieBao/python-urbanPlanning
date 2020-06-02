@@ -17,7 +17,7 @@
 </p>
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_02.png)
 <p align="center">
-<em>图2   /Fig 2 </em>
+<em>图2 新规划模拟数据  /Fig 2 </em>
 </p>
 ## B-关于相关性
 
@@ -35,7 +35,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTkxMjIwLC05MzkzNzkxNTUsNTcxMD
-k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
-NCwzMTEyNDA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTc3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MT
+A5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAz
+NjQsMzExMjQwNTYwXX0=
 -->
