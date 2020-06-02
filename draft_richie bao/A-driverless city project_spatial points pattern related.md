@@ -291,22 +291,24 @@
  'jitter_mean': KendalltauResult(correlation=0.7807271070109543, pvalue=0.0),
  'PHMI': KendalltauResult(correlation=0.9530007857079026, pvalue=0.0)}
 ```
+计算结果中相关系数比较低，
 ### 1-距离是否影响激光雷达导航评估值
 
 ### 2-landmarks分布方向的影响
 
-### 3-观察样方大小与landmarks分布距离对导航评估值的影响
+### 3-观察样方大小与landmarks分布距离
+对导航评估值的影响
 
 ### 4-评估值的划分途径
 
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0Mj
-YxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3
-MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NC
-wxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIy
-NDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LD
-E5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEy
-NDA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTMyODY4MSwtNzc5MDk0OTgwLDY5MT
+gyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4
+NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3My
+wtMjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcx
+NDg1LC0xNzA5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NS
+w1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMxMCwxODg0
+MzkwMzY0XX0=
 -->
