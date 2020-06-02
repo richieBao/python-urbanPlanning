@@ -15,6 +15,7 @@
 <p align="center">
 <em>图1 原始模拟数据  /Fig 1 </em>
 </p>
+
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_02.png)
 <p align="center">
 <em>图2 新规划模拟数据  /Fig 2 </em>
@@ -35,7 +36,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MT
-A5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAz
-NjQsMzExMjQwNTYwXX0=
+eyJoaXN0b3J5IjpbMTM2OTEwMjY4LDE3NzI1NTc5MzAsLTkzOT
+M3OTE1NSw1NzEwOTU4MjksMTk4MzM5MTMyNSwtMTQ1ODg3MTMx
+MCwxODg0MzkwMzY0LDMxMTI0MDU2MF19
 -->
