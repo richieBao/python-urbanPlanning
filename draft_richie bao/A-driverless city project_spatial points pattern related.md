@@ -17,9 +17,11 @@
 
 ### 3-
 
-### 4-评估值的分类方式
+### 4-评估值的划分途径
+
+## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTY3MzgwMywtMTQ1ODg3MTMxMCwxOD
-g0MzkwMzY0LDMxMTI0MDU2MF19
+eyJoaXN0b3J5IjpbOTYwMzI1NDYsLTE0NTg4NzEzMTAsMTg4ND
+M5MDM2NCwzMTEyNDA1NjBdfQ==
 -->
