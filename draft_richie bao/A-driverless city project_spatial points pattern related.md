@@ -296,7 +296,7 @@
 
 虽然相关系数比较低，但是通过对某一类型自变量相关系数的比较分析，可以得出有价值的一些结论，或者得出时间序列下空间点模式的特征，用于指导提升导航评估值的规划方式。
 ### 1-距离是否影响激光雷达导航评估值
-
+PHMI与相关系数
 ### 2-landmarks分布方向的影响
 
 ### 3-观察样方大小与landmarks分布距离
@@ -307,11 +307,11 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMT
-Y1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjEx
-Mzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMT
-I5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEz
-NDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxNDg1LC0xNzA5MjI0OD
-E4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1NzEwOTU4MjksMTk4
-MzM5MTMyNV19
+eyJoaXN0b3J5IjpbLTEyMzk3ODU3NDMsLTEzNTI3MDc0ODEsLT
+c2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgy
+OTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NT
+MzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3Mywt
+Mjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMwNTcxND
+g1LC0xNzA5MjI0ODE4LDE3NzI1NTc5MzAsLTkzOTM3OTE1NSw1
+NzEwOTU4MjldfQ==
 -->
