@@ -26,7 +26,7 @@
 -   pearson : （线性数据）标准相关系数/standard correlation coefficient    
 -   kendall : 等级相关系数/Kendall Tau correlation coefficient    
 -   spearman :等级相关系数/Spearman rank correlation
-或者scipy库scipy.stats.pearsonr/scipy.stats.kendalltau/# scipy.stats.spearmanr[](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.spearmanr.html#scipy-stats-spearmanr "Permalink to this headline")计算，返回值1为pearson相关系数，值2为p-value（显著性检验）
+或者scipy库scipy.stats.pearsonr/scipy.stats.kendalltau/scipy.stats.spearmanr计算，返回值1为pearson相关系数，值2为p-value（显著性检验）
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_03S.jpg)
 <p align="center">
 <em>图3 pearson相关系数  /Fig 3 </em>
@@ -58,7 +58,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM2NDc3ODMsLTI3NTQyMjQ3NCwxMz
+eyJoaXN0b3J5IjpbLTE0OTMyODg2ODQsLTI3NTQyMjQ3NCwxMz
 Q1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwtMTcwOTIyNDgx
 OCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5OD
 MzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1
