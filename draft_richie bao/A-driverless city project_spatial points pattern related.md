@@ -24,7 +24,7 @@
 ## B-关于相关性
 使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数有三种方法，如下：
 -   pearson : 线性数据/standard correlation coefficient    
--   kendall : 无序序列，非正态分布的数据/Kendall Tau correlation coefficient    
+-   kendall : 无序序列，非正态分布的等级相关系数/Kendall Tau correlation coefficient    
 -   spearman : Spearman rank correlation
 
 
@@ -41,8 +41,8 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkyMzk5NTIsLTE3MDkyMjQ4MTgsMT
-c3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MTA5NTgyOSwxOTgzMzkx
-MzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAzNjQsMzExMjQwNTYwXX
-0=
+eyJoaXN0b3J5IjpbLTg1MDU1MTgwOCwtMTcwOTIyNDgxOCwxNz
+cyNTU3OTMwLC05MzkzNzkxNTUsNTcxMDk1ODI5LDE5ODMzOTEz
+MjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1NjBdfQ
+==
 -->
