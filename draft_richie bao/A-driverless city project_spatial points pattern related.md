@@ -44,9 +44,10 @@
 > landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。
 
 基础变量：
-	1. landmark点数量
+	1. landmarks点数量
 	2.  location x与y坐标
-	3. 
+	3. landmarks与location之间的距离：平均距离，最小和最大距离
+	4. landmarksxiang'dui
 
 
 ## C-问题
@@ -62,9 +63,9 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ2MDMzNDcsNTI2MTA2MTczLC0yNz
-U0MjI0NzQsMTM0NTkxOTAyNyw1Njc3MDU5MCwzMzA1NzE0ODUs
-LTE3MDkyMjQ4MTgsMTc3MjU1NzkzMCwtOTM5Mzc5MTU1LDU3MT
-A5NTgyOSwxOTgzMzkxMzI1LC0xNDU4ODcxMzEwLDE4ODQzOTAz
-NjQsMzExMjQwNTYwXX0=
+eyJoaXN0b3J5IjpbMTU0NTU5ODkyMCw1MjYxMDYxNzMsLTI3NT
+QyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMzMDU3MTQ4NSwt
+MTcwOTIyNDgxOCwxNzcyNTU3OTMwLC05MzkzNzkxNTUsNTcxMD
+k1ODI5LDE5ODMzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2
+NCwzMTEyNDA1NjBdfQ==
 -->
