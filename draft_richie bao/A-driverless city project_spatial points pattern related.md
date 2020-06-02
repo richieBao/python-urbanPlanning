@@ -5,7 +5,8 @@
 > @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
 ### 规划组在无人驾驶城市项目中的工作内容
 当前无人驾驶城市项目的核心内容是探索GPS和车载激光雷达无人驾驶导航问题。无人驾驶的最终目的是应用研究成果于现实世界，服务人们的日常生活，因此需要探索城市布局与无人驾驶之间的博弈关系。一是改善导航技术，减弱城市空间对导航的影响；二是，对导航有影响的区域（例如高容积率，高密度的城市中心），适当布局城市，使得空间格局适应无人驾驶导航需求。
-规划组则更多考虑城市空间布局的影响，尝试发现空间布局与导航评估值之间的关系，从抽象的特征数据到现实世界的模拟来不断发现与you'h空间规划与无人驾驶
+
+规划组则更多考虑城市空间布局的影响，尝试发现空间布局与导航评估值之间的关系，从抽象的特征数据到现实世界的模拟来不断发现与优化空间规划与无人驾驶之间的矛盾。
 
 ## A-数据
 分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。可以进一步划分为，原始测量数据，基于原始数据调整规划布局后的数据，重新规划后的数据。
@@ -26,7 +27,7 @@
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjIxNTI0Nyw1NzEwOTU4MjksMTk4Mz
-M5MTMyNSwtMTQ1ODg3MTMxMCwxODg0MzkwMzY0LDMxMTI0MDU2
-MF19
+eyJoaXN0b3J5IjpbLTE4OTkwOTg2NjUsNTcxMDk1ODI5LDE5OD
+MzOTEzMjUsLTE0NTg4NzEzMTAsMTg4NDM5MDM2NCwzMTEyNDA1
+NjBdfQ==
 -->
