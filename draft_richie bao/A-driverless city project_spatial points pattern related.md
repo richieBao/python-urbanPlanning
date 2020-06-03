@@ -442,7 +442,7 @@ Out[85]:
 <em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
 </p>
 
-空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看（PHMI_nQ因为p-value基本大于0.05，因此放弃，仅参照PHMI_qdtN和PHMI_chi2），当分类数量为10m，即样方大小约为6×6m时，
+空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看（PHMI_nQ因为p-value基本大于0.05，因此放弃，仅参照PHMI_qdtN和PHMI_chi2），当分类数量为10m，即样方大小约为6×6m时，相关系数区域稳定，一定程度上可以推断6m样方下Land
 
 
 
@@ -451,11 +451,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMDcyNzIzLC03NzQyNDQ2NzQsLTE0Mj
-U2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2
-ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLT
-E2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYx
-MTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3Mj
-EyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwx
-MzQ1OTE5MDI3XX0=
+eyJoaXN0b3J5IjpbLTE0NzE1ODU3MzYsLTc3NDI0NDY3NCwtMT
+QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
+MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
+wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
+NjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNz
+cyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0
+LDEzNDU5MTkwMjddfQ==
 -->
