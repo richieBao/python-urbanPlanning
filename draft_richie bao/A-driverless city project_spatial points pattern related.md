@@ -391,8 +391,31 @@ Out[83]:
 如果存在landmark则配置值为0，如果不含landmarkze 配置值为1.
 
 * 三是有无landmarks，数据示例：
+```python
+direction_change.head()
+Out[85]: 
+   0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  \
+0  3  0  2  0  3  0  0  3  3  0   0   0   3   3   3   3   3   3   3   3   3   
+1  3  0  0  0  3  0  0  3  3  0   0   0   3   3   3   3   3   3   3   3   3   
+2  3  0  0  0  3  0  0  3  3  0   0   0   3   3   3   3   3   3   3   3   3   
+3  3  0  0  0  3  0  0  3  3  0   0   0   3   3   3   3   3   3   3   3   3   
+4  3  0  0  0  3  0  0  3  3  0   0   0   3   3   3   3   3   3   3   3   3   
 
+   21  22  23  24  25  26  27  28  29  30  31  32  33  34  35      PHMI  \
+0   0   0   0   0   3   3   0   0   0   3   0   0   3   3   0  1.000000   
+1   0   0   0   0   3   3   0   0   0   3   0   0   3   3   0  1.000000   
+2   0   0   0   0   3   3   0   0   0   3   0   0   3   3   0  0.004501   
+3   0   0   0   0   3   3   0   0   0   3   0   0   3   3   0  0.033961   
+4   0   0   0   0   3   3   0   0   0   3   0   0   3   3   0  0.075248   
 
+      loc_x  
+0  0.000000  
+1 -0.002472  
+2  0.013612  
+3  0.024895  
+4  0.054708  
+```
+在从一个位置点变化到另一个位置点有4中变化情况，有->有，有->无，
 
 ### 3-观察样方大小与landmarks分布距离
 对导航评估值的影响
@@ -402,11 +425,11 @@ Out[83]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzQzMTcwNSwtMTM0NDA4MzAxNSwzNT
-E5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0
-ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLD
-Y5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQw
-NDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNj
-E3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcsNTY3NzA1OTAsMzMw
-NTcxNDg1XX0=
+eyJoaXN0b3J5IjpbMjE2ODUwMDg4LC0xMzQ0MDgzMDE1LDM1MT
+kyMjU4MywxNjM5ODgzNjg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4
+MSwtNzY0OTMxNDY5LC0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNj
+kxODI5MDIwLC0xNDI2MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0
+NDg1MzMyLC0xMTM3NzIxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MT
+czLC0yNzU0MjI0NzQsMTM0NTkxOTAyNyw1Njc3MDU5MCwzMzA1
+NzE0ODVdfQ==
 -->
