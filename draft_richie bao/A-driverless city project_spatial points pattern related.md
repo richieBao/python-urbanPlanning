@@ -463,9 +463,9 @@ Out[85]:
 离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，在同一范围内取均值。比较PHMI连续值及其离散值的相对系数变化曲线，可以观察到三者基本吻合，跳变点切分则更趋于吻合，初步判断在特定的分析中可以使用离散值。
 
 ## D-待分析的基础数据的调整
-为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布
+为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDQxMDcyMywxNDk3MzEzNjAwLC03Nz
+eyJoaXN0b3J5IjpbLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03Nz
 QyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIy
 NTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC
 03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4
