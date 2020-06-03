@@ -438,7 +438,9 @@ Out[83]:
 ```
 如果存在landmark则配置值为0，如果不含landmarkze 配置值为1.
 
-* 三是有无landmarks，数据示例：
+The configuration value is 0 if landmarks are present, and 1 if landmarks are not included.
+
+* 三是landmarks空间分布变化，数据示例： /Third, spatial distribution changes of landmarks and data samples:
 ```python
 direction_change.head()
 Out[85]: 
@@ -513,11 +515,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDIwNjM3MywtMjA4MjEwODAzNywtNj
-EwNDQ4OTI0LDE4ODk4NDYxNjcsLTExNTc5MjEwOCwtMTU1MTQw
-ODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIxNjE0LDc0OTE0OTE0MC
-wtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LDI1NTYx
-NjQ2MywtNTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4Ni
-wtNDk0NDkxNDUxLDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQy
-NTYxODg5M119
+eyJoaXN0b3J5IjpbLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLT
+YxMDQ0ODkyNCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0
+MDgyOTksLTEwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxND
+AsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2
+MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwOD
+YsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0
+MjU2MTg4OTNdfQ==
 -->
