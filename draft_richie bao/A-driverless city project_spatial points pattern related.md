@@ -471,6 +471,8 @@ There are 4 cases where you go from one position to another, is->is(11), is->non
 
 因为本次实验所使用的数据类型相对比较单一，不能涵盖各种空间分布形式，因此相关系数分析结果更多反映的是当前数据实验下landmarks在各个方向上landmarks变化的影响。如果比较各个方向上与PHMI的相关程度，需要建立典型的landmarks空间分布，进而比较得出相关结论。
 
+Because the data types used in this experiment are relatively single, which can not cover various spatial distribution forms, the correlation coefficient analysis results show the influence of landmarks' changes in all directions under the current data experiment. If the degree of correlation with PHMI in all directions is compared, it is necessary to establish the spatial distribution of typical landmarks, and then draw relevant conclusions.
+
 同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，前后1步的landmarks空间分布在各个方向上的变化对相关系数也基本没有影响，初步判断基于1步的landmarks空间分布对PHMI没有影响。
 
 ### 3-观察样方大小与landmarks分布距离
@@ -517,11 +519,11 @@ There are 4 cases where you go from one position to another, is->is(11), is->non
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MzM0NDgyLC0xMTc0NjE0MzkwLC0yMD
-gyMTA4MDM3LC02MTA0NDg5MjQsMTg4OTg0NjE2NywtMTE1Nzky
-MTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2MjE2MT
-QsNzQ5MTQ5MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMCwtMzY2
-MjY4MzcsMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMxMDU5OS
-wtMjAzOTkwMDg2LC00OTQ0OTE0NTEsMTQ5NzMxMzYwMCwtNzc0
-MjQ0Njc0XX0=
+eyJoaXN0b3J5IjpbMTUyNDYzMTk1LDMzNDMzNDQ4MiwtMTE3ND
+YxNDM5MCwtMjA4MjEwODAzNywtNjEwNDQ4OTI0LDE4ODk4NDYx
+NjcsLTExNTc5MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5My
+wtMjE5NjIxNjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUz
+NTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC
+03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTcz
+MTM2MDBdfQ==
 -->
