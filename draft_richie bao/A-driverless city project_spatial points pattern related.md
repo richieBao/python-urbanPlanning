@@ -419,7 +419,7 @@ Out[85]:
 
 因为本次实验所使用的数据类型相对比较单一，不能涵盖各种空间分布形式，因此相关系数分析结果更多反映的是当前数据实验下landmarks在各个方向上landmarks变化的影响。如果比较各个方向上与PHMI的相关程度，需要建立典型的landmarks空间分布，进而比较得出相关结论。
 
-同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，
+同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，前后1步的landmarks空间分布在各个方向上的变化对分析结果也基本没有影响，初步判断基于1步的landmarks空间分布对PHMI
 
 ### 3-观察样方大小与landmarks分布距离
 对导航评估值的影响
@@ -429,11 +429,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMz
-UxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3
-NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MC
-w2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0
-MDQ0ODUzMzIsLTExMzc3MjEyOTUsMTUyODcyNzQyMCw1MjYxMD
-YxNzMsLTI3NTQyMjQ3NCwxMzQ1OTE5MDI3LDU2NzcwNTkwLDMz
-MDU3MTQ4NV19
+eyJoaXN0b3J5IjpbMTQ3MzQzMTM5NywtMTQyNTYxODg5MywtMT
+M0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgw
+MzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNS
+wtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2
+NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4Nz
+I3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcs
+NTY3NzA1OTBdfQ==
 -->
