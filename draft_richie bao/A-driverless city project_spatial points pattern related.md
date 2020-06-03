@@ -345,10 +345,10 @@ In the analysis of landmarks distribution direction, the distance between landma
 
 Through the analysis in the above two directions, it is preliminarily determined that based on the experimental data, the influence on the evaluation value of lidar is not obvious, that is, the distance relationship between feature points and AV can be ignored in the planning layout.
 
-### 2-landmarks分布方向的影响
+### 2-landmarks分布方向的影响 /The influence of the distribution direction of landmarks
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_0506.jpg)
 <p align="center">
-<em>图5 无人车位置点方向划分  /Fig 5 </em>
+<em>图5 无人车位置点方向划分  /Fig 5 Location and direction division of AV</em>
 <em>图6 36个方向与PHMI的pearson相关系数  /Fig6 </em>
 </p>
 
@@ -508,11 +508,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MDQxNzkxLDE4ODk4NDYxNjcsLTExNT
-c5MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIx
-NjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLT
-M2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1
-OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTczMTM2MDAsLT
-c3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5
-MjI1ODNdfQ==
+eyJoaXN0b3J5IjpbLTExMjYxODY0NTUsMTg4OTg0NjE2NywtMT
+E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
+MjE2MTQsNzQ5MTQ5MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMC
+wtMzY2MjY4MzcsMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMx
+MDU5OSwtMjAzOTkwMDg2LC00OTQ0OTE0NTEsMTQ5NzMxMzYwMC
+wtNzc0MjQ0Njc0LC0xNDI1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1
+MTkyMjU4M119
 -->
