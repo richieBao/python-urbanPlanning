@@ -325,6 +325,8 @@ In the Pearson correlation coefficient test, distance_min，（qdt_chi2_6dis，q
 计算结果中相关系数比较低，一是所选择的自变量与PHMI的相关性极弱，可以继续尝试反映空间模式的新指数；二是所选择数据
 不能涵盖所有情况或数据量偏低，可以丰富数据模拟类型，以及增加数据量。
 
+The correlation coefficient in the calculation results is relatively low. First, the correlation between the selected independent variable and PHMI is extremely weak, so we can continue to try the new index representing the spatial model. Second, the selected data can not cover all situations, or the data volume is low, which can enrich the data simulation types and increase the data volume.
+
 虽然相关系数比较低，但是通过对某一类型自变量相关系数的比较分析，可以得出有价值的一些结论，或者得出时间序列下空间点模式的特征，用于指导提升导航评估值的规划方式。
 ### 1-距离是否影响激光雷达导航评估值
 PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525e-13)，distance_min (-0.007745403087658743, 0.6062043140384599)和distance_max(0.05882887545740473, 8.902054331810178e-05)中放弃distance_min最小距离（不显著）。均值和最大值相关性极弱。
@@ -496,11 +498,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY1ODM4OTMsLTIxOTYyMTYxNCw3ND
-kxNDkxNDAsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgz
-NywyNTU2MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMD
-M5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2
-NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLD
-E2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5
-MzE0NjldfQ==
+eyJoaXN0b3J5IjpbLTc2Njg2MjIxNSwtMTAzNjU4Mzg5MywtMj
+E5NjIxNjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIx
+MDAsLTM2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC03OT
+czMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTczMTM2
+MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNS
+wzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3
+MDc0ODFdfQ==
 -->
