@@ -448,17 +448,22 @@ Out[85]:
 
 
 ### 4-评估值的划分途径
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_12.png)
+<p align="center">
+<em>图12 连续距离样方G值均值变化  /Fig 12 </em>
+</p>
+
 
 
 
 ## D-待分析的基础数据的调整
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzMxMzYwMCwtNzc0MjQ0Njc0LC0xND
-I1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgz
-Njg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC
-0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNjkxODI5MDIwLC0xNDI2
-MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0NDg1MzMyLC0xMTM3Nz
-IxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQs
-MTM0NTkxOTAyN119
+eyJoaXN0b3J5IjpbOTgzNjI3OTI0LDE0OTczMTM2MDAsLTc3ND
+I0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1
+ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLT
+c2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgy
+OTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NT
+MzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3Mywt
+Mjc1NDIyNDc0XX0=
 -->
