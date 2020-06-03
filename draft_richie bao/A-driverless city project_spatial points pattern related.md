@@ -424,12 +424,13 @@ Out[85]:
 ### 3-观察样方大小与landmarks分布距离
 对导航评估值的影响
 
+
 ### 4-评估值的划分途径
 
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDUwOTgwOCwtMTQyNTYxODg5MywtMT
+eyJoaXN0b3J5IjpbLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMT
 M0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgw
 MzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNS
 wtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2
