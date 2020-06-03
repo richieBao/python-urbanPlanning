@@ -339,9 +339,10 @@ The distance_min minimum distance (not significant) is abandoned in the correlat
 
 在landmarks分布方向分析中，去除landmarks与location间的距离影响，其与PHMI的相关系数基本保持不变，可以初步说明距离与PHMI值相关性不明显。
 
-
+In the analysis of landmarks distribution direction, the distance between landmarks and location is removed, and its correlation coefficient with PHMI remains unchanged. It can be preliminarily shown that the correlation between distance and PHMI value is not apparent.
 
 通过上述两个方向的分析，初步确定基于本次实验数据下，距离对于激光雷达评估值的影响不明显，即在规划布局中可以不用考虑特征点与无人车间的距离关系。
+
 
 ### 2-landmarks分布方向的影响
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_0506.jpg)
@@ -506,11 +507,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MDcxMjI4LDE4ODk4NDYxNjcsLTExNT
-c5MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIx
-NjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLT
-M2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1
-OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTczMTM2MDAsLT
-c3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5
-MjI1ODNdfQ==
+eyJoaXN0b3J5IjpbLTIyNTI2NTgzMSwxODg5ODQ2MTY3LC0xMT
+U3OTIxMDgsLTE1NTE0MDgyOTksLTEwMzY1ODM4OTMsLTIxOTYy
+MTYxNCw3NDkxNDkxNDAsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC
+0zNjYyNjgzNywyNTU2MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEw
+NTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC
+03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUx
+OTIyNTgzXX0=
 -->
