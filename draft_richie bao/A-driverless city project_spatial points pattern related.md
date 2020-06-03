@@ -54,6 +54,9 @@ Or use scipy library scipy.stats.pearsonr/scipy.stats.kendalltau/scipy.stats.spe
 >Correlation value description: |r|>0.95 there was a significant correlation; |r|>=0.8 highly correlation; 0.5=<|r|<0.8  moderately correlation; 0.3=<|r|<0.5  low correlation; |r|<0.3 the relationship is so weak that it is considered irrelevant; |r|=0 is irrelevant.
 
 与landmarks空间点模式相关的变量（指数）选择：
+
+Selection of variables(metrics) related to the landmarks space point pattern:
+
 > landmarks为激光雷达拾取的环境特征点；location为无人车位置坐标。	
 
 	1. landmarks点数量	<LM_amount>
@@ -478,7 +481,7 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzA0MjY5NywtMTM4MTAxNDY0LDEzMD
+eyJoaXN0b3J5IjpbLTE0MzUzNTQ0NywtMTM4MTAxNDY0LDEzMD
 UzNTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3
 LC03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OT
 czMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4
