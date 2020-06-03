@@ -504,6 +504,7 @@ The purpose of spatial point pattern quadrat analysis is to explore spatial poin
 
 同时，计算6m样方下的G值，计算结果*chi2_10_pvale /the amount:50/4432*， 即4432个位置点，仅有50个p-value<0.05，因此接受原假设，本次实验所分析的数据空间点分布基本为随机分布。
 
+At the same time, calculate the G value under the 6m quadrilateral, and the computed result *chi2_10_pvale /the amount:50/4432* i.e., 4432 position points, only 50 p-values <0.05. Therefore, the null hypothesis was accepted, and the spatial distribution of data analyzed in this experiment was random.
 
 
 ### 4-评估值的离散化
@@ -524,11 +525,11 @@ The purpose of spatial point pattern quadrat analysis is to explore spatial poin
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTA4OTg5MSwxMzI2NDcyNDMsMTUyND
-YzMTk1LDMzNDMzNDQ4MiwtMTE3NDYxNDM5MCwtMjA4MjEwODAz
-NywtNjEwNDQ4OTI0LDE4ODk4NDYxNjcsLTExNTc5MjEwOCwtMT
-U1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIxNjE0LDc0OTE0
-OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LD
-I1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5
-MDA4Nl19
+eyJoaXN0b3J5IjpbMTIxMDczMDYyNywxNTkxMDg5ODkxLDEzMj
+Y0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgyLC0xMTc0NjE0Mzkw
+LC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMTg4OTg0NjE2NywtMT
+E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
+MjE2MTQsNzQ5MTQ5MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMC
+wtMzY2MjY4MzcsMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMx
+MDU5OV19
 -->
