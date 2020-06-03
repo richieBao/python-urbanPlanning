@@ -521,14 +521,15 @@ At the same time, calculate the G value under the 6m quadrilateral, and the comp
 
 离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，在同一范围内取均值。比较PHMI连续值及其离散值的相对系数变化曲线，可以观察到三者基本吻合，跳变点切分则更趋于吻合，初步判断在特定的分析中可以使用离散值。
 
+
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTM4OTM1OCwxNTkxMDg5ODkxLDEzMj
-Y0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgyLC0xMTc0NjE0Mzkw
-LC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMTg4OTg0NjE2NywtMT
-E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
-MjE2MTQsNzQ5MTQ5MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMC
-wtMzY2MjY4MzcsMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMx
-MDU5OV19
+eyJoaXN0b3J5IjpbLTIwNjEzOTkzNjAsMTUzNTM4OTM1OCwxNT
+kxMDg5ODkxLDEzMjY0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgy
+LC0xMTc0NjE0MzkwLC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMT
+g4OTg0NjE2NywtMTE1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2
+NTgzODkzLC0yMTk2MjE2MTQsNzQ5MTQ5MTQwLC0xMzgxMDE0Nj
+QsMTMwNTM1MjEwMCwtMzY2MjY4MzcsMjU1NjE2NDYzLC01MzMw
+NDMzMTddfQ==
 -->
