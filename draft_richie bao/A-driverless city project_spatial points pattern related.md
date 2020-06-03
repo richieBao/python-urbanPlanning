@@ -71,15 +71,15 @@ Selection of variables(metrics) related to the landmarks space point pattern:
 	8.  与连续距离（0-18）下样方统计的相关量：反应点模式的chi2均值，含有landmarks的样方数量，以及landmarks数量/含有landmarks的样方数量 <qdt_chi2_, qdt_num_, qdt_n/Q_>
 	9. 离散化方法（可用于进一步预测模型的建立）：基于分位数，基于跳变点，基于pow(10,-5)即评估值的界定值 <PHMI_percentile, jitter_mean>
 
-1.  The number of landmarks
-2.  Location x and y
-3.  The distance between landmarks and location: average distance, minimum, and maximum distance
-4.  Divide 36 directions with a location as the center of the circle: landmarks included, landmarks excluded, and the boundary of inclusion or exclusion
-5.  Landmarks intensity: minimum boundary range, convex hull
-6.  Landmarks nearest neighbor: the maximum, minimum, mean and the mean of nearest neighbor with 2 points
-7.  The mode of spatial points is random, uniform, or aggregated value of G function, which is higher than the expectation and tends to aggregate; if it is less than, it tends to be uniform; if it is equal to, it tends to be random.
-8.  Correlation quantity of quadrat statistics under continuous distance(0-18): the chi2 mean value representing the point pattern, the number of quadrats containing landmarks, and the number of landmarks / the number of quadrats containing landmarks
-9.  Discretization method(which can be used for further establishment of prediction model): based on a quantile, based on jump point, and based on pow(10,-5), which is the defined value of the evaluation value
+	1.  The number of landmarks
+	2.  Location x and y
+	3.  The distance between landmarks and location: average distance, minimum, and maximum distance
+	4.  Divide 36 directions with a location as the center of the circle: landmarks included, landmarks excluded, and the boundary of inclusion or exclusion
+	5.  Landmarks intensity: minimum boundary range, convex hull
+	6.  Landmarks nearest neighbor: the maximum, minimum, mean and the mean of nearest neighbor with 2 points
+	7.  The mode of spatial points is random, uniform, or aggregated value of G function, which is higher than the expectation and tends to aggregate; if it is less than, it tends to be uniform; if it is equal to, it tends to be random.
+	8.  Correlation quantity of quadrat statistics under continuous distance(0-18): the chi2 mean value representing the point pattern, the number of quadrats containing landmarks, and the number of landmarks / the number of quadrats containing landmarks
+	9.  Discretization method(which can be used for further establishment of prediction model): based on a quantile, based on jump point, and based on pow(10,-5), which is the defined value of the evaluation value
  
 
 ## C-问题
@@ -494,7 +494,7 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzg5OTczLDc0OTE0OTE0MCwtMTM4MT
+eyJoaXN0b3J5IjpbMTY4MjIyOTczLDc0OTE0OTE0MCwtMTM4MT
 AxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2Mywt
 NTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0ND
 kxNDUxLDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5
