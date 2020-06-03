@@ -475,6 +475,8 @@ Because the data types used in this experiment are relatively single, which can 
 
 同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，前后1步的landmarks空间分布在各个方向上的变化对相关系数也基本没有影响，初步判断基于1步的landmarks空间分布对PHMI没有影响。
 
+
+
 ### 3-观察样方大小与landmarks分布距离
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_08.jpg)
 <p align="center">
@@ -519,11 +521,11 @@ Because the data types used in this experiment are relatively single, which can 
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDYzMTk1LDMzNDMzNDQ4MiwtMTE3ND
-YxNDM5MCwtMjA4MjEwODAzNywtNjEwNDQ4OTI0LDE4ODk4NDYx
-NjcsLTExNTc5MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5My
-wtMjE5NjIxNjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUz
-NTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC
-03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTcz
-MTM2MDBdfQ==
+eyJoaXN0b3J5IjpbNzQ2NTU5MTU5LDE1MjQ2MzE5NSwzMzQzMz
+Q0ODIsLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLTYxMDQ0ODky
+NCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0MDgyOTksLT
+EwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEw
+MTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMsLT
+UzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5
+MTQ1MV19
 -->
