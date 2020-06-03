@@ -84,7 +84,7 @@ Selection of variables(metrics) related to the landmarks space point pattern:
 
 ## C-问题 /question
 ### 0-相关系数值的大小 /The magnitude of the correlation coefficient
-* pearson 相关性显著性检验 p-value
+* pearson 相关性显著性检验 p-value /Pearson correlation significance test for p-value
 ```python
 {'LM_amount': (0.12098482115871922, 6.382570797569555e-16),
  'loc_x': (0.17850258172741662, 4.720879152755005e-33),
@@ -494,11 +494,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1Mjk1NzMsNzQ5MTQ5MTQwLC0xMz
-gxMDE0NjQsMTMwNTM1MjEwMCwtMzY2MjY4MzcsMjU1NjE2NDYz
-LC01MzMwNDMzMTcsLTc5NzMxMDU5OSwtMjAzOTkwMDg2LC00OT
-Q0OTE0NTEsMTQ5NzMxMzYwMCwtNzc0MjQ0Njc0LC0xNDI1NjE4
-ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgzNjg3LD
-Y2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC0xNjU0
-MDMyNzE1XX0=
+eyJoaXN0b3J5IjpbLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzOD
+EwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMs
+LTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5ND
+Q5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4
+OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNj
+Y2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQw
+MzI3MTVdfQ==
 -->
