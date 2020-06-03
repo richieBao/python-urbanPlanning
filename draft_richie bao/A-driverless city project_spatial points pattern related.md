@@ -82,8 +82,8 @@ Selection of variables(metrics) related to the landmarks space point pattern:
 	9.  Discretization method(which can be used for further establishment of prediction model): based on a quantile, based on jump point, and based on pow(10,-5), which is the defined value of the evaluation value
  
 
-## C-问题
-### 0-相关系数值的大小
+## C-问题 /question
+### 0-相关系数值的大小 /The magnitude of the correlation coefficient
 * pearson 相关性显著性检验 p-value
 ```python
 {'LM_amount': (0.12098482115871922, 6.382570797569555e-16),
@@ -494,11 +494,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjIyOTczLDc0OTE0OTE0MCwtMTM4MT
-AxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2Mywt
-NTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0ND
-kxNDUxLDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5
-MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2Nj
-YzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAz
-MjcxNV19
+eyJoaXN0b3J5IjpbLTE5OTI1Mjk1NzMsNzQ5MTQ5MTQwLC0xMz
+gxMDE0NjQsMTMwNTM1MjEwMCwtMzY2MjY4MzcsMjU1NjE2NDYz
+LC01MzMwNDMzMTcsLTc5NzMxMDU5OSwtMjAzOTkwMDg2LC00OT
+Q0OTE0NTEsMTQ5NzMxMzYwMCwtNzc0MjQ0Njc0LC0xNDI1NjE4
+ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgzNjg3LD
+Y2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC0xNjU0
+MDMyNzE1XX0=
 -->
