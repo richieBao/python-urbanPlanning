@@ -27,7 +27,7 @@ The analysis content is based on the results of the lidar navigation simulation 
 <em>图2 新规划模拟数据  /Fig 2 new program simulation data</em>
 </p>
 
-## B-关于相关性/
+## B-关于相关性/about correlation
 使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数method有三种方法，如下：
 -   pearson : （线性数据）标准相关系数/standard correlation coefficient    
 -   kendall : 等级相关系数/Kendall Tau correlation coefficient    
@@ -471,11 +471,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTUzMDkyNiwyNTU2MTY0NjMsLTUzMz
-A0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1
-MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLT
-EzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4
-MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3MT
-UsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLTE3
-NjcwMTgyNDBdfQ==
+eyJoaXN0b3J5IjpbLTM2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMD
+QzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUx
+LDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMT
+M0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgw
+MzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNS
+wtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2
+NzAxODI0MF19
 -->
