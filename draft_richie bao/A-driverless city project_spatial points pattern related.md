@@ -447,19 +447,19 @@ Out[85]:
 同时，计算6m样方下的G值，计算结果*chi2_10_pvale /the amount:50/4432*， 即4432个位置点，仅有50个p-value<0.05，因此接受原假设，本次实验所分析的数据空间点分布基本为随机分布。
 
 
-### 4-评估值的划分途径
+### 4-评估值的离散化
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_12.png)
 <p align="center">
-<em>图12 连续距离样方G值均值变化  /Fig 12 </em>
+<em>图12 PHMI及其离散值  /Fig 12 </em>
 </p>
 
-
+离散化的方式中选择了laing'zh
 
 
 ## D-待分析的基础数据的调整
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjI3OTI0LDE0OTczMTM2MDAsLTc3ND
+eyJoaXN0b3J5IjpbMjY2MTI4MDA0LDE0OTczMTM2MDAsLTc3ND
 I0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1
 ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLT
 c2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgy
