@@ -485,12 +485,12 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_09.jpg)
 <p align="center">
-<em>图9 一位置点G值示例  /Fig 9 </em>
+<em>图9 一位置点G值示例  /Fig 9 An example of a position point G value</em>
 </p>
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_10.png)
 <p align="center">
-<em>图10 连续距离样方G值均值变化  /Fig 10 </em>
+<em>图10 连续距离样方G值均值变化  /Fig 10 The mean change in G under the consecutive distance quadrat</em>
 </p>
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_11.png)
@@ -521,7 +521,7 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg5OTc4OSwxNTI0NjMxOTUsMzM0Mz
+eyJoaXN0b3J5IjpbLTYzNDM3OTIwNywxNTI0NjMxOTUsMzM0Mz
 M0NDgyLC0xMTc0NjE0MzkwLC0yMDgyMTA4MDM3LC02MTA0NDg5
 MjQsMTg4OTg0NjE2NywtMTE1NzkyMTA4LC0xNTUxNDA4Mjk5LC
 0xMDM2NTgzODkzLC0yMTk2MjE2MTQsNzQ5MTQ5MTQwLC0xMzgx
