@@ -329,6 +329,8 @@ The correlation coefficient in the calculation results is relatively low. First,
 
 虽然相关系数比较低，但是通过对某一类型自变量相关系数的比较分析，可以得出有价值的一些结论，或者得出时间序列下空间点模式的特征，用于指导提升导航评估值的规划方式。
 
+Although the correlation coefficient is relatively low, some valuable conclusions can be drawn through the comparison and analysis of the correlation coefficient of a particular type of independent variable. Or the characteristics of the spatial point pattern under the time series can be obtained, which can be used to guide the planning method to improve the navigation evaluation value.
+
 
 ### 1-距离是否影响激光雷达导航评估值
 PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525e-13)，distance_min (-0.007745403087658743, 0.6062043140384599)和distance_max(0.05882887545740473, 8.902054331810178e-05)中放弃distance_min最小距离（不显著）。均值和最大值相关性极弱。
@@ -500,11 +502,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE0MDgyOTksLTEwMzY1ODM4OTMsLT
-IxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEwMTQ2NCwxMzA1MzUy
-MTAwLC0zNjYyNjgzNywyNTU2MTY0NjMsLTUzMzA0MzMxNywtNz
-k3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEz
-NjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMT
-UsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUy
-NzA3NDgxXX0=
+eyJoaXN0b3J5IjpbLTExNTc5MjEwOCwtMTU1MTQwODI5OSwtMT
+AzNjU4Mzg5MywtMjE5NjIxNjE0LDc0OTE0OTE0MCwtMTM4MTAx
+NDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LDI1NTYxNjQ2MywtNT
+MzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4NiwtNDk0NDkx
+NDUxLDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5My
+wtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYz
+MjgwMzZdfQ==
 -->
