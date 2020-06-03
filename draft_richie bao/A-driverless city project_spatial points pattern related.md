@@ -521,11 +521,13 @@ At the same time, calculate the G value under the 6m quadrilateral, and the comp
 
 离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，在同一范围内取均值。比较PHMI连续值及其离散值的相对系数变化曲线，可以观察到三者基本吻合，跳变点切分则更趋于吻合，初步判断在特定的分析中可以使用离散值。
 
+In the discretization, two methods are selected, one is the quantile, *percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]* divided into 10 parts; The other is to use the jump point sharding and take the mean over the same range. Comparing the correlation coefficient variation curves under consecutive value and discrete value of PHMI, it can be observed that the three are basically in agreement. The sharding of jump points tends to be more in agreement. It can be preliminarily judged that discrete value can be used in some specific analysis.
 
-## D-待分析的基础数据的调整
+## D-待分析的基础数据的调整 /Adjustment of underlying data to be analyzed
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEzOTkzNjAsMTUzNTM4OTM1OCwxNT
+eyJoaXN0b3J5IjpbLTEwODg5OTI2ODYsMTUzNTM4OTM1OCwxNT
 kxMDg5ODkxLDEzMjY0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgy
 LC0xMTc0NjE0MzkwLC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMT
 g4OTg0NjE2NywtMTE1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2
