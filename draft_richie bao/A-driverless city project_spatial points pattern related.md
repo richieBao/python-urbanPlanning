@@ -358,7 +358,10 @@ Through the analysis in the above two directions, it is preliminarily determined
 </p>
 
 激光雷达在每个位置点旋转扫描，提取的特征点位于各个方向上，因此尝试在每个位置点划分36个方向区域（数量大小在进一步分析中可以为连续数量切分，例如4份，8份...72份），分析landmarks位置对PHMI值的影响。同时应用三种数据类型：
-* 一是含距离值，数据示例：
+
+The lidar rotates the scan at each position point, and the extracted feature points are located in all directions. Therefore, it is attempted to divide 36 directional regions at each position point(the number can be divided into consecutive numbers in further analysis, such as 4 pieces, 6 pieces... 72 and so on) to analyze the influence of landmarks location on PHMI value. Three data types are applied simultaneously:
+
+* 一是含距离值，数据示例：/One is a data sample containing distance values
 ```python
 distance_eachDirection_df.head()
 Out[81]: 
@@ -508,11 +511,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxMDgwMzcsLTYxMDQ0ODkyNCwxOD
-g5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0MDgyOTksLTEwMzY1
-ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEwMTQ2NC
-wxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMsLTUzMzA0
-MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1MS
-wxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEz
-NDQwODMwMTVdfQ==
+eyJoaXN0b3J5IjpbLTM2MTk3MDgxOSwtMjA4MjEwODAzNywtNj
+EwNDQ4OTI0LDE4ODk4NDYxNjcsLTExNTc5MjEwOCwtMTU1MTQw
+ODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIxNjE0LDc0OTE0OTE0MC
+wtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LDI1NTYx
+NjQ2MywtNTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5MDA4Ni
+wtNDk0NDkxNDUxLDE0OTczMTM2MDAsLTc3NDI0NDY3NCwtMTQy
+NTYxODg5M119
 -->
