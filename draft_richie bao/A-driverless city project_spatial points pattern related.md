@@ -442,7 +442,7 @@ Out[85]:
 <em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
 </p>
 
-空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上
+空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看，
 
 
 
@@ -451,7 +451,7 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1ODg5OTExLC03NzQyNDQ2NzQsLTE0Mj
+eyJoaXN0b3J5IjpbNDQzNjUxODcyLC03NzQyNDQ2NzQsLTE0Mj
 U2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2
 ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLT
 E2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYx
