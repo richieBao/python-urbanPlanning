@@ -442,7 +442,7 @@ Out[85]:
 <em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
 </p>
 
-空间点模式样方分析目的是探索空间点分布的特征，包括
+空间点模式样方分析目的是探索空间点分布的特征，包括均匀，
 
 
 
@@ -451,7 +451,7 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYwMzQzNjcsLTc3NDI0NDY3NCwtMT
+eyJoaXN0b3J5IjpbLTE1MzQ2MzgwMjgsLTc3NDI0NDY3NCwtMT
 QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
 MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
 wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
