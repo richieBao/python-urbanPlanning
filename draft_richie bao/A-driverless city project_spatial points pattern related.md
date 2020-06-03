@@ -3,7 +3,7 @@
 
 # A-无人驾驶城市_空间点（landmarks）模式相关/A-driverless city project_spatial points(landmarks) pattern related
 > @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
-###  /
+### 规划组在无人驾驶城市项目中的工作内容 /
 当前无人驾驶城市项目的核心内容是探索GPS和车载激光雷达无人驾驶导航问题。无人驾驶的最终目的是应用研究成果于现实世界，服务人们的日常生活，因此需要探索城市布局与无人驾驶之间的博弈关系。一是改善导航技术，减弱城市空间对导航的影响；二是，对导航有影响的区域（例如高容积率，高密度的城市中心），适当布局城市，使得空间格局适应无人驾驶导航需求。
 
 规划组则更多考虑城市空间布局的影响，尝试发现空间布局与导航评估值之间的关系，从抽象的特征数据到现实世界的模拟来不断发现与优化空间规划与无人驾驶之间的矛盾。
@@ -465,11 +465,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgwODY2MTksLTQ5NDQ5MTQ1MSwxND
-k3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQw
-ODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC
-0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3
-OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLTE3NjcwMT
-gyNDAsLTE0MDQ0ODUzMzIsLTExMzc3MjEyOTUsMTUyODcyNzQy
-MCw1MjYxMDYxNzNdfQ==
+eyJoaXN0b3J5IjpbMTQxNTcyMTQyOCwtNDk0NDkxNDUxLDE0OT
+czMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4
+MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLT
+EzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5
+MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxOD
+I0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIw
+LDUyNjEwNjE3M119
 -->
