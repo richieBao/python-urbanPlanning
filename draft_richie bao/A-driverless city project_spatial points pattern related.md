@@ -429,9 +429,15 @@ Out[85]:
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_09.jpg)
 <p align="center">
-<em>图9 一位置点G值  /Fig 9 </em>
+<em>图9 一位置点G值示例  /Fig 9 </em>
 </p>
 
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_10.png)
+<p align="center">
+<em>图10 连续距离样方G值均值变化  /Fig 10 </em>
+</p>
+
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_10.png)
 
 
 
@@ -442,11 +448,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NTE5NzA0LC03NzQyNDQ2NzQsLTE0Mj
-U2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2
-ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLT
-E2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYx
-MTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3Mj
-EyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwx
-MzQ1OTE5MDI3XX0=
+eyJoaXN0b3J5IjpbLTE2ODU3MDQ5NjgsLTc3NDI0NDY3NCwtMT
+QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
+MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
+wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
+NjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNz
+cyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0
+LDEzNDU5MTkwMjddfQ==
 -->
