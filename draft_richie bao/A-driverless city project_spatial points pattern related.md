@@ -495,10 +495,12 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_11.png)
 <p align="center">
-<em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
+<em>图11 连续距离样方G值均值绝对值变化  /Fig 11 The mean absolute value of G under the consecutive distance quadrat</em>
 </p>
 
 空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看（PHMI_nQ因为p-value基本大于0.05，因此放弃，仅参照PHMI_qdtN和PHMI_chi2），当分类数量为10m，即样方大小约为6×6m时，相关系数区域稳定，一定程度上可以推断6m样方下landmarkd的位置变化可能会影响PHMI值的变化。
+
+
 
 同时，计算6m样方下的G值，计算结果*chi2_10_pvale /the amount:50/4432*， 即4432个位置点，仅有50个p-value<0.05，因此接受原假设，本次实验所分析的数据空间点分布基本为随机分布。
 
@@ -521,11 +523,11 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDM3OTIwNywxNTI0NjMxOTUsMzM0Mz
-M0NDgyLC0xMTc0NjE0MzkwLC0yMDgyMTA4MDM3LC02MTA0NDg5
-MjQsMTg4OTg0NjE2NywtMTE1NzkyMTA4LC0xNTUxNDA4Mjk5LC
-0xMDM2NTgzODkzLC0yMTk2MjE2MTQsNzQ5MTQ5MTQwLC0xMzgx
-MDE0NjQsMTMwNTM1MjEwMCwtMzY2MjY4MzcsMjU1NjE2NDYzLC
-01MzMwNDMzMTcsLTc5NzMxMDU5OSwtMjAzOTkwMDg2LC00OTQ0
-OTE0NTFdfQ==
+eyJoaXN0b3J5IjpbMTMyNjQ3MjQzLDE1MjQ2MzE5NSwzMzQzMz
+Q0ODIsLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLTYxMDQ0ODky
+NCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0MDgyOTksLT
+EwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEw
+MTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMsLT
+UzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5
+MTQ1MV19
 -->
