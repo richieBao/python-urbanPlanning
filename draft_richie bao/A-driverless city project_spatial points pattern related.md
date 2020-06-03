@@ -506,12 +506,11 @@ The purpose of spatial point pattern quadrat analysis is to explore spatial poin
 
 At the same time, calculate the G value under the 6m quadrilateral, and the computed result *chi2_10_pvale /the amount:50/4432* i.e., 4432 position points, only 50 p-values <0.05. Therefore, the null hypothesis was accepted, and the spatial distribution of data analyzed in this experiment was random.
 
-
-### 4-评估值的离散化
+### 4-评估值的离散化 /Discretization of evaluation values
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_13.png)
 <p align="center">
-<em>图12 跳变点切分  /Fig 12 </em>
+<em>图12 跳变点切分  /Fig 12 Jump point syncopation</em>
 </p>
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_12.png)
@@ -525,7 +524,7 @@ At the same time, calculate the G value under the 6m quadrilateral, and the comp
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDczMDYyNywxNTkxMDg5ODkxLDEzMj
+eyJoaXN0b3J5IjpbLTg1MzM0ODIxNCwxNTkxMDg5ODkxLDEzMj
 Y0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgyLC0xMTc0NjE0Mzkw
 LC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMTg4OTg0NjE2NywtMT
 E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
