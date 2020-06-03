@@ -417,7 +417,7 @@ Out[85]:
 ```
 在从一个位置点变化到另一个位置点有4中变化情况，有->有（11），有->无（10），无->无（00）和无到有（01），分别配置值为"00":0,"01":1,"10":2,"11":3}。
 
-因为suo相关系数分析结果
+因为本次实验所使用的数据类型相对比较单一，不能涵盖各种空间分布形式，因此相关系数分析结果更多反映的是当前数据实验下
 
 ### 3-观察样方大小与landmarks分布距离
 对导航评估值的影响
@@ -427,7 +427,7 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjcyNTI3NywtMTM0NDA4MzAxNSwzNT
+eyJoaXN0b3J5IjpbLTkwNjI3NzkxNiwtMTM0NDA4MzAxNSwzNT
 E5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0
 ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLD
 Y5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxODI0MCwtMTQw
