@@ -500,9 +500,10 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 
 空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看（PHMI_nQ因为p-value基本大于0.05，因此放弃，仅参照PHMI_qdtN和PHMI_chi2），当分类数量为10m，即样方大小约为6×6m时，相关系数区域稳定，一定程度上可以推断6m样方下landmarkd的位置变化可能会影响PHMI值的变化。
 
-
+The purpose of spatial point pattern quadrat analysis is to explore spatial point distribution characteristics, including uniform, random, and aggregation evaluation. The G value reflecting the distribution characteristics of spatial points is calculated; that is, the distribution characteristics of landmarks at each location are reflected. The correlation coefficient between the mean value of G and PHMI is calculated, which reflects the influence of changes in spatial point characteristics of landmarks on PHMI to some extent. According to the analysis results(PHMI_nQ p-value is basically higher than 0.05, so it is given up, and only PHMI_qdtN and PHMI_chi2 are referred to), when the number of categories is 10m, that is the size of the quadrat is about 6×6m, the correlation coefficient is stable in the region. To some extent, it can be inferred that the position change of landmarks under the 6m quadrat may affect the shift of PHMI value.
 
 同时，计算6m样方下的G值，计算结果*chi2_10_pvale /the amount:50/4432*， 即4432个位置点，仅有50个p-value<0.05，因此接受原假设，本次实验所分析的数据空间点分布基本为随机分布。
+
 
 
 ### 4-评估值的离散化
@@ -523,11 +524,11 @@ Simultaneously, the correlation coefficient obtained by the three data types is 
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjQ3MjQzLDE1MjQ2MzE5NSwzMzQzMz
-Q0ODIsLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLTYxMDQ0ODky
-NCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0MDgyOTksLT
-EwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEw
-MTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMsLT
-UzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5
-MTQ1MV19
+eyJoaXN0b3J5IjpbMTU5MTA4OTg5MSwxMzI2NDcyNDMsMTUyND
+YzMTk1LDMzNDMzNDQ4MiwtMTE3NDYxNDM5MCwtMjA4MjEwODAz
+NywtNjEwNDQ4OTI0LDE4ODk4NDYxNjcsLTExNTc5MjEwOCwtMT
+U1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIxNjE0LDc0OTE0
+OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLTM2NjI2ODM3LD
+I1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1OTksLTIwMzk5
+MDA4Nl19
 -->
