@@ -444,7 +444,7 @@ Out[85]:
 
 空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值均值与PHMI 的相关系数，在一定程度上反映了landmarks空间点特征的变化对PHMI的影响。从分析结果来看（PHMI_nQ因为p-value基本大于0.05，因此放弃，仅参照PHMI_qdtN和PHMI_chi2），当分类数量为10m，即样方大小约为6×6m时，相关系数区域稳定，一定程度上可以推断6m样方下landmarkd的位置变化可能会影响PHMI值的变化。
 
-同时，计算6m样方下的G值，计算结果chi2_10_pvale /the amount:50/4432
+同时，计算6m样方下的G值，计算结果*chi2_10_pvale /the amount:50/4432*， 即4432个位置点，仅有50个p-value<0.05，因此接受原假设，本次实验所分析的数据
 
 
 
@@ -453,11 +453,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk0MDc4NDgsLTc3NDI0NDY3NCwtMT
-QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
-MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
-wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
-NjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNz
-cyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0
-LDEzNDU5MTkwMjddfQ==
+eyJoaXN0b3J5IjpbMTUwNTYxNzIzMSwtNzc0MjQ0Njc0LC0xND
+I1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgz
+Njg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC
+0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNjkxODI5MDIwLC0xNDI2
+MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0NDg1MzMyLC0xMTM3Nz
+IxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQs
+MTM0NTkxOTAyN119
 -->
