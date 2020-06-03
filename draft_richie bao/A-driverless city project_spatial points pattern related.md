@@ -335,7 +335,11 @@ Although the correlation coefficient is relatively low, some valuable conclusion
 ### 1-距离是否影响激光雷达导航评估值/Whether distance affects the evaluation of lidar navigation
 PHMI与距离的相关系数distance_mean(0.10827296084597499, 4.926678335662525e-13)，distance_min (-0.007745403087658743, 0.6062043140384599)和distance_max(0.05882887545740473, 8.902054331810178e-05)中放弃distance_min最小距离（不显著）。均值和最大值相关性极弱。
 
+The distance_min minimum distance (not significant) is abandoned in the correlation coefficient between PHMI and distance. The correlation, including the mean and the maximum, is extremely weak.
+
 在landmarks分布方向分析中，去除landmarks与location间的距离影响，其与PHMI的相关系数基本保持不变，可以初步说明距离与PHMI值相关性不明显。
+
+
 
 通过上述两个方向的分析，初步确定基于本次实验数据下，距离对于激光雷达评估值的影响不明显，即在规划布局中可以不用考虑特征点与无人车间的距离关系。
 
@@ -502,11 +506,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTg0NjE2NywtMTE1NzkyMTA4LC0xNT
-UxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2MjE2MTQsNzQ5MTQ5
-MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMCwtMzY2MjY4MzcsMj
-U1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMxMDU5OSwtMjAzOTkw
-MDg2LC00OTQ0OTE0NTEsMTQ5NzMxMzYwMCwtNzc0MjQ0Njc0LC
-0xNDI1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5
-ODgzNjg3XX0=
+eyJoaXN0b3J5IjpbNzg4MDcxMjI4LDE4ODk4NDYxNjcsLTExNT
+c5MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIx
+NjE0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLT
+M2NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1
+OTksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTczMTM2MDAsLT
+c3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5
+MjI1ODNdfQ==
 -->
