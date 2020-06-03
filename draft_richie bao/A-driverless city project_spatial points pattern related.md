@@ -19,15 +19,15 @@ The planning group considers the impact of urban spatial layout and tries to fin
 The analysis content is based on the results of the lidar navigation simulation data of the engineering group. It can be further into the original measurement data, the data after adjusting the layout based on the original data, and the data after re-planning. The experimental data includes two groups; one group is the original simulated data; Another is a set of simulated data for the new program.
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_01.png)
 <p align="center">
-<em>图1 原始模拟数据  /Fig 1 </em>
+<em>图1 原始模拟数据  /Fig 1 raw simulation data </em>
 </p>
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_02.png)
 <p align="center">
-<em>图2 新规划模拟数据  /Fig 2 </em>
+<em>图2 新规划模拟数据  /Fig 2 new program simulation data</em>
 </p>
 
-## B-关于相关性
+## B-关于相关性/
 使用pandas(python库)的# pandas.DataFrame.corr方法计算相关系数，其中参数method有三种方法，如下：
 -   pearson : （线性数据）标准相关系数/standard correlation coefficient    
 -   kendall : 等级相关系数/Kendall Tau correlation coefficient    
@@ -471,7 +471,7 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzU2NDE3MywyNTU2MTY0NjMsLTUzMz
+eyJoaXN0b3J5IjpbLTI2NTUzMDkyNiwyNTU2MTY0NjMsLTUzMz
 A0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1
 MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLT
 EzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4
