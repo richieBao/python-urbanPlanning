@@ -515,7 +515,7 @@ At the same time, calculate the G value under the 6m quadrilateral, and the comp
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_12.png)
 <p align="center">
-<em>图13 PHMI及其离散值  /Fig 13 </em>
+<em>图13 PHMI及其离散值  /Fig 13 PHMI and its discrete values</em>
 </p>
 
 
@@ -524,7 +524,7 @@ At the same time, calculate the G value under the 6m quadrilateral, and the comp
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzM0ODIxNCwxNTkxMDg5ODkxLDEzMj
+eyJoaXN0b3J5IjpbMTUzNTM4OTM1OCwxNTkxMDg5ODkxLDEzMj
 Y0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgyLC0xMTc0NjE0Mzkw
 LC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMTg4OTg0NjE2NywtMT
 E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
