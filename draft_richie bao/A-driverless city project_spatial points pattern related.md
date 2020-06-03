@@ -10,6 +10,8 @@ The critical content of the current driverless city project is to explore the pr
 
 规划组则更多考虑城市空间布局的影响，尝试发现空间布局与导航评估值之间的关系，从抽象的特征数据到现实世界的模拟来不断发现与优化空间规划与无人驾驶之间的矛盾。
 
+The planning group considers the impact of urban spatial layout and tries to find the relationship between spatial arrangement and navigation value.   From abstract feature data to real-world simulation, the planning group continuously finds and optimizes the contradiction between spatial planning and AVs.
+
 ## A-数据
 分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。可以进一步划分为，原始测量数据，基于原始数据调整规划布局后的数据，重新规划后的数据。
 此次实验数据包含两组，一组为原始模拟数据；一组为新规划模拟数据。
@@ -467,11 +469,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMD
-M5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2
-NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLD
-E2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5
-MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMj
-AsLTE0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIs
-LTExMzc3MjEyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODAwNTc3MDYsLTUzMzA0MzMxNywtNz
+k3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEz
+NjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMT
+UsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUy
+NzA3NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5ND
+k4MCw2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLTE3NjcwMTgyNDAs
+LTE0MDQ0ODUzMzJdfQ==
 -->
