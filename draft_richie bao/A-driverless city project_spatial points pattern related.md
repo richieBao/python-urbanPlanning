@@ -460,17 +460,17 @@ Out[85]:
 </p>
 
 
-离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，在同一范围内取均值。
+离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，在同一范围内取均值。比较PHMI连续值及其离散值的相对系数变化曲线，可以观察到三者基本吻合，初步判断在进一步的分析，
 
 
 ## D-待分析的基础数据的调整
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTg3ODc5OSwxNDk3MzEzNjAwLC03Nz
-QyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIy
-NTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC
-03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4
-MjkwMjAsLTE0MjYxMTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0OD
-UzMzIsLTExMzc3MjEyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMs
-LTI3NTQyMjQ3NF19
+eyJoaXN0b3J5IjpbLTE2NDg1NjEyOTcsMTQ5NzMxMzYwMCwtNz
+c0MjQ0Njc0LC0xNDI1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1MTky
+MjU4MywxNjM5ODgzNjg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4MS
+wtNzY0OTMxNDY5LC0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNjkx
+ODI5MDIwLC0xNDI2MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0ND
+g1MzMyLC0xMTM3NzIxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MTcz
+LC0yNzU0MjI0NzRdfQ==
 -->
