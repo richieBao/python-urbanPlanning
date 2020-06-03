@@ -453,13 +453,18 @@ Out[85]:
 <em>图12 PHMI及其离散值  /Fig 12 </em>
 </p>
 
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_13.png)
+<p align="center">
+<em>图13 跳变点切分  /Fig 13 </em>
+</p>
+
 离散化的方式中选择了两种，一种是分位数，*percentileNumber=[0,1,10,20, 30, 40,50,60, 70, 80, 90,100]*划分了10份；另一种是使用跳变点切分，
 
 
 ## D-待分析的基础数据的调整
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTI3MDIxMSwxNDk3MzEzNjAwLC03Nz
+eyJoaXN0b3J5IjpbLTg3Mjg1ODQzOCwxNDk3MzEzNjAwLC03Nz
 QyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIy
 NTgzLDE2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC
 03NjQ5MzE0NjksLTE2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4
