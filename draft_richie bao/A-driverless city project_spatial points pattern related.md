@@ -163,6 +163,8 @@ Selection of variables(metrics) related to the landmarks space point pattern:
  'PHMI': (0.999999999999999, 0.0)}
 ```
  pearson相关系数显著性检验中，distance_min，（qdt_chi2_6dis，qdt_chi2_8dis），qdt_num_5dis，（qdt_n/Q_10dis，qdt_n/Q_3dis，qdt_n/Q_6dis，qdt_n/Q_8dis，qdt_n/Q_9dis）p-value大于0.05，不能拒绝原假设，因此放弃对应的相关性分析，其中包括连续距离（0-18）下样方统计的相关量qdt_n/Q_。
+
+In the Pearson correlation coefficient test, distance_min，（qdt_chi2_6dis，qdt_chi2_8dis），qdt_num_5dis，（qdt_n/Q_10dis，qdt_n/Q_3dis，qdt_n/Q_6dis，qdt_n/Q_8dis，qdt_n/Q_9dis）can not reject null hypothesis, so the corresponding analysis is abandoned, which includes the correlation quantity qdt_n/Q_ of the quadrilateral statistics under the continuous distance(0-18).
  
 * corr_kendall_jitterMean
 ```python
@@ -494,11 +496,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzOD
-EwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2MTY0NjMs
-LTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5ND
-Q5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4
-OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNj
-Y2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQw
-MzI3MTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzY1ODM4OTMsLTIxOTYyMTYxNCw3ND
+kxNDkxNDAsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgz
+NywyNTU2MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMD
+M5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2
+NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLD
+E2Mzk4ODM2ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5
+MzE0NjldfQ==
 -->
