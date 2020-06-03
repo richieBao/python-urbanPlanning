@@ -475,7 +475,7 @@ Because the data types used in this experiment are relatively single, which can 
 
 同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，前后1步的landmarks空间分布在各个方向上的变化对相关系数也基本没有影响，初步判断基于1步的landmarks空间分布对PHMI没有影响。
 
-
+Simultaneously, the correlation coefficient obtained by the three data types is basically the same, so it can be preliminarily judged that the distance between landmarks and location has no effect on PHMI under the experimental data. Moreover, changes in the spatial distribution of landmarks in the first step and the second step in all directions have no impact on the correlation coefficient. It is preliminarily determined that the spatial distribution of landmarks based on one step has no impact on PHMI.
 
 ### 3-观察样方大小与landmarks分布距离
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_08.jpg)
@@ -521,7 +521,7 @@ Because the data types used in this experiment are relatively single, which can 
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NTU5MTU5LDE1MjQ2MzE5NSwzMzQzMz
+eyJoaXN0b3J5IjpbODY1NjI3MDg2LDE1MjQ2MzE5NSwzMzQzMz
 Q0ODIsLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLTYxMDQ0ODky
 NCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0MDgyOTksLT
 EwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxNDAsLTEzODEw
