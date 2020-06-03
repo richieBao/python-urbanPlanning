@@ -437,7 +437,10 @@ Out[85]:
 <em>图10 连续距离样方G值均值变化  /Fig 10 </em>
 </p>
 
-![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_10.png)
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_11.png)
+<p align="center">
+<em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
+</p>
 
 
 
@@ -448,7 +451,7 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU3MDQ5NjgsLTc3NDI0NDY3NCwtMT
+eyJoaXN0b3J5IjpbLTE2MzkyOTc4NTIsLTc3NDI0NDY3NCwtMT
 QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
 MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
 wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
