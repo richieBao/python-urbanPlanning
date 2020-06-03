@@ -213,7 +213,7 @@
     2. 聚类（分析区域）内及间观测值特征相似性/Silhouette statistics-组间|内相似度/Path Silhouettes/组缘相似度/Boundary Silhouettes
     3. decomposition 基于Shapley分解  
     4. 城市空间因素影响
- 48. Chicago_18__无人驾驶城市_05_空间点模式
+48. Chicago_18__无人驾驶城市_05_空间点模式
     1. 关于相关性/about correlation
     2. landmarks分布方向的影响
     3. 观察样方大小与landmarks分布距离
