@@ -526,8 +526,10 @@ In the discretization, two methods are selected, one is the quantile, *percentil
 ## D-待分析的基础数据的调整 /Adjustment of underlying data to be analyzed
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 
+To further clarify the correlation between spatial point distribution characteristics and PHMI, spatial point distribution can be specifically planned for analysis.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg5OTI2ODYsMTUzNTM4OTM1OCwxNT
+eyJoaXN0b3J5IjpbLTEzNzkwMjk3NTcsMTUzNTM4OTM1OCwxNT
 kxMDg5ODkxLDEzMjY0NzI0MywxNTI0NjMxOTUsMzM0MzM0NDgy
 LC0xMTc0NjE0MzkwLC0yMDgyMTA4MDM3LC02MTA0NDg5MjQsMT
 g4OTg0NjE2NywtMTE1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2
