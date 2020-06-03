@@ -442,7 +442,7 @@ Out[85]:
 <em>图11 连续距离样方G值均值绝对值变化  /Fig 11 </em>
 </p>
 
-空间点模式样方分析目的是探索空间点分布的特征，包括均匀，
+空间点模式样方分析目的是探索空间点分布的特征，包括均匀，随机和聚集的评判。计算反映空间点分布特征的G值，即反映了每一位置下的landmarks分布特征，计算G值jun
 
 
 
@@ -451,11 +451,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ2MzgwMjgsLTc3NDI0NDY3NCwtMT
-QyNTYxODg5MywtMTM0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4
-MzY4Nyw2NjYzMjgwMzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OS
-wtMTY1NDAzMjcxNSwtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQy
-NjExMzc4OCwtMTc2NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNz
-cyMTI5NSwxNTI4NzI3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0
-LDEzNDU5MTkwMjddfQ==
+eyJoaXN0b3J5IjpbMTQ3OTk4NTQzMCwtNzc0MjQ0Njc0LC0xND
+I1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgz
+Njg3LDY2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC
+0xNjU0MDMyNzE1LC03NzkwOTQ5ODAsNjkxODI5MDIwLC0xNDI2
+MTEzNzg4LC0xNzY3MDE4MjQwLC0xNDA0NDg1MzMyLC0xMTM3Nz
+IxMjk1LDE1Mjg3Mjc0MjAsNTI2MTA2MTczLC0yNzU0MjI0NzQs
+MTM0NTkxOTAyN119
 -->
