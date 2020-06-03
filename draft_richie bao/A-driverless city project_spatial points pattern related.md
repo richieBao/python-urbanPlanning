@@ -349,7 +349,7 @@ Through the analysis in the above two directions, it is preliminarily determined
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_0506.jpg)
 <p align="center">
 <em>图5 无人车位置点方向划分  /Fig 5 Location and direction division of AV</em>
-<em>图6 36个方向与PHMI的pearson相关系数  /Fig6 </em>
+<em>图6 36个方向与PHMI的pearson相关系数  /Fig6 The Pearson correlation coefficient of PHMI in 36 directions</em>
 </p>
 
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_07.jpg)
@@ -508,11 +508,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYxODY0NTUsMTg4OTg0NjE2NywtMT
-E1NzkyMTA4LC0xNTUxNDA4Mjk5LC0xMDM2NTgzODkzLC0yMTk2
-MjE2MTQsNzQ5MTQ5MTQwLC0xMzgxMDE0NjQsMTMwNTM1MjEwMC
-wtMzY2MjY4MzcsMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5NzMx
-MDU5OSwtMjAzOTkwMDg2LC00OTQ0OTE0NTEsMTQ5NzMxMzYwMC
-wtNzc0MjQ0Njc0LC0xNDI1NjE4ODkzLC0xMzQ0MDgzMDE1LDM1
-MTkyMjU4M119
+eyJoaXN0b3J5IjpbLTYxMDQ0ODkyNCwxODg5ODQ2MTY3LC0xMT
+U3OTIxMDgsLTE1NTE0MDgyOTksLTEwMzY1ODM4OTMsLTIxOTYy
+MTYxNCw3NDkxNDkxNDAsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC
+0zNjYyNjgzNywyNTU2MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEw
+NTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC
+03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLTEzNDQwODMwMTUsMzUx
+OTIyNTgzXX0=
 -->
