@@ -5,6 +5,7 @@
 > @author: Richie Bao-Chicago.IIT(driverless city project)  data:IIT.driverless city project
 ### 规划组在无人驾驶城市项目中的工作内容 /The work content of the planning group in the driverless city project
 当前无人驾驶城市项目的核心内容是探索GPS和车载激光雷达无人驾驶导航问题。无人驾驶的最终目的是应用研究成果于现实世界，服务人们的日常生活，因此需要探索城市布局与无人驾驶之间的博弈关系。一是改善导航技术，减弱城市空间对导航的影响；二是，对导航有影响的区域（例如高容积率，高密度的城市中心），适当布局城市，使得空间格局适应无人驾驶导航需求。
+The critical content of the current driverless city project is to explore the problem of GPS and vehicle-mounted lidar driverless navigation. The ultimate goal of driverless city project is to apply the research results to the real world and serve people's daily life. Therefore, it is necessary to explore the game relationship between urban layout and driverless vehicles. One is to improve navigation technology and reduce the impact of urban space on navigation. Second, in areas that affect shipping (such as high plot ratio and high-density urban centers), cities should be appropriately laid out to make the spatial pattern adapt to AVs' navigation needs.
 
 规划组则更多考虑城市空间布局的影响，尝试发现空间布局与导航评估值之间的关系，从抽象的特征数据到现实世界的模拟来不断发现与优化空间规划与无人驾驶之间的矛盾。
 
@@ -465,11 +466,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OT
-czMTM2MDAsLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMTM0NDA4
-MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgwMzYsLT
-EzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNSwtNzc5
-MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2NzAxOD
-I0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4NzI3NDIw
-LDUyNjEwNjE3M119
+eyJoaXN0b3J5IjpbLTc5NzMxMDU5OSwtMjAzOTkwMDg2LC00OT
+Q0OTE0NTEsMTQ5NzMxMzYwMCwtNzc0MjQ0Njc0LC0xNDI1NjE4
+ODkzLC0xMzQ0MDgzMDE1LDM1MTkyMjU4MywxNjM5ODgzNjg3LD
+Y2NjMyODAzNiwtMTM1MjcwNzQ4MSwtNzY0OTMxNDY5LC0xNjU0
+MDMyNzE1LC03NzkwOTQ5ODAsNjkxODI5MDIwLC0xNDI2MTEzNz
+g4LC0xNzY3MDE4MjQwLC0xNDA0NDg1MzMyLC0xMTM3NzIxMjk1
+LDE1Mjg3Mjc0MjBdfQ==
 -->
