@@ -422,7 +422,11 @@ Out[85]:
 同时，三种数据类型所获得的相关系数基本相同，因此可初步判断，在该实验数据下，landmarks与location的距离对PHMI基本没有影响；再者，前后1步的landmarks空间分布在各个方向上的变化对相关系数也基本没有影响，初步判断基于1步的landmarks空间分布对PHMI没有影响。
 
 ### 3-观察样方大小与landmarks分布距离
-对导航评估值的影响
+![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_07.jpg)
+
+
+
+
 
 
 ### 4-评估值的划分途径
@@ -430,11 +434,11 @@ Out[85]:
 ## D-验证方式的提出
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDI0NDY3NCwtMTQyNTYxODg5MywtMT
-M0NDA4MzAxNSwzNTE5MjI1ODMsMTYzOTg4MzY4Nyw2NjYzMjgw
-MzYsLTEzNTI3MDc0ODEsLTc2NDkzMTQ2OSwtMTY1NDAzMjcxNS
-wtNzc5MDk0OTgwLDY5MTgyOTAyMCwtMTQyNjExMzc4OCwtMTc2
-NzAxODI0MCwtMTQwNDQ4NTMzMiwtMTEzNzcyMTI5NSwxNTI4Nz
-I3NDIwLDUyNjEwNjE3MywtMjc1NDIyNDc0LDEzNDU5MTkwMjcs
-NTY3NzA1OTBdfQ==
+eyJoaXN0b3J5IjpbMTgwODE1MTY4LC03NzQyNDQ2NzQsLTE0Mj
+U2MTg4OTMsLTEzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2
+ODcsNjY2MzI4MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLT
+E2NTQwMzI3MTUsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYx
+MTM3ODgsLTE3NjcwMTgyNDAsLTE0MDQ0ODUzMzIsLTExMzc3Mj
+EyOTUsMTUyODcyNzQyMCw1MjYxMDYxNzMsLTI3NTQyMjQ3NCwx
+MzQ1OTE5MDI3XX0=
 -->
