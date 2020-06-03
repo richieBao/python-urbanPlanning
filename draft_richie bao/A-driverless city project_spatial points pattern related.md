@@ -15,6 +15,8 @@ The planning group considers the impact of urban spatial layout and tries to fin
 ## A-数据 /data
 分析内容基于无人驾驶城市工程组激光雷达导航模拟数据结果。可以进一步划分为，原始测量数据，基于原始数据调整规划布局后的数据，重新规划后的数据。
 此次实验数据包含两组，一组为原始模拟数据；一组为新规划模拟数据。
+
+The analysis content is based on the results of the lidar navigation simulation data of the engineering group. It can be further into the original measurement data, the data after adjusting the layout based on the original data, and the data after re-planning. The experimental data includes two groups; one group is the original simulated data; Another is a set of simulated data for the new program.
 ![enter image description here](https://github.com/richieBao/python-urbanPlanning/blob/master/images/dcp_spp_01.png)
 <p align="center">
 <em>图1 原始模拟数据  /Fig 1 </em>
@@ -469,11 +471,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NjE2NDYzLC01MzMwNDMzMTcsLTc5Nz
-MxMDU5OSwtMjAzOTkwMDg2LC00OTQ0OTE0NTEsMTQ5NzMxMzYw
-MCwtNzc0MjQ0Njc0LC0xNDI1NjE4ODkzLC0xMzQ0MDgzMDE1LD
-M1MTkyMjU4MywxNjM5ODgzNjg3LDY2NjMyODAzNiwtMTM1Mjcw
-NzQ4MSwtNzY0OTMxNDY5LC0xNjU0MDMyNzE1LC03NzkwOTQ5OD
-AsNjkxODI5MDIwLC0xNDI2MTEzNzg4LC0xNzY3MDE4MjQwLC0x
-NDA0NDg1MzMyXX0=
+eyJoaXN0b3J5IjpbLTY0MzU2NDE3MywyNTU2MTY0NjMsLTUzMz
+A0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwODYsLTQ5NDQ5MTQ1
+MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0MjU2MTg4OTMsLT
+EzNDQwODMwMTUsMzUxOTIyNTgzLDE2Mzk4ODM2ODcsNjY2MzI4
+MDM2LC0xMzUyNzA3NDgxLC03NjQ5MzE0NjksLTE2NTQwMzI3MT
+UsLTc3OTA5NDk4MCw2OTE4MjkwMjAsLTE0MjYxMTM3ODgsLTE3
+NjcwMTgyNDBdfQ==
 -->
