@@ -24,6 +24,8 @@ import scipy.spatial
 import libpysal as ps
 from pointpats import PointPattern, PoissonPointProcess, as_window, G, F, J, K, L, Genv, Fenv, Jenv, Kenv, Lenv #you can also use R's spatstat spatial points pattern library  亦可以使用R的spatstat空间点格局模式库
 import pointpats.quadrat_statistics as qs #apply Quadrat_statistics of PySAL 应用PySAL的Quadrat_statistics
+from pointpats import PoissonPointProcess as csr
+from scipy import stats
 
 #01-classify PHMI with percentile
 def labelsPercentile_upgrade(data):
@@ -154,6 +156,8 @@ def indicatorAssociation(targetPts_idx,locations_pts,Phmi,distance_domain_quadra
         "nnd_mean":[],
         "nnd2_mean":[],
         "G":[],
+        "chi2_10":[],
+        "chi2_10_pval":[],
         # "F":[],
         
         }
@@ -218,11 +222,11 @@ def indicatorAssociation(targetPts_idx,locations_pts,Phmi,distance_domain_quadra
 
         #Nearest Neighbor Distance Functions/simulation envelopes---G  function - event-to-event / F  function - "point-event"
         #simulation envelopes
-        realizations = PoissonPointProcess(pp.window, pp.n, 100, asPP=True) # simulate CSR 100 times
-        genv = Genv(pp, intervals=20, realizations=realizations) # call Genv to generate simulation envelope
-        genv_list.append(genv)
-        plt.figure()
-        genv.plot()
+        # realizations = PoissonPointProcess(pp.window, pp.n, 100, asPP=True) # simulate CSR 100 times
+        # genv = Genv(pp, intervals=20, realizations=realizations) # call Genv to generate simulation envelope
+        # genv_list.append(genv)
+        # plt.figure()
+        # genv.plot()
 
         #G
         gp1 = G(pp, intervals=20) #cumulative nearest neighbor distance distribution over d (corresponding to the y-axis))
@@ -255,11 +259,21 @@ def indicatorAssociation(targetPts_idx,locations_pts,Phmi,distance_domain_quadra
         numDivQuad_df=quadratCount_df.numDivQuad.unstack(level=1)
         numDivQuad_df.set_axis(["qdt_n/Q_"+i for i in numDivQuad_df.columns],axis=1, inplace=True)
         
+        #00-chi2-10
+        csr_process = csr(pp.window, pp.n, 999, asPP=True)
+        q_r_e = qs.QStatistic(pp,shape= "rectangle",nx = 6, ny = 6,realizations = csr_process) #divistion 6 is meant to be 10 meter
+        chi2_10=q_r_e.chi2
+        chi2_10_pval=q_r_e.chi2_r_pvalue
+        indicator_dic["chi2_10"].append(chi2_10)
+        indicator_dic["chi2_10_pval"].append(chi2_10_pval)
+        
         #VMR(Variance/Mean Ratio) 
 
         # if i==5:break
-        i+=1    
-                
+        # i+=1    
+    print("\n")
+    print("+"*50)
+    print(indicator_dic["chi2_10"],indicator_dic["chi2_10_pval"])            
     #direction and distance
     distance_eachDirection=pd.DataFrame.from_dict(distanceContainAdj,orient='index',columns=list(range(num)))
     print(distance_eachDirection)
@@ -420,9 +434,10 @@ if __name__ == "__main__":
         i+=1          
     #A-indicator correlation           
     indicator_df_concat= pd.concat(indicator_df_list)
-    # indicator_df_concat.to_pickle("./indicator_df_concat.pkl")
+    # indicator_df_concat.to_pickle("./indicator_df_concat01.pkl")
     # indicator_df_concat=pd.read_pickle("./indicator_df_concat.pkl")
     indicator_final=indicatorAssociation_postProcessing(indicator_df_concat) #indicator_df_postProcessing
+    indicator_final.nnd2_mean=indicator_final.nnd2_mean.apply(lambda x:np.array(x).mean()) #can compute this part in the above loop
     
     cols=indicator_final.columns.tolist()
     cols.remove("PHMI")
@@ -432,7 +447,7 @@ if __name__ == "__main__":
     
     #B-direction distance correlation
     distance_eachDirection_df=pd.concat(distance_eachDirection_list)
-    # distance_eachDirection_df.to_pickle("./distance_eachDirection_df.pkl")
+    # distance_eachDirection_df.to_pickle("./distance_eachDirection_df01.pkl")
     # distance_eachDirection_df=pd.read_pickle("./distance_eachDirection_df.pkl")
     corr_disDirection=correlation_graph(distance_eachDirection_df,xlabel_str="direction distance",title_str="direction distance correlation")
     #if there is one or more landmarks in each direction
@@ -440,6 +455,26 @@ if __name__ == "__main__":
     distance_eachDirection_isOrNone[["PHMI","loc_x"]]=distance_eachDirection_df[["PHMI","loc_x"]]
     corr_disDirection=correlation_graph(distance_eachDirection_isOrNone,xlabel_str="direction distance",title_str="direction distance correlation_isOrNone")
    
+    distance_eachDirection_df['PHMI_percentile']=indicator_final['PHMI_percentile']
+    distance_eachDirection_df['jitter_mean']=indicator_final['jitter_mean']
+    
+    dis_corre_cols=distance_eachDirection_df.columns.to_list()
+    #a-pearson correlation coefficient
+    dis_corr_pearson_phmi={}
+    for col in dis_corre_cols:
+        dis_corr_pearson_phmi[col]=stats.pearsonr(distance_eachDirection_df.PHMI.to_list(), distance_eachDirection_df[col].to_list())
+        
+    #-Kendall Tau correlation coefficient
+    dis_corr_kendall_phmiPercentile={}
+    dis_corr_kendall_jitterMean={}
+    for col in dis_corre_cols:
+        #jitter_mean
+        dis_corr_kendall_phmiPercentile[col]=stats.kendalltau(distance_eachDirection_df.PHMI_percentile.to_list(), distance_eachDirection_df[col].to_list())
+        #PHMI_percentile
+        dis_corr_kendall_jitterMean[col]=stats.kendalltau(distance_eachDirection_df.jitter_mean.to_list(), distance_eachDirection_df[col].to_list())
+          
+
+    
     #show radar plot
     corr_phmi=abs(corr_disDirection.corr().PHMI[:-2]).fillna(0)
     min_max_scaler = preprocessing.MinMaxScaler()
@@ -483,3 +518,35 @@ if __name__ == "__main__":
     direction_change[["PHMI","loc_x"]]=distance_eachDirection_df[["PHMI","loc_x"]]
     
     corr_direction_change=correlation_graph(direction_change,xlabel_str="direction landmarks change",title_str="direction landmarks correlation_change")
+
+
+    #addition
+    print("chi2_10_pvale /the amount:%s/%s"%(sum(indicator_final.chi2_10_pval<0.05),len(indicator_final.chi2_10_pval)))
+    #50/4432=1.13%, most p-values are larger than 0.05 which can not reject original hypothesis,show that the landmarks pattern is almost random.
+    
+    corre_cols=indicator_final.columns.to_list()
+    #a-pearson correlation coefficient
+    corr_pearson_phmi={}
+    for col in corre_cols:
+        corr_pearson_phmi[col]=stats.pearsonr(indicator_final.PHMI.to_list(), indicator_final[col].to_list())
+        
+    #-Kendall Tau correlation coefficient
+    corr_kendall_phmiPercentile={}
+    corr_kendall_jitterMean={}
+    for col in corre_cols:
+        #jitter_mean
+        corr_kendall_phmiPercentile[col]=stats.kendalltau(indicator_final.PHMI_percentile.to_list(), indicator_final[col].to_list())
+        #PHMI_percentile
+        corr_kendall_jitterMean[col]=stats.kendalltau(indicator_final.jitter_mean.to_list(), indicator_final[col].to_list())
+    
+        
+    # pd.set_option('display.max_columns', None)
+    
+    #segmentation of evaluation value
+    seg_cols=['PHMI_percentile','jitter_mean','PHMI']
+    seg_corr=corr_indicator[seg_cols]
+    
+    plt.figure(figsize=(30,10))
+    sns.set(style="whitegrid")
+    chart=sns.lineplot(data=seg_corr, palette="tab10", linewidth=1.5,)
+    plt.xticks(rotation=90)
