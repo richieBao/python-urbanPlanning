@@ -465,7 +465,7 @@ Out[85]:
 3  0.024895  
 4  0.054708  
 ```
-在从一个位置点变化到另一个位置点有4中变化情况，有->有（11），有->无（10），无->无（00）和无到有（01），分别配置值为"00":0,"01":1,"10":2,"11":3}。
+在从一个位置点变化到另一个位置点有4中变化情况，有->有（11），有->无（10），无->无（00）和无到有（01），分别配置值为{"00":0,"01":1,"10":2,"11":3}。
 
 因为本次实验所使用的数据类型相对比较单一，不能涵盖各种空间分布形式，因此相关系数分析结果更多反映的是当前数据实验下landmarks在各个方向上landmarks变化的影响。如果比较各个方向上与PHMI的相关程度，需要建立典型的landmarks空间分布，进而比较得出相关结论。
 
@@ -515,11 +515,11 @@ Out[85]:
 ## D-待分析的基础数据的调整
 为进一步明确空间点分布特点与PHMI之间的相关关系，可以有针对性的规划空间点分布用于分析。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ2MTQzOTAsLTIwODIxMDgwMzcsLT
-YxMDQ0ODkyNCwxODg5ODQ2MTY3LC0xMTU3OTIxMDgsLTE1NTE0
-MDgyOTksLTEwMzY1ODM4OTMsLTIxOTYyMTYxNCw3NDkxNDkxND
-AsLTEzODEwMTQ2NCwxMzA1MzUyMTAwLC0zNjYyNjgzNywyNTU2
-MTY0NjMsLTUzMzA0MzMxNywtNzk3MzEwNTk5LC0yMDM5OTAwOD
-YsLTQ5NDQ5MTQ1MSwxNDk3MzEzNjAwLC03NzQyNDQ2NzQsLTE0
-MjU2MTg4OTNdfQ==
+eyJoaXN0b3J5IjpbMTY1MDEyOTM2NywtMTE3NDYxNDM5MCwtMj
+A4MjEwODAzNywtNjEwNDQ4OTI0LDE4ODk4NDYxNjcsLTExNTc5
+MjEwOCwtMTU1MTQwODI5OSwtMTAzNjU4Mzg5MywtMjE5NjIxNj
+E0LDc0OTE0OTE0MCwtMTM4MTAxNDY0LDEzMDUzNTIxMDAsLTM2
+NjI2ODM3LDI1NTYxNjQ2MywtNTMzMDQzMzE3LC03OTczMTA1OT
+ksLTIwMzk5MDA4NiwtNDk0NDkxNDUxLDE0OTczMTM2MDAsLTc3
+NDI0NDY3NF19
 -->
