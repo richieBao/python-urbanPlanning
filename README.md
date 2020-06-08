@@ -220,7 +220,7 @@
     4. 评估值的离散化 
 49. Chicago_19__时空数据_05_dash 基于WEB 图表分析
     1. dash | 交互网页图表（web-based analytic apps）/.shp<points,polyton>
-    2. mapbox
+    2. mapbox/地图数据
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
