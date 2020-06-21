@@ -16,6 +16,8 @@ Based on the current technical conditions, the result of driverless navigation e
 ## 1. 转换模拟数据 /transform simulation data
 数据转换时，将MatLab的.fig数据转换为.csv数据存储，为了方便GH数据的调入，分别转换为landmarks坐标，location坐标和PHMI导航评估值三个文件。该部分代码存储在`driverlessCityProject_2grasshopper.py`和`driverlessCityProject_spatialPointsPattern_association_basic.py`文件中。使用时将两个文件放置于同一文件夹下，打开第1个文件，替换MatLab的.fig对应文件，以及配置保存路径计算转换和保存三个文件。
 
+During data conversion, MatLab .fig data is converted to.csv data storage.  Three files were saved to facilitate the input of  GH data, including landmarks coordinates, location coordinates, and PHMI navigation evaluation values. When in use, place the `driverlessCityProject_2grasshopper.py` and`driverlessCityProject_spatialPointsPattern_association_basic.py` files in the same folder, open the first file, replace the corresponding data of .fig of MatLab, and configure the saving path to calculate, transform and save the three files.
+
 ## 2. 编写GH的导入部分组件
 GH支持python语言，而为了避免使用GH自己组件繁琐的连接过程，直接使用GhPython编写代码可以方便简化流程。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/50_02.jpg)
