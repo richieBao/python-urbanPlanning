@@ -7,6 +7,8 @@
 
 无人驾驶项目中的一种探索是基于当前车载激光雷达导航技术，在高容积率的城市中心，GPS信号受到影响的环境下，如何借助城市本身的要素来辅助无人车导航，这时就需要将城市环境与导航评估值结合起来，一方面可以探究影响导航评估值的城市因素；另一方面是，辅助规划优化导航结果。当然这里需要注意的是，当技术不断的发展，再复杂的环境也不会对导航造成影响时，实际上使用规划来辅助导航的意义会随之减弱。
 
+One exploration in the driverless city project is based on the current vehicle-mounted navigation technology, in the downtown with high floor ratio and under the environment where GPS signals are affected, how to assist driverless vehicle navigation with the help of urban elements? At this time, it is necessary to combine the urban environment with the navigation evaluation value. On the one hand, we can explore the urban factors that influence navigation evaluation values. On the other hand, assist the planning in optimizing the navigation results. Of course, it is essential to note that planning to support navigation becomes less useful as technology continues to evolve so that the most sophisticated environment does not affect navigation.
+
 基于当前技术条件，将无人驾驶工程组分析结果用于规划专业，进一步分析及实行空间规划，基于3D模型的参数化技术（grasshopper<GH>）来融合数据是比较好的选择。当前融合数据需要解除几个障碍，一是将工程组基于ROS以及MatLab的模拟数据导入到GH平台，这个过程包括数据转换为GH可以导入的数据格式和GH导入该数据的代码；二是在参数化GH平台下可视化结果，及进一步分析和规划。
   
 ## 1. 转换模拟数据
