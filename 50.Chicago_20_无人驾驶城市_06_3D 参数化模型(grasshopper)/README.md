@@ -24,8 +24,14 @@ GH支持python语言，而为了避免使用GH自己组件繁琐的连接过程�
 GH supports the Python language, and to avoid the tedious writing process of using GH's components, writing code directly in GhPython makes the process easier.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/50_02.jpg)
 
-## 3. GH参数化技术下，实现数据的动态可视化
+## 3. GH参数化技术下，实现数据的动态可视化 /The dynamic visualization of data is realized with GH parameterization technology
 该部分的第1阶段，只实现了已有数据的可视化。为了能够获取真实世界的地理位置，调入实际地图（使用OSM数据），根据实际实验城市区段，在[OSM](https://www.openstreetmap.org/#map=11/43.0092/-88.0621)开源数据网站下载对应区域地图，在GH下应用Elk组件调入地图数据（相对坐标）。并根据已有实际地图来对位模拟数据的空间位置。 同时显示landmarks、location的点位置，并对位location的位置显示PHMI值及其曲线，标识不符合导航要求的PHMI值的位置点，及每一位置下雷达扫描范围下对应的landmarks。 
 
+
+In the first phase of this section, only existing data is visualized. The actual map is called in(OSM data, open street map) to obtain the geographical location of the real world. According to the exact experimental urban section, the corresponding map is download from the SOM, and the map data(relative coordinates) is imported in by 'Elk' add-on under GH, and according to the actual map, align the location of the data position. Meanwhile, the landmarks, locations of the car are displayed, and PHMI values with its curve are shown on the AV's every site.  Locations of PHMI values that do not meet navigation requirements are highlighted, and landmarks corresponding to the lidar scan range for each location.
+
 同时，无人车行驶的过程是可以模拟的，在模拟车行驶的过程中， 动态标识出每一位置的landmarks数量和对应的PHMI值，当PHMI值不满足要求时，显示的值会以颜色的变化标识。
+
+
+At the same time, the process of the self-driving car can be simulated. During the simulation car running, the number of landmarks and the corresponding PHMI value for each location will be dynamically identified. If the PHMI value does not meet the requirements, the displayed value will be identified by the change of color.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/50_03.jpg)
