@@ -12,4 +12,4 @@
 
 ## 2. 编写GH的导入部分组件
 GH支持python语言，而为了避免使用GH自己组件繁琐的连接过程，直接使用GhPython编写代码可以方便简化流程。
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/50_02.gif)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/50_02.jpg)
