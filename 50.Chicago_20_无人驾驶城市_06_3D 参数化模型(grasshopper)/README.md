@@ -11,7 +11,9 @@ One exploration in the driverless city project is based on the current vehicle-m
 
 基于当前技术条件，将无人驾驶工程组分析结果用于规划专业，进一步分析及实行空间规划，基于3D模型的参数化技术（grasshopper<GH>）来融合数据是比较好的选择。当前融合数据需要解除几个障碍，一是将工程组基于ROS以及MatLab的模拟数据导入到GH平台，这个过程包括数据转换为GH可以导入的数据格式和GH导入该数据的代码；二是在参数化GH平台下可视化结果，及进一步分析和规划。
   
-## 1. 转换模拟数据
+Based on the current technical conditions, the result of driverless navigation engineering group analysis is applied to the planning profession for further study and implementation of spatial planning; a better choice is the parametric technology based on the 3D model to fuse data. At present, several obstacles need to be removed for data fusion. First, the simulation data of the engineering group based on ROS and MatLab should be imported into the GH platform. Second,  the visualization results under the parameterized GH platform and further analysis and planning.
+  
+## 1. 转换模拟数据 /transform simulation data
 数据转换时，将MatLab的.fig数据转换为.csv数据存储，为了方便GH数据的调入，分别转换为landmarks坐标，location坐标和PHMI导航评估值三个文件。该部分代码存储在`driverlessCityProject_2grasshopper.py`和`driverlessCityProject_spatialPointsPattern_association_basic.py`文件中。使用时将两个文件放置于同一文件夹下，打开第1个文件，替换MatLab的.fig对应文件，以及配置保存路径计算转换和保存三个文件。
 
 ## 2. 编写GH的导入部分组件
