@@ -221,7 +221,7 @@
 49. Chicago_19__时空数据_05_dash 基于WEB 图表分析
     1. dash | 交互网页图表（web-based analytic apps）/.shp<points,polyton>
     2. mapbox/地图数据
-50 Chicago_20_无人驾驶城市_06_3D 参数化模型(grasshopper)
+50. Chicago_20_无人驾驶城市_06_3D 参数化模型(grasshopper)
     1. 转换模拟数据
     2. 编写GH的导入部分组件  
     3. GH参数化技术下，实现数据的动态可视化
