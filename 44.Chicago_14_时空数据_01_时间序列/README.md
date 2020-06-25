@@ -8,8 +8,10 @@
 
 > 3. 时间序列与时间序列分析 /time-series and time series analysis https://www.cnblogs.com/tianqizhi/p/9277376.html
 
-### 时空数据分析方法
+### 时空数据分析方法 /methods of spatial-temporal data analysis
 城市空间分析中重要的一项分析就是时空数据的分析，目前已经有很多的研究来探索城市空间格局变化的预测模型，来预测城市发展的趋势，以及与时空有关的各类分析技术。在python领域，与时空数据分析的模块库不胜其数，本次数据分析主要目的是分析市域尺度下，城市空间与城市健康之间的关系，所使用的库主要为PySAL(esda,inequlity,segregtion,giddy)，tfresh和dash(plotly)等。基于PySAL时空数据的分析方法可以包括:
+
+An essential analysis in urban spatial analysis is the analysis of spatial-temporal data. There have been many studies exploring the prediction model of urban pattern change, predicting the trend of urban development, and various analysis techniques related to space-time. In the python domain, there is a vast library of modules for spatial-temporal data analysis. This data analysis aims to analyze the relationship between urban space and urban health at the urban scale. The libraries used were mainly PySAL(esda,inequlity,segregtion,giddy)，tfresh and dash(plotly), etc. The spatial-temporal data analysis methods based on PySAL can include:
 
 1. 时间序列分析/time series analysis
 2. 时空分布动态/GIddy/GeospatIal Distribution DYnamics 
