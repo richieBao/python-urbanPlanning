@@ -33,63 +33,63 @@ The simple time-series analysis does not involve spatial problems. Still, it mor
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png)
 
-* 02-数据预处理 （见文件 <em>44.Chicago_14_时空数据_01_时间序列.html</em>）
-#日期索引/#缺失数据填充/#数据采样
+* 02-数据预处理 /data preprocessing（见文件 <em>44.Chicago_14_时空数据_01_时间序列.html</em>）
+#日期索引 data index/#缺失数据填充 missing data fill/#数据采样 data sampling
 
-* 03-平滑/滑动窗口
-> A-平均平滑数据
+* 03-平滑/滑动窗口 smooth window
+> A-平均平滑数据 /average smoothing data
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_03.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_04.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_05.png)
 
-> B-指数平滑
+> B-指数平滑 /exponential smoothing
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_09.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_10.png)
 
 > C-加权平均/weighted average
-> D-异常检测/置信区间
+> D-异常检测 anomaly detection/置信区间 confidence interval
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_06.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_07.png)
 
 * 04-时间序列交叉验证/Time series cross validation
-* 05-特征提取
-> A-时间序列滞后值
+* 05-特征提取 /feature extraction
+> A-时间序列滞后值 /time-series lag values
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_11.png)
-> B-窗口相关统计量
-> C-日期和时间特征
+> B-窗口相关统计量 /window correlation statistics
+> C-日期和时间特征 /data and time feature
 > D-ts|fresh features
 
-* 06-时间序列的（非）线性模型
+* 06-时间序列的（非）线性模型 /a (non-)linear model of time series
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_12.png)
 
 #### ARIMA（autoregression integrated moving average model） 差分自回归移动平均模型
-* 07-平稳性检验-差分法
+* 07-平稳性检验 /stationary test-差分法 /difference method
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_20.png)
 
-* 08-相关函数评估方法
-> A-相关函数
+* 08-相关函数评估方法 /correlation functions evaluation method
+> A-相关函数 /correlation function
 
 偏自相关函数PACF(partial autocorrelation function)
 自相关函数ACF（autocorrelation function）
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_14.png)
 
-> B-散点图
+> B-散点图 /a scatter diagram
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_15.png)
 
-> C-模型评估标准
+> C-模型评估标准 /model evaluation criteria
 
 AIC-akaike information criterion，赤池信息准则
 BIC-bayesian information criterion, 贝叶斯准则
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_17.png)
 
-> D-综合
+> D-综合 /comprehensive
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_16.png)
 
-* 09-模型残差检验
+* 09-模型残差检验 /model residual test
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_18.png)
 
-* 10-模型预测
+* 10-模型预测 /model prediction
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_21.png)
