@@ -19,7 +19,7 @@ The urban spatial segregation model is usually for the analysis of ethnic segreg
 * 基础数据 /basic data
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_02_01.jpg)
 
-* 基尼系数/Gini Gini系数在学术界有广泛争议，需谨慎使用
+* 基尼系数/Gini Gini系数在学术界有广泛争议，需谨慎使用 /Gini coefficient is widely disputed in academic circles and should be used with caution.
 ```python
 gini_19-g: 0.6038053983886671
 ginis: [0.2945679012345679, 0.2945679012345679, 0.2916666666666667, 0.38165193488387406, 0.40337166127679963, 0.4139282614025671, 0.4790247985472705, 0.5366671234197612, 0.5866767499867325, 0.6038053983886671, 0.5939761284190763]
@@ -28,7 +28,7 @@ p_values: [0.07, 0.1, 0.1, 0.14, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01]
 wgs: [0.2841975308641975, 0.2841975308641975, 0.2815372829417773, 0.3687719124981482, 0.39274663632371143, 0.40483006315064046, 0.46804420610600384, 0.5241444760788254, 0.57299129650268, 0.5894393257422903, 0.579897493309077]
 bgs: [0.7158024691358025, 0.7158024691358025, 0.7184627170582227, 0.6312280875018518, 0.6072533636762886, 0.5951699368493595, 0.5319557938939962, 0.4758555239211746, 0.42700870349732, 0.4105606742577097, 0.42010250669092297]
 ```
-> 0表示完全均衡，1表示完全不均衡
+> 0表示完全均衡，1表示完全不均衡 /0 means perfect equilibrium, and 1 means completely unbalances.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_05.png)
 
@@ -48,7 +48,7 @@ Modified Gini : 0.3022909570381693
 Density-Corrected Dissimilarity: 0.24539833442240042
 Minimum-Maximum Index (MM): 0.4018033857078772
 ```
-### 02-分解/decomposition 基于Shapley分解
+### 02-分解/decomposition 基于Shapley分解 /decomposition based on Shapley decomposition
 
 1. Composition Approach (default) 
 ```python
@@ -56,7 +56,7 @@ G19_gini: 0.3845662699919272
 G15_gini: 0.38466250563878474
 G_19-G_15: -9.623564685751207e-05
 ```
-分解为两个分量：空间分量，属性分量/The Spatial component and the attribute component
+分解为两个分量：空间分量，属性分量/It decomposes into two components. The Spatial component and the attribute component
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_06.png)
 ```python
 Shapley's Spatial Component of the decomposition: 0.019061416254844782
@@ -89,7 +89,7 @@ dissimilarity: 0.2853070962596731
 infer_D_eve.est_sim.mean: 0.052974912348536435
 infer_D_eve.p_value: 0.0
 ```
-null_approach = "evenness" 拒绝原假设，即区域间存在差异性  | null_approach = "systematic"
+null_approach = "evenness" 拒绝原假设，即区域间存在差异性 /Reject the null hypothesis that there are differences between regions. | null_approach = "systematic"
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_12._13jpg.jpg)
 
 2. 二值测试/TwoValueTest /比较推断/Comparative Inference
@@ -98,12 +98,12 @@ null_approach = "evenness" 拒绝原假设，即区域间存在差异性  | null
 D_19-D_15: -7.507823217456355e-05
 compare_D_fit.p_value: 0.986
 ```
-接受原假设，即15周和19周两个时期的感染率区域差异性分布变化不明显
+接受原假设，即15周和19周两个时期的感染率区域差异性分布变化不明显 /The null hypothesis was accepted that there was no significant difference in the regional distribution of infection rates between weeks 15 and 19.
 
 
 * 相对集中隔离指数/Relative Concentration (RCO) segregation index
 ### 04-隔离局部方法/Local Measures of segregation
-1. 基础数据处理
+1. 基础数据处理 /necessary data processing
 ```python
                     'Community Area':'社区', 
                     'Community Area Name':'社区名',
@@ -137,7 +137,7 @@ compare_D_fit.p_value: 0.986
 ```
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_14_15_16.jpg)
-> 分析要素组成比例
+> 分析要素组成比例 /analyze the proportion of elements
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_17_18.jpg)
 2. 测量指数
 空间分布相对集中程度
@@ -157,10 +157,10 @@ Simpson's Concentration Index (lambda): 0.6012630764331958
 Simpson's Interaction Index (I) 0.39873692356680424
 Multigroup Divergence Index 0.1172718538918839
 ```
-### 06-城市空间因素影响
+### 06-城市空间因素影响 /the influence of urban spatial factors
 1. 权重空间结构/weights matrices structure
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_25.png)
-2. 权重影响
+2. 权重影响 /weight impact
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_26.png)
 ```python
 aspatial: 0.16298313632840697
@@ -171,16 +171,16 @@ kernel distance neighborhood_B: 0.13043727028007907
 
 euclidian_profile {0: 0.058180633435165705, 2000.0: 0.15484216004384405, 3000.0: 0.13043727028007907, 4000.0: 0.10541368127271342, 5000.0: 0.088480858647156}.
 ```
-3. 城市路网影响
-> 人人之间，接触的容易程度
+3. 城市路网影响 /the impact of the urban road network
+> 人人之间，接触的容易程度 /the ease of contact between people
 
 get_osm_network
-> 计算较花时间，计算距离越大，计算时间逾常
+> 计算较花时间，计算距离越大，计算时间逾常 /The calculation takes time; the higher the distance, the more unusual the calculation time.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_27.png)
 ### 07-城市空间因素.路网/context-a walkabel street network
-避免了单位区域面积大小的影响，尤其单个区域数值高，而面积大的部分，使分析区域合理
-距离：5000m
+避免了单位区域面积大小的影响，尤其单个区域数值高，而面积大的部分，使分析区域合理 /The influence of unit area size is avoided, especially the high value of a single area, while the large area makes the analysis area reasonable. 
+距离 distance：5000m
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_28.png)
 距离权重密度/distance-weighted densities
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/47_29.png)
