@@ -21,12 +21,14 @@ An essential analysis in urban spatial analysis is the analysis of spatial-tempo
 6. 基于web图表分析-dash
 
 
-### A-时空数据-时间序列分析
+### A-时空数据-时间序列分析 /spatial-temporal data-time-series analysis
 单纯的时间序列分析则不涉及到空间的问题，更多内容涉及到数据处理，随时间的变化规律，（feature）特征提取，预测模型例如ARIMA(autoregression integrated moving average model)或者自定义回归模型。
 
-计算罗列如下：
-#### Chicago：Covid-19 基本数据
-* 01-日感染人数与日死亡人数
+The simple time-series analysis does not involve spatial problems. Still, it more involves data processing, time-dependent change rules, feature extraction, prediction models such as ARIMA(autoregression integrated moving average model), or custom regression model.
+
+计算罗列如下 /The calculations are as follows:
+#### Chicago：Covid-19 基本数据 /basic data on Covid-19
+* 01-日感染人数与日死亡人数 /the daily number of infections and the daily number of deaths
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_01.png)
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/44_02.png)
