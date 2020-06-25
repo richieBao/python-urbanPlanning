@@ -1,23 +1,25 @@
-# 45.Chicago_15_时空数据_02_时空分布动态
-数据来源：Chicago Data Portal https://data.cityofchicago.org 可以自行搜索Covid-19，以及所用到的相关数据
+# 45.Chicago_15_时空数据_02_时空分布动态 /spatial-temporal data_02_Spatio-temporal distribution dynamics
+数据来源 /data source：Chicago Data Portal https://data.cityofchicago.org 可以自行搜索Covid-19，以及所用到的相关数据 /you can search Covid-19 by yourself, and the relevant data used.
 
-参考：1-PySAL Notebooks Book: .http://pysal.org/notebooks/explore/esda/intro.html 
+参考 /reference：1-PySAL Notebooks Book: .http://pysal.org/notebooks/explore/esda/intro.html 
 2-GIDDY/GeospatIal Distribution DYnamics https://giddy.readthedocs.io/en/latest/index.html
 
 城市时空数据分析的目的，通常是探查城市区域间某一随时间变化因素之间存在的关系，例如全局相关性变化，LISA变化，从一分位数区域转变到另一分位数区域的概率、
 时间，以及方向，亦包括各区域变化因素的稳定性确定等内容。本次分析所使用的python库为giddy，用于探索城市时空分布动态-Covid-19时空变化。
 
-> 分析结果罗列如下：
+The purpose of urban Spatio-temporal data analysis is usually to explore the association between certain factors that change with time in urban regions, for example, global correlation change, LISA change, the probability of switching from one quantile region to another, time, as well as the direction, also include the regional variation of the stability of factors and so on. The python library used in this analysis is giddy to explore the urban spatial-temporal data distribution variation, Covid-19 spatial-temporal dynamic.
 
-### 00-基础数据处理
-* csv数据（Covid-19 by zip code）
+> 分析结果罗列如下/The analysis results are listed as follows:
 
-  转换为时间序列dataframe
+### 00-基础数据处理 /basic data processing
+* csv数据 /CSV data（Covid-19 by zip code）
+
+  转换为时间序列dataframe /converts to a time-series DataFrame
 
   使用多重索引 multi index
 
-* 读取zip .shp文件
-* 人口数据分位数/父区域划分（zip）
+* 读取zip .shp文件 /read the zip.shp file
+* 人口数据分位数 population quantile/父区域划分 parent region division（zip）
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_01.jpg)
 
 ### 01-时空数据绝对-相对动态变化/absolute dynamics and relative dynamics
