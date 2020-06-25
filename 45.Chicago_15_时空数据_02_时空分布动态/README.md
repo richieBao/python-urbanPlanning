@@ -26,7 +26,7 @@ The purpose of urban Spatio-temporal data analysis is usually to explore the ass
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_02.jpg)
 
 ### 02-离散马尔可夫链/Discrete Markov Chains
-转移矩阵|转移概率|稳态分布 |平均通过时间 
+转移矩阵 transfer matrix |转移概率 transfer probability|稳态分布 steady-state distribution|平均通过时间  average transit time
 ```python
 DMC-transitions:
  [[111.  14.   2.   2.   4.]
@@ -50,14 +50,14 @@ DMC-fmpt [[ 5.52293606 11.32091921 16.01694736 16.98271948 21.43511836]
 ```
  
  ### 03-区域背景（分位数）与莫兰指数/Regional context and Morans Is
- 各周感染案例分位数（5）
+ 各周感染案例分位数 /quantification of weekly infection cases（5）
  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_03.png)
- 值为正且显著，各感染区域并不相互独立
+ 值为正且显著，各感染区域并不相互独立 /The values were positive and significant, and the infected regions were not independent of each other.
  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_04.png)
  
 ### 04-空间马尔可夫/spatial markov
-(空间)马尔可夫转移概率矩阵
-空间滞后，参数之一为邻里区域距离范围均值（y）;看对角线值，可以说明邻里区感染率高，则该区感染率高，反之亦然
+(空间)马尔可夫转移概率矩阵 /Spatial Markov transition probability matrix 
+空间滞后，参数之一为邻里区域距离范围均值（y）;看对角线值，可以说明邻里区感染率高，则该区感染率高，反之亦然 /spatial lag one of the parameters is the mean value of the neighborhood distance range. If you look at the diagonal, you can tell that a neighborhood has a high infection rate, that neighborhood has a high infection rate and vice versa.
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_05.jpg)
 
 ### 05-LISA）马尔可夫/LISA(Local Indicators of Spatial Association) markov 局域空间自相关分析
@@ -85,7 +85,7 @@ chi-2:
  ```
  
  ### 06-全秩马尔可夫|地理秩马尔可夫/full rank markov and Geographic Rank Markov
- 全秩马尔可夫
+ 全秩马尔可夫 /full rank markov
  ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_06.jpg)
  Geographic Rank Markov
   ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/45_07.jpg)
