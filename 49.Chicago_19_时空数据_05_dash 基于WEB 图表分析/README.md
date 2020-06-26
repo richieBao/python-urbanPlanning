@@ -6,6 +6,8 @@ In the process of data analysis, there are collaborative and sharing methods, su
 
 此次实验基于dash提供的案例，将互动网页图表的dash应用于时空数据分析，尝试表现形式，包括地理信息数据的可视化呈现，尤其.shp的point数据和polygon数据的处理；基本折线图表的呈现，以及交互式操作等。当然，在数据分析过程中一开始就基于dash进行图表分析，并不是很理智，专业内容的分析需要将更多的精力放在研究内容上，而不是图表表现上，因为dash更倾向于后期数据图表的交互分享，因此当分析内容结束后，再将代码直接加入dash部分就可以，增加数据分析表现和功用的力度。
 
+Based on the case provided by the dash, this experiment applies the dash of interactive webpage chart to the analysis of spatial-temporal data, and tries to present forms, including the visual presentation fo geographic information data, especially the processing of .shp point data and polygon data; basic line chart presentation, as well as interactive operations. Of course, it not very rational to start the data analysis with a dash based chart. The study of professional content requires more attention to the research content rather than the chart presentation. Since dash prefers interactive sharing of late-stage data diagrams, adding code directly to dash after the analysis is done can increase the performance and utility of data analysis.
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/49_01.jpg)
 > satellite地理信息数据为底图
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/49_02.jpg)
