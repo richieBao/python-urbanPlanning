@@ -9,5 +9,5 @@ In the process of data analysis, there are collaborative and sharing methods, su
 Based on the case provided by the dash, this experiment applies the dash of interactive webpage chart to the analysis of spatial-temporal data, and tries to present forms, including the visual presentation fo geographic information data, especially the processing of .shp point data and polygon data; basic line chart presentation, as well as interactive operations. Of course, it not very rational to start the data analysis with a dash based chart. The study of professional content requires more attention to the research content rather than the chart presentation. Since dash prefers interactive sharing of late-stage data diagrams, adding code directly to dash after the analysis is done can increase the performance and utility of data analysis.
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/49_01.jpg)
-> satellite地理信息数据为底图
+> satellite地理信息数据为底图 /satellite geographic information data as a base map
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/49_02.jpg)
