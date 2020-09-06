@@ -4,3 +4,13 @@
 
 为了观察特征点的空间模式与评估值之间的关系，在之前的探索中采用了方向划分、样方采样、最近邻等分析手段，分析空间模式对导航的影响。而为了进一步验证分析的结果，可以固定某些条件，生成符合条件的空间点模式，用这些具有特殊属性的空间点模式重新模拟，再通过相关性分析等手段，分析该条件是否对导航有所影响。这种生成特定空间点模式的方法，可以避免盲目不断的对环境的改变，来试验结果的方式。在尝试过程中，初步生成了两种类型的空间点模式，一种是固定方向；再者为固定数量。如下图所示：
 
+* 固定方向
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/51_01.gif)
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/51_02.gif)
+
+* 固定数量
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/51_03.gif)
+
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/51_04.gif)
