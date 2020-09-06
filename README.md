@@ -224,7 +224,10 @@
 50. Chicago_20_无人驾驶城市_06_3D 参数化模型(grasshopper)
     1. 转换模拟数据
     2. 编写GH的导入部分组件  
-    3. GH参数化技术下，实现数据的动态可视化
+    3. GH参数化技术下，实现数据的动态可视化    
+51. Chicago_21_无人驾驶城市_07_空间点模式的生成
+    1. 生成固定方向和数量的空间点模式
+    2. grasshopper空间点数据调入程序
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
