@@ -1,6 +1,6 @@
 # Chicago_22_无人驾驶城市_08_点云分割_点特征
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_02.gif =800)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_02.gif | width=100)
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_01.gif)
 
