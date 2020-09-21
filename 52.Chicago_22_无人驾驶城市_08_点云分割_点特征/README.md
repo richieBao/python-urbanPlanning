@@ -2,10 +2,10 @@
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_02.gif" width="1000">
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_02.gif)
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_01.gif" width="1000">
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_01.gif)
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_03.gif" width="1000">
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_03.gif)
+<img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_04.gif" width="1000">
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/52_04.gif)
+
