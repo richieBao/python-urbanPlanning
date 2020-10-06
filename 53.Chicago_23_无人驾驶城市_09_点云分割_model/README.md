@@ -4,4 +4,11 @@
 
 <img src="https://github.com/richieBao/python-urbanPlanning/blob/master/images/skitti_pytorchGeo_test_s.gif" width="1000">
 
-该部分核心的深度学习模型为已有研究相关作者的代码迁移，仅在数据集处理上重新调整和编写了代码。初步测试的模型包括两个，一个是基于[PyTorch Geometric(PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)的图结构及PointNet++模型；二是[polarNet](https://github.com/edwardzhou130/PolarSeg)模型；模型训练的数据集为[SemanticKITTI](http://semantic-kitti.org/)，
+该部分核心的深度学习模型为已有研究相关作者的代码迁移，仅在数据集处理上重新调整和编写了代码。初步测试的模型包括两个，一个是基于[PyTorch Geometric(PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)的图结构及PointNet++模型；二是[polarNet](https://github.com/edwardzhou130/PolarSeg)模型；模型训练的数据集为[SemanticKITTI](http://semantic-kitti.org/)，最终用于预测的数据为IIT无人驾驶项目的数据。进行点云分割的目的有：
+
+1. 无人驾驶激光雷达导航与城市环境的变化关系，是从地物类别，即规划者角度识别城市环境变化对导航的影响； 
+2. 除了无人驾驶项目，因为无人车车载雷达扫描的点云数据为随车行序列变化的扫描结果，因此试图思索依据这些数据，是否对未来的规划方法，以及城市环境的研究有所帮助，发掘出一些可行方法。
+
+不过此次实验的两个模型，预测结果并不理想。对于PyG，其训练的结果为*68,skitti_PyTorchGeo_epoch_3599_Acc_0.7523.pth,0.6910250186920166*，虽然训练结果差强人意，但是实际预测偏差较大，如上图；对于polarNet， 其训练结果亦是如此。其中的原因初步估计为：1.SemanticKITTI数据集训练的模型是否适用于任何区域所获取的点云数据；2.数据集建立所引入的特征类型需要调整；3.模型超参进一步调整。虽然实验结果并不理想，但是已经建立起点云分割的基本架构，例如根据特征建立数据集的方法，数据测试观察方式等，基于已有基础，下一步的重点将在于对模型的理解，调试，甚至重建，及参数的调整等内容。当预测结果达到一定精度之后，才能够结合到导航评估和城市环境变化等分析上来。技术成为了很多研究分析的基础，这道坎不跨过，后续工作无法开展。
+
+因此在此也多罗嗦一下，只有自行解决了技术问题，才能自由的在技术的过程中解决专业的问题，不是在技术固定形态之后再根据已有的功能来进行研究，因为技术的过程本身就应是研究的过程组成。这也是为什么对于研究者要学习python，grasshopper等工具，而不是Revit，Auto Civil 3D，因为前者我们可以在工具中创新，而后者我们只能应用（别人的思想）。在下一次分享，将综述参数化当前的研究内容，无限的创新才是设计的乐趣所在。
