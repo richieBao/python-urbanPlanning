@@ -232,6 +232,12 @@
 51. Chicago_21_无人驾驶城市_07_空间点模式的生成
     1. 生成固定方向和数量的空间点模式
     2. grasshopper空间点数据调入程序
+52. Chicago_22_无人驾驶城市_08_点云分割_点特征
+    1. 建立数据集/三维|二维投影|极坐标投影|体素|PyTorch Geometric 图结构
+    2. 动态GIF生成与压缩
+53. Chicago_23_无人驾驶城市_09_点云分割_model
+    1. PyTorch Geometric 图结构模型
+    2. 迁移PolarNet模型
     
 ### License ###
 This code is only for academic purpose. For commercial purpose, please contact us.
