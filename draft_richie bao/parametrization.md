@@ -9,21 +9,21 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
 由上述桑基图可以归结参数化设计相关研究内容的大类为：
 1. grasshopper（GH）参数化设计工具界面体验；
-2. 数据管理及处理，云平台、数据库及运算；
-3. 结构构建信息与建构、结构分析及协同优化；
-4. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式结构协同优化；
-5. 设计几何空间形式构建、分析、算法、生成；
-6. 制造装配、机器（人）建造与3D打印；
-7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
-8.  GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
-9. 图表报告及制图；
-10. 交互硬件，实验设备数据流及分析、控制；
+2. 设计几何空间形式构建、分析、算法、生成；
+3. 数据管理及处理，云平台、数据库及运算；
+4. 结构构建信息与建构、结构分析及协同优化；
+5. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式结构协同优化和评估；
+6. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
+7. 制造装配、机器（人）建造与3D打印；
+8. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
+9. 交互硬件，实验设备数据流及分析、控制；
+10. 图表报告及制图；
 11. 
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYxMTkyODMsMTMwMzUxNjI1NCwxNz
-g5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Niw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMzMzNjcwMjAzLDEzMDM1MTYyNTQsMTc4OT
+I5NDY5LC0xNjU2MzE5NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2
+XX0=
 -->
