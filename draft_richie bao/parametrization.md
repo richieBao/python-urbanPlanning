@@ -6,11 +6,11 @@
 
 
 
-![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/report_03_c.gif)
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
 
 
-
+![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTI5NDY5LC0xNjU2MzE5NjczLDE0Nj
-I5MDYyNzYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTEwODgxMTk0LDE3ODkyOTQ2OSwtMTY1Nj
+MxOTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
 -->
