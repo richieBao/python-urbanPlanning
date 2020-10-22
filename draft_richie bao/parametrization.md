@@ -14,12 +14,13 @@
 4. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式结构协同优化；
 5. 设计几何空间形式构建、分析、算法、生成；
 6. 制造装配、机器（人）建造与3D打印；
-7. BIM（Building Information ）
+7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
+8. 
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAyNDQ2MzgsMTMwMzUxNjI1NCwxNz
-g5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Niw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbNzY5NTI3NzYsMTMwMzUxNjI1NCwxNzg5Mj
+k0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Niw3MzA5OTgxMTZd
+fQ==
 -->
