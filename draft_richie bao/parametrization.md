@@ -55,12 +55,14 @@
 
 参数化设计只能依托于工具开展，目前国内外广泛使用的是grasshopper节点式编程，以及python语言。因此开源代码将有助于读者对于本书的阅读实践，同时代码通常因为算法的优化，以及核心库的更新需要对应做出调整。开源代码不断的更新将保持程序的正确性，从而减轻读者阅读障碍。开源代码和写作同步与在线社区结合，可以增加图书的扩展性。
 
+设计案例的质量以及丰富的图表表述不仅在参数化设计方法上给与指引，同时作为设计专业，好的设计作品，以及艺术表述都是对设计自身修养的提升，必定能够吸引更多的读者。
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU0NzIwNzIsLTE4NjM0Njg3MDgsMT
-c1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3MTg2LDEzMDM1
-MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLDE0NjI5MDYyNz
-YsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTMxNDM3ODU5NiwtMTg2MzQ2ODcwOCwxNz
+U0ODM3MTIwLDIwNjE2NDAwOTYsLTExNzk2NjcxODYsMTMwMzUx
+NjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Ni
+w3MzA5OTgxMTZdfQ==
 -->
