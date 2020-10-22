@@ -20,11 +20,12 @@
 10. 交互硬件，实验设备数据流及分析、控制；
 11. 图表报告及制图；
 
+当前参数化方法的研究内容已经拓展到从设计、分析到施工、建造的整个流程，
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjI2MzMwNywxMzAzNTE2MjU0LDE3OD
+eyJoaXN0b3J5IjpbLTE4NDkxODU5NywxMzAzNTE2MjU0LDE3OD
 kyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LDczMDk5ODEx
 Nl19
 -->
