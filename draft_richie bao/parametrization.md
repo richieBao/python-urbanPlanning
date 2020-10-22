@@ -15,15 +15,15 @@
 5. 设计几何空间形式构建、分析、算法、生成；
 6. 制造装配、机器（人）建造与3D打印；
 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
-8. 图表报告及制图；
-9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
+8.  GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
+9. 图表报告及制图；
 10. 交互硬件，实验设备数据流及分析、控制；
 11. 
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwOTA1MzQ3LDEzMDM1MTYyNTQsMTc4OT
-I5NDY5LC0xNjU2MzE5NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTEwMTYxMTkyODMsMTMwMzUxNjI1NCwxNz
+g5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Niw3MzA5OTgx
+MTZdfQ==
 -->
