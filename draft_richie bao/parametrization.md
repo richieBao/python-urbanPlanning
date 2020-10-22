@@ -69,14 +69,14 @@
 6. 生态分析与协同；
 7. BIM的参数化途径；
 8. 制造装配、机器（人）建造与3D打印；
-9. ji
+9. 交互硬件实验，从互动装置到城市感知；
 10. 机器学习和深度学习的智能化设计；
-11. 
+11. 图表报告及制图。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTIwMzc5Miw2Mjc3NTk5OTYsLTE4Nj
-M0Njg3MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3
-MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLD
-E0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTMzNDM0NjY0LDYyNzc1OTk5NiwtMTg2Mz
+Q2ODcwOCwxNzU0ODM3MTIwLDIwNjE2NDAwOTYsLTExNzk2Njcx
+ODYsMTMwMzUxNjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2NzMsMT
+Q2MjkwNjI3Niw3MzA5OTgxMTZdfQ==
 -->
