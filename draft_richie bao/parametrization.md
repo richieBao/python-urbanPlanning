@@ -8,12 +8,14 @@
 由CNKI（China National Knowledge Infrastructur）搜索截至于2020年10月份参数化相关的核心期刊论文（中国园林、风景园林）约为19篇、博硕论文约为32篇，基于grasshopper的扩展应用（add-on app/plugins）约为434个。根据论文研究的主要内容，以及扩展应用的实现功能归结桑基图表如下：
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
 由上述桑基图可以归结参数化设计相关研究内容的大类为：
-1. gra
+1. grasshopper（GH）参数化设计工具界面体验；
+2. 数据管理及处理；
+3. 
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjQwODc5NiwxMzAzNTE2MjU0LDE3OD
+eyJoaXN0b3J5IjpbMTQ5OTc4ODE0NiwxMzAzNTE2MjU0LDE3OD
 kyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LDczMDk5ODEx
 Nl19
 -->
