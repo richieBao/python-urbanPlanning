@@ -51,9 +51,9 @@
 3. 设计案例的质量，包括设计质量，及案例定位；
 4. 丰富图表表述；
 5. 创新性，包括参数化理论研究、设计方法，以及图书本身；
-6. 
+6. 中英双版同步（作者初（粗）翻）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4MzgxOTYsMjA2MTY0MDA5NiwtMT
+eyJoaXN0b3J5IjpbLTE1ODA0NjU5MTUsMjA2MTY0MDA5NiwtMT
 E3OTY2NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMx
 OTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
 -->
