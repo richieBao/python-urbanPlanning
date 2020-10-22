@@ -44,9 +44,11 @@
 ## 《设计逻辑+算法+参数化》专著定位
 基于上述粗略的综述内容对以往研究的回顾，基于试图推动数字化设计的进一步发展的目标，以及因为好的纯粹的工具教程类图书只能在参数化工具教学推广上促进数字化普及，而纯粹的理论研究因为缺失可操作性不易于数字化设计实践，设计实践类则仅是设计作品或者论文的汇总缺乏系统性以及可操作性，那么综合理论研究、设计实践及工具教程的图书也许可以开辟奇径，达成目标。
 
+**著作的特点定位**
 
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYyMTIwNTEsMjA2MTY0MDA5NiwtMT
-E3OTY2NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMx
-OTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTMzMjQwMzEwNCwyMDYxNjQwMDk2LC0xMT
+c5NjY3MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5
+NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
