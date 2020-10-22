@@ -25,10 +25,10 @@
 同时，自由的环节衔接，为每一环节的纵向挖掘和拓展提供了无限的研究发展空间，这体现在大类下的各个小类内容上，例如第2类的“设计几何空间形式构建、分析、算法、生成”大类下可以包括形式生成、表皮细分、专项参数模型等，而形式生成类下又可以细分多代理系统、粒子系统、进化（优化）算法等内容。具体可以从上述桑基图表获得所有方向上的纵向研究内容发展情况。
 
 ## 当前参数化设计相关图书的内容初步梳理
-参数化相关出版的图书主要包括三个方向，一是比较纯粹的理论研究。其中内容更多探索设计方法
+参数化相关出版的图书主要包括三个方向，一是比较纯粹的理论研究。其中内容更多探索设计方法、设计哲学等，对参数化设计方法的产生、推广，及未来探索的理论基石
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY0OTc5NzEsMjA2MTY0MDA5NiwtMT
+eyJoaXN0b3J5IjpbLTE1NDM0OTU4NDYsMjA2MTY0MDA5NiwtMT
 E3OTY2NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMx
 OTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
 -->
