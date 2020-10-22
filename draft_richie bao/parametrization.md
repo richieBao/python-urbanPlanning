@@ -29,10 +29,10 @@
 一是比较纯粹的理论研究。其中内容更多探索设计方法、设计哲学等，对参数化设计方法的产生、推广，及未来探索的理论基石。所涉及的领域多为复杂系统，及其各类生成算法（遗传算法、神经网络、元胞自动机、分形、多代理等）；
 二是设计实践类，其下又可以包括学生（教学）设计项目汇编、数字会议论文汇编、建筑展汇编、相关研究项目及建成项目汇编等；
 三是参数化工具教程类。可以分为工具类和语言类，例如工具类可以包括grasshopper、 dynamo等节点类编程；语言类包括python、C#等。
-由下述已出版图书类可以粗略估计理论研究类大于25本，设计实践类大于5+4本，工具教程类大于4本。有些著作内容既包括理论研究又含有工具教程，因此
+由下述已出版图书类可以粗略估计理论研究类大于25本，设计实践类大于5+4本，工具教程类大于4本。有些著作内容既包括理论研究又含有工具教程，因此各类总数大于总图书数量。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk3NzMyOTksMjA2MTY0MDA5NiwtMT
-E3OTY2NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMx
-OTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTYyMzE0MjA1NCwyMDYxNjQwMDk2LC0xMT
+c5NjY3MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5
+NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
