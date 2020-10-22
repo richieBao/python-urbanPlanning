@@ -63,15 +63,17 @@
 
 1. 参数化设计研究综述；
 2. 参数化设计工具界面扩展体验；
-3. shu'ju
+3. 数据管理、处理与分析技术；
 4. 设计几何空间形式构建、分析、算法与生成；
-5. 机器学习和深度学习的智能化设计；
-6. 
+5. 结构分析与协同
+6. 生态分析与系统
+7. 机器学习和深度学习的智能化设计；
+8. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzI1NDMzMyw2Mjc3NTk5OTYsLTE4Nj
-M0Njg3MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3
-MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLD
-E0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNTkxMTI3MzQsNjI3NzU5OTk2LC0xOD
+YzNDY4NzA4LDE3NTQ4MzcxMjAsMjA2MTY0MDA5NiwtMTE3OTY2
+NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMxOTY3My
+wxNDYyOTA2Mjc2LDczMDk5ODExNl19
 -->
