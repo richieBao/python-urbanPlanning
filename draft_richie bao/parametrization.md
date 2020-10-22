@@ -31,8 +31,9 @@
 三是参数化工具教程类。可以分为工具类和语言类，例如工具类可以包括grasshopper、 dynamo等节点类编程；语言类包括python、C#等。
 由下述已出版图书类可以粗略估计理论研究类大于25本，设计实践类大于5+4本，工具教程类大于4本。有些著作内容既包括理论研究又含有工具教程，因此各类总数大于总图书数量。
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
+由初步估计的各类图书分类数，工具教程类在总数中相对较少，一方面当前网络大发展，在线教育de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzE0MjA1NCwyMDYxNjQwMDk2LC0xMT
+eyJoaXN0b3J5IjpbMTI0MjE4NTE2NCwyMDYxNjQwMDk2LC0xMT
 c5NjY3MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5
 NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
