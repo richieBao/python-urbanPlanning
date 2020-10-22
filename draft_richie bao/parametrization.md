@@ -20,12 +20,12 @@
 10. 交互硬件，实验设备数据流及分析、控制；
 11. 图表报告及制图；
 
-当前参数化方法的研究内容已经拓展到从设计、分析到施工、建造的整个流程，从基本的设计几何构建下的形式逻辑探索，到融合结构与生态协同的设计形式优化，及BIM和GIS领域的结合，再到机器人建造和硬件信息交互，不仅在
+当前参数化方法的研究内容已经拓展到从设计、分析到施工、建造的整个流程，从基本的设计几何构建下的形式逻辑探索，到融合结构与生态协同的设计形式优化，及BIM和GIS领域的结合，再到机器人建造和硬件信息交互，不仅在从设计到建造的过程流线下
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY1MDcyNzIsLTExNzk2NjcxODYsMT
-MwMzUxNjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2Mjkw
-NjI3Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI2NjEwOTA3NCwtMTE3OTY2NzE4NiwxMz
+AzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2
+Mjc2LDczMDk5ODExNl19
 -->
