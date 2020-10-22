@@ -6,7 +6,9 @@
 > 第1稿，概述（草） -作者：包瑞清
 ## 通过参数化论文、博硕论文与App(grasshopper)综述当前参数化设计研究现状
 由CNKI（China National Knowledge Infrastructur）搜索截至于2020年10月份参数化相关的核心期刊论文（中国园林、风景园林）约为19篇、博硕论文约为32篇，基于grasshopper的扩展应用（add-on app/plugins）约为434个。根据论文研究的主要内容，以及扩展应用的实现功能归结桑基图表如下：
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
+
 由上述桑基图可以归结参数化设计相关研究内容的大类为：
 1. grasshopper（GH）参数化设计工具界面体验；
 2. 设计几何空间形式构建、分析、算法、生成；
@@ -26,11 +28,17 @@
 
 ## 当前参数化设计相关图书的内容初步梳理
 参数化相关出版的图书主要包括三个方向：
+
 一是比较纯粹的理论研究。其中内容更多探索设计方法、设计哲学等，对参数化设计方法的产生、推广，及未来探索的理论基石。所涉及的领域多为复杂系统，及其各类生成算法（遗传算法、神经网络、元胞自动机、分形、多代理等）；
+
 二是设计实践类，其下又可以包括学生（教学）设计项目汇编、数字会议论文汇编、建筑展汇编、相关研究项目及建成项目汇编等；
+
 三是参数化工具教程类。可以分为工具类和语言类，例如工具类可以包括grasshopper、 dynamo等节点类编程；语言类包括python、C#等。
+
 由下述已出版图书类可以粗略估计理论研究类大于25本，设计实践类大于5+4本，工具教程类大于4本。有些著作内容既包括理论研究又含有工具教程，因此各类总数大于总图书数量。
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
+
 由初步估计的各类图书分类数，工具教程类在总数中相对较少，是由于当前网络的发展，在线教育的成熟，以及数字化设计工具的特点更适合于以网络在线的形式出现（其又可分为教学视频类<含高校课程>、代码互动操作类、及一般意义的电子书<未正式出版，但网络传播>）等。在线的参数化设计教学视频课程相对较多，可以弥补参数化工具类图书的缺失。而理论研究类所列数量较多，并不代表其研究内容是全部针对参数化类的研究，而是其内容与参数化设计研究相关，或者所研究内容适合于以参数化的形式发展等。
 
 ## 《设计逻辑+算法+参数化》专著定位
@@ -38,7 +46,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM3ODUxNjMsMjA2MTY0MDA5NiwtMT
+eyJoaXN0b3J5IjpbLTIxMzYyMTIwNTEsMjA2MTY0MDA5NiwtMT
 E3OTY2NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMx
 OTY3MywxNDYyOTA2Mjc2LDczMDk5ODExNl19
 -->
