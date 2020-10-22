@@ -60,8 +60,8 @@
 根据已有研究11大方向的归类综述，结合可操作的代码，系统的阐述参数化的研究内容，并加以实际模型搭建（包括硬件），和参数化设计方法的引导，注重编程的核心数据处理技术，以及结合设计的算法途径，增加专著的研究分量。
 
 **目录粗估**
-序与学习方法
-章节结构
+序与学习方法指南
+章节内容结构索引
 1. 参数化设计研究综述；
 2. 参数化设计工具界面扩展体验；
 3. 数据管理、处理与分析技术；
@@ -74,10 +74,18 @@
 10. 机器学习和深度学习的智能化设计；
 11. 图表报告及制图。
 
+检索
+12. 代码工具
+13. 数据索引
+14. 实验索引
+15. 专业术语
+16. 参考文献
+ 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU0NDkyODIsNjI3NzU5OTk2LC0xOD
-YzNDY4NzA4LDE3NTQ4MzcxMjAsMjA2MTY0MDA5NiwtMTE3OTY2
-NzE4NiwxMzAzNTE2MjU0LDE3ODkyOTQ2OSwtMTY1NjMxOTY3My
-wxNDYyOTA2Mjc2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA3NzMyMDc4Myw2Mjc3NTk5OTYsLTE4Nj
+M0Njg3MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3
+MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLD
+E0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
