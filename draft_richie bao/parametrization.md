@@ -48,9 +48,11 @@
 
 1. 开源代码；
 2. 在线社区；
-3. 设计案例的质量，包括
+3. 设计案例的质量，包括设计质量，及案例定位；
+4. 丰富图表表述；
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzE5ODY5NywyMDYxNjQwMDk2LC0xMT
+eyJoaXN0b3J5IjpbMjAwMDk1NzY4OCwyMDYxNjQwMDk2LC0xMT
 c5NjY3MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5
 NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
