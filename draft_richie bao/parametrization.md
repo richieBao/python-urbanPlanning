@@ -53,9 +53,9 @@
 5. 创新性，包括参数化理论研究、设计方法，以及图书本身；
 6. 中英双版同步（作者初（粗）翻）在线更新。
 
-参数化设计依托于工具而开展
+参数化设计只能依托于工具开展，目前国内外广泛使用的是grasshopper节点式编程，以及python语言，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3OTI0MTEzLC0xODYzNDY4NzA4LDE3NT
+eyJoaXN0b3J5IjpbLTg4NjI5NDc0LC0xODYzNDY4NzA4LDE3NT
 Q4MzcxMjAsMjA2MTY0MDA5NiwtMTE3OTY2NzE4NiwxMzAzNTE2
 MjU0LDE3ODkyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LD
 czMDk5ODExNl19
