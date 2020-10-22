@@ -57,11 +57,11 @@
 
 设计案例的质量以及丰富的图表表述不仅在参数化设计方法上给与指引，同时作为设计专业，好的设计作品，以及艺术表述都是对设计自身修养的提升，必定能够吸引更多的读者。
 
-根据已有研究11大方向的归类综述，结合可操作的代码，系统的阐述参数化的研究内容，并
+根据已有研究11大方向的归类综述，结合可操作的代码，系统的阐述参数化的研究内容，并加以实际模型搭建，和参数化设计方法的引导，注重编程的核心数据处理技术，以及结合设计的算法tu'g'jing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDY2NzA3NSwtMTg2MzQ2ODcwOCwxNz
+eyJoaXN0b3J5IjpbMTYzMjcyNDUxNSwtMTg2MzQ2ODcwOCwxNz
 U0ODM3MTIwLDIwNjE2NDAwOTYsLTExNzk2NjcxODYsMTMwMzUx
 NjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2NzMsMTQ2MjkwNjI3Ni
 w3MzA5OTgxMTZdfQ==
