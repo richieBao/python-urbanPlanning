@@ -11,12 +11,13 @@
 1. grasshopper（GH）参数化设计工具界面体验；
 2. 数据管理及处理，云平台、数据库及运算；
 3. 结构构建信息与建构、结构分析及协同优化；
-4. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式协同优化
+4. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式结构协同优化；
+5. 设计几何形式构建、分析、
 
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQ5MDk5NiwxMzAzNTE2MjU0LDE3OD
+eyJoaXN0b3J5IjpbMTMxMDA3OTUwNCwxMzAzNTE2MjU0LDE3OD
 kyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LDczMDk5ODEx
 Nl19
 -->
