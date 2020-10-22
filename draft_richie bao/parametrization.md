@@ -59,10 +59,14 @@
 
 根据已有研究11大方向的归类综述，结合可操作的代码，系统的阐述参数化的研究内容，并加以实际模型搭建（包括硬件），和参数化设计方法的引导，注重编程的核心数据处理技术，以及结合设计的算法途径，增加专著的研究分量。
 
+**目录粗估**
+
+1. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NzU5OTk2LC0xODYzNDY4NzA4LDE3NT
-Q4MzcxMjAsMjA2MTY0MDA5NiwtMTE3OTY2NzE4NiwxMzAzNTE2
-MjU0LDE3ODkyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTUzNjkyMjQ4NSw2Mjc3NTk5OTYsLTE4Nj
+M0Njg3MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3
+MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLD
+E0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
