@@ -63,12 +63,15 @@
 
 1. 参数化设计研究综述；
 2. 参数化设计工具界面扩展体验；
-3. 
+3. shu'ju
+4. 设计几何空间形式构建、分析、算法与生成；
+5. 机器学习和深度学习的智能化设计；
+6. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODI2Mzk3LDYyNzc1OTk5NiwtMTg2Mz
-Q2ODcwOCwxNzU0ODM3MTIwLDIwNjE2NDAwOTYsLTExNzk2Njcx
-ODYsMTMwMzUxNjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2NzMsMT
-Q2MjkwNjI3Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUxNzI1NDMzMyw2Mjc3NTk5OTYsLTE4Nj
+M0Njg3MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3
+MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLD
+E0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
