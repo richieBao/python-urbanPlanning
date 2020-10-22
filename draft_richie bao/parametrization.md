@@ -33,9 +33,10 @@
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 由初步估计的各类图书分类数，工具教程类在总数中相对较少，是由于当前网络的发展，在线教育的成熟，以及数字化设计工具的特点更适合于以网络在线的形式出现（其又可分为教学视频类<含高校课程>、代码互动操作类、及一般意义的电子书<未正式出版，但网络传播>）等。而理论研究类所列数量较多，并不代表其研究内容是全部针对参数化类的研究，而是其内容与参数化设计研究相关，或者所研究内容适合于以参数化的形式发展等。
 
-## 
+## 《设计逻辑+算法+参数化》专著定位
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjc0NjIxLDIwNjE2NDAwOTYsLTExNz
-k2NjcxODYsMTMwMzUxNjI1NCwxNzg5Mjk0NjksLTE2NTYzMTk2
-NzMsMTQ2MjkwNjI3Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAyMDk2MDg3MCwyMDYxNjQwMDk2LC0xMT
+c5NjY3MTg2LDEzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5
+NjczLDE0NjI5MDYyNzYsNzMwOTk4MTE2XX0=
 -->
