@@ -1,0 +1,100 @@
+#parametric materials created by Richie Bao
+#index:{data:[name, date, case(1),international(1),['理论研究':0,'设计实践':1,'工具教程'：2，''：3,'':4,'':5]],link:['']}
+#case(0:book,1:manual)
+materials:
+    [
+    #论著
+    {data:['AAD Algorithms-Aided Design: Parametric Strategies using Grasshopper',2014_10,0,1,2],link:['grasshopper','参数化图解 the parametric diagram']},
+    {data:['The Nature of Code-simulating natural system with processing',2012_12,0,1,0],link:['Processing','力 forces','振动 oscillation','粒子系统 partical systems','物理现象 physics libraries','自治代理 autonomous agents','元胞自动机 cellular automata','分形 fractals','进化算法 evolution', '神经网络 neural networks',]},
+    {data:['Parametric architecture with Grasshopper',2011_00,0,1,2],link:['grasshopper',]},
+    {data:['AA book: projects review-Architectural Association Publications',2000_00,0,1,1],link:['学生设计项目',]},
+    {data:['The Bartlett Book / Bartlett School of Architecture, UCL',2000_00,0,1,1],link:['学生设计项目',]},
+    {data:['New computational paradigms in architecture',2012_08,0,1,1],link:['建筑展',]},
+    {data:['Adaptive ecologies : correlated systems of living',2013_06,0,1,1],link:['设计理论实验',]},
+    {data:['Emergence: Morphogenetic Design Strategies',2004_07,0,1,0],link:['涌现 emergence',]},
+    {data:['Techniques and technologies in morphogenetic design ',2000_00,0,1,0],link:['自组织 self-organisation','涌现 emergence']},
+    {data:['Versatility and Vicissitude: Performance in Morpho-Ecological Design',2008_04,0,1,0],link:['形态生态设计 Morpho-Ecological Design',]},
+    {data:['Digital Fabrications: Architectural and Material Techniques',2009_06,0,1,0],link:['数字建造',]},
+    {data:['The Function of Ornament',2008_05,0,1,4],link:['装饰 Ornament',]},
+    {data:['Emergent Technologies and Design: Towards a Biological Paradigm for Architecture',2013_09,0,1,0],link:['涌现 emergence','自组织 self-organisation','复杂系统 complex systems']},    
+    {data:['Systemic Architecture: Operating Manual for the Self-Organizing City',2013_05,0,1,0],link:['自组织 self-organisation',]},
+    {data:['Algorithmic Architecture',2006_07,0,1,0],link:['算法 algorithms',]},
+    {data:['Masterplanning the Adaptive City: Computational Urbanism in the Twenty-First Century',2013_10,0,1,0],link:['计算性城市 computational urbanism',]},
+    {data:['Grasshopper primer',2009_00,0,1,2],link:['grasshopper',]},
+    {data:['Scripting Cultures: Architectural Design and Programming (Architectural Design Primer) ',2013_01,0,1,0],link:['参数化',]},
+    {data:['The Architecture of Emergence: The Evolution of Form in Nature and Civilisation',2010_03,0,1,0],link:['涌现 emergence',]},    
+    {data:['Emergence: From Chaos To Order',1999_04,0,1,0],link:['涌现 emergence',]},
+    {data:['Cities and Complexity: Understanding Cities with Cellular Automata, Agent-Based Models, and Fractals',2005_09,0,1,0],link:['复杂系统 complex systems','元胞自动机 cellular automata','自治代理 autonomous agents','分形 fractals']},
+    {data:['Atlas of Novel Tectonics ',2006_02,0,1,0],link:['设计方法论',]},
+    {data:['On Growth and Form: The Complete Revised Edition',1992_06,0,1,0],link:['转变 transformations',]}, 
+    {data:['A Pattern Language: Towns, Buildings, Construction',2018_09,0,1,0],link:['建筑模式与空间',]},
+    {data:['An Evolutionary Architecture ',2009_12,0,1,0],link:['进化算法 evolution','设计方法论','元胞自动机 cellular automata']},
+    {data:['Occupying and Connecting: Thoughts on Territories and Spheres of Influence with Particular Reference to Human Settlement ',2009_01,0,1,0],link:['路径优化理论',]},
+    {data:['Rhinoceros Grasshopper 参数化建模 ',2011_09,0,0,2],link:['grasshopper',]}, 
+    {data:['Grasshopper入门&晋级必备手册',2013_10,0,0,2],link:['grasshopper',]},
+    {data:['建筑数字化编程',2012_05,0,0,0],link:['论文集',]},
+    {data:['编程.建筑',2012_09,0,1,0],link:['元胞自动机 cellular automata','进化算法 evolution','自治代理 autonomous agents','遗传算法','L-system','NetLogo']},
+    {data:['折叠的程序',2015_06,0,0,1],link:['grasshopper','折叠']}, 
+    {data:['参数化逻辑构建过程',20015_06,0,0,2],link:['grasshopper','参数化']},
+    {data:['参数模型构建',20015_06,0,0,2],link:['grasshopper',]},
+    {data:['编程景观',2015_06,0,0,0],link:['grasshopper','NetLogo','设计理论实验','参数化']},
+    {data:['学习PYTHON—做个有编程能力的设计师',2015_06,0,0,2],link:['python','grasshopper']}, 
+    {data:['建筑生成设计：基于复杂系统的建筑设计计算机生成方法研究 ',2012_10,0,0,0],link:['复杂系统 complex systems','形态形成设计 morphogenetic design','元胞自动机 cellular automata','遗传算法','自治代理 autonomous agents']},
+    {data:['参数化建筑设计 Parametric Design for Architecture',2016_08,0,0,2],link:['grasshopper',]},
+    {data:['Grasshopper参数化设计教程',2017_07,0,0,2],link:['grasshopper',]},
+    {data:['Elements of Parametric Design',2010_07,0,1,2],link:['参数化',]}, 
+    {data:['参数化结构设计基本原理、方法及应用',2019_12,0,0,1],link:['参数化结构','grasshopper']},
+    {data:['参数化非线性建筑设计',2016_05,0,0,1],link:['学生设计项目',]},
+    {data:['以实验的名义：参数化环境设计教学研究',2014_11,0,0,1],link:['学生设计项目',]}, 
+    {data:['数字渗透与参数化主义(DADA2013系列活动数字建筑国际学术会议论文集) ',2014_04,0,0,0],link:['论文集',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]}, 
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]}, 
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]}, 
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},    
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},     
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},     
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},
+    {data:['',2000_00,0],link:['',]},    
+    
+    
+    ]
+    
+        
+
+#'AD'->Application(secondary) development     
+mapping:   
+    {
+    enterprise_info:[],  
+    classification:{    
+    '工具教程':['grasshopper','Processing','NetLogo','python'],
+    '设计实践':['学生设计项目','建筑展','设计理论实验','数字建造','参数化结构'],
+    '理论研究':['参数化图解 the parametric diagram','自然系统模拟 simulating natural system','算法 algorithms','涌现 emergence','形态形成设计 morphogenetic design','自组织 self-organisation','形态生态设计 Morpho-Ecological Design','装饰 Ornament','复杂系统 complex systems',
+    '计算性城市 computational urbanism','参数化','设计方法论','转变 transformations','跨学科','建筑模式与空间','路径优化理论','论文集','折叠',
+    
+    '力 forces','振动 oscillation','粒子系统 partical systems','物理现象 physics libraries','自治代理 autonomous agents','元胞自动机 cellular automata','分形 fractals','进化算法 evolution', '神经网络 neural networks','遗传算法','L-system',
+    ],
+    
+
+    },
+
+    classification_sub:{
+    '算法 algorithms':['力 forces','振动 oscillation','粒子系统 partical systems','物理现象 physics libraries','自治代理 autonomous agents','元胞自动机 cellular automata','分形 fractals','进化算法 evolution', '神经网络 neural networks','遗传算法','L-system'],    
+    '自然系统模拟 simulating natural system':['算法 algorithms'],
+    '形态形成设计 morphogenetic design':['涌现 emergence','自组织 self-organisation','形态生态设计 Morpho-Ecological Design','装饰 Ornament','复杂系统 complex systems'],
+    '跨学科':['转变 transformations',],
+    },
+ 
+    }
+   
