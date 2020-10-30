@@ -4,6 +4,8 @@
 ## 通过参数化论文、博硕论文与App(grasshopper)综述当前参数化设计研究现状
 由CNKI（China National Knowledge Infrastructur）搜索截至于2020年10月份参数化相关的核心期刊论文（中国园林、风景园林）约为19篇、博硕论文约为32篇，基于grasshopper的扩展应用（add-on app/plugins）约为434个。根据论文研究的主要内容，以及扩展应用的实现功能归结桑基图表如下：
 
+[动态html图链接](http://digit-x.org/digitLink/parametric_design_app.html) 方便清晰查看
+
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
 
 由上述桑基图可以归结参数化设计相关研究内容的大类为：
@@ -33,6 +35,8 @@
 三是参数化工具教程类。可以分为工具类和语言类，例如工具类可以包括grasshopper、 dynamo等节点类编程；语言类包括python、C#等。
 
 由下述已出版图书类可以粗略估计理论研究类大于25本，设计实践类大于5+4本，工具教程类大于4本。有些著作内容既包括理论研究又含有工具教程，因此各类总数大于总图书数量。
+
+[动态html图链接](http://digit-x.org/digitLink/parametric_design_book.html) 方便清晰查看
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_02.jpg)
 
