@@ -9,6 +9,8 @@
 
 ![](https://github.com/richieBao/python-urbanPlanning/blob/master/images/parametrization_01.jpg)
 
+`<img src="https://github.com/richieBao/python-urbanPlanning/images/parametrization_01.jpg">`
+
 由上述桑基图可以归结参数化设计相关研究内容的大类为：
 1. grasshopper（GH）参数化设计工具界面体验；
 2. 设计几何空间形式构建、分析、算法、生成；
@@ -89,9 +91,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM5NjAzNzksNTcyMzc1ODk1LDIwNz
-czMjA3ODMsNjI3NzU5OTk2LC0xODYzNDY4NzA4LDE3NTQ4Mzcx
-MjAsMjA2MTY0MDA5NiwtMTE3OTY2NzE4NiwxMzAzNTE2MjU0LD
-E3ODkyOTQ2OSwtMTY1NjMxOTY3MywxNDYyOTA2Mjc2LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTk1NTg2NTA3OSwtMTk2Mzk2MDM3OSw1Nz
+IzNzU4OTUsMjA3NzMyMDc4Myw2Mjc3NTk5OTYsLTE4NjM0Njg3
+MDgsMTc1NDgzNzEyMCwyMDYxNjQwMDk2LC0xMTc5NjY3MTg2LD
+EzMDM1MTYyNTQsMTc4OTI5NDY5LC0xNjU2MzE5NjczLDE0NjI5
+MDYyNzYsNzMwOTk4MTE2XX0=
 -->
