@@ -7,7 +7,11 @@
 ## 相关概念
 
 
-## 
+## 参数化应用的主要方向
+
+
+##  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMT
+k4ODk4ODRdfQ==
 -->
