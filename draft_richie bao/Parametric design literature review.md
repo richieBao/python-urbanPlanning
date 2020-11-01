@@ -11,6 +11,10 @@
 
 * 计算性设计（computational design）
 
+* 复杂系统（complex system）
+
+* 算法（algorithm）
+
 ## 参数化应用的主要方向
 
 
@@ -25,8 +29,8 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUzMDUyNDEsNzcxMzc4NzQ0LC0xOD
-ExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3
-NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX
-0=
+eyJoaXN0b3J5IjpbMTc2NTE2MzU3Niw3NzEzNzg3NDQsLTE4MT
+EzNjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1
+ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ
+==
 -->
