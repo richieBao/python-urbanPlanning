@@ -7,7 +7,7 @@
 ## 相关概念及关系
 * 参数化/设计(parametric/ design)
 
-*  编程代码(coding/code)
+*  编程代码(coding/code/codify)
 
 * 计算性设计（computational design）
 
@@ -36,7 +36,7 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTAxMDY0NCwtMTUyNTIxMTQ1MywtMj
+eyJoaXN0b3J5IjpbLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMj
 ExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUw
 OTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOC
 wxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
