@@ -19,6 +19,7 @@
 
 * 代理模型（agent-based model）
 
+
 ## 参数化应用的主要方向
 
 
@@ -33,8 +34,8 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNz
-cxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4
-NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMC
-wxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbLTkyODU5ODA5NSwtMTUyNTIxMTQ1MywtMj
+ExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUw
+OTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOC
+wxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
 -->
