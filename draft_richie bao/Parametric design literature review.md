@@ -9,7 +9,7 @@
 
 *  编程代码(coding/code/codify)
 
-* 计算性设计（computational design）
+* 计算性设计（computational design） 
 
 * 复杂系统（complex system）
 
@@ -36,8 +36,9 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMj
-ExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUw
-OTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOC
-wxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMT
+UyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEz
+NjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1OD
+QsLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+
 -->
