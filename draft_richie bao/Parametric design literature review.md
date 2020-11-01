@@ -17,6 +17,7 @@
 
 * 生成设计（generative design/modeling）
 
+
 ## 参数化应用的主要方向
 
 
@@ -31,8 +32,8 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xOD
-ExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3
-NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX
-0=
+eyJoaXN0b3J5IjpbLTExMzg4ODYwNzEsLTIxMTA5MDQ0ODUsNz
+cxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4
+NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMC
+wxMjE5ODg5ODg0XX0=
 -->
