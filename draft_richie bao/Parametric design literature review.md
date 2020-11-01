@@ -17,6 +17,8 @@
 
 * 生成设计（generative design/modeling）
 
+* 进化（evolution）
+
 * 代理模型（agent-based model）
 
 
@@ -34,7 +36,7 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODU5ODA5NSwtMTUyNTIxMTQ1MywtMj
+eyJoaXN0b3J5IjpbMTM3MTAxMDY0NCwtMTUyNTIxMTQ1MywtMj
 ExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUw
 OTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOC
 wxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
