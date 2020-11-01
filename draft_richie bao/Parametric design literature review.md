@@ -14,6 +14,9 @@ interesting to note how this original organic link to etched wood prevailed well
 
 * 计算性设计（computational design） 
 
+The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of
+options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -41,9 +44,9 @@ interesting to note how this original organic link to etched wood prevailed well
 
 [1-1]Christophe Girot. About code[M]//[1]:1-5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMT
-IwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3
-ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMz
-gsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAsMTIx
-OTg4OTg4NF19
+eyJoaXN0b3J5IjpbMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNj
+IxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkw
+NDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MT
+UsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOCwxNzUz
+NDQ1MTIwLDEyMTk4ODk4ODRdfQ==
 -->
