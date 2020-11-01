@@ -5,7 +5,7 @@
 # 参数化设计方法综述与启示（rough draft）
 
 ## 相关概念及关系
-* 参数化()
+* 参数化/设计(parametric/ design)
 
 *  编程代码(coding/code)
 
@@ -25,8 +25,8 @@
 [1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDMyMDM2OCw3NzEzNzg3NDQsLTE4MT
-EzNjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1
-ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NjUzMDUyNDEsNzcxMzc4NzQ0LC0xOD
+ExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3
+NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX
+0=
 -->
