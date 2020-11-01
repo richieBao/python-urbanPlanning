@@ -9,6 +9,9 @@
 
 *  编程代码(coding/code/codify)
 
+the word “coding” is much more recent; it appeared in the 1950s, when source codes were punched out of cards and then fed into Univac computers that transcribed them into either words or complex binary numerals. The punch cards were not made of waxed tree bark but of cardboard, a derivative of wood, and it is
+interesting to note how this original organic link to etched wood prevailed well into the early coding years of the cybernetic age.[1-1]
+
 * 计算性设计（computational design） 
 
 * 复杂系统（complex system）
@@ -38,7 +41,7 @@
 
 [1-1]Christophe Girot. About code[M]//[1]:1-5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDg4MTczNywtMTI2MjE2OTk2MywtMT
+eyJoaXN0b3J5IjpbMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMT
 IwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3
 ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMz
 gsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAsMTIx
