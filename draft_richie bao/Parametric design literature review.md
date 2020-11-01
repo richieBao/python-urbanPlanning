@@ -10,11 +10,11 @@
 ## 参数化应用的主要方向
 
 
-##  未来发展趋势预测
+##  参数化设计方法未来发展趋势预测
 
 
 ## 结论与讨论
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTAzNDE4MSwtNTYzMzgxMzA4LDE3NT
+eyJoaXN0b3J5IjpbMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NT
 M0NDUxMjAsMTIxOTg4OTg4NF19
 -->
