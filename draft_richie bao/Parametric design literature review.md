@@ -18,9 +18,9 @@
 
 ## 参考文献（>50）
 > 阅读顺序
-[1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. : Routledge, 2018 May
+[1].Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTcyODI3NywtMTYzNTA5NjYxNSw3Nz
-E5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUx
-MjAsMTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUsNz
+cxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOCwxNzUzNDQ1
+MTIwLDEyMTk4ODk4ODRdfQ==
 -->
