@@ -18,6 +18,8 @@ the discussion of “code” as a syntactical language and heuristic process tha
 
 However, just as with electronic compilers (translators), in landscape architecture we still struggle with the translation and abstraction of thought processes to machine language.[1-2]
 
+The coding of the environment implies a classification, the abstraction of physical and environmental phenomena to create a model that may be used for representation, analysis, or simulation. Design models, visual and/or numerical, describe the world and are the essential fodder through which designers develop design solutions. The continual construction, evolution, and maintenance of these models mediates and develops our relationships between the physical and virtual, underlying our assumptions of the physical world.[1-2]
+
 ### 计算性设计（computational design） 
 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -70,10 +72,10 @@ Within the last decade, with the increase of computational efficiency, we find n
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY3MTk4MiwtMTQ5MTk4MDUwOSwyMD
-A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
-ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
-wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
-MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
-MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbMjI4OTE1MTEyLC0xNDkxOTgwNTA5LDIwMD
+g4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4
+OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC
+0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYz
+NTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMz
+A4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
 -->
