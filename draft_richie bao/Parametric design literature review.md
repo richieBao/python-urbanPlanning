@@ -14,6 +14,8 @@ interesting to note how this original organic link to etched wood prevailed well
 
 Using these artificial languages, one can define algorithms – one class of algorithms is those written in computer code.[1-2]
 
+the discussion of “code” as a syntactical language and heuristic process that we push for computational design to become a subject of thought and common language in landscape architecture, to promote new ecological, social, economic, formal, and material design systems in the built environment.[1-2]
+
 * 计算性设计（computational design） 
 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -46,10 +48,10 @@ The extraordinary palette of possibilities offered by new computational methods 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNz
-I5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMx
-MzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC
-0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUy
-MzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5OD
-g0XX0=
+eyJoaXN0b3J5IjpbMTY0NjA2OTc1MywyMDA4ODA1MDU4LDE0OD
+MxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5
+NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NS
+w3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUsNzcx
+OTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MT
+IwLDEyMTk4ODk4ODRdfQ==
 -->
