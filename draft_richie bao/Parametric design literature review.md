@@ -6,6 +6,8 @@
 
 ## 相关概念及关系
 ### 参数化/设计(parametric/ design)
+#### grasshopper
+
 
 ### 编程代码(coding/code/codify)
 the word “coding” is much more recent; it appeared in the 1950s, when source codes were punched out of cards and then fed into Univac computers that transcribed them into either words or complex binary numerals. The punch cards were not made of waxed tree bark but of cardboard, a derivative of wood, and it is
@@ -83,11 +85,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTc5NjY2OSwxMDY3ODY0NTMzLC0xNj
-g3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEz
-NDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2My
-wtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3
-MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5OD
-cxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAs
-MTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbNjUxMjM1ODE5LDEwNjc4NjQ1MzMsLTE2OD
+c1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0
+MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC
+0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcx
+Mzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4Nz
+EzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwx
+MjE5ODg5ODg0XX0=
 -->
