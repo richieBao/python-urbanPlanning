@@ -38,6 +38,8 @@ In the early 1970s, computation in landscape architecture focused primarily on a
 
 The first commercially accessible computers for the masses expanded rapidly in the 1980s, and with that hardware expansion software development would soon follow at an ever-increasing rate. In 1982, Autodesk,founded by John Walker, launched its first version of AutoCAD.20 AutoCAD, to this day, is one of the most heavily used programs for detailed design and drafting in landscape architecture and other design and engineering fields. That same year, Dangermond’s ESRI finally launched Arc/INFO, its first commercially available GIS platform. Arc/INFO remains the leader in large-scale planning and analysis work in landscape architecture.21 Both of these tools, from their early creation, have been dominant in their use in the landscape architecture profession for the last 35 years.[1-2]
 
+Only recently have the detailed drafting and 3D world of CAD (computer-aided design) and the analysis and large-scale data platform of GIS truly started to merge in the software approach of “geo-design.” Perhaps popularized through the first geo-design summit in January 2010, the ideas of geodesign codify the challenges in scale and complexity of landscape computing when shifting scales of models are required from regional ecologies, to civic spaces, to the visual presence of the virtual “wild.”22[1-2]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -66,10 +68,10 @@ The first commercially accessible computers for the masses expanded rapidly in t
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIwMzAxMjcsLTE0OTE5ODA1MDksMj
-AwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQx
-Mzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NT
-MsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0x
-NjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzOD
-EzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbMTIwOTY3ODgwMywtMTQ5MTk4MDUwOSwyMD
+A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
+ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
+wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
+MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
+MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
 -->
