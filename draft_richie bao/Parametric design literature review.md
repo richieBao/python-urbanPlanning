@@ -26,6 +26,8 @@ The foundation of the modern computer was soundly established by a British mathe
 
 For Turing’s contemporaries, computation, or computing, meant getting as many people as necessary to complete a task in as short a space of time as was possible. The use of a machine to complete human tasks was a new concept of the time, one society still struggles with in new ways in contemporary culture. Much of Turing’s work investigated the potential of what could be computed by machines in place of their human counterparts.8[1-2]
 
+The origins of computation, from our perspective as designers and planners,emerged first in the 1960s with new thought processes in analysis and environmental planning. This approach is perhaps best explained in 1967 in the seminal paper “Design with Nature,” by Ian McHarg, an approach now referred to as “McHargian Analysis.” Mcharg’s explanation of an overlay system for land classification, coupled with much of the work done and courses taught by Carl Steinitz at the Harvard Graduate School of Design, established a basis for the development of modern GIS (geographic information systems).12[1-2]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -54,10 +56,10 @@ For Turing’s contemporaries, computation, or computing, meant getting as many 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4Njg5NjMsLTE0OTE5ODA1MDksMj
-AwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQx
-Mzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NT
-MsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0x
-NjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzOD
-EzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbNjQzNzQ4OTUyLC0xNDkxOTgwNTA5LDIwMD
+g4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4
+OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC
+0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYz
+NTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMz
+A4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
 -->
