@@ -48,6 +48,8 @@ As our world becomes increasingly algorithmic, we must be aware that technologic
 
 As landscape architects have engaged in the previous decades with GIS, geo-design,and mobile data, we have garnished great rewards in being accumulators of some rather large data sets of physical topography, sea-level rise, and socioeconomic distribution. However, the gathering of data (the inventory) and understanding the algorithms controlling, sorting, or processing that information (the analysis) present the next stage of untold value for the potential of social, formal, materialistic, and environmental models that are more synthetic and controlled by the designer’s intent. This is explored in essay 01.04, “Big Data for Small Places.”[1-2]
 
+Landscape architects are already “embracing digital media as a tool with analytic, performative, and representational possibilities.” The computer is no longer the rival.36 In a dramatic shift, the profession is rapidly moving beyond computation as a design representation medium; the tool is now influencing the thinking process of the landscape architect to shape dynamic models for adaptive and responsive landscapes.37[1-2] 
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -81,11 +83,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NTE3NTM4LDEwNjc4NjQ1MzMsLTE2OD
-c1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0
-MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC
-0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcx
-Mzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4Nz
-EzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwx
-MjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbMTA2NTc5NjY2OSwxMDY3ODY0NTMzLC0xNj
+g3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEz
+NDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2My
+wtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3
+MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5OD
+cxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAs
+MTIxOTg4OTg4NF19
 -->
