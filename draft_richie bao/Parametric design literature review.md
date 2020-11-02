@@ -7,6 +7,9 @@
 ## 相关概念及关系
 ### 参数化/设计(parametric/ design)
 #### grasshopper
+As designers, we struggle primarily with interface of the traditional syntax of code/computation. These traditional programming interfaces, such as coding in C# or Fortran, or even scripting in Python, have not yet operated at a level of abstraction designers are accustomed to thinking. Designers have had to rely on a team of computational experts attempting to translate the designer’s language into computer code (scripting). Much can be lost in the translation. However, with developments in GUI (graphic user interfaces) such as Grasshopper software (plug-ins), a huge barrier has been crossed.[1-2] 
+
+#### python
 
 
 ### 编程代码(coding/code/codify)
@@ -85,11 +88,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMjM1ODE5LDEwNjc4NjQ1MzMsLTE2OD
-c1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0
-MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC
-0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcx
-Mzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4Nz
-EzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwx
-MjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNj
+g3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEz
+NDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2My
+wtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3
+MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5OD
+cxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAs
+MTIxOTg4OTg4NF19
 -->
