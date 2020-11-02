@@ -20,6 +20,8 @@ the discussion of “code” as a syntactical language and heuristic process tha
 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
+The foundation of the modern computer was soundly established by a British mathematician and scientist, Alan Turing, in 1937 in his seminal paper on “Computable Numbers.”5 Apple’s Steve Wozniak believed that Turing set the standards for modern computation: in his keynote address to the 2012 Turing Festival, Wozniak said that “Turing came up with what we know about computers today.”6[1-2]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -48,10 +50,10 @@ The extraordinary palette of possibilities offered by new computational methods 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjA2OTc1MywyMDA4ODA1MDU4LDE0OD
-MxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5
-NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NS
-w3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUsNzcx
-OTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MT
-IwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxND
+gzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5
+OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0OD
+UsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3
+MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NT
+EyMCwxMjE5ODg5ODg0XX0=
 -->
