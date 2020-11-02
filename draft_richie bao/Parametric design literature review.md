@@ -40,6 +40,8 @@ The first commercially accessible computers for the masses expanded rapidly in t
 
 Only recently have the detailed drafting and 3D world of CAD (computer-aided design) and the analysis and large-scale data platform of GIS truly started to merge in the software approach of “geo-design.” Perhaps popularized through the first geo-design summit in January 2010, the ideas of geodesign codify the challenges in scale and complexity of landscape computing when shifting scales of models are required from regional ecologies, to civic spaces, to the visual presence of the virtual “wild.”22[1-2]
 
+Within the last decade, with the increase of computational efficiency, we find new models that more directly take advantage of the power of computation to build relationships and form new heuristic models in landscape architecture.[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -68,10 +70,10 @@ Only recently have the detailed drafting and 3D world of CAD (computer-aided des
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NTQ5MjcsLTE0OTE5ODA1MDksMjAwOD
-gwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4
-LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLT
-IxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1
-MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMD
-gsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbLTEzMzY3MTk4MiwtMTQ5MTk4MDUwOSwyMD
+A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
+ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
+wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
+MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
+MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
 -->
