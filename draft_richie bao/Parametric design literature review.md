@@ -48,6 +48,8 @@ The coding of the environment implies a classification, the abstraction of physi
 
 As our world becomes increasingly algorithmic, we must be aware that technological data usage does not simply become a reflection of privatized mobile/social media data mining, which, while a powerful tool and offering exciting new opportunities in urban planning, does have its limitations in data reliability or sample set.[1-2]
 
+As landscape architects have engaged in the previous decades with GIS, geo-design,and mobile data, we have garnished great rewards in being accumulators of some rather large data sets of physical topography, sea-level rise, and socioeconomic distribution. However, the gathering of data (the inventory) and understanding the algorithms controlling, sorting, or processing that information (the analysis) present the next stage of untold value for the potential of social, formal, materialistic, and environmental models that are more synthetic and controlled by the designer’s intent. This is explored in essay 01.04, “Big Data for Small Places.”[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -76,10 +78,11 @@ As our world becomes increasingly algorithmic, we must be aware that technologic
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMj
-AwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQx
-Mzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NT
-MsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0x
-NjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzOD
-EzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMT
+Q5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3
+MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOS
+wtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4
+MTEzNjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMj
+c1ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRd
+fQ==
 -->
