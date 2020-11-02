@@ -14,8 +14,7 @@ interesting to note how this original organic link to etched wood prevailed well
 
 * 计算性设计（computational design） 
 
-The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of
-options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
+The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
 * 复杂系统（complex system）
 
@@ -43,10 +42,11 @@ options, questions, and solutions, responding physically and spatially to the sp
 [1]Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 [1-1]Christophe Girot. About code[M]//[1]:1-5
+[1-2]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNj
-IxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkw
-NDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MT
-UsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MTMwOCwxNzUz
-NDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbODA1MjI4Mzc4LDEyNzI5NzA1MCwxNDQ2Nz
+QxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0
+NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC
+0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMz
+ODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
 -->
