@@ -46,6 +46,8 @@ Within the last decade, with the increase of computational efficiency, we find n
 
 The coding of the environment implies a classification, the abstraction of physical and environmental phenomena to create a model that may be used for representation, analysis, or simulation. Design models, visual and/or numerical, describe the world and are the essential fodder through which designers develop design solutions. The continual construction, evolution, and maintenance of these models mediates and develops our relationships between the physical and virtual, underlying our assumptions of the physical world.[1-2]
 
+As our world becomes increasingly algorithmic, we must be aware that technological data usage does not simply become a reflection of privatized mobile/social media data mining, which, while a powerful tool and offering exciting new opportunities in urban planning, does have its limitations in data reliability or sample set.[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -74,10 +76,10 @@ The coding of the environment implies a classification, the abstraction of physi
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTQ0NzA1NCwtMTQ5MTk4MDUwOSwyMD
-A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
-ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
-wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
-MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
-MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMj
+AwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQx
+Mzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NT
+MsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0x
+NjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzOD
+EzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
 -->
