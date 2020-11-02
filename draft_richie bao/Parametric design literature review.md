@@ -36,6 +36,8 @@ Fisher’s pioneering ideas, in turn, inspired Jack Dangermond, then research as
 
 In the early 1970s, computation in landscape architecture focused primarily on a two-dimensional understanding of data and mapping overlay. It was not until the late 1970s that three-dimensional computation expanded,[1-2]
 
+The first commercially accessible computers for the masses expanded rapidly in the 1980s, and with that hardware expansion software development would soon follow at an ever-increasing rate. In 1982, Autodesk,founded by John Walker, launched its first version of AutoCAD.20 AutoCAD, to this day, is one of the most heavily used programs for detailed design and drafting in landscape architecture and other design and engineering fields. That same year, Dangermond’s ESRI finally launched Arc/INFO, its first commercially available GIS platform. Arc/INFO remains the leader in large-scale planning and analysis work in landscape architecture.21 Both of these tools, from their early creation, have been dominant in their use in the landscape architecture profession for the last 35 years.[1-2]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -64,10 +66,10 @@ In the early 1970s, computation in landscape architecture focused primarily on a
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1ODg2MDY1LC0xNDkxOTgwNTA5LDIwMD
-g4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4
-OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC
-0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYz
-NTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMz
-A4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbLTEyNjIwMzAxMjcsLTE0OTE5ODA1MDksMj
+AwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQx
+Mzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NT
+MsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0x
+NjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzOD
+EzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
 -->
