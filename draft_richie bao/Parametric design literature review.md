@@ -8,7 +8,6 @@
 ### 参数化/设计(parametric/ design)
 
 ### 编程代码(coding/code/codify)
-
 the word “coding” is much more recent; it appeared in the 1950s, when source codes were punched out of cards and then fed into Univac computers that transcribed them into either words or complex binary numerals. The punch cards were not made of waxed tree bark but of cardboard, a derivative of wood, and it is
 interesting to note how this original organic link to etched wood prevailed well into the early coding years of the cybernetic age.[1-1]
 
@@ -21,7 +20,6 @@ However, just as with electronic compilers (translators), in landscape architect
 
 
 ### 计算性设计（computational design） 
-
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
 The foundation of the modern computer was soundly established by a British mathematician and scientist, Alan Turing, in 1937 in his seminal paper on “Computable Numbers.”5 Apple’s Steve Wozniak believed that Turing set the standards for modern computation: in his keynote address to the 2012 Turing Festival, Wozniak said that “Turing came up with what we know about computers today.”6[1-2]
@@ -60,6 +58,11 @@ As landscape architects have engaged in the previous decades with GIS, geo-desig
 
 ### 代理模型（agent-based model）
 
+### misc
+our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define.[1-2]
+
+
+
 
 ## 参数化应用的主要方向
 
@@ -78,11 +81,11 @@ As landscape architects have engaged in the previous decades with GIS, geo-desig
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMT
-Q5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3
-MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOS
-wtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4
-MTEzNjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMj
-c1ODQsLTU2MzM4MTMwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRd
-fQ==
+eyJoaXN0b3J5IjpbNTA4NTE3NTM4LDEwNjc4NjQ1MzMsLTE2OD
+c1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0
+MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC
+0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcx
+Mzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4Nz
+EzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwx
+MjE5ODg5ODg0XX0=
 -->
