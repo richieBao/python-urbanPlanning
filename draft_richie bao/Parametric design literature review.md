@@ -18,7 +18,7 @@ the discussion of “code” as a syntactical language and heuristic process tha
 
 However, just as with electronic compilers (translators), in landscape architecture we still struggle with the translation and abstraction of thought processes to machine language.[1-2]
 
-The coding of the environment implies a classification, the abstraction of physical and environmental phenomena to create a model that may be used for representation, analysis, or simulation. Design models, visual and/or numerical, describe the world and are the essential fodder through which designers develop design solutions. The continual construction, evolution, and maintenance of these models mediates and develops our relationships between the physical and virtual, underlying our assumptions of the physical world.[1-2]
+
 
 ### 计算性设计（computational design） 
 
@@ -43,6 +43,8 @@ The first commercially accessible computers for the masses expanded rapidly in t
 Only recently have the detailed drafting and 3D world of CAD (computer-aided design) and the analysis and large-scale data platform of GIS truly started to merge in the software approach of “geo-design.” Perhaps popularized through the first geo-design summit in January 2010, the ideas of geodesign codify the challenges in scale and complexity of landscape computing when shifting scales of models are required from regional ecologies, to civic spaces, to the visual presence of the virtual “wild.”22[1-2]
 
 Within the last decade, with the increase of computational efficiency, we find new models that more directly take advantage of the power of computation to build relationships and form new heuristic models in landscape architecture.[1-2]
+
+The coding of the environment implies a classification, the abstraction of physical and environmental phenomena to create a model that may be used for representation, analysis, or simulation. Design models, visual and/or numerical, describe the world and are the essential fodder through which designers develop design solutions. The continual construction, evolution, and maintenance of these models mediates and develops our relationships between the physical and virtual, underlying our assumptions of the physical world.[1-2]
 
 ### 复杂系统（complex system）
 
@@ -72,10 +74,10 @@ Within the last decade, with the increase of computational efficiency, we find n
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4OTE1MTEyLC0xNDkxOTgwNTA5LDIwMD
-g4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4
-OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC
-0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYz
-NTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMz
-A4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbMTc5NTQ0NzA1NCwtMTQ5MTk4MDUwOSwyMD
+A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
+ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
+wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
+MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
+MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
 -->
