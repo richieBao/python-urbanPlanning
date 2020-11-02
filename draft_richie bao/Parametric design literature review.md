@@ -32,6 +32,10 @@ In 1965, Chicago architect and Harvard Graduate School of Design Architecture al
 
 Fisher further developed GIS, which spun off a number of computer applications and integrated mapping systems, including tools such as SYMAP (Synagraphic Mapping and Analysis Program), with the ability to print contour maps on a line printer.13[1-2]
 
+Fisher’s pioneering ideas, in turn, inspired Jack Dangermond, then research assistant at the lab from 1968 to 1969, to put these ideas to practical use. Dangermond’s start-up company, ESRI (Environmental Systems Research Institute), was founded in 1969, focusing on software for land use analysis.14[1-2]
+
+In the early 1970s, computation in landscape architecture focused primarily on a two-dimensional understanding of data and mapping overlay. It was not until the late 1970s that three-dimensional computation expanded,[1-2]
+
 * 复杂系统（complex system）
 
 * 算法（algorithm）
@@ -60,10 +64,10 @@ Fisher further developed GIS, which spun off a number of computer applications a
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkzMDA1NSwtMTQ5MTk4MDUwOSwyMD
-A4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEz
-ODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1My
-wtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2
-MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQsLTU2MzM4MT
-MwOCwxNzUzNDQ1MTIwLDEyMTk4ODk4ODRdfQ==
+eyJoaXN0b3J5IjpbNTI1ODg2MDY1LC0xNDkxOTgwNTA5LDIwMD
+g4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4
+OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC
+0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYz
+NTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMz
+A4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
 -->
