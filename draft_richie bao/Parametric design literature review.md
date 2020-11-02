@@ -41,12 +41,12 @@ The extraordinary palette of possibilities offered by new computational methods 
 
 [1]Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
-[1-1]Christophe Girot. About code[M]//[1]:1-5
-[1-2]
+[1-1]Christophe Girot. About code[M]//[1]:1-4
+[1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MjI4Mzc4LDEyNzI5NzA1MCwxNDQ2Nz
-QxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0
-NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC
-0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMz
-ODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5ODg0XX0=
+eyJoaXN0b3J5IjpbMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Nj
+c0MTM4OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjEx
+NDUzLC0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4Ni
+wtMTYzNTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYz
+MzgxMzA4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
 -->
