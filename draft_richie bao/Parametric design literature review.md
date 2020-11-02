@@ -22,7 +22,7 @@ the discussion of “code” as a syntactical language and heuristic process tha
 
 However, just as with electronic compilers (translators), in landscape architecture we still struggle with the translation and abstraction of thought processes to machine language.[1-2]
 
-
+Not all landscape architects will become avid coders. However, it is imperative as a profession agitating for creativity, exploration, innovation, and substantial investment in form generation and alteration of the urban realm that we understand and communicate with those shaping the future components of the synthetic urban construct.[1-2] 
 
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -88,11 +88,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNj
-g3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEz
-NDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2My
-wtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3
-MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5OD
-cxMzgsMTM1MjMyNzU4NCwtNTYzMzgxMzA4LDE3NTM0NDUxMjAs
-MTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNj
+c4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgw
+NTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC
+0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIx
+MTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MD
+k2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgs
+MTc1MzQ0NTEyMF19
 -->
