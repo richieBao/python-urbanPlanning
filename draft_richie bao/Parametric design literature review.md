@@ -12,6 +12,8 @@
 the word “coding” is much more recent; it appeared in the 1950s, when source codes were punched out of cards and then fed into Univac computers that transcribed them into either words or complex binary numerals. The punch cards were not made of waxed tree bark but of cardboard, a derivative of wood, and it is
 interesting to note how this original organic link to etched wood prevailed well into the early coding years of the cybernetic age.[1-1]
 
+Using these artificial languages, one can define algorithms – one class of algorithms is those written in computer code.[1-2]
+
 * 计算性设计（computational design） 
 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -44,9 +46,10 @@ The extraordinary palette of possibilities offered by new computational methods 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Nj
-c0MTM4OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjEx
-NDUzLC0yMTEwOTA0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4Ni
-wtMTYzNTA5NjYxNSw3NzE5ODcxMzgsMTM1MjMyNzU4NCwtNTYz
-MzgxMzA4LDE3NTM0NDUxMjAsMTIxOTg4OTg4NF19
+eyJoaXN0b3J5IjpbMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNz
+I5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMx
+MzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC
+0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwxMzUy
+MzI3NTg0LC01NjMzODEzMDgsMTc1MzQ0NTEyMCwxMjE5ODg5OD
+g0XX0=
 -->
