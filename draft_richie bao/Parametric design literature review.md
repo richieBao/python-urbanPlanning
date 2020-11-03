@@ -108,6 +108,7 @@ The terms “computational design” and “parametric design” can be defined 
 
 A designer that is working parametrically may be thought of as someone who is flipping the traditional process, an editor of constraints first, and an empirical designer once the constraints are designed. What this means for practice is often far more interesting and innovative than the complex forms that initiate such projects. Inherent in the computational design process is the ability to quickly explore multiple design iterations throughout a project. This process is sometimes referred to as “optioneering,” in which consultants and collaborators are brought on early in a design in order to help define the project constraints. As design processes and schedules adapt to emergent modeling and analysis workflows, we find opportunities for new models of practice that simultaneously react to, and influence advances in the field of computational design.[1-3]
 
+First and foremost, there is a general evasion of all-encompassing terms such as “computational design” owing to their vague and abstract nature. Since computational design comes in so many shapes and sizes it is best to describe more specifically what is being offered by these individual practices. In some cases, the focus is on efficiency and precision. In other cases, the focus may be more about achieving a particular level of complexity or in realizing a unique aesthetic. Computational design in and of itself does not possess a style or even a process, but rather provides a broad characterization of a way of thinking through design issues and realizing a project by simply incorporating more layers of information.[1-3]
 
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
@@ -163,11 +164,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5ND
-MwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2
-OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLT
-E2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgz
-MTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OT
-YzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUs
-NzcxMzc4NzQ0XX0=
+eyJoaXN0b3J5IjpbMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMz
+k5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5
+NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMT
+A2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4
+ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzOD
+gsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1Mywt
+MjExMDkwNDQ4NV19
 -->
