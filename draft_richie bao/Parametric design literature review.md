@@ -144,12 +144,14 @@ What our new computational media and new methods of construction allow is a fund
 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
+[1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMT
-k0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1
-NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MD
-ksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2
-NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMT
-E0NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2
-LC0xNjM1MDk2NjE1XX0=
+eyJoaXN0b3J5IjpbLTg3NDk5NzA5NSwxNzk0MzAxMzc3LC0xMz
+Y3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQw
+ODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OS
+wtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3
+Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3Mz
+EzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQs
+LTE4MTEzNjcyODZdfQ==
 -->
