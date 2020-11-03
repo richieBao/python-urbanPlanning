@@ -89,6 +89,8 @@ the influence with which computation and the computationally minded will shape o
 
 It may appear that the complexity of the world around us is increasing in the human ability to interact and control our surrounding everyday objects. In reality, we are seeing an increasing translation from mechanical to digital (coded) language within our daily lives.[1-2]
 
+The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -126,11 +128,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MDUzNzA1LDExOTQwODU5NzEsLTc1OT
-M5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUz
-MywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LD
-E0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIx
-Njk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwND
-Q4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUs
-NzcxOTg3MTM4XX0=
+eyJoaXN0b3J5IjpbLTEyOTg0MTg5NzgsMTE5NDA4NTk3MSwtNz
+U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
+NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
+gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
+MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
+A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
+NSw3NzE5ODcxMzhdfQ==
 -->
