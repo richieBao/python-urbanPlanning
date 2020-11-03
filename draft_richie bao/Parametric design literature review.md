@@ -31,6 +31,7 @@ Many designers will not engage at the high level of syntactical knowledge necess
 
 The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the Business of Design,” described the impact of Grasshopper and visual scripting on architecture in these simple terms: “Grasshopper is to parametric scripting what Windows and Macintosh were to the graphical interface for personal computing.” Ingels describes the essence of GUI-based parametric design as follows: “Scripting came from being this incredibly difficult thing in architecture to, at least, I can understand the principles. You basically construct incredibly complex formulas by graphically combining different variables with little wires almost like a switch board.”53[1-2]
 
+(
 
 #### dynamo
 BA: When designing computational tools, some strategies we use to ensure our tools are robust and not subject to failure is to try building them as natively as possible. What do I mean when I say that? There has been this HUGE push to open-source tools (which is amazing), but comes with its own set of challenges. As an example, Dynamo is an open-source program to which the industry can contribute its own custom packages, or add-ins. The challenge when using someone else’s open-source package is that you are now subject to the integrity of their tool. If there is a flaw in their tool, or if it no longer works when a new release of Dynamo comes out, you are now subject to that defect. We prefer to use our own custom nodes, as it gives us greater control over the tool and its integrity.
@@ -173,11 +174,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1OD
-IyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5
-OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNj
-E5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5
-ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MC
-wxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1
-MjUyMTE0NTNdfQ==
+eyJoaXN0b3J5IjpbMTMyNTYwMjE4MSw2NDQ3OTc3ODksMTg0NT
+M0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3
+LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMz
+g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
+MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMT
+QsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEy
+MDk3MzEzOV19
 -->
