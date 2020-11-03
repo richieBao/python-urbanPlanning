@@ -192,16 +192,20 @@ What our new computational media and new methods of construction allow is a fund
 [1]Bradley Cantrell, Adam Mekies. Codify: Parametric and Computational Design in Landscape Architecture[M]. New York: Routledge, May 2018: page range. 
 
 [1-1]Christophe Girot. About code[M]//[1]:1-4
+
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
+
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
+
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
+
 [1-5]Pete Evans. The parametric park[M]//[1]:71-76
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NT
-M0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3
-LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMz
-g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
-MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMT
-QsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEy
-MDk3MzEzOV19
+eyJoaXN0b3J5IjpbLTE3MjMwMjQ4MjgsMTgxNzM4MDIwMCw2ND
+Q3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1
+MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLT
+c1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2
+NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MD
+U4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEy
+NjIxNjk5NjNdfQ==
 -->
