@@ -101,6 +101,7 @@ The terms “computational design” and “parametric design” can be defined 
 
 A designer that is working parametrically may be thought of as someone who is flipping the traditional process, an editor of constraints first, and an empirical designer once the constraints are designed. What this means for practice is often far more interesting and innovative than the complex forms that initiate such projects. Inherent in the computational design process is the ability to quickly explore multiple design iterations throughout a project. This process is sometimes referred to as “optioneering,” in which consultants and collaborators are brought on early in a design in order to help define the project constraints. As design processes and schedules adapt to emergent modeling and analysis workflows, we find opportunities for new models of practice that simultaneously react to, and influence advances in the field of computational design.[1-3]
 
+
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
@@ -151,11 +152,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMz
-Y3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQw
-ODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OS
-wtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3
-Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3Mz
-EzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQs
-LTE4MTEzNjcyODZdfQ==
+eyJoaXN0b3J5IjpbMzM4MDQxOTcwLDE2MDM5OTU2NTIsMTc5ND
+MwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2
+OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLT
+E2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgz
+MTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OT
+YzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUs
+NzcxMzc4NzQ0XX0=
 -->
