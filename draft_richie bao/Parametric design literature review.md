@@ -48,6 +48,10 @@ Grasshopper was further used, to produce the technical documentation for project
 
 Grasshopper would convert into the modular tablet paver field. This allowed for the clean export of vectors to 2D CAD with minimal trimming and cleanup.[1-5]
 
+With over 18 feet of grade change on the site, and tight tolerances to achieve and accessible public space, Grasshopper again proved to be a powerful ally.[1-5]
+
+Grasshopper was then used to generate a responsive model for the custom play structure. Like the analog pinboard, this model allowed us to quickly generate multiple versions of the structure. The model would automatically distribute netting, fittings, and play elements, responding to the manipulation of the perimeter and interior tube forms. Running component lists could be generated and output to spreadsheets for cost control and evaluation. Final visualizations of the various iterations could be generated at any time, for community design meetings. [1-5]
+
 #### dynamo
 BA: When designing computational tools, some strategies we use to ensure our tools are robust and not subject to failure is to try building them as natively as possible. What do I mean when I say that? There has been this HUGE push to open-source tools (which is amazing), but comes with its own set of challenges. As an example, Dynamo is an open-source program to which the industry can contribute its own custom packages, or add-ins. The challenge when using someone else’s open-source package is that you are now subject to the integrity of their tool. If there is a flaw in their tool, or if it no longer works when a new release of Dynamo comes out, you are now subject to that defect. We prefer to use our own custom nodes, as it gives us greater control over the tool and its integrity.
 Bill Allen (BA)
@@ -191,7 +195,7 @@ What our new computational media and new methods of construction allow is a fund
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 [1-5]Pete Evans. The parametric park[M]//[1]:71-76
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTg2NjcyNyw2NDQ3OTc3ODksMTg0NT
+eyJoaXN0b3J5IjpbMTU3NDg1NjYxMCw2NDQ3OTc3ODksMTg0NT
 M0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3
 LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMz
 g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
