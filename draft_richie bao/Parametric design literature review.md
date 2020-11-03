@@ -96,6 +96,7 @@ our cities’ future is largely influenced by a third group composed of landscap
 
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define. [1-2]
 
+However, even though the more geometrically “simple” in design and process are easier to calculate through computational design, why do we see this technology being so often only used and advertised in the most abstract or biomorphic of projects? It is certainly refreshing to see these tools used as an enabler or inspiration for complex and new ways of design thinking. However, we must also take advantage of the day-to-day problem-solving capabilities and practical use of such computation engines.[1-2]
 
 
 ## 参数化应用的主要方向
@@ -115,11 +116,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY3MzQyNTIsMTE5NDA4NTk3MSwtNz
-U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
-NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
-gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
-MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
-A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
-NSw3NzE5ODcxMzhdfQ==
+eyJoaXN0b3J5IjpbLTQyNTk0Nzc1NywxMTk0MDg1OTcxLC03NT
+kzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1
+MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OC
+wxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYy
+MTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MD
+Q0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1
+LDc3MTk4NzEzOF19
 -->
