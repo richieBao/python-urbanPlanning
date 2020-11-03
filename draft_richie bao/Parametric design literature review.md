@@ -31,6 +31,8 @@ Many designers will not engage at the high level of syntactical knowledge necess
 
 The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the Business of Design,” described the impact of Grasshopper and visual scripting on architecture in these simple terms: “Grasshopper is to parametric scripting what Windows and Macintosh were to the graphical interface for personal computing.” Ingels describes the essence of GUI-based parametric design as follows: “Scripting came from being this incredibly difficult thing in architecture to, at least, I can understand the principles. You basically construct incredibly complex formulas by graphically combining different variables with little wires almost like a switch board.”53[1-2]
 
+
+#### dynymo
 #### python
 
 
@@ -107,6 +109,10 @@ The roots of understanding computational and parametric design do not lie buried
 
 What is not as evident is the logic, the thought process, and the utilization of parametric design that have been applied to bring about the complex execution.[1-2]
 
+It was a feedback loop, where the design drove the code, and the code, in turn, reinfluenced the design. 
+Benjamin Koren (BK)
+Managing Director of ONE TO ONE ONE TO ONE is a computational geometry and digital fabrication consultancy on art and architecture projects, offering services in bespoke geometric computation, precision 3D CAD construction, integrative CAM fabrication and innovative R&D at all scales.[1-3]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -152,11 +158,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MDQxOTcwLDE2MDM5OTU2NTIsMTc5ND
-MwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2
-OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLT
-E2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgz
-MTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OT
-YzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUs
-NzcxMzc4NzQ0XX0=
+eyJoaXN0b3J5IjpbLTE4MjYzMjQ3MTYsMTYwMzk5NTY1MiwxNz
+k0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5
+NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMy
+wtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0
+ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNj
+k5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4
+NSw3NzEzNzg3NDRdfQ==
 -->
