@@ -126,6 +126,7 @@ Specialist Modeling Group59[1-2]
 
 The transition will be a complex evolution from “static” built/urban environments to “dynamic” self-constructing, living, breathing, and even artificially intelligent (thinking) environments.[1-2]
 
+What our new computational media and new methods of construction allow is a fundamental bridge between design idea and physical reality. The connection of the virtual and physical model in space can now exist in direct mirror or alternate reality of each other, as opposed to the cumbersome two-dimensional abstraction of orthographic drawings and measured scales.[1-2]
 
 ## 参数化应用的主要方向
 
@@ -144,7 +145,7 @@ The transition will be a complex evolution from “static” built/urban environ
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTg0OTYxMiwtMTM2NzYwMTc5OSwxMT
+eyJoaXN0b3J5IjpbMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMT
 k0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1
 NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MD
 ksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2
