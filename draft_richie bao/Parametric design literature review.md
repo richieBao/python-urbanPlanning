@@ -97,6 +97,8 @@ Computerization is a tool kit of prefabricated software that we accept or use wi
 
 Computational thinking combines the powerful orderly process of algorithmic organization with the equally powerful, but more chaotic, process of iterative design. Computational design is a way of approaching all the challenges in the world around you in a more visionary, creative, far-reaching, and organized way that is more likely to succeed. We engage with computational decisions each day whether we realize it or not. In the design field the passage beyond computational skills, and tools, albeit influenced by computer thinking, is a paradigm shift: “Steps away from ‘form making’ and toward ‘form finding.’”58[1-2]
 
+The terms “computational design” and “parametric design” can be defined in many ways. They may bring to mind forms driven by generative algorithms or the ability to design with various types of data sets or simply the use of Building Information Modeling (BIM) software. We can argue that what the fields of computational design and parametric design hold in terms of potential and capability, they lack in clarity and specificity.[1-3]
+
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
@@ -147,7 +149,7 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDk5NzA5NSwxNzk0MzAxMzc3LC0xMz
+eyJoaXN0b3J5IjpbMTg4MDAyNTkxMiwxNzk0MzAxMzc3LC0xMz
 Y3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQw
 ODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OS
 wtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3
