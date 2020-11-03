@@ -128,6 +128,10 @@ Not understanding these algorithms, the language (codes) these instructions are 
 ### 生成设计（generative design/modeling）
 Landscape practices have recently been informed by two distinct lines of inquiry. Ecological and environmental concerns have thrust landscape and ecology into the center of design discourse in ways that explore the dynamic, operational, and even physical aspects of ecological systems as a starting point for generating design— whether landscape, building, or urbanism. Simultaneously, advances in software technologies have brought generative and associative modeling tools into the academic design studio and into the professional office, allowing for a new generation of techniques and fabrication technologies to emerge[1-4]
 
+Such modeling techniques, which can be utilized to initiate design inquiry and ultimately generate physical form, allow for a continuous and increasing complexity of inputs to the modeling process, producing a multiplication and elaboration of possibilities that each respond to a slightly different set of priorities or agendas. Thus design is neither static nor compositional, but dynamic; assemblies of forms and components (at any range of scales and serving any number of functions) can be generated from a set of logics that can adapt themselves to circumstances, all the while maintaining their essential characteristics and operational protocols. This is conceptually not so far removed from the work of late twentieth-century ecologists, who emphasized an organism’s or ecosystem’s adaptability in assessing overall health—with the idea that various inputs could produce shifts and changes in the environment over time, and the final physical form of a healthy organism or ecosystem would change and adapt to these new circumstances.1 Multiple outcomes are possible here; physical form is malleable—it is more the functioning and operation of systems that are in play.[1-4]
+
+This essay will examine three scales of the application of associative and generative modeling techniques in the conceptualization and making of performance-based landscape and urban form. At the scale of the human body, recent applications speak to the translation of associative modeling principles and methods into fabrication and construction processes for furnishings and elements, allowing for the generation of nonstandardized and nonrepetitive units that may better serve diverse body types and shapes and differing agendas for how to use public space. Site scale work explores the ways in which hydrology or social program or even desired experiences or relationships can inform the delineation and hybridization of landform, pathway, and gathering space. Subsequent work in both academia and practice test and push this further, with elaborations across the broader urban field, including landscape and infrastructural systems, and the generation of urban form— instigating multiplication and elaboration across large territories in ways that can adapt and adjust to specific conditions on the ground. Underlying all this is a set of dialogues between academic explorations and applications in practice that continue to reverberate and inform one another as the work advances. [1-4]
+
 
 
 
@@ -168,11 +172,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNjgxNDE2LDE4NDUzNDk2MjcsNzQ1OD
-IyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5
-OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNj
-E5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5
-ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MC
-wxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1
-MjUyMTE0NTNdfQ==
+eyJoaXN0b3J5IjpbMTM1NDkyMjUwNiwxODQ1MzQ5NjI3LDc0NT
+gyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3
+OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4NjksLT
+YxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC0xNDkx
+OTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNT
+AsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0x
+NTI1MjExNDUzXX0=
 -->
