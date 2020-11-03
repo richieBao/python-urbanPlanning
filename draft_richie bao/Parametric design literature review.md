@@ -70,6 +70,7 @@ As landscape architects have engaged in the previous decades with GIS, geo-desig
 ### misc
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define.[1-2]
 
+our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define. [1-2]
 
 
 
@@ -90,7 +91,7 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg3MzIyNSwxMzg1ODQwODY5LC02MT
+eyJoaXN0b3J5IjpbMTgxMzQyNDY5OSwxMzg1ODQwODY5LC02MT
 k4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4
 MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLD
 E0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUy
