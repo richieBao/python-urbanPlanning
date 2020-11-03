@@ -29,6 +29,8 @@ Emerging from the most ancient of traditions in design and architecture, our obs
 
 Many designers will not engage at the high level of syntactical knowledge necessary for scripting given time constraints as one of significant barriers. However, Grasshopper, Rhino, other GUI-based scripting allows designers to more readily connect the outcome of code with the formal representation without having to know how to write code. [1-2]
 
+The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the Business of Design,” described the impact of Grasshopper and visual scripting on architecture in these simple terms: “Grasshopper is to parametric scripting what Windows and Macintosh were to the graphical interface for personal computing.” Ingels describes the essence of GUI-based parametric design as follows: “Scripting came from being this incredibly difficult thing in architecture to, at least, I can understand the principles. You basically construct incredibly complex formulas by graphically combining different variables with little wires almost like a switch board.”53[1-2]
+
 #### python
 
 
@@ -124,11 +126,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA4MTAxMjMsMTE5NDA4NTk3MSwtNz
-U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
-NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
-gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
-MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
-A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
-NSw3NzE5ODcxMzhdfQ==
+eyJoaXN0b3J5IjpbODY2MDUzNzA1LDExOTQwODU5NzEsLTc1OT
+M5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUz
+MywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LD
+E0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIx
+Njk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwND
+Q4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUs
+NzcxOTg3MTM4XX0=
 -->
