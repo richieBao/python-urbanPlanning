@@ -21,6 +21,10 @@ In the field of architecture, the virtual wall beyond software and databased des
 
 A new generation of digital natives have been brought up by the new interactive normalcy to live, work, and create abstractly through these virtual media. Machine learning and script definition of software are assisting to fill in the gaps of the executable details of our creative process. The executable interface is now rapidly evolving. It is accessible for designers to “code” problems at the highest levels of abstraction through gesture and real-time feedback, all while designers observe the instantaneous impact of their digital interaction on the built environment.49[1-2]
 
+However, even though the more geometrically “simple” in design and process are easier to calculate through computational design, why do we see this technology being so often only used and advertised in the most abstract or biomorphic of projects? It is certainly refreshing to see these tools used as an enabler or inspiration for complex and new ways of design thinking. However, we must also take advantage of the day-to-day problem-solving capabilities and practical use of such computation engines.[1-2]
+
+We describe, perhaps in a negative tone, the common perceptions and prevailing uses of Grasshopper and other parametric engines to hopefully draw the reader’s attention to a new platform of thinking about computational design and technology in landscape architecture. Software, such as Grasshopper or Dynamo, must be recognized as problem-solving tools and engines of creativity. These tools are not simply engines of graphic communication that perhaps a new generation of design professionals may have mistakenly interpreted and represented as a means to an end in itself. Rather, parametric tools, such as Grasshopper, are practical instruments with the potential to address problems and find solutions while unleashing a vast source of creativity. For example, graduate students used:[1-2]
+
 #### python
 
 
@@ -96,7 +100,7 @@ our cities’ future is largely influenced by a third group composed of landscap
 
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define. [1-2]
 
-However, even though the more geometrically “simple” in design and process are easier to calculate through computational design, why do we see this technology being so often only used and advertised in the most abstract or biomorphic of projects? It is certainly refreshing to see these tools used as an enabler or inspiration for complex and new ways of design thinking. However, we must also take advantage of the day-to-day problem-solving capabilities and practical use of such computation engines.[1-2]
+
 
 
 ## 参数化应用的主要方向
@@ -116,7 +120,7 @@ However, even though the more geometrically “simple” in design and process a
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTk0Nzc1NywxMTk0MDg1OTcxLC03NT
+eyJoaXN0b3J5IjpbLTQyOTUxNzc1NSwxMTk0MDg1OTcxLC03NT
 kzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1
 MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OC
 wxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYy
