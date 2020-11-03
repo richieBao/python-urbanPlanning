@@ -26,6 +26,8 @@ However, just as with electronic compilers (translators), in landscape architect
 
 Not all landscape architects will become avid coders. However, it is imperative as a profession agitating for creativity, exploration, innovation, and substantial investment in form generation and alteration of the urban realm that we understand and communicate with those shaping the future components of the synthetic urban construct.[1-2] 
 
+Not all landscape architects will become avid coders. However, it is imperative as a profession agitating for creativity, exploration, innovation, and substantial investment in form generation and alteration of the urban realm that we understand and communicate with those shaping the future components of the synthetic urban construct.[1-2]
+
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
@@ -95,11 +97,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjQxOTc2NywtNzU5Mzk2Njk4LDEzOD
-U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
-MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
-wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
-OTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3OD
-c0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMzgs
-MTM1MjMyNzU4NF19
+eyJoaXN0b3J5IjpbLTIxMTcxNDkyNjAsLTc1OTM5NjY5OCwxMz
+g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
+MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMT
+QsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEy
+MDk3MzEzOSwtMTUyNTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNz
+g3NDQsLTE4MTEzNjcyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4
+LDEzNTIzMjc1ODRdfQ==
 -->
