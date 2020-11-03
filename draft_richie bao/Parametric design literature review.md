@@ -15,6 +15,9 @@ GUI-based scripting engines such as Grasshopper, Dynamo, Kismet, and Marionette 
 
 These coding and scripting abstraction/ interface platforms have acted as a gateway for many designers, who expanded their reach to numerous problems and data sets in the emerging technological world. Grasshopper, for example, initially launched by McNeel and Associates and created by programmer David Rutten,40 was built upon, after its creation, by numerous add-ons, plug-ins, or extensions (e.g., Rhinoceros). With the built-in script in the background, designers could now engage in parametric design, skipping over the tedious and discouraging scripting, undeterred by the computational demands of the past. Moreover, designers could now concentrate on their work, instead of spending time learning and acquiring computational tools to get to the task. The simplicity with which Grasshopper and Rhino could be utilized led to widespread use of the software across top architectural firms and eventually landscape architecture offices, opening the computational world.41 [1-2]
 
+The success of the software was largely due to Robert McNeel’s insight: “Writing code is not something designers really want to get their head into.” His “business model” had a two-pronged approach: “designers set up sophisticated relationships between the parts of the design problem” and, in addition, the company would make the software available for free during the development process, benefitting from the input of users worldwide.42 Although a small firm by comparison, without the deep pockets of a Dassault Systèmes or Autodesk, by 2009 McNeel reported having 250,000 Rhino users worldwide, among them 50,000 in the field of architecture. This number has since bourgeoned further, as Rhino became commonplace in architectural offices and urban design practices.43[1-2]
+
+
 #### python
 
 
@@ -103,11 +106,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNzYzNjAyLC03NTkzOTY2OTgsMTM4NT
-g0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIw
-NTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MDE0LD
-EyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5
-NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MDQ0ODUsNzcxMzc4Nz
-Q0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1LDc3MTk4NzEzOCwx
-MzUyMzI3NTg0XX0=
+eyJoaXN0b3J5IjpbMTQ5NjQ1NjExMiwtNzU5Mzk2Njk4LDEzOD
+U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
+MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
+wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
+OTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3OD
+c0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMzgs
+MTM1MjMyNzU4NF19
 -->
