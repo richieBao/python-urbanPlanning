@@ -179,6 +179,8 @@ What our new computational media and new methods of construction allow is a fund
 
 ## 参数化应用的主要方向
 
+### IOT
+
 
 ##  参数化设计方法未来发展趋势预测
 
@@ -204,11 +206,11 @@ What our new computational media and new methods of construction allow is a fund
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0ND
-c5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1NjUy
-LDE3OTQzMDEzNzcsLTEzNjc2MDE3OTksMTE5NDA4NTk3MSwtNz
-U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
-NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
-gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
-MjE2OTk2M119
+eyJoaXN0b3J5IjpbLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MT
+czODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1
+LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMT
+k0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1
+NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MD
+ksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2
+NzQxMzg4XX0=
 -->
