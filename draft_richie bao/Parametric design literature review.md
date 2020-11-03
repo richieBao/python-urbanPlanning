@@ -19,6 +19,8 @@ The success of the software was largely due to Robert McNeel’s insight: “Wri
 
 In the field of architecture, the virtual wall beyond software and databased design has already been pierced,[1-2]
 
+A new generation of digital natives have been brought up by the new interactive normalcy to live, work, and create abstractly through these virtual media. Machine learning and script definition of software are assisting to fill in the gaps of the executable details of our creative process. The executable interface is now rapidly evolving. It is accessible for designers to “code” problems at the highest levels of abstraction through gesture and real-time feedback, all while designers observe the instantaneous impact of their digital interaction on the built environment.49[1-2]
+
 #### python
 
 
@@ -113,11 +115,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzOD
-U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
-MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
-wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
-OTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3OD
-c0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMzgs
-MTM1MjMyNzU4NF19
+eyJoaXN0b3J5IjpbLTE4MDY3MzQyNTIsMTE5NDA4NTk3MSwtNz
+U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
+NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
+gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
+MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
+A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
+NSw3NzE5ODcxMzhdfQ==
 -->
