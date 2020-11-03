@@ -17,6 +17,7 @@ These coding and scripting abstraction/ interface platforms have acted as a gate
 
 The success of the software was largely due to Robert McNeel’s insight: “Writing code is not something designers really want to get their head into.” His “business model” had a two-pronged approach: “designers set up sophisticated relationships between the parts of the design problem” and, in addition, the company would make the software available for free during the development process, benefitting from the input of users worldwide.42 Although a small firm by comparison, without the deep pockets of a Dassault Systèmes or Autodesk, by 2009 McNeel reported having 250,000 Rhino users worldwide, among them 50,000 in the field of architecture. This number has since bourgeoned further, as Rhino became commonplace in architectural offices and urban design practices.43[1-2]
 
+In the field of architecture, the virtual wall beyond software and databased design has already been pierced,[1-2]
 
 #### python
 
@@ -72,6 +73,8 @@ As landscape architects have engaged in the previous decades with GIS, geo-desig
 
 Landscape architects are already “embracing digital media as a tool with analytic, performative, and representational possibilities.” The computer is no longer the rival.36 In a dramatic shift, the profession is rapidly moving beyond computation as a design representation medium; the tool is now influencing the thinking process of the landscape architect to shape dynamic models for adaptive and responsive landscapes.37[1-2]
 
+the influence with which computation and the computationally minded will shape our built environment is without question.[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -106,7 +109,7 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjQ1NjExMiwtNzU5Mzk2Njk4LDEzOD
+eyJoaXN0b3J5IjpbMTI0ODIxMjIxMiwtNzU5Mzk2Njk4LDEzOD
 U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
 MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
 wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
