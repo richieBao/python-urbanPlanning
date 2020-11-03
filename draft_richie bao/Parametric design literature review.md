@@ -9,6 +9,8 @@
 #### grasshopper
 As designers, we struggle primarily with interface of the traditional syntax of code/computation. These traditional programming interfaces, such as coding in C# or Fortran, or even scripting in Python, have not yet operated at a level of abstraction designers are accustomed to thinking. Designers have had to rely on a team of computational experts attempting to translate the designer’s language into computer code (scripting). Much can be lost in the translation. However, with developments in GUI (graphic user interfaces) such as Grasshopper software (plug-ins), a huge barrier has been crossed.[1-2] 
 
+As designers, we struggle primarily with interface of the traditional syntax of code/computation. These traditional programming interfaces, such as coding in C# or Fortran, or even scripting in Python, have not yet operated at a level of abstraction designers are accustomed to thinking. Designers have had to rely on a team of computational experts attempting to translate the designer’s language into computer code (scripting). Much can be lost in the translation. However, with developments in GUI (graphic user interfaces) such as Grasshopper software (plug-ins), a huge barrier has been crossed.[1-2]
+
 #### python
 
 
@@ -93,11 +95,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MT
-k4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4
-MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLD
-E0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUy
-NTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNj
-cyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQs
-LTU2MzM4MTMwOF19
+eyJoaXN0b3J5IjpbLTc5MjQxOTc2NywtNzU5Mzk2Njk4LDEzOD
+U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
+MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
+wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
+OTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0NDg1LDc3MTM3OD
+c0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3NzE5ODcxMzgs
+MTM1MjMyNzU4NF19
 -->
