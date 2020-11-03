@@ -42,12 +42,14 @@ The initial design for the park was developed through iterative analog diagrammi
 
 In the initial design phase, these decisions were made through intuitive understanding of the parameters of the site and embedded in an analog rule set that guided design decisions. In further research we have codified the relationship between the spatial logics of the design and the material logics of the tectonic, in a parametric algorithm. [1-5]
 
+Initial research was performed in preparation for the Acadia 2014 exhibition, an annual parametric design conference. The central question was: could the design process, the distribution of points and pathways with a distinct tectonic, be replicated? Further, could other contextual influences and conditions be added, and could the tectonic respond to those conditions? Is the use of responsive parametric definitions scalable and can it be applied to larger linear landscapes such as waterfronts, urbanized rivers, etc.? Grasshopper, a parametric plug-in for the 3D modeling program Rhinoceros, was used to further develop the research. FIGURE 1.3.2 Landscape components and site performance diagrams By implementing the design variables into a parametric system, we intended to utilize the system to display the design resiliency of the tectonic and spatial systems. The decision to codify the analog system, developed in the initial phase of design, was driven by the knowledge that future specification of the design in permitting, coordination, and construction documentation would require multiple iterations responding to new constraints and conditions, as they might arise. [1-5]
 
 #### dynamo
 BA: When designing computational tools, some strategies we use to ensure our tools are robust and not subject to failure is to try building them as natively as possible. What do I mean when I say that? There has been this HUGE push to open-source tools (which is amazing), but comes with its own set of challenges. As an example, Dynamo is an open-source program to which the industry can contribute its own custom packages, or add-ins. The challenge when using someone else’s open-source package is that you are now subject to the integrity of their tool. If there is a flaw in their tool, or if it no longer works when a new release of Dynamo comes out, you are now subject to that defect. We prefer to use our own custom nodes, as it gives us greater control over the tool and its integrity.
 Bill Allen (BA)
 Computational Designer
 Partner and Director of Building Information[1-3]
+
 
 #### python
 
@@ -185,11 +187,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 [1-5]Pete Evans. The parametric park[M]//[1]:71-76
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTEwNzI0Miw2NDQ3OTc3ODksMTg0NT
-M0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3
-LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMz
-g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
-MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMT
-QsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEy
-MDk3MzEzOV19
+eyJoaXN0b3J5IjpbLTE0NzE2NDk1NjUsNjQ0Nzk3Nzg5LDE4ND
+UzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3
+NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMT
+M4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1
+NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MD
+E0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0x
+MjA5NzMxMzldfQ==
 -->
