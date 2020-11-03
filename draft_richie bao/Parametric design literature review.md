@@ -55,6 +55,8 @@ As landscape architects have engaged in the previous decades with GIS, geo-desig
 
 Landscape architects are already “embracing digital media as a tool with analytic, performative, and representational possibilities.” The computer is no longer the rival.36 In a dramatic shift, the profession is rapidly moving beyond computation as a design representation medium; the tool is now influencing the thinking process of the landscape architect to shape dynamic models for adaptive and responsive landscapes.37[1-2] 
 
+As landscape architects have engaged in the previous decades with GIS, geo-design,and mobile data, we have garnished great rewards in being accumulators of some rather large data sets of physical topography, sea-level rise, and socioeconomic distribution. However, the gathering of data (the inventory) and understanding the algorithms controlling, sorting, or processing that information (the analysis) present the next stage of untold value for the potential of social, formal, materialistic, and environmental models that are more synthetic and controlled by the designer’s intent. This is explored in essay 01.04, “Big Data for Small Places.”[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -88,11 +90,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNj
-c4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgw
-NTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC
-0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIx
-MTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MD
-k2NjE1LDc3MTk4NzEzOCwxMzUyMzI3NTg0LC01NjMzODEzMDgs
-MTc1MzQ0NTEyMF19
+eyJoaXN0b3J5IjpbLTEwMTg3MzIyNSwxMzg1ODQwODY5LC02MT
+k4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4
+MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLD
+E0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUy
+NTIxMTQ1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNj
+cyODYsLTE2MzUwOTY2MTUsNzcxOTg3MTM4LDEzNTIzMjc1ODQs
+LTU2MzM4MTMwOF19
 -->
