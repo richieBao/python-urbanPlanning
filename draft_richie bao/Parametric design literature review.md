@@ -48,7 +48,7 @@ Not all landscape architects will become avid coders. However, it is imperative 
 
 Not all landscape architects will become avid coders. However, it is imperative as a profession agitating for creativity, exploration, innovation, and substantial investment in form generation and alteration of the urban realm that we understand and communicate with those shaping the future components of the synthetic urban construct.[1-2]
 
-
+Coding is a common language of creation, iteration, logic, communication, exploration, and innovation for the twenty-first century. [1-2]
 
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -89,7 +89,7 @@ the influence with which computation and the computationally minded will shape o
 
 It may appear that the complexity of the world around us is increasing in the human ability to interact and control our surrounding everyday objects. In reality, we are seeing an increasing translation from mechanical to digital (coded) language within our daily lives.[1-2]
 
-### 参数化（prama）
+### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
 What is not as evident is the logic, the thought process, and the utilization of parametric design that have been applied to bring about the complex execution.[1-2]
@@ -131,11 +131,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NjA4MDMsMTE5NDA4NTk3MSwtNzU5Mz
-k2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMz
-LC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMT
-Q4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2
-OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOTA0ND
-g1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYxNSw3
-NzE5ODcxMzhdfQ==
+eyJoaXN0b3J5IjpbMjA0MTE4MzYwOSwxMTk0MDg1OTcxLC03NT
+kzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1
+MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OC
+wxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYy
+MTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MD
+Q0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1
+LDc3MTk4NzEzOF19
 -->
