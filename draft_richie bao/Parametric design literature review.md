@@ -50,6 +50,8 @@ Not all landscape architects will become avid coders. However, it is imperative 
 
 Coding is a common language of creation, iteration, logic, communication, exploration, and innovation for the twenty-first century. [1-2]
 
+A computer program is not a task that someone who knows how to code goes right into and writes simply because they know the language. The program is dependent on a problem to be solved. A programmer must know the logic and sequence of commands intended to be developed. The code is simply the wording telling the computer what to do. That communication ability is vital. [1-2]
+
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
@@ -131,11 +133,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTE4MzYwOSwxMTk0MDg1OTcxLC03NT
-kzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1
-MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OC
-wxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2NzQxMzg4LC0xMjYy
-MTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMTE0NTMsLTIxMTA5MD
-Q0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2LC0xNjM1MDk2NjE1
-LDc3MTk4NzEzOF19
+eyJoaXN0b3J5IjpbLTEzNjc2MDE3OTksMTE5NDA4NTk3MSwtNz
+U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
+NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
+gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
+MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
+A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
+NSw3NzE5ODcxMzhdfQ==
 -->
