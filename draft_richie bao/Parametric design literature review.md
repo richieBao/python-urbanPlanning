@@ -119,7 +119,12 @@ our cities’ future is largely influenced by a third group composed of landscap
 
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define. [1-2]
 
+At present scripters tend to be of the “lone gun” mentality and are justifiably proud of their firepower, usually developed through many late nights of obsessive concentration. There is a danger that if celebration of skills is allowed to obscure and divert from the real design objectives, then scripting degenerates to become an isolated craft rather than developing into an integrated art form.
+Hugh Whitehead former head
+of the Foster + Partners
+Specialist Modeling Group59[1-2]
 
+The transition will be a complex evolution from “static” built/urban environments to “dynamic” self-constructing, living, breathing, and even artificially intelligent (thinking) environments.[1-2]
 
 
 ## 参数化应用的主要方向
@@ -139,11 +144,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMzk1Mzc0LC0xMzY3NjAxNzk5LDExOT
-QwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0
-OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOS
-wyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3
-NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMT
-Q1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYs
-LTE2MzUwOTY2MTVdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTg0OTYxMiwtMTM2NzYwMTc5OSwxMT
+k0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1
+NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MD
+ksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MCwxNDQ2
+NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1MjUyMT
+E0NTMsLTIxMTA5MDQ0ODUsNzcxMzc4NzQ0LC0xODExMzY3Mjg2
+LC0xNjM1MDk2NjE1XX0=
 -->
