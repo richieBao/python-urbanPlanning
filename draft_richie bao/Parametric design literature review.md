@@ -33,6 +33,13 @@ The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the
 
 * case
 
+Aerial view of
+South Park, San
+Francisco,
+California
+
+The initial design for the park was developed through iterative analog diagramming, which was then replicated and expanded with the use of parametric software.[1-5]
+
 
 
 #### dynamo
@@ -177,11 +184,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 [1-5]Pete Evans. The parametric park[M]//[1]:71-76
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzIxMzI3Niw2NDQ3OTc3ODksMTg0NT
-M0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3
-LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMz
-g1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1
-MjA1OSwtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMT
-QsMTI3Mjk3MDUwLDE0NDY3NDEzODgsLTEyNjIxNjk5NjMsLTEy
-MDk3MzEzOV19
+eyJoaXN0b3J5IjpbLTY5OTIxMzI4LDY0NDc5Nzc4OSwxODQ1Mz
+Q5NjI3LDc0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcs
+LTEzNjc2MDE3OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzOD
+U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
+MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
+wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
+OTczMTM5XX0=
 -->
