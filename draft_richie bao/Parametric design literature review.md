@@ -132,8 +132,9 @@ Such modeling techniques, which can be utilized to initiate design inquiry and u
 
 This essay will examine three scales of the application of associative and generative modeling techniques in the conceptualization and making of performance-based landscape and urban form. At the scale of the human body, recent applications speak to the translation of associative modeling principles and methods into fabrication and construction processes for furnishings and elements, allowing for the generation of nonstandardized and nonrepetitive units that may better serve diverse body types and shapes and differing agendas for how to use public space. Site scale work explores the ways in which hydrology or social program or even desired experiences or relationships can inform the delineation and hybridization of landform, pathway, and gathering space. Subsequent work in both academia and practice test and push this further, with elaborations across the broader urban field, including landscape and infrastructural systems, and the generation of urban form— instigating multiplication and elaboration across large territories in ways that can adapt and adjust to specific conditions on the ground. Underlying all this is a set of dialogues between academic explorations and applications in practice that continue to reverberate and inform one another as the work advances. [1-4]
 
+At the scale of the site, generative modeling can take on increasing levels of complexity in terms of function, program, site conditions, and any other set of technical or experienti criteria. Early studies in the academic design studio explored the various creative relationships between the protocols of remediation technologies, for instance, and the generation of responsive and productive landscape systems. The water treatment process was translated into performative criteria (basin size, flow criteria, duration, and planting and soil conditions) that could then generate a series of clustered basins. These basins could be configured differently in response to existing topographic conditions and underlying drainage patterns, producing a variety of basin configurations that all shared an inherent set of logics and performance protocols. Such early studies were translated in full design studios at Harvard’s Graduate School of Design, in which students were asked to create landform systems that would respond to water flows, inundation, and infiltration requirements—and eventually be layered to accommodate various forms of human occupation as well. In all of this, iteration, testing, prototyping, and a level of free and open-ended “play” were all at work; adaptability, and dealing with a level of environmental and human behavioral indeterminacy, came directly into play.[1-4]
 
-
+From here, it’s an almost simple leap to complex urban systems—systems that include functional infrastructure, social spaces, dynamic landscapes, even building form developed according to environmental performance criteria. In some ways you could think of these advanced urbanistic and social requirements as additional sets of criteria that are plugged into the software. Here urban infrastructure can be figured to respond to advanced hydrologic agendas and adaptive water and ecological networks in the city. Buildings can be carved in response to environmental conditions and optimal sun angles for better environmental performance within the buildings themselves and better quality of public social spaces in between them. Generative systems take on multiple and diverse architectural, infrastructural, landscape, and social agendas—that allow for an almost infinite combination and recombination, testing, and evaluation—and that set up principles and tactics that can adapt responsively to conditions on the ground, administrative decisions, and evolving circumstances.[1-4]
 
 ### 进化（evolution）
 
@@ -172,11 +173,11 @@ What our new computational media and new methods of construction allow is a fund
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
 [1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDkyMjUwNiwxODQ1MzQ5NjI3LDc0NT
-gyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3
-OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4NjksLT
-YxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC0xNDkx
-OTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNT
-AsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0x
-NTI1MjExNDUzXX0=
+eyJoaXN0b3J5IjpbNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1OD
+IyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5
+OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNj
+E5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5
+ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEyNzI5NzA1MC
+wxNDQ2NzQxMzg4LC0xMjYyMTY5OTYzLC0xMjA5NzMxMzksLTE1
+MjUyMTE0NTNdfQ==
 -->
