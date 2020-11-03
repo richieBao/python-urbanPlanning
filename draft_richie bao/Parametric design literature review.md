@@ -91,6 +91,10 @@ the influence with which computation and the computationally minded will shape o
 
 It may appear that the complexity of the world around us is increasing in the human ability to interact and control our surrounding everyday objects. In reality, we are seeing an increasing translation from mechanical to digital (coded) language within our daily lives.[1-2]
 
+One of the greatest struggles we face, as a design profession, is our attempt to overcome what we perceive to be the limitations of technology and computation. That perception is that computation is “only” a tool kit, only a set of operations. We must understand computation as a way of thinking, as a way of linking our thought process and dynamic environments. This is very different from “computerization.”[1-2]
+
+Computerization is a tool kit of prefabricated software that we accept or use within the bounds of what it allows our landscape to be. What we yearn for as a profession is computation. That concept goes far beyond the tool kit. Computational design is the systematic method for critical thinking that emphasizes thought process and iteration over memorization and duplication. It stresses the linking of ideas, and interaction between the parts of the problem and the solution. [1-2]
+
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
@@ -133,11 +137,11 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc2MDE3OTksMTE5NDA4NTk3MSwtNz
-U5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0
-NTMzLC0xNjg3NTUyMDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNT
-gsMTQ4MzEzNDAxNCwxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2
-MjE2OTk2MywtMTIwOTczMTM5LC0xNTI1MjExNDUzLC0yMTEwOT
-A0NDg1LDc3MTM3ODc0NCwtMTgxMTM2NzI4NiwtMTYzNTA5NjYx
-NSw3NzE5ODcxMzhdfQ==
+eyJoaXN0b3J5IjpbNDUzNzQ5MzU4LC0xMzY3NjAxNzk5LDExOT
+QwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0
+OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOS
+wyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3
+NDEzODgsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMT
+Q1MywtMjExMDkwNDQ4NSw3NzEzNzg3NDQsLTE4MTEzNjcyODYs
+LTE2MzUwOTY2MTVdfQ==
 -->
