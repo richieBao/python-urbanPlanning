@@ -127,6 +127,8 @@ Not understanding these algorithms, the language (codes) these instructions are 
 
 ### 生成设计（generative design/modeling）
 
+
+
 ### 进化（evolution）
 
 ### 代理模型（agent-based model）
@@ -162,13 +164,13 @@ What our new computational media and new methods of construction allow is a fund
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 [1-3]Jared Friedman,Nicholas Jacobson.Computation in practice[M]//[1]:39-49
-
+[1-4]Chris Reed.Generative modeling and the making of landscape[M]//[1]:50-63
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMz
-k5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5
-NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMT
-A2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4
-ODA1MDU4LDE0ODMxMzQwMTQsMTI3Mjk3MDUwLDE0NDY3NDEzOD
-gsLTEyNjIxNjk5NjMsLTEyMDk3MzEzOSwtMTUyNTIxMTQ1Mywt
-MjExMDkwNDQ4NV19
+eyJoaXN0b3J5IjpbMTA0MjIzNjE1OSwxODQ1MzQ5NjI3LDc0NT
+gyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3
+OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4NjksLT
+YxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC0xNDkx
+OTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNCwxMjcyOTcwNT
+AsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIwOTczMTM5LC0x
+NTI1MjExNDUzXX0=
 -->
