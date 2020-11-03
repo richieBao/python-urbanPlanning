@@ -75,6 +75,8 @@ Landscape architects are already “embracing digital media as a tool with analy
 
 the influence with which computation and the computationally minded will shape our built environment is without question.[1-2]
 
+It may appear that the complexity of the world around us is increasing in the human ability to interact and control our surrounding everyday objects. In reality, we are seeing an increasing translation from mechanical to digital (coded) language within our daily lives.[1-2]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -109,7 +111,7 @@ our cities’ future is largely influenced by a third group composed of landscap
 [1-1]Christophe Girot. About code[M]//[1]:1-4
 [1-2]Bradley Cantrell, Adam Mekies.Coding landscape[M]//[1]:5-36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODIxMjIxMiwtNzU5Mzk2Njk4LDEzOD
+eyJoaXN0b3J5IjpbLTMxNzc4MDE0OCwtNzU5Mzk2Njk4LDEzOD
 U4NDA4NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUy
 MDU5LC0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNC
 wxMjcyOTcwNTAsMTQ0Njc0MTM4OCwtMTI2MjE2OTk2MywtMTIw
