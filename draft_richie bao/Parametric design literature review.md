@@ -234,6 +234,8 @@ Take for example the dynamics of our current weather patterns globally.[1-9]
 
 
 ### 10. 交互硬件，实验设备数据流及分析、控制；IOT
+[1-10]部分
+
 
 
 ### 11. 图表报告及制图；
@@ -286,13 +288,13 @@ and futures in landscape architecture//[1]:89-116
 
 [1-9]Anthony Frausto-Robledo. The role of query and convergence in next-generation tool sets[M]//[1]:171-179
 
-[]
+[1-10]Brian Osborn. Coding behavior: the agency of material in landscape architecture[M]//[1]:180-195
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzcxMTgyMywtNDM5ODAzMjQ1LC0xMz
+eyJoaXN0b3J5IjpbLTM1NDIzMjcyNiwtNDM5ODAzMjQ1LC0xMz
 I3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5
 NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLD
 E4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIy
