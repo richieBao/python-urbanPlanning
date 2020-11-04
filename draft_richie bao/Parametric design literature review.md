@@ -203,6 +203,11 @@ Working parametrically with Rhino, Grasshopper, and small and big data, it was p
 
 Through simulation and parametric tools, it is now possible to derive the most thermally comfortable path that emerges from the aggregates of these design strategies.[1-7]
 
+In a further example, this time engaging with Melbourne’s hot Mediterranean climate, students used Grasshopper and real-time data (wind speed data and radiant temperature) to develop a dynamic simulation, which translates temperature data into zones of thermal comfort levels – a parameter of more relevance to designers.16 Altering the different parameters within the simulation facilitates the identification of strategic points, where the designer had most potential to achieve maximum effect. The design develops through the manipulation of these specific climatic points, resulting in a new atmospheric condition in which to then consider questions of program and other aspects of experience and function (Figure 2.1.1). [1-7]
+
+Utilizing computational modelling and simulation techniques, including CFD modelling and Grasshopper plug-ins, projects foregrounded the understanding of atmosphere as perceived space, experienced through ‘material energies’ that diversify the climatic experience to a multitude of ‘stimuli and information’27 the human body can respond to.[1-7]
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 
 
@@ -258,7 +263,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE4NjA5NjgsMTQwNDU5NDQ4NSw0MD
+eyJoaXN0b3J5IjpbLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MD
 Q4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAy
 MDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MD
 M5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1
