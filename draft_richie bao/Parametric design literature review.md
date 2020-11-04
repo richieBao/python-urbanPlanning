@@ -149,6 +149,8 @@ A designer that is working parametrically may be thought of as someone who is fl
 
 First and foremost, there is a general evasion of all-encompassing terms such as “computational design” owing to their vague and abstract nature. Since computational design comes in so many shapes and sizes it is best to describe more specifically what is being offered by these individual practices. In some cases, the focus is on efficiency and precision. In other cases, the focus may be more about achieving a particular level of complexity or in realizing a unique aesthetic. Computational design in and of itself does not possess a style or even a process, but rather provides a broad characterization of a way of thinking through design issues and realizing a project by simply incorporating more layers of information.[1-3]
 
+Computation design will increasingly facilitate our understanding of complex urban, social, environmental, and economic sciences. This continual evolution suggests that landscape architects must be adaptive and resilient and possess the skills to address a wide range of issues. As with technology, humans must develop the personal bandwidth to deal with diverse and complex issues.[1-14]
+
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
@@ -157,6 +159,8 @@ What is not as evident is the logic, the thought process, and the utilization of
 It was a feedback loop, where the design drove the code, and the code, in turn, reinfluenced the design. 
 Benjamin Koren (BK)
 Managing Director of ONE TO ONE ONE TO ONE is a computational geometry and digital fabrication consultancy on art and architecture projects, offering services in bespoke geometric computation, precision 3D CAD construction, integrative CAM fabrication and innovative R&D at all scales.[1-3]
+
+parametric modeling will provide predictive models of land cover and the threedimensional form of a city into the future, based upon a range of design parameters. Our analysis of time, as a design parameter, will include the perception and resilience of landscape-based changes through the day, the seasons, year upon year, the centuries, and the millennium.[1-14]
 
 ### 复杂系统（complex system）
 
@@ -372,7 +376,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NDY5NzUzLDIwMjU1NDYwNjcsLTE0MD
+eyJoaXN0b3J5IjpbMjA0NTc0NTg2LDIwMjU1NDYwNjcsLTE0MD
 M0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAy
 MCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMT
 E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
