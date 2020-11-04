@@ -203,16 +203,17 @@ What our new computational media and new methods of construction allow is a fund
 
 [1-5]Pete Evans. The parametric park[M]//[1]:71-76
 
-
+[1-6]Stephen M. Ervin.Turing landscapes: computational and algorithmic design approaches
+and futures in landscape architecture//[1]:89-116
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTgyMTEwMywtODczNDQ0NjE5LC0xMz
-k4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYy
-Nyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMz
-Y3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQw
-ODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OS
-wtMTQ5MTk4MDUwOSwyMDA4ODA1MDU4LDE0ODMxMzQwMTQsMTI3
-Mjk3MDUwXX0=
+eyJoaXN0b3J5IjpbLTE1MjYwNDY2NjcsLTg3MzQ0NDYxOSwtMT
+M5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2
+MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMT
+M2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0
+MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNT
+ksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgzMTM0MDE0LDEy
+NzI5NzA1MF19
 -->
