@@ -247,10 +247,12 @@ What our new computational media and new methods of construction allow is a fund
 [1-6]Stephen M. Ervin.Turing landscapes: computational and algorithmic design approaches
 and futures in landscape architecture//[1]:89-116
 
+[1-7]
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjE3MzE2NSwxNDA0NTk0NDg1LDQwND
+eyJoaXN0b3J5IjpbMTU1MjgxMTUxNiwxNDA0NTk0NDg1LDQwND
 gwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIw
 MCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMz
 k5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5
