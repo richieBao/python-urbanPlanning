@@ -88,6 +88,8 @@ A computer program is not a task that someone who knows how to code goes right i
 
 yet these new tools are digitally driven. Knowing the “maker’s language” today— digital tools that are increasingly driven by code—imbues the design professional with capacity beyond design skills that live only in the world of representational systems;[1-9]
 
+Within the discipline of landscape architecture, in both academia and in practice, scripting and coding are increasingly prevalent as tools for analysis, design, and communication. While some forms of scripting and parametric design have worked their way into the mainstream for both analysis and design purposes, most landscape architects do not actually code. However, those who do have used computer programming for a range of innovative applications that have the potential to expand the scope and reach of landscape architecture quite dramatically beyond site design into the realm of community engagement and participation tools, web-based site analysis and mapping platforms, mobile and web apps, video games, and more.[1-12]
+
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
@@ -318,11 +320,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ2ODU4NSwyMTM1OTk3MjQsLTUxNT
-gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
-NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
-QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
-MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMT
-YwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQw
-ODU5NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTk1OTIwNDksMjEzNTk5NzI0LC01MT
+U4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAw
+NTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NS
+w0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTcz
+ODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LD
+E2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0
+MDg1OTcxXX0=
 -->
