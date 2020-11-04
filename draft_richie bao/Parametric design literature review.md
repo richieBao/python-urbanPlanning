@@ -255,6 +255,7 @@ Another expectation of algorithmic design tools is they offer massive execution 
 
 Yale professor and former VP of Autodesk Phil Bernstein says that “the next decade will see the convergence of these two distinct threads,” referring to two distinct technology realms: building techniques and digital tools.3[1-9]
 
+To summarize, there are two primary forces at play shaping the AEC designer’s interest in algorithmic or computational design systems. The first is the convergence of realms of building techniques and digital tools, while the second is the rising value of the power of the query and the diminishing value and commoditization of explicit knowledge.[1-9]
 
 
 
@@ -291,7 +292,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTExMzY5MiwtMTMyNzgwMDU2MywxMT
+eyJoaXN0b3J5IjpbLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMT
 YxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3
 NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLD
 Y0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1
