@@ -159,7 +159,6 @@ At the scale of the site, generative modeling can take on increasing levels of c
 
 From here, it’s an almost simple leap to complex urban systems—systems that include functional infrastructure, social spaces, dynamic landscapes, even building form developed according to environmental performance criteria. In some ways you could think of these advanced urbanistic and social requirements as additional sets of criteria that are plugged into the software. Here urban infrastructure can be figured to respond to advanced hydrologic agendas and adaptive water and ecological networks in the city. Buildings can be carved in response to environmental conditions and optimal sun angles for better environmental performance within the buildings themselves and better quality of public social spaces in between them. Generative systems take on multiple and diverse architectural, infrastructural, landscape, and social agendas—that allow for an almost infinite combination and recombination, testing, and evaluation—and that set up principles and tactics that can adapt responsively to conditions on the ground, administrative decisions, and evolving circumstances.[1-4]
 
-### 进化（evolution）
 
 ### misc
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define.[1-2]
@@ -189,6 +188,7 @@ Many of these problems can be productively addressed with a relatively recent ap
 
 In this particular case, the agents do not interact with other agents but only with their environment based on a few rules defined using the scripting engine Grasshopper together with the looping plug-in Anemone.[1-8]
 
+#### 进化（evolution）
 
 ### 3. 智能化设计——机器学习和深度学习；
 
@@ -270,11 +270,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxND
-A0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3
-MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3ND
-U4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAx
-Nzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC
-02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5
-MTk4MDUwOV19
+eyJoaXN0b3J5IjpbLTE0MjI2NTc0NzYsMTE2MTIxMzA5NSwtMT
+kzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0
+NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMT
+g0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAx
+Mzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OC
+wxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4
+NzU1MjA1OV19
 -->
