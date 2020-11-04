@@ -227,6 +227,8 @@ Take for example the dynamics of our current weather patterns globally.[1-9]
 
 Previously described by Kolarevic as the Digital Continuum,7 this exchange includes the possibility for geometric data generated within a digital model to be developed simultaneously through modes of analysis and optimization, representation and communication, and manufacturing and assembly. The sharing of data has allowed greater collaboration among professionals of diverse expertise and linkages across previously distinct design phases, from design conception to engineering to fabrication. The impact that this blurring of disciplinary and procedural boundaries has had on practice extends far beyond efficiencies in the design process. [1-10]
 
+This has put areas of knowledge previously not the focus of architectural inquiry into play as generative starting points for design. More specifically, it has prompted the parameterization of intrinsic material properties and manufacturing logics in order to deploy them toward particular effect.8[1-10]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 
 
@@ -297,7 +299,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEyOTgwMTYsMjAyOTQwNTA4NiwtND
+eyJoaXN0b3J5IjpbLTEwODM0MDE2ODUsMjAyOTQwNTA4NiwtND
 M5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1
 MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOS
 wtMTM5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUz
