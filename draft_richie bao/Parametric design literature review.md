@@ -276,7 +276,6 @@ This convergence of the digital and physical world offers an opportunity to enri
 Collecting data for data’s sake should not be a goal. Rather, landscape architects need to be discerning about the information for improving the management and design of their projects. By selectively incorporating sensors into the design of physical space, the data collection system offers real-time information about the use of spaces. Like website analytic applications, the network can provide useful information about the number of people using the space, where they congregate, how long they occupy a space, as well as other meaningful measures of public life. The data gathered can then be combined with an array of environmental data such as temperature, humidity, sun/shade patterns, rainfall, water quality, and air quality. In addition, other available data sets such as sales tax collections, building permits, real estate transactions, and programming/event schedules can be overlaid with data to make relationships between the use of the public space and its context visible.[1-11]
 
 The fusion of data and the physical world also opens up more possibilities for the built environment to respond to the user and the activities within it. Design elements such as lighting, shade structures, water features, and others can respond to the use of space. With the growth of mixed reality systems that visually overlay images and text, new information and experiences will become a part of the purview of landscape architecture. Landscape architects need to be in the forefront of these changes and use them to create more engaging experiences.[1-11]
-
 [1-13]通篇
 
 Digital toolmaking[1-13]
@@ -284,6 +283,10 @@ Digital toolmaking[1-13]
 Digital toolmaking can be at once a methodology to describe a process applied in a professional context as well as a pedagogical method where students learn problem-solving through the creation of novel software and hardware tools.[1-13]
 
 Thanks to many developments in this field being opensource, the sensors will often come with a source code library that greatly facilitates the programming necessary to read the values from the sensor in question. Therefore going from one sensor to a combination of sensors and their interconnection becomes a trivial programming task, often requiring only the customization of values and example code.[1-13]
+
+Sensing tools have become a core part of the design process, both in the design education process and in the flexible generation of additional detailed site microclimatic data, such as specific characteristics of the soil, air quality, temperature, humidity, light and sound.[1-13]
+
+FIGURE 3.4.8 Collserola National Park analysis and interpretation through intensive workshops and collaborative design discussions, demonstrating forest light daylight access, vegetation variation analyses, and an application of tablet-based (7{doubleprime}) Rhino/Grasshopper simulation[1-13]
 
 ### 11. 图表报告及制图；
 
@@ -345,11 +348,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Njc0MDA0NywtMjI3OTQwODQyLDIxMz
-U5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0
-NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LD
-E0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4
-NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LD
-c0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2
-MDE3OTldfQ==
+eyJoaXN0b3J5IjpbLTE3OTg0MTIzNjIsLTIyNzk0MDg0MiwyMT
+M1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMy
+NDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNi
+wxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4
+ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNy
+w3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3
+NjAxNzk5XX0=
 -->
