@@ -277,6 +277,11 @@ Collecting data for data’s sake should not be a goal. Rather, landscape archit
 
 The fusion of data and the physical world also opens up more possibilities for the built environment to respond to the user and the activities within it. Design elements such as lighting, shade structures, water features, and others can respond to the use of space. With the growth of mixed reality systems that visually overlay images and text, new information and experiences will become a part of the purview of landscape architecture. Landscape architects need to be in the forefront of these changes and use them to create more engaging experiences.[1-11]
 
+[1-13]通篇
+
+
+
+
 ### 11. 图表报告及制图；
 
 
@@ -333,11 +338,11 @@ and futures in landscape architecture//[1]:89-116
 
 [1-12]Andrea Hansen Phillips. The new maker culture: computation and participation in design[M]//[1]:205-224
 
-
+[1-13]Luis E. Fraguada, James Melsom. Code matters: consequent digital tool making in landscape architecture[M]//[1]:225-240
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTc2ODY0NCwtMjI3OTQwODQyLDIxMz
+eyJoaXN0b3J5IjpbLTUwMjczNzEyNywtMjI3OTQwODQyLDIxMz
 U5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0
 NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LD
 E0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4
