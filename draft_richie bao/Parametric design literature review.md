@@ -37,6 +37,10 @@ As such, they are richer instruments to query. Tools such as Grasshopper, Dynamo
 
 Today, Grasshopper, a visual programming editor for the 3D modeling software Rhino3D, is the primary tool used by landscape architects for both parametric site analysis and parametric design. Conceived in 2007 by David Rutten at Robert McNeel and Associates,14 15 Grasshopper uses draggable blocks of data and functions (called “components”) connected by wires, thus allowing users who do not know anything about computer programming to use computational logic to manipulate Rhino and generate highly complex 3D models. In landscape architecture, Grasshopper is used in both academic projects and increasingly in professional projects as well. For instance, the firm Fletcher Studio used Grasshopper extensively to simulate conditions and create both conceptual design packages and construction documentation for the $2.8 million renovation of San Francisco’s South Park.16 According to Fletcher Studio’s founder, David Fletcher, “Quite literally everything that is in the plans was generated in Grasshopper at one time.”17[1-12]
 
+Scripted landscapes: code as design too[1-12]
+
+As already discussed, landscape architects are becoming increasingly reliant on parametric design tools such as Grasshopper. As sites have become larger and projects have become more complex, design trends have also shifted further away from the formal, axial landscapes of the early twentieth century into complex, nonorthogonal landscapes with hybridized, flexible programs. To each of these ends, parametric and scripting tools have become huge time-savers. During analysis and conceptual design, these tools allow designers to input environmental and socioeconomic data in various formats and quickly generate design alternatives that have the potential to dynamically adapt to changing conditions.[1-12]
+
 * case
 
 Aerial view of
@@ -326,7 +330,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDE5MDEwMSwyMTM1OTk3MjQsLTUxNT
+eyJoaXN0b3J5IjpbLTQ0MTYyNDg2NSwyMTM1OTk3MjQsLTUxNT
 gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
 NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
 QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
