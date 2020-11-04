@@ -242,6 +242,9 @@ Utilizing computational modelling and simulation techniques, including CFD model
 2. They incorporate embedded sensors, actuators, and digital/algorithmic control of electromechanical elements;
 3. They provide information exchange between people and environment, in digitally mediated responsive interactions and behavior.[1-6]
 
+The evolution of next-generation software tools for AEC design professionals will continue to take the user deeper into simulation, optimization and problem definition as mere representational concerns fall away from their preeminent position. Within this context, algorithmic modeling and visual programming software tools have risen from the shadows of academic and early adopters into a professional, cultural awareness that is starting to take the shape of a movement, if not a true shift in the architect or landscape architect’s workflows. From conferences such as SmartGeometry—which is now many years old—to a proliferation of online courses, to a recent rise in competitive alternatives in algorithmic design tools, it is now clear that algorithmic design is not a short-term fad.[1-9]
+
+Another expectation of algorithmic design tools is they offer massive execution speedups of iterative design workflows. [1-9]
 
 
 
@@ -278,7 +281,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTc5MjM2LC0xMzI3ODAwNTYzLDExNj
+eyJoaXN0b3J5IjpbODY2NTA0Mjg2LC0xMzI3ODAwNTYzLDExNj
 EyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1
 NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNj
 Q0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2
