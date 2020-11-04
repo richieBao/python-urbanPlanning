@@ -185,7 +185,12 @@ What our new computational media and new methods of construction allow is a fund
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
 [1-6]通篇
-
+1. Using software – as a tool, for automation: from numbers to lines to graphics/objects;
+2. Writing code – as a language, for algorithms: from logic to code to forms/landscapes;
+3. Engaging with the Internet of Things – as a medium, for augmentation: from static to dynamic to interactive/alive?
+1. They are designed using software, algorithmic approaches, and simulation;
+2. They incorporate embedded sensors, actuators, and digital/algorithmic control of electromechanical elements;
+3. They provide information exchange between people and environment, in digitally mediated responsive interactions and behavior.[1-6]
 
 
 
@@ -214,11 +219,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOT
-g4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3
-LDc0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNj
-c2MDE3OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4
-NjksLTYxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC
-0xNDkxOTgwNTA5LDIwMDg4MDUwNTgsMTQ4MzEzNDAxNCwxMjcy
-OTcwNTBdfQ==
+eyJoaXN0b3J5IjpbMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3Mz
+Q0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5
+LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5ND
+MwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2
+OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLT
+E2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgwNTA1OCwxNDgz
+MTM0MDE0XX0=
 -->
