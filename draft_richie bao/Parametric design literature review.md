@@ -211,7 +211,7 @@ In this particular case, the agents do not interact with other agents but only w
 
 Growing access to computer-aided design and manufacturing tools has undoubtedly altered the material practices of allied disciplines. The 25-year-long catalog of work and writing on this subject within architecture, for instance, clearly demonstrates the possibility to produce complex, high-performance, and emotive form. Use of computation as a generative tool, rather than for purposes of analysis and or representation, in landscape architecture, however, has begun much more recently and, with some exceptions, has not yet demonstrated fundamental differences in approach or result from precedents in building architecture and engineering.[1-10]
 
-
+Nicholas de Monchaux, an associate professor of architecture and urban design at the University of California, Berkeley, has worked since 2009 on Local Code, a project that seeks to design socially and ecologically active landscapes using abandoned urban sites in various cities throughout the United States and abroad. Many of these metropolitan areas have hundreds if not thousands of these sites, thus de Monchaux and his team have sought to find a method for systematically generating designs based on local contexts rather than designing each site one by one. To facilitate this process, de Monchaux’s team developed a set of Grasshopper components, collectively called “Finches,” which build connections between geospatial data and Rhino geometry.20 Finches includes components for importing, batch processing, and exporting shapefiles (.shp) within Rhino, meaning that different types of geodata such as parcel boundaries and topography can be combined with Grasshopper’s existing parametric modeling tools to generate 3D designs for many sites at once.[1-12]
 
 
 ### 3. 智能化设计——机器学习和深度学习；
@@ -332,11 +332,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzI2ODI5MywyMTM1OTk3MjQsLTUxNT
-gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
-NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
-QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
-MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMT
-YwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQw
-ODU5NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTU2MzM3OTQsMjEzNTk5NzI0LC01MT
+U4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAw
+NTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NS
+w0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTcz
+ODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LD
+E2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0
+MDg1OTcxXX0=
 -->
