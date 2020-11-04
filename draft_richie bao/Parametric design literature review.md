@@ -255,6 +255,10 @@ In 2017, Chicago went even further and began installing a real-time network of o
 
 This convergence of the digital and physical world offers an opportunity to enrich landscape architecture’s knowledge base by learning more about people and a design’s influence on their behavior. It also provides the tools necessary to move beyond heuristic design and ensures postoccupancy evaluation is integral to the design process.[1-11]
 
+Collecting data for data’s sake should not be a goal. Rather, landscape architects need to be discerning about the information for improving the management and design of their projects. By selectively incorporating sensors into the design of physical space, the data collection system offers real-time information about the use of spaces. Like website analytic applications, the network can provide useful information about the number of people using the space, where they congregate, how long they occupy a space, as well as other meaningful measures of public life. The data gathered can then be combined with an array of environmental data such as temperature, humidity, sun/shade patterns, rainfall, water quality, and air quality. In addition, other available data sets such as sales tax collections, building permits, real estate transactions, and programming/event schedules can be overlaid with data to make relationships between the use of the public space and its context visible.[1-11]
+
+The fusion of data and the physical world also opens up more possibilities for the built environment to respond to the user and the activities within it. Design elements such as lighting, shade structures, water features, and others can respond to the use of space. With the growth of mixed reality systems that visually overlay images and text, new information and experiences will become a part of the purview of landscape architecture. Landscape architects need to be in the forefront of these changes and use them to create more engaging experiences.[1-11]
+
 ### 11. 图表报告及制图；
 
 
@@ -312,11 +316,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NjYwODksLTUxNTgwMzAyMCwyMDI5ND
-A1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5
-NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtOD
-czNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3
-ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNz
-k0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5
-NjY5OF19
+eyJoaXN0b3J5IjpbMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAyOT
+QwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMw
+OTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLT
+g3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3
+Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMT
+c5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkz
+OTY2OThdfQ==
 -->
