@@ -245,6 +245,7 @@ Latent, I believe, in Kolarevic’s account is the possibility that the digital 
 
 [1-11]通篇
 
+As the world demands evidence-based solutions and the digital world merges with the physical, it becomes an imperative for landscape architects to harness these technologies to develop a greater understanding of their work. The availability of tools to test solutions and document impacts of design decisions enables designers to move beyond heuristics. The AGILE Landscape Project’s experimentation serves as an example of the research and development potential of DIY electronics as a means of demonstrating how sensor technology and autonomous data collection can strengthen the profession.[1-11]
 
 
 ### 11. 图表报告及制图；
@@ -304,11 +305,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI0NDgzMzMsLTUxNTgwMzAyMCwyMD
-I5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIx
-MzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OS
-wtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3
-OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1Mi
-wxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1
-OTM5NjY5OF19
+eyJoaXN0b3J5IjpbMTcxNDQ1ODAzMSwtNTE1ODAzMDIwLDIwMj
+k0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEz
+MDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC
+04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0NDc5
+Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1NjUyLD
+E3OTQzMDEzNzcsLTEzNjc2MDE3OTksMTE5NDA4NTk3MSwtNzU5
+Mzk2Njk4XX0=
 -->
