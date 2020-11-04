@@ -248,6 +248,9 @@ This has put areas of knowledge previously not the focus of architectural inquir
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
+Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
+
+
 
 
 ### 8. 制造装配、机器（人）建造与3D打印；
@@ -348,7 +351,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg0MTIzNjIsLTIyNzk0MDg0MiwyMT
+eyJoaXN0b3J5IjpbLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMT
 M1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMy
 NDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNi
 wxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4
