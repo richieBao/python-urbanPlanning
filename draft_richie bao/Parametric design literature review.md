@@ -241,6 +241,8 @@ Previously described by Kolarevic as the Digital Continuum,7 this exchange inclu
 
 This has put areas of knowledge previously not the focus of architectural inquiry into play as generative starting points for design. More specifically, it has prompted the parameterization of intrinsic material properties and manufacturing logics in order to deploy them toward particular effect.8[1-10]
 
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 
 
@@ -330,7 +332,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTYyNDg2NSwyMTM1OTk3MjQsLTUxNT
+eyJoaXN0b3J5IjpbLTYzMzI2ODI5MywyMTM1OTk3MjQsLTUxNT
 gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
 NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
 QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
