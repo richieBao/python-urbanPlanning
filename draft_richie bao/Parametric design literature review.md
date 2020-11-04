@@ -166,6 +166,8 @@ The importance of computation design emphasizes once again the critical importan
 
 Just as many firms have CADD and BIM managers today, one can envision the position of “Director of Parametric Design” within landscape architecture firms, a position that already exists within some product design companies, such as Nike, and a growing number of architecture firms.[1-14]
 
+When we consider the implication of this view on parametric and computation design on the profession, it suggests the need to create models that consider environmental, economic, social, and aesthetic factors in an integrative manner to better understand the relationships between these four areas of inquiry. [1-14]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -338,6 +340,7 @@ The use of parametric and computational design processes and techniques are not 
 
 Given the complexity of these factors, modeling and understanding of our dynamic environment can be greatly aided by parametric and computational design. Ecosystems are defined by flows of nutrients (including information), energy, and waste. One can envision a future in which designers can model geophysical risks such as hurricanes, tornadoes, earthquakes, storm surges, and the rise of sea level as determinants of the designed form of the city.[1-14]
 
+A new kind of landscape design practitioner, one with degrees in landscape architecture and computer science or computational design, will emerge. All staff, however, must have a sense of the capabilities and limits of the technology. The challenge of how to make productive use of all the data at our fingertips will require the creative contribution of all of us. [1-14]
 
 
 ## 结论与讨论
@@ -380,7 +383,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2NTM5NTUsMjAyNTU0NjA2NywtMT
+eyJoaXN0b3J5IjpbLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMT
 QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
 MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
 wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
