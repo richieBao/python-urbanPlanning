@@ -298,7 +298,7 @@ Yale professor and former VP of Autodesk Phil Bernstein says that “the next de
 
 To summarize, there are two primary forces at play shaping the AEC designer’s interest in algorithmic or computational design systems. The first is the convergence of realms of building techniques and digital tools, while the second is the rising value of the power of the query and the diminishing value and commoditization of explicit knowledge.[1-9]
 
-
+Equipped with more robust and comprehensive training in both the theoretical and practical applications of computer programming, the next generation of landscape architects has vast potential to affect change both inside and outside the profession. [1-12]
 
 ## 结论与讨论
 
@@ -336,11 +336,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIzOTY5NDgsMjEzNTk5NzI0LC01MT
-U4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAw
-NTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NS
-w0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTcz
-ODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LD
-E2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0
-MDg1OTcxXX0=
+eyJoaXN0b3J5IjpbLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNT
+gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
+NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
+QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
+MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMT
+YwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQw
+ODU5NzFdfQ==
 -->
