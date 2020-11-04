@@ -243,6 +243,9 @@ This has put areas of knowledge previously not the focus of architectural inquir
 
 Latent, I believe, in Kolarevic’s account is the possibility that the digital continuum can expand to also engage the input of dynamic site and material processes already underway at the start of design inquiry. Over the last 10 years, several technological developments have drastically increased landscape architects’ access to environmental sensing tools, methods of linking the values collected from these devices directly into design models, and the ability to parametrically drive digital geometries with continuous streams of data. Low-cost micro-controllers, such as Arduino and Raspberry Pi, with open-source programming environments supported by large communities of users, have enabled designers to enter the world of do-it-yourself electronics. With as little as $30 and a few hours on one of many blogs, it is possible to build a custom environmental sensing device continuously reporting information about air temperature, humidity, and pressure; visible and ultra violet light levels; wind speed, direction, and dust content; soil moisture and nutrient levels; and even complex processes such as photosynthesis. The data from these sensors can be imported into management and visualization tools, such as Excel, or streamed directly into digital modeling environments, such as Rhinoceros, using add-ons to Grasshopper. Programs such as Firefly allow a real-time connection between sensors, an Arduino microcontroller, and Grasshopper, while others such as Bumblebee allow connections to Excel such that prerecorded sets of data can be called when needed. With Wi-Fi or by logging data to external memory these devices become remote sensing stations that supply an automated and continuous feed of contextual data into the exchange that is informing our contemporary material practices. [1-10]
 
+[1-11]通篇
+
+
 
 ### 11. 图表报告及制图；
 
@@ -296,15 +299,16 @@ and futures in landscape architecture//[1]:89-116
 
 [1-10]Brian Osborn. Coding behavior: the agency of material in landscape architecture[M]//[1]:180-195
 
+[1-11]Brian Phelps. Beyond heuristic design[M]//[1]:196-204
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mz
-k4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUz
-MDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC
-0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0
-OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC
-0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1
-ODQwODY5XX0=
+eyJoaXN0b3J5IjpbLTE2MzI0NDgzMzMsLTUxNTgwMzAyMCwyMD
+I5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIx
+MzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OS
+wtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3
+OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1Mi
+wxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1
+OTM5NjY5OF19
 -->
