@@ -281,7 +281,9 @@ The fusion of data and the physical world also opens up more possibilities for t
 
 Digital toolmaking[1-13]
 
+Digital toolmaking can be at once a methodology to describe a process applied in a professional context as well as a pedagogical method where students learn problem-solving through the creation of novel software and hardware tools.[1-13]
 
+Thanks to many developments in this field being opensource, the sensors will often come with a source code library that greatly facilitates the programming necessary to read the values from the sensor in question. Therefore going from one sensor to a combination of sensors and their interconnection becomes a trivial programming task, often requiring only the customization of values and example code.[1-13]
 
 ### 11. 图表报告及制图；
 
@@ -343,7 +345,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTY3NjUzOCwtMjI3OTQwODQyLDIxMz
+eyJoaXN0b3J5IjpbMTI0Njc0MDA0NywtMjI3OTQwODQyLDIxMz
 U5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0
 NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LD
 E0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4
