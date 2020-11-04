@@ -219,6 +219,8 @@ Nicholas de Monchaux, an associate professor of architecture and urban design at
 
 
 ### 3. 智能化设计——机器学习和深度学习；
+Researchers such as Bettencourt and West have suggested that the growth of cities follows power laws allowing prediction of change in land cover, employment, energy flows, and a host of other factors through the evolution of a city (West, 2017). [1-14]
+
 
 
 ### 4. 结构构建信息与建构、结构分析及协同优化；
@@ -316,6 +318,8 @@ Equipped with more robust and comprehensive training in both the theoretical and
 
 The use of parametric and computational design processes and techniques are not only avant-garde, enhancing our ability to understand and mold our environment, but, on another dimension, are also evolutionary, shaping the way we think, communicate, and see ourselves and our world.[1-14]
 
+Given the complexity of these factors, modeling and understanding of our dynamic environment can be greatly aided by parametric and computational design. Ecosystems are defined by flows of nutrients (including information), energy, and waste. One can envision a future in which designers can model geophysical risks such as hurricanes, tornadoes, earthquakes, storm surges, and the rise of sea level as determinants of the designed form of the city.[1-14]
+
 
 
 ## 结论与讨论
@@ -358,11 +362,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA0Nzg5MzUsMjAyNTU0NjA2NywtMT
-QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
-MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
-wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
-ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMj
-AwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAz
-OTk1NjUyXX0=
+eyJoaXN0b3J5IjpbOTkwMDgyOTA2LDIwMjU1NDYwNjcsLTE0MD
+M0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAy
+MCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMT
+E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
+NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
+w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
+NTY1Ml19
 -->
