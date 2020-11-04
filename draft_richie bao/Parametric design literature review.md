@@ -31,6 +31,8 @@ Many designers will not engage at the high level of syntactical knowledge necess
 
 The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the Business of Design,” described the impact of Grasshopper and visual scripting on architecture in these simple terms: “Grasshopper is to parametric scripting what Windows and Macintosh were to the graphical interface for personal computing.” Ingels describes the essence of GUI-based parametric design as follows: “Scripting came from being this incredibly difficult thing in architecture to, at least, I can understand the principles. You basically construct incredibly complex formulas by graphically combining different variables with little wires almost like a switch board.”53[1-2]
 
+One such example is a set of site analysis plug-in objects built using Vectorworks’s Marionette algorithmic scripting environment. Marionette is not an application but rather a technology stack that brings visual scripting and algorithmic design capability to the Vectorworks CAD and BIM line of applications. While many design professionals are familiar, at least in concept, with the notion of complex 3D models being powered by algorithms—such as with Rhino and Grasshopper—the ability to program specific tools that perform queries on data and spit out actionable information is an excellent example of the rising use of algorithmic design. [1-9]
+
 * case
 
 Aerial view of
@@ -246,6 +248,9 @@ The evolution of next-generation software tools for AEC design professionals wil
 
 Another expectation of algorithmic design tools is they offer massive execution speedups of iterative design workflows. [1-9]
 
+Yale professor and former VP of Autodesk Phil Bernstein says that “the next decade will see the convergence of these two distinct threads,” referring to two distinct technology realms: building techniques and digital tools.3[1-9]
+
+
 
 
 ## 结论与讨论
@@ -281,7 +286,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NTA0Mjg2LC0xMzI3ODAwNTYzLDExNj
+eyJoaXN0b3J5IjpbMTYzOTQ3NjI1LC0xMzI3ODAwNTYzLDExNj
 EyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1
 NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNj
 Q0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2
