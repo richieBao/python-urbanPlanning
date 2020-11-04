@@ -162,6 +162,10 @@ Managing Director of ONE TO ONE ONE TO ONE is a computational geometry and digit
 
 parametric modeling will provide predictive models of land cover and the threedimensional form of a city into the future, based upon a range of design parameters. Our analysis of time, as a design parameter, will include the perception and resilience of landscape-based changes through the day, the seasons, year upon year, the centuries, and the millennium.[1-14]
 
+The importance of computation design emphasizes once again the critical importance of STEM (science, technology, engineering, mathematics) education. It also highlights the challenge of fitting this needed knowledge into an already jam-packed curriculum. Undoubtedly, the user interface will increasingly make such tools accessible to a wider range of users, although not every landscape architect will have the interest and aptitude to embrace the mathematical or programming skills necessary for parametric design. [1-14]
+
+Just as many firms have CADD and BIM managers today, one can envision the position of “Director of Parametric Design” within landscape architecture firms, a position that already exists within some product design companies, such as Nike, and a growing number of architecture firms.[1-14]
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -376,11 +380,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTc0NTg2LDIwMjU1NDYwNjcsLTE0MD
-M0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAy
-MCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMT
-E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
-NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
-w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
-NTY1Ml19
+eyJoaXN0b3J5IjpbLTE3ODI2NTM5NTUsMjAyNTU0NjA2NywtMT
+QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
+MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
+wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
+ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMj
+AwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAz
+OTk1NjUyXX0=
 -->
