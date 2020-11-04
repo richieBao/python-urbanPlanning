@@ -199,8 +199,9 @@ What our new computational media and new methods of construction allow is a fund
 [1-7]通篇
 The consideration of atmospheric behaviours directly within design processes is made possible through the computational, which offers a major shift from the site investigation techniques of maps or diagrams favoured in landscape architecture[1-7]
 
+Working parametrically with Rhino, Grasshopper, and small and big data, it was possible to optimize tree placement for maximum shade but with minimum tree coverage to allow uninterrupted airflow.[1-7]
 
-
+Through simulation and parametric tools, it is now possible to derive the most thermally comfortable path that emerges from the aggregates of these design strategies.[1-7]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 
@@ -257,11 +258,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mjg0NTMzMiwxNDA0NTk0NDg1LDQwND
-gwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIw
-MCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMz
-k5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5
-NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMT
-A2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4
-ODA1MDU4XX0=
+eyJoaXN0b3J5IjpbLTEyNTE4NjA5NjgsMTQwNDU5NDQ4NSw0MD
+Q4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAy
+MDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MD
+M5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1
+OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLD
+EwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAw
+ODgwNTA1OF19
 -->
