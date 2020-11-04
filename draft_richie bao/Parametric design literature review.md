@@ -185,7 +185,9 @@ What our new computational media and new methods of construction allow is a fund
 #### 代理模型（agent-based model）
 [1-8]通篇
 
+Many of these problems can be productively addressed with a relatively recent approach to analyze and reveal subtle and underlying landscape structures and patterns: the computational paradigm known as agentbased modeling. This paradigm, closely tied to the computational development of artificial intelligence, has become quite popular in disciplines throughout the natural and social sciences. In general, agent-based models seek to reveal underlying and complex bottom-up patterns and structures based on the interaction of agents among themselves and with their environment. An early proponent for the use of agent-based models in the spatial design disciplines was the architect Stan Allen, who described the emergent patterns created by some of the first simple computer agents—Craig Reynolds’ “Boids”—in his influential essay “From Object to Field” (1997), although he gave no specific examples of adapting this process to an actual design problem. A small handful of architectural theorists have, from time to time, revisited the use of agents for understanding complex urban and landscape dynamics, but their application to site scale design problems remains limited.[1-8]
 
+In this particular case, the agents do not interact with other agents but only with their environment based on a few rules defined using the scripting engine Grasshopper together with the looping plug-in Anemone.[1-8]
 
 
 ### 3. 智能化设计——机器学习和深度学习；
@@ -268,11 +270,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NzI3MDY4LC0xOTM4NTMwODI2LDE0MD
-Q1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcy
-MiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NT
-gyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3
-OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4NjksLT
-YxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC0xNDkx
-OTgwNTA5XX0=
+eyJoaXN0b3J5IjpbMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxND
+A0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3
+MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3ND
+U4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAx
+Nzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC
+02MTk4NzU0OTAsMTA2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5
+MTk4MDUwOV19
 -->
