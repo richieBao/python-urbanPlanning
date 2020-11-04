@@ -33,6 +33,8 @@ The world-renowned architect Bjarke Ingels, in his 2013 interview, “Inside the
 
 One such example is a set of site analysis plug-in objects built using Vectorworks’s Marionette algorithmic scripting environment. Marionette is not an application but rather a technology stack that brings visual scripting and algorithmic design capability to the Vectorworks CAD and BIM line of applications. While many design professionals are familiar, at least in concept, with the notion of complex 3D models being powered by algorithms—such as with Rhino and Grasshopper—the ability to program specific tools that perform queries on data and spit out actionable information is an excellent example of the rising use of algorithmic design. [1-9]
 
+As such, they are richer instruments to query. Tools such as Grasshopper, Dynamo, Marionette, and others take the query process further in several ways. While they still feature the capacity to be wired to BIM tools and the metadata attached therein, they can be—as seen in the example above—wired to other data outside the realm of the BIM application. These visual scripts on-ramp designers into the world of computer programming, which furthers the nature and capacity for designers to ponder and ask deeper types of questions—questions that can revolutionize our environments, even if just one project at a time. As Daniel Belcher, of Robert McNeel & Associates, says, when asked what skills coding teaches beyond the world of being a software developer, “the understandings of algorithm, process, flow, and logic that underpin the creative act of programming are critical to agency in the modern world.” [1-9]
+
 * case
 
 Aerial view of
@@ -83,6 +85,8 @@ Not all landscape architects will become avid coders. However, it is imperative 
 Coding is a common language of creation, iteration, logic, communication, exploration, and innovation for the twenty-first century. [1-2]
 
 A computer program is not a task that someone who knows how to code goes right into and writes simply because they know the language. The program is dependent on a problem to be solved. A programmer must know the logic and sequence of commands intended to be developed. The code is simply the wording telling the computer what to do. That communication ability is vital. [1-2]
+
+yet these new tools are digitally driven. Knowing the “maker’s language” today— digital tools that are increasingly driven by code—imbues the design professional with capacity beyond design skills that live only in the world of representational systems;[1-9]
 
 ### 计算性设计（computational design） 
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
@@ -287,11 +291,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgyMjY4MjAsLTEzMjc4MDA1NjMsMT
-E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
-NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
-w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
-NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5Nz
-EsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2
-Nzg2NDUzM119
+eyJoaXN0b3J5IjpbMTkwNTExMzY5MiwtMTMyNzgwMDU2MywxMT
+YxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3
+NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLD
+Y0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1
+NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3OTksMTE5NDA4NTk3MS
+wtNzU5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3
+ODY0NTMzXX0=
 -->
