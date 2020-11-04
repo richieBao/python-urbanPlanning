@@ -184,7 +184,9 @@ What our new computational media and new methods of construction allow is a fund
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
-[1-6]
+[1-6]通篇
+
+
 
 
 
@@ -212,7 +214,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTY2NzY0LC04NzM0NDQ2MTksLTEzOT
+eyJoaXN0b3J5IjpbNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOT
 g4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3
 LDc0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNj
 c2MDE3OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4
