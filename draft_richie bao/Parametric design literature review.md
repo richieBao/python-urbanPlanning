@@ -314,6 +314,7 @@ To summarize, there are two primary forces at play shaping the AEC designer’s 
 
 Equipped with more robust and comprehensive training in both the theoretical and practical applications of computer programming, the next generation of landscape architects has vast potential to affect change both inside and outside the profession. [1-12]
 
+The use of parametric and computational design processes and techniques are not only avant-garde, enhancing our ability to understand and mold our environment, but, on another dimension, are also evolutionary, shaping the way we think, communicate, and see ourselves and our world.[1-14]
 
 
 
@@ -357,11 +358,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMj
-I3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUw
-ODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC
-0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0
-NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OS
-wxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQz
-MDEzNzddfQ==
+eyJoaXN0b3J5IjpbLTIwODA0Nzg5MzUsMjAyNTU0NjA2NywtMT
+QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
+MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
+wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
+ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMj
+AwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAz
+OTk1NjUyXX0=
 -->
