@@ -197,6 +197,7 @@ In this particular case, the agents do not interact with other agents but only w
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
+Growing access to computer-aided design and manufacturing tools has undoubtedly altered the material practices of allied disciplines. The 25-year-long catalog of work and writing on this subject within architecture, for instance, clearly demonstrates the possibility to produce complex, high-performance, and emotive form. Use of computation as a generative tool, rather than for purposes of analysis and or representation, in landscape architecture, however, has begun much more recently and, with some exceptions, has not yet demonstrated fundamental differences in approach or result from precedents in building architecture and engineering.[1-10]
 
 
 
@@ -294,7 +295,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDIzMjcyNiwtNDM5ODAzMjQ1LC0xMz
+eyJoaXN0b3J5IjpbMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMz
 I3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5
 NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLD
 E4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIy
