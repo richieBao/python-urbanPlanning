@@ -226,7 +226,7 @@ Researchers such as Bettencourt and West have suggested that the growth of citie
 
 Researchers at the University of Cambridge have also used Twitter and Four Square data to build a model that they believe can predict gentrification, utilizing the United Kingdom’s Index of Multiple Deprivations (Rodionova, 2016). [1-14]
 
-
+Parametric modeling will also impact aesthetic decisions. A team of American and Chinese researchers have utilized geotagged photographs from Flickr to identify urban areas of interest: those areas within the urban environment that attract people’s attention (Murphy, 2010).[1-14]
 
 
 ### 4. 结构构建信息与建构、结构分析及协同优化；
@@ -253,6 +253,7 @@ Previously described by Kolarevic as the Digital Continuum,7 this exchange inclu
 
 This has put areas of knowledge previously not the focus of architectural inquiry into play as generative starting points for design. More specifically, it has prompted the parameterization of intrinsic material properties and manufacturing logics in order to deploy them toward particular effect.8[1-10]
 
+Parametric design will impact our environment at a regional, city, and site scale. Our ability to model and analyze sun, shade, wind, views, and other measures of human comfort has already created a design environment in which proposals can be simulated and adjusted in real time to create landscapes digitally shaped by these forces.[1-14]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -371,11 +372,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjE4MzU3NiwyMDI1NTQ2MDY3LC0xND
-AzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMw
-MjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLD
-ExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4
-MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMD
-AsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5
-OTU2NTJdfQ==
+eyJoaXN0b3J5IjpbMjQ4NDY5NzUzLDIwMjU1NDYwNjcsLTE0MD
+M0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAy
+MCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMT
+E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
+NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
+w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
+NTY1Ml19
 -->
