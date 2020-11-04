@@ -314,6 +314,9 @@ To summarize, there are two primary forces at play shaping the AEC designer’s 
 
 Equipped with more robust and comprehensive training in both the theoretical and practical applications of computer programming, the next generation of landscape architects has vast potential to affect change both inside and outside the profession. [1-12]
 
+
+
+
 ## 结论与讨论
 
 
@@ -349,14 +352,16 @@ and futures in landscape architecture//[1]:89-116
 
 [1-13]Luis E. Fraguada, James Melsom. Code matters: consequent digital tool making in landscape architecture[M]//[1]:225-240
 
-【】
+[1-14]Kurt Culbertson. Technology, evolution, and an ecology of cities[M]/[1]:243-253
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTQ1MTc2LC0xNDAzNDk4NDg1LC0yMj
-c5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4
-NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLT
-E5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0
-NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LD
-E4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5NDMw
-MTM3N119
+eyJoaXN0b3J5IjpbMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMj
+I3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUw
+ODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC
+0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0
+NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OS
+wxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1NjUyLDE3OTQz
+MDEzNzddfQ==
 -->
