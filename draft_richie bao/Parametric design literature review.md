@@ -241,6 +241,7 @@ This has put areas of knowledge previously not the focus of architectural inquir
 ### 10. 交互硬件，实验设备数据流及分析、控制；IOT
 [1-10]部分
 
+Latent, I believe, in Kolarevic’s account is the possibility that the digital continuum can expand to also engage the input of dynamic site and material processes already underway at the start of design inquiry. Over the last 10 years, several technological developments have drastically increased landscape architects’ access to environmental sensing tools, methods of linking the values collected from these devices directly into design models, and the ability to parametrically drive digital geometries with continuous streams of data. Low-cost micro-controllers, such as Arduino and Raspberry Pi, with open-source programming environments supported by large communities of users, have enabled designers to enter the world of do-it-yourself electronics. With as little as $30 and a few hours on one of many blogs, it is possible to build a custom environmental sensing device continuously reporting information about air temperature, humidity, and pressure; visible and ultra violet light levels; wind speed, direction, and dust content; soil moisture and nutrient levels; and even complex processes such as photosynthesis. The data from these sensors can be imported into management and visualization tools, such as Excel, or streamed directly into digital modeling environments, such as Rhinoceros, using add-ons to Grasshopper. Programs such as Firefly allow a real-time connection between sensors, an Arduino microcontroller, and Grasshopper, while others such as Bumblebee allow connections to Excel such that prerecorded sets of data can be called when needed. With Wi-Fi or by logging data to external memory these devices become remote sensing stations that supply an automated and continuous feed of contextual data into the exchange that is informing our contemporary material practices. [1-10]
 
 
 ### 11. 图表报告及制图；
@@ -299,11 +300,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM0MDE2ODUsMjAyOTQwNTA4NiwtND
-M5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1
-MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOS
-wtMTM5ODg0NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUz
-NDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3Ny
-wtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4
-NTg0MDg2OV19
+eyJoaXN0b3J5IjpbLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mz
+k4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUz
+MDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC
+0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0
+OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAxMzc3LC
+0xMzY3NjAxNzk5LDExOTQwODU5NzEsLTc1OTM5NjY5OCwxMzg1
+ODQwODY5XX0=
 -->
