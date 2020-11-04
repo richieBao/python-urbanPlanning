@@ -218,6 +218,7 @@ In a further example, this time engaging with Melbourne’s hot Mediterranean cl
 
 Utilizing computational modelling and simulation techniques, including CFD modelling and Grasshopper plug-ins, projects foregrounded the understanding of atmosphere as perceived space, experienced through ‘material energies’ that diversify the climatic experience to a multitude of ‘stimuli and information’27 the human body can respond to.[1-7]
 
+Take for example the dynamics of our current weather patterns globally.[1-9]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 
@@ -286,11 +287,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTQ3NjI1LC0xMzI3ODAwNTYzLDExNj
-EyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1
-NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNj
-Q0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2
-NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC
-03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4
-NjQ1MzNdfQ==
+eyJoaXN0b3J5IjpbLTExNjgyMjY4MjAsLTEzMjc4MDA1NjMsMT
+E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
+NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
+w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
+NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5Nz
+EsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMTA2
+Nzg2NDUzM119
 -->
