@@ -91,6 +91,8 @@ yet these new tools are digitally driven. Knowing the “maker’s language” t
 Within the discipline of landscape architecture, in both academia and in practice, scripting and coding are increasingly prevalent as tools for analysis, design, and communication. While some forms of scripting and parametric design have worked their way into the mainstream for both analysis and design purposes, most landscape architects do not actually code. However, those who do have used computer programming for a range of innovative applications that have the potential to expand the scope and reach of landscape architecture quite dramatically beyond site design into the realm of community engagement and participation tools, web-based site analysis and mapping platforms, mobile and web apps, video games, and more.[1-12]
 
 ### 计算性设计（computational design） 
+A brief history of computation in landscape architecture[1-12]
+
 The extraordinary palette of possibilities offered by new computational methods through geographically positioned modeling and its attributes will enable designers to access more readily a broader palette of options, questions, and solutions, responding physically and spatially to the specificity and inherent complexity of a place. This will also enable an entirely new form of ecology to arise and succeed, one that is much more imbedded in the cultural and topographical quality of each place.[1-1]
 
 The foundation of the modern computer was soundly established by a British mathematician and scientist, Alan Turing, in 1937 in his seminal paper on “Computable Numbers.”5 Apple’s Steve Wozniak believed that Turing set the standards for modern computation: in his keynote address to the 2012 Turing Festival, Wozniak said that “Turing came up with what we know about computers today.”6[1-2]
@@ -181,6 +183,8 @@ Specialist Modeling Group59[1-2]
 The transition will be a complex evolution from “static” built/urban environments to “dynamic” self-constructing, living, breathing, and even artificially intelligent (thinking) environments.[1-2]
 
 What our new computational media and new methods of construction allow is a fundamental bridge between design idea and physical reality. The connection of the virtual and physical model in space can now exist in direct mirror or alternate reality of each other, as opposed to the cumbersome two-dimensional abstraction of orthographic drawings and measured scales.[1-2]
+
+design—for instance, GIS for site analysis, Grasshopper for parametric design, and digital fabrication tools such as laser cutting and 3D milling for topographic representation.[1-12]
 
 ## 参数化应用的主要方向
 
@@ -320,11 +324,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk1OTIwNDksMjEzNTk5NzI0LC01MT
-U4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAw
-NTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NS
-w0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTcz
-ODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LD
-E2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0
-MDg1OTcxXX0=
+eyJoaXN0b3J5IjpbLTE4OTUxMzE4OSwyMTM1OTk3MjQsLTUxNT
+gwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1
+NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LD
+QwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4
+MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMT
+YwMzk5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQw
+ODU5NzFdfQ==
 -->
