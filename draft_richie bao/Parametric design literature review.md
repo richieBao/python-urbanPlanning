@@ -179,9 +179,6 @@ What our new computational media and new methods of construction allow is a fund
 
 ## 参数化应用的主要方向
 
-### IOT
-
-
 参数化设计相关研究内容的大类为：
 ### 1. grasshopper（GH）参数化设计工具界面体验；
 
@@ -196,11 +193,23 @@ What our new computational media and new methods of construction allow is a fund
 
 
 ### 5. 数据管理及处理，云平台、数据库及运算；
+
+
 ### 6. 可持续性设计（气象数据、热、风、光、声、能源）及设计形式结构协同优化和评估；
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
+
+
 ### 8. 制造装配、机器（人）建造与3D打印；
+
+
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
-### 10. 交互硬件，实验设备数据流及分析、控制；
+
+
+### 10. 交互硬件，实验设备数据流及分析、控制；IOT
+
+
 ### 11. 图表报告及制图；
 
 
@@ -241,11 +250,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNzUyMTgsMTQwNDU5NDQ4NSw0MDQ4MD
-c1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAs
-NjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OT
-U2NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcx
-LC03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNj
-c4NjQ1MzMsLTE2ODc1NTIwNTksLTE0OTE5ODA1MDksMjAwODgw
-NTA1OF19
+eyJoaXN0b3J5IjpbLTUyMjE3MzE2NSwxNDA0NTk0NDg1LDQwND
+gwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIw
+MCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMz
+k5NTY1MiwxNzk0MzAxMzc3LC0xMzY3NjAxNzk5LDExOTQwODU5
+NzEsLTc1OTM5NjY5OCwxMzg1ODQwODY5LC02MTk4NzU0OTAsMT
+A2Nzg2NDUzMywtMTY4NzU1MjA1OSwtMTQ5MTk4MDUwOSwyMDA4
+ODA1MDU4XX0=
 -->
