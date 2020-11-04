@@ -189,6 +189,8 @@ Many of these problems can be productively addressed with a relatively recent ap
 In this particular case, the agents do not interact with other agents but only with their environment based on a few rules defined using the scripting engine Grasshopper together with the looping plug-in Anemone.[1-8]
 
 #### 生成/进化（generation/evolution）
+[1-9]通篇
+
 
 
 
@@ -268,17 +270,19 @@ and futures in landscape architecture//[1]:89-116
 
 [1-8]Joseph Claghorn. Agent-based models to reveal underlying landscape structure[M]//[1]:144-148
 
-[]
+[1-9]Anthony Frausto-Robledo. The role of query and convergence in next-generation tool sets[M]//[1]:171-179
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDEzMDU4NSwtMTMyNzgwMDU2MywxMT
-YxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3
-NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLD
-Y0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAzOTk1
-NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3OTksMTE5NDA4NTk3MS
-wtNzU5Mzk2Njk4LDEzODU4NDA4NjksLTYxOTg3NTQ5MCwxMDY3
-ODY0NTMzXX0=
+eyJoaXN0b3J5IjpbMTA3MTc5MjM2LC0xMzI3ODAwNTYzLDExNj
+EyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1
+NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMDAsNj
+Q0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5OTU2
+NTIsMTc5NDMwMTM3NywtMTM2NzYwMTc5OSwxMTk0MDg1OTcxLC
+03NTkzOTY2OTgsMTM4NTg0MDg2OSwtNjE5ODc1NDkwLDEwNjc4
+NjQ1MzNdfQ==
 -->
