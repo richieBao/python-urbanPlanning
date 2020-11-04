@@ -224,6 +224,9 @@ The use of cellular data allowed researchers at the AT&T Research Labs to map th
 ### 3. 智能化设计——机器学习和深度学习；
 Researchers such as Bettencourt and West have suggested that the growth of cities follows power laws allowing prediction of change in land cover, employment, energy flows, and a host of other factors through the evolution of a city (West, 2017). [1-14]
 
+Researchers at the University of Cambridge have also used Twitter and Four Square data to build a model that they believe can predict gentrification, utilizing the United Kingdom’s Index of Multiple Deprivations (Rodionova, 2016). [1-14]
+
+
 
 
 ### 4. 结构构建信息与建构、结构分析及协同优化；
@@ -262,6 +265,9 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
+Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
+
+
 
 
 ### 10. 交互硬件，实验设备数据流及分析、控制；IOT
@@ -365,11 +371,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ2NjA1MTksMjAyNTU0NjA2NywtMT
-QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
-MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
-wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
-ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMj
-AwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAz
-OTk1NjUyXX0=
+eyJoaXN0b3J5IjpbMTY4MjE4MzU3NiwyMDI1NTQ2MDY3LC0xND
+AzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMw
+MjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLD
+ExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4
+MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTczODAyMD
+AsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1ODIyMDQ1LDE2MDM5
+OTU2NTJdfQ==
 -->
