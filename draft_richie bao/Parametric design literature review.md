@@ -161,8 +161,6 @@ From here, it’s an almost simple leap to complex urban systems—systems that 
 
 ### 进化（evolution）
 
-### 代理模型（agent-based model）
-
 ### misc
 our cities’ future is largely influenced by a third group composed of landscape architects, architects, urban planners, and engineers. These “technocrats” are shaping the physical cities and environments within which future technologies and innovations must be integrated. They must anticipate and create “space” for a future that no one can define.[1-2]
 
@@ -184,6 +182,10 @@ What our new computational media and new methods of construction allow is a fund
 
 
 ### 2. 设计几何空间形式构建、分析、算法、生成；
+#### 代理模型（agent-based model）
+[1-8]通篇
+
+
 
 
 ### 3. 智能化设计——机器学习和深度学习；
@@ -266,11 +268,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA3ODUxODAsLTE5Mzg1MzA4MjYsMT
-QwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0
-NzIyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNz
-Q1ODIyMDQ1LDE2MDM5OTU2NTIsMTc5NDMwMTM3NywtMTM2NzYw
-MTc5OSwxMTk0MDg1OTcxLC03NTkzOTY2OTgsMTM4NTg0MDg2OS
-wtNjE5ODc1NDkwLDEwNjc4NjQ1MzMsLTE2ODc1NTIwNTksLTE0
-OTE5ODA1MDldfQ==
+eyJoaXN0b3J5IjpbNzQ5NzI3MDY4LC0xOTM4NTMwODI2LDE0MD
+Q1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcy
+MiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NT
+gyMjA0NSwxNjAzOTk1NjUyLDE3OTQzMDEzNzcsLTEzNjc2MDE3
+OTksMTE5NDA4NTk3MSwtNzU5Mzk2Njk4LDEzODU4NDA4NjksLT
+YxOTg3NTQ5MCwxMDY3ODY0NTMzLC0xNjg3NTUyMDU5LC0xNDkx
+OTgwNTA5XX0=
 -->
