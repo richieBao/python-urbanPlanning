@@ -217,6 +217,9 @@ Growing access to computer-aided design and manufacturing tools has undoubtedly 
 
 Nicholas de Monchaux, an associate professor of architecture and urban design at the University of California, Berkeley, has worked since 2009 on Local Code, a project that seeks to design socially and ecologically active landscapes using abandoned urban sites in various cities throughout the United States and abroad. Many of these metropolitan areas have hundreds if not thousands of these sites, thus de Monchaux and his team have sought to find a method for systematically generating designs based on local contexts rather than designing each site one by one. To facilitate this process, de Monchaux’s team developed a set of Grasshopper components, collectively called “Finches,” which build connections between geospatial data and Rhino geometry.20 Finches includes components for importing, batch processing, and exporting shapefiles (.shp) within Rhino, meaning that different types of geodata such as parcel boundaries and topography can be combined with Grasshopper’s existing parametric modeling tools to generate 3D designs for many sites at once.[1-12]
 
+#### CA
+The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
+
 
 ### 3. 智能化设计——机器学习和深度学习；
 Researchers such as Bettencourt and West have suggested that the growth of cities follows power laws allowing prediction of change in land cover, employment, energy flows, and a host of other factors through the evolution of a city (West, 2017). [1-14]
@@ -362,11 +365,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMDgyOTA2LDIwMjU1NDYwNjcsLTE0MD
-M0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAy
-MCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMT
-E2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgw
-NzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMC
-w2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5
-NTY1Ml19
+eyJoaXN0b3J5IjpbLTE1NTQ2NjA1MTksMjAyNTU0NjA2NywtMT
+QwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAz
+MDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2My
+wxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0
+ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMj
+AwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0NTgyMjA0NSwxNjAz
+OTk1NjUyXX0=
 -->
