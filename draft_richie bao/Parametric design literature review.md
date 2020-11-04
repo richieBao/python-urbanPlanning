@@ -194,6 +194,10 @@ design—for instance, GIS for site analysis, Grasshopper for parametric design,
 
 ## 参数化应用的主要方向
 
+### 教学
+
+One model for how this might be done is the Master of Advanced Studies in Landscape Architecture (MAS LA) program at ETH in Zurich, which is organized as a series of workshops and modules that teach programming incrementally. Beginning with a workshop introducing computational software such as Rhino and Grasshopper, the program gradually introduces more challenging concepts and coding languages including Processing and Rhinoscript. However, in addition to the hands-on training, the program also includes a three-day intensive workshop entitled “Theoretical Programming,” which introduces the theoretical fundamentals of computer programming in general and as it relates to landscape architecture, covering more advanced concepts such as genetic algorithms and agent-based systems by using interactive demonstrations and role-play.36,37,[1-12]
+
 参数化设计相关研究内容的大类为：
 ### 1. grasshopper（GH）参数化设计工具界面体验；
 
@@ -332,7 +336,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU2MzM3OTQsMjEzNTk5NzI0LC01MT
+eyJoaXN0b3J5IjpbLTEwMjIzOTY5NDgsMjEzNTk5NzI0LC01MT
 U4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAw
 NTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NS
 w0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4MTcz
