@@ -188,7 +188,10 @@ Many of these problems can be productively addressed with a relatively recent ap
 
 In this particular case, the agents do not interact with other agents but only with their environment based on a few rules defined using the scripting engine Grasshopper together with the looping plug-in Anemone.[1-8]
 
-#### 进化（evolution）
+#### 生成/进化（generation/evolution）
+
+
+
 
 ### 3. 智能化设计——机器学习和深度学习；
 
@@ -270,7 +273,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI2NTc0NzYsMTE2MTIxMzA5NSwtMT
+eyJoaXN0b3J5IjpbLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMT
 kzODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0
 NjE5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMT
 g0NTM0OTYyNyw3NDU4MjIwNDUsMTYwMzk5NTY1MiwxNzk0MzAx
