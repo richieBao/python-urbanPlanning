@@ -419,8 +419,9 @@ and futures in landscape architecture//[1]:89-116
 
 [2-1]Phil Bernstein. Foreword[M]//[2]:VI-IX
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDA3MzI5Miw4MjAwNjc4NTUsLTEwMD
+eyJoaXN0b3J5IjpbMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMD
 YyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEy
 NjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLD
 IxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgw
