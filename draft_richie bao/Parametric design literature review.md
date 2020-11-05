@@ -328,6 +328,8 @@ FIGURE 3.4.8 Collserola National Park analysis and interpretation through intens
 
 These experimental tests aim to simulate the potential of responsive infrastructures to modify the behaviors of riverine landscapes and their fluvial morphologies—including land accretion, vegetal proliferation, and species colonization.[1-16]
 
+The physical model provides a tangible model that simulates sediment transport through analog interactions between synthetic sediment densities and rates of water flow. Using real-time sensing, the indeterminate becomes latent (see Figure 4.3.2) and becomes enmeshed through the introduction of technology as a new form of ecology, and eventually a nascent form of nature.[1-16]
+
 
 ### 11. 图表报告及制图；
 
@@ -401,11 +403,11 @@ and futures in landscape architecture//[1]:89-116
 [1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjI4MTczLC05NTE2MzUwMTgsLTE1Nj
-M2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQw
-ODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLT
-QzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4
-NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MT
-ksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1
-MzQ5NjI3XX0=
+eyJoaXN0b3J5IjpbLTgwODA2Mjg1MywtOTUxNjM1MDE4LC0xNT
+YzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0
+MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC
+00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkz
+ODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0Nj
+E5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0
+NTM0OTYyN119
 -->
