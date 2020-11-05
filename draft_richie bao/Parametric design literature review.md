@@ -315,6 +315,10 @@ Judging from the last few years, there will be many of both and increasingly the
 
 [2-4]通篇
 
+Kjell Anderson writes that while design simulation is often seen as a specialist’s tool for predicting energy performance, the greatest value for architects is the freedom to play with design ideas and receive timely feedback’.[2-4]
+
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -462,11 +466,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OT
-Y0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3
-OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mz
-g1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2
-MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC
-01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3
-ODAwNTYzXX0=
+eyJoaXN0b3J5IjpbLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3OD
+Y4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1
+MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMT
+AwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2
+MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4ND
+IsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5
+ODAzMjQ1XX0=
 -->
