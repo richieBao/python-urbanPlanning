@@ -290,6 +290,11 @@ While in today’s practice, numerical methods have overtaken graphical techniqu
 
 This is largely to do with the widespread popularity of Rhino and Grasshopper. Using an ‘open innovation’ concept, Robert McNeel enables people to create their own ‘plug-in’ design software, and this has spawned a whole ‘ecosystem’ of new and innovative computational design tools for architects. Architects are increasingly the authors of their own design environment.(14)[2-2]
 
+Architects are largely excluded from performance evaluations of their building designs. Even with the best intentions, most decisions in this realm remain difficult to significantly impact (or measure) at the building scale as architects, engineers or urban planners.[2-3]
+
+
+
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -430,7 +435,7 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDYxMzIxNSwxNjQ4ODcyNTM5LDE2MT
+eyJoaXN0b3J5IjpbLTkyNzE1NTA1MSwxNjQ4ODcyNTM5LDE2MT
 U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
 NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
 AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
