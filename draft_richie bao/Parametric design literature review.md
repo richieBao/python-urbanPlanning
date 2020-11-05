@@ -334,6 +334,9 @@ Towards Sentience incorporates the design of a responsive infrastructural model,
 
 FIGURE 4.3.5 Depositor, an experimental real-time responsive model programmed to interrupt the flow of water, instantaneously redirecting it to percolate down a new fluvial direction, affecting its geomorphology Model and temporal images: Leif Estrada, https://vimeo.com/152837202[1-16]
 
+FIGURE 4.3.6 Attuner, a real-time responsive model that monitors and modifies the alluvial morphology of sedimentation based on the fluvial flux of water, resulting in land accretion. It constantly learns from its environment and context through a feedback loop Model: Leif Estrada; photograph: Robert Tangstrom, https://vimeo.com/166623512[1-16]
+
+
 ### 11. 图表报告及制图；
 
 
@@ -406,11 +409,11 @@ and futures in landscape architecture//[1]:89-116
 [1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzA2OTY1MSwtOTUxNjM1MDE4LC0xNT
-YzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0
-MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC
-00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkz
-ODUzMDgyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0Nj
-E5LC0xMzk4ODQ3MjIsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0
-NTM0OTYyN119
+eyJoaXN0b3J5IjpbODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1Nj
+M2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQw
+ODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLT
+QzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4
+NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MT
+ksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1
+MzQ5NjI3XX0=
 -->
