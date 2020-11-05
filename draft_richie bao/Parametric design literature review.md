@@ -175,6 +175,8 @@ Just as many firms have CADD and BIM managers today, one can envision the positi
 
 When we consider the implication of this view on parametric and computation design on the profession, it suggests the need to create models that consider environmental, economic, social, and aesthetic factors in an integrative manner to better understand the relationships between these four areas of inquiry. [1-14]
 
+[2-4]通篇
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -372,7 +374,7 @@ FIGURE 4.3.6 Attuner, a real-time responsive model that monitors and modifies th
 
 
 ### 12. 工具建筑者(tool maker)；
-
+[2-4]通篇
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -450,10 +452,10 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 
-
+[2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTQxMjU4NiwtMTg5OTY0MTI4NCwtMj
+eyJoaXN0b3J5IjpbLTE2MzMyNjA1MywtMTg5OTY0MTI4NCwtMj
 ExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4
 NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLT
 k1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAz
