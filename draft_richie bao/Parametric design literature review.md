@@ -292,6 +292,11 @@ This is largely to do with the widespread popularity of Rhino and Grasshopper. U
 
 Architects are largely excluded from performance evaluations of their building designs. Even with the best intentions, most decisions in this realm remain difficult to significantly impact (or measure) at the building scale as architects, engineers or urban planners.[2-3]
 
+It is a different workflow and decisionmaking process, so it depends on the designer and how success is measured. Yehudi Kalay’s research into performance-based design finds that improvement in the design process will be brought about through feedback via performance evaluation. He argues that performance-based design should be a bi-directional design process, in which both form and the evaluative functions inform each other, and are modified throughout the design process until the designer reaches a solution when form and function come together to achieve an acceptable performance.[2-3]
+
+The most commonly used base algorithm for whole building energy simulation is EnergyPlus, created by the United States Department of Energy as a free, open-source and cross-platform program that outputs to text files.(6) It is not a standard practice for designers to use this software due to its complexity and non-graphical interface. However, it is the underlying engine behind a range of other programs that are increasingly being used by designers, such as Sefaira, Honeybee, IES, Termite and Archsim.[2-3]
+
+
 
 
 
@@ -435,11 +440,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzE1NTA1MSwxNjQ4ODcyNTM5LDE2MT
-U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
-NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
-AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
-OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NS
-wtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0
-MDQ1OTQ0ODVdfQ==
+eyJoaXN0b3J5IjpbNzUwMjQzMDkxLDE2NDg4NzI1MzksMTYxNT
+kwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0
+Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMD
+I1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5
+NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC
+0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQw
+NDU5NDQ4NV19
 -->
