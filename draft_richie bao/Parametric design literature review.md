@@ -182,6 +182,8 @@ Not understanding these algorithms, the language (codes) these instructions are 
 
 An algorithm is a set of rules or tasks that can be executed over and over again until a particular state is reached. In data sets, we use algorithms such as Bubble Sort, which sorts numeric values one after the other until all values are in ascending order. As new data sets arrive, they too can be sorted. If we think of the landscape architect as the author of an algorithm and the feedback loop consistently moving through that algorithm, then the possibilities of fast matter exponentially increases. If the landscape design process is continuous, and the algorithm is periodically updated in response to the feedback loop, then fast matter has even more potential to respond to specific site conditions, such as changing water flows, poor growth areas, or programming. With directives, the role of the landscape architect is to observe and direct, rather than create a final product. Kostas Terzidis calls algorithms a “vehicle for exploration.”21 Like the Game of Life, the designer must set the system into motion, watch it evolve, and then make adjustments or restart the game, as necessary.[1-15]
 
+Parametric design software, such as Grasshopper, is already allowing designers to think in terms of logical questions and commands: copy this; scale according to the distance from X, etc. While Grasshopper is not iterative the way an algorithm is, it does begin to make designers respond in code, observe the results, and enact a response. Once the process is iterative, the exploration is amplified. Graphic-based coding, such as Grasshopper, also places design firmly in the realm of directives instead of documents With Grasshopper, the design work is in creating the process. The drawing, a representation of the process, can be created again and again.[1-15]
+
 
 ### 生成设计（generative design/modeling）
 Landscape practices have recently been informed by two distinct lines of inquiry. Ecological and environmental concerns have thrust landscape and ecology into the center of design discourse in ways that explore the dynamic, operational, and even physical aspects of ecological systems as a starting point for generating design— whether landscape, building, or urbanism. Simultaneously, advances in software technologies have brought generative and associative modeling tools into the academic design studio and into the professional office, allowing for a new generation of techniques and fabrication technologies to emerge[1-4]
@@ -393,11 +395,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NDI3NjY1LC0xNTYzNjYxMjYzLDIwMj
-U1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3
-MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLT
-EzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0
-NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3Mj
-IsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4
-MjIwNDVdfQ==
+eyJoaXN0b3J5IjpbLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMD
+I1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5
+NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC
+0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQw
+NDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0Nz
+IyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1
+ODIyMDQ1XX0=
 -->
