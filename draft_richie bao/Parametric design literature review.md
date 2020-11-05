@@ -284,6 +284,11 @@ The methodologies and trends so skilfully described and unpacked here will lead 
 
 Much of the text that follows represents the best attempts to remediate the relationship of the building to the environment and the processes of design that anticipate those relationships. The resulting insights will inspire architects and engineers to create and perfect a new collection of heuristics that should lead to the next generation of high-performance design solutions.[2-1]
 
+[2-2]通篇
+
+While in today’s practice, numerical methods have overtaken graphical techniques in the domains of visualisation, sound and structural performance, what remains constant is the notion of simulation—the desire to get feedback from the design environment. (6) [2-2]
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -422,11 +427,11 @@ and futures in landscape architecture//[1]:89-116
 [2-2]Brady Peters,Terri Peters. Introduction—computing the environment: design workflows for the simulation of sustainable architecture [M]//[2]:1-13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUxMjQ1NDQsMTMzMzEyODU3MCw4Mj
-AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
-MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
-wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
-MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMD
-k1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04
-NzM0NDQ2MTldfQ==
+eyJoaXN0b3J5IjpbMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMD
+A2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAx
+OCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC
+0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAyOTQw
+NTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMwOT
+UsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3
+MzQ0NDYxOV19
 -->
