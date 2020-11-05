@@ -428,9 +428,9 @@ and futures in landscape architecture//[1]:89-116
 
 [2-2]Brady Peters,Terri Peters. Introduction—computing the environment: design workflows for the simulation of sustainable architecture [M]//[2]:1-13
 
-[
+[2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDE5ODcwNCwxNjQ4ODcyNTM5LDE2MT
+eyJoaXN0b3J5IjpbLTM2MDYxMzIxNSwxNjQ4ODcyNTM5LDE2MT
 U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
 NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
 AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
