@@ -47,6 +47,7 @@ This work is also beginning to take shape within the design professions. Andrew 
 
 In studios across professional landscape architecture programs, students download digital elevation models in ArcGIS, create surfaces in Rhino, manipulate those surfaces with Grasshopper “scripts,” and then contour those surfaces at even intervals to create two-dimensional drawings that represent a three-dimensional landscape. This workflow uses extraordinary computational power to create a representational device that has been used for hundreds of years: the contour line. Those same students will then import that surface into a software program, such as MasterCAM, to create tool paths, which in turn will generate NC code for a CNC router to excavate material that creates a physical manifestation of the designed surface, often in an expanded polystyrene material. These workflows result in many steps of unnecessary translation.[1-15]
 
+[2-4]通篇
 
 * case
 
@@ -459,11 +460,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTU5NTk0LDI3ODY4OTUwMiwtMTg5OT
-Y0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3
-OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mz
-g1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2
-MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC
-01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3
-ODAwNTYzXX0=
+eyJoaXN0b3J5IjpbLTEyODA0NDQ2MDYsMjc4Njg5NTAyLC0xOD
+k5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0
+ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLD
+gzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1
+NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3Mj
+QsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEz
+Mjc4MDA1NjNdfQ==
 -->
