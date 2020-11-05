@@ -282,6 +282,8 @@ As hand drawing gave way to computer-aided design (CAD), and CAD to building inf
 
 The methodologies and trends so skilfully described and unpacked here will lead the way for the next generation of designers to find, to paraphrase Alexander, a non-arbitrary formal order’. The mile markers of the digital turn that Computing the Environment represents are just the beginning of this journey for the building industry. Architects will always search for the ‘form which we have not yet designed’, but will increasingly do so in the context of analytical and predictive insight anticipated by the authors, a context that is, at least in part, now describable. The search for solutions will be informed and enhanced by these systems, giving designers not a new set of constraints, but rather new, greater degrees of freedom to search, iterate, evaluate, select and then synthesise answers to the challenges of our increasingly complex environment. As these methods and tools establish data-rich predictions of building performance across a spectrum of parameters that will soon evolve beyond energy conservation or daylighting, a knowledge base will emerge— the collective insight of predicted behaviour versus actual performance—that will further amplify the power of performancebased design.[2-1]
 
+Much of the text that follows represents the best attempts to remediate the relationship of the building to the environment and the processes of design that anticipate those relationships. The resulting insights will inspire architects and engineers to create and perfect a new collection of heuristics that should lead to the next generation of high-performance design solutions.[2-1]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -418,7 +420,7 @@ and futures in landscape architecture//[1]:89-116
 [2-1]Phil Bernstein. Foreword[M]//[2]:VI-IX
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzIxNTA4NCw4MjAwNjc4NTUsLTEwMD
+eyJoaXN0b3J5IjpbMjA2NDA3MzI5Miw4MjAwNjc4NTUsLTEwMD
 YyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEy
 NjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLD
 IxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgw
