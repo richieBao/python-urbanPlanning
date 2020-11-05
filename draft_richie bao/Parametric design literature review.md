@@ -276,6 +276,8 @@ This has put areas of knowledge previously not the focus of architectural inquir
 
 Parametric design will impact our environment at a regional, city, and site scale. Our ability to model and analyze sun, shade, wind, views, and other measures of human comfort has already created a design environment in which proposals can be simulated and adjusted in real time to create landscapes digitally shaped by these forces.[1-14]
 
+The digital age has certainly changed those heuristics, and we are only now beginning to understand the implications of those changes. Where the architectural design process in the predigital age was one of careful contemplation, limited calculation, experienced intuition and, ultimately judgement, today’s designer can rely on an array of analytical, simulative and visualisation tools that enhance understanding of an emergent design and predict its ultimate performance.[2-1]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -413,7 +415,7 @@ and futures in landscape architecture//[1]:89-116
 [2-1]Phil Bernstein. Foreword[M]//[2]:VI-IX
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzI0OTEzMCw4MjAwNjc4NTUsLTEwMD
+eyJoaXN0b3J5IjpbLTc5MzM2OTk1Niw4MjAwNjc4NTUsLTEwMD
 YyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEy
 NjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLD
 IxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgw
