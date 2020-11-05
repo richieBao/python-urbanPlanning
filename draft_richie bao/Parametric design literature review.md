@@ -288,6 +288,8 @@ Much of the text that follows represents the best attempts to remediate the rela
 
 While in today’s practice, numerical methods have overtaken graphical techniques in the domains of visualisation, sound and structural performance, what remains constant is the notion of simulation—the desire to get feedback from the design environment. (6) [2-2]
 
+This is largely to do with the widespread popularity of Rhino and Grasshopper. Using an ‘open innovation’ concept, Robert McNeel enables people to create their own ‘plug-in’ design software, and this has spawned a whole ‘ecosystem’ of new and innovative computational design tools for architects. Architects are increasingly the authors of their own design environment.(14)[2-2]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -427,11 +429,11 @@ and futures in landscape architecture//[1]:89-116
 [2-2]Brady Peters,Terri Peters. Introduction—computing the environment: design workflows for the simulation of sustainable architecture [M]//[2]:1-13
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMD
-A2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAx
-OCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC
-0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAyOTQw
-NTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLDExNjEyMTMwOT
-UsLTE5Mzg1MzA4MjYsMTQwNDU5NDQ4NSw0MDQ4MDc1NDksLTg3
-MzQ0NDYxOV19
+eyJoaXN0b3J5IjpbMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMz
+MxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTEx
+OCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLT
+E0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgw
+MzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1Nj
+MsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0NTk0NDg1LDQw
+NDgwNzU0OV19
 -->
