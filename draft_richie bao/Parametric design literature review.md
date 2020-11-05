@@ -313,6 +313,8 @@ In fact, as illustrated in the later chapters of this book, there is an extremel
 
 Judging from the last few years, there will be many of both and increasingly they will run natively, be accurate and quick to use, and many of them will be open-source.[2-3]
 
+[2-4]通篇
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -460,11 +462,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0NDQ2MDYsMjc4Njg5NTAyLC0xOD
-k5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0
-ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLD
-gzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1
-NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3Mj
-QsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEz
-Mjc4MDA1NjNdfQ==
+eyJoaXN0b3J5IjpbNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OT
+Y0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3
+OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mz
+g1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2
+MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC
+01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3
+ODAwNTYzXX0=
 -->
