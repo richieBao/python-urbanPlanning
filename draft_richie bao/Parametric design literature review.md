@@ -41,6 +41,12 @@ Scripted landscapes: code as design too[1-12]
 
 As already discussed, landscape architects are becoming increasingly reliant on parametric design tools such as Grasshopper. As sites have become larger and projects have become more complex, design trends have also shifted further away from the formal, axial landscapes of the early twentieth century into complex, nonorthogonal landscapes with hybridized, flexible programs. To each of these ends, parametric and scripting tools have become huge time-savers. During analysis and conceptual design, these tools allow designers to input environmental and socioeconomic data in various formats and quickly generate design alternatives that have the potential to dynamically adapt to changing conditions.[1-12]
 
+The “parametric landscape” promises more than a method to quickly iterate through options only to settle on a single solution, as Grasshopper is often used today, or to handle the complex data in sets of construction documents, as in the current state of BIM software. The parametric landscape wants to be an open system that self-organizes in order to, with every feedback loop, consistently arrange itself to meet the complex and changing parameters set forth by a landscape architect. In this effort the landscape architect becomes the author of an algorithm rather than designer of a specific, even if flexible, site solution. [1-15]
+
+This work is also beginning to take shape within the design professions. Andrew Heumann developed a Grasshopper plug-in named Human UI that allows users to create an easy-to-use interface that references specific Grasshopper components. Human UI allows clients to take control of specific elements within a digital model and see, in real time, what happens if they increase the height of the building or change the cut and fill balance of a landscape.[1-15]
+
+
+
 * case
 
 Aerial view of
@@ -384,11 +390,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDk3OTIwMSwtMTU2MzY2MTI2MywyMD
-I1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5
-NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC
-0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQw
-NDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0Nz
-IyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1
-ODIyMDQ1XX0=
+eyJoaXN0b3J5IjpbNjQ5ODA1MDMwLC0xNTYzNjYxMjYzLDIwMj
+U1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3
+MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLT
+EzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0
+NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0xMzk4ODQ3Mj
+IsMTgxNzM4MDIwMCw2NDQ3OTc3ODksMTg0NTM0OTYyNyw3NDU4
+MjIwNDVdfQ==
 -->
