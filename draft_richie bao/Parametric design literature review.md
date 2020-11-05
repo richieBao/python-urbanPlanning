@@ -215,6 +215,8 @@ What our new computational media and new methods of construction allow is a fund
 
 design—for instance, GIS for site analysis, Grasshopper for parametric design, and digital fabrication tools such as laser cutting and 3D milling for topographic representation.[1-12]
 
+The recent adoption of computational and simulation techniques is not only changing the range of the technically possible, but also altering the social structures that architects operate within.[2-3]
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -455,11 +457,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMyNjA1MywtMTg5OTY0MTI4NCwtMj
-ExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4
-NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLT
-k1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAz
-NDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMj
-AsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3ODAwNTYzLDEx
-NjEyMTMwOTVdfQ==
+eyJoaXN0b3J5IjpbMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMT
+E5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1
+NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOT
+UxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0
+OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMC
+wyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2
+MTIxMzA5NV19
 -->
