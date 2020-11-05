@@ -408,13 +408,13 @@ and futures in landscape architecture//[1]:89-116
 
 [1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
-[2]Brady Peters, Terri Peters.Computing the Environment: Digital Design Tools for Simulation and Visualisation of Sustainable Architecture[M].
+[2]Brady Peters, Terri Peters.Computing the Environment: Digital Design Tools for Simulation and Visualisation of Sustainable Architecture[M].Italy:Wiley, April 16, 2018: page range.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NT
-E2MzUwMTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5
-ODQ4NSwtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLD
-IwMjk0MDUwODYsLTQzOTgwMzI0NSwtMTMyNzgwMDU2MywxMTYx
-MjEzMDk1LC0xOTM4NTMwODI2LDE0MDQ1OTQ0ODUsNDA0ODA3NT
-Q5LC04NzM0NDQ2MTksLTEzOTg4NDcyMiwxODE3MzgwMjAwLDY0
-NDc5Nzc4OV19
+eyJoaXN0b3J5IjpbMTE3MDA4MzU2NCwtMTAwNjIwNjA0Myw4Mz
+g1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2
+MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC
+01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3
+ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQwNDU5ND
+Q4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0NzIyLDE4
+MTczODAyMDBdfQ==
 -->
