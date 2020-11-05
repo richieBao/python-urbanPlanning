@@ -378,17 +378,17 @@ and futures in landscape architecture//[1]:89-116
 
 [1-13]Luis E. Fraguada, James Melsom. Code matters: consequent digital tool making in landscape architecture[M]//[1]:225-240
 
-[1-14]Kurt Culbertson. Technology, evolution, and an ecology of cities[M]/[1]:243-253
+[1-14]Kurt Culbertson. Technology, evolution, and an ecology of cities[M]//[1]:243-253
 
-
+[1-15]Craig Reschke. From documents to directives: experimental fast matter[M]//[1]:268-278
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEzMDE3MjksLTE1NjM2NjEyNjMsMj
-AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
-OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NS
-wtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0
-MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEzOTg4ND
-cyMiwxODE3MzgwMjAwLDY0NDc5Nzc4OSwxODQ1MzQ5NjI3LDc0
-NTgyMjA0NV19
+eyJoaXN0b3J5IjpbMTk2MDk3OTIwMSwtMTU2MzY2MTI2MywyMD
+I1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5
+NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC
+0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQw
+NDU5NDQ4NSw0MDQ4MDc1NDksLTg3MzQ0NDYxOSwtMTM5ODg0Nz
+IyLDE4MTczODAyMDAsNjQ0Nzk3Nzg5LDE4NDUzNDk2MjcsNzQ1
+ODIyMDQ1XX0=
 -->
