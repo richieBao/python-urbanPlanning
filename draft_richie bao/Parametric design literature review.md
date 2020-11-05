@@ -306,6 +306,8 @@ such as EnergyPlus, are collections of average weather data, including temperatu
 
 In fact, as illustrated in the later chapters of this book, there is an extremely broad range in how well, how accurately, and how often, these tools are used in practice. [2-3]
 
+Judging from the last few years, there will be many of both and increasingly they will run natively, be accurate and quick to use, and many of them will be open-source.[2-3]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -445,11 +447,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjM5NDEzMCwxNjQ4ODcyNTM5LDE2MT
-U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
-NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
-AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
-OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NS
-wtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0
-MDQ1OTQ0ODVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjk3OTIsMTY0ODg3MjUzOSwxNjE1OT
+A0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQz
+LDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMj
+U1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3
+MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLT
+EzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0
+NTk0NDg1XX0=
 -->
