@@ -330,6 +330,9 @@ These experimental tests aim to simulate the potential of responsive infrastruct
 
 The physical model provides a tangible model that simulates sediment transport through analog interactions between synthetic sediment densities and rates of water flow. Using real-time sensing, the indeterminate becomes latent (see Figure 4.3.2) and becomes enmeshed through the introduction of technology as a new form of ecology, and eventually a nascent form of nature.[1-16]
 
+Towards Sentience incorporates the design of a responsive infrastructural model, which attunes the projective alluvium of the geomorphology table through a series of real-time sensing and responsive manipulations as a way to curate successive sediment accretion—constantly altering and modifying the riverine landscape, privileging the evolution of ecological processes over static constructions.[1-16]
+
+FIGURE 4.3.5 Depositor, an experimental real-time responsive model programmed to interrupt the flow of water, instantaneously redirecting it to percolate down a new fluvial direction, affecting its geomorphology Model and temporal images: Leif Estrada, https://vimeo.com/152837202[1-16]
 
 ### 11. 图表报告及制图；
 
@@ -403,7 +406,7 @@ and futures in landscape architecture//[1]:89-116
 [1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODA2Mjg1MywtOTUxNjM1MDE4LC0xNT
+eyJoaXN0b3J5IjpbMTQxMzA2OTY1MSwtOTUxNjM1MDE4LC0xNT
 YzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0
 MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC
 00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkz
