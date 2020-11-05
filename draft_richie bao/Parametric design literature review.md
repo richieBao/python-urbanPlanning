@@ -410,9 +410,9 @@ and futures in landscape architecture//[1]:89-116
 
 [2]Brady Peters, Terri Peters.Computing the Environment: Digital Design Tools for Simulation and Visualisation of Sustainable Architecture[M].Italy:Wiley, April, 2018: page range.
 
-[2-1]Phil Bernstein,
+[2-1]Phil Bernstein. Foreword[M]//[]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjI2Njk3OCw4MjAwNjc4NTUsLTEwMD
+eyJoaXN0b3J5IjpbMTgxNDQ5OTU3Myw4MjAwNjc4NTUsLTEwMD
 YyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEy
 NjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLD
 IxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgw
