@@ -45,6 +45,7 @@ The “parametric landscape” promises more than a method to quickly iterate th
 
 This work is also beginning to take shape within the design professions. Andrew Heumann developed a Grasshopper plug-in named Human UI that allows users to create an easy-to-use interface that references specific Grasshopper components. Human UI allows clients to take control of specific elements within a digital model and see, in real time, what happens if they increase the height of the building or change the cut and fill balance of a landscape.[1-15]
 
+In studios across professional landscape architecture programs, students download digital elevation models in ArcGIS, create surfaces in Rhino, manipulate those surfaces with Grasshopper “scripts,” and then contour those surfaces at even intervals to create two-dimensional drawings that represent a three-dimensional landscape. This workflow uses extraordinary computational power to create a representational device that has been used for hundreds of years: the contour line. Those same students will then import that surface into a software program, such as MasterCAM, to create tool paths, which in turn will generate NC code for a CNC router to excavate material that creates a physical manifestation of the designed surface, often in an expanded polystyrene material. These workflows result in many steps of unnecessary translation.[1-15]
 
 
 * case
@@ -178,6 +179,8 @@ When we consider the implication of this view on parametric and computation desi
 
 ### 算法（algorithm）
 Not understanding these algorithms, the language (codes) these instructions are written in makes the objects appear more complicated—when in reality they are simply more complicated in a digital sphere than in a physical or mechanical interaction.[1-2]
+
+An algorithm is a set of rules or tasks that can be executed over and over again until a particular state is reached. In data sets, we use algorithms such as Bubble Sort, which sorts numeric values one after the other until all values are in ascending order. As new data sets arrive, they too can be sorted. If we think of the landscape architect as the author of an algorithm and the feedback loop consistently moving through that algorithm, then the possibilities of fast matter exponentially increases. If the landscape design process is continuous, and the algorithm is periodically updated in response to the feedback loop, then fast matter has even more potential to respond to specific site conditions, such as changing water flows, poor growth areas, or programming. With directives, the role of the landscape architect is to observe and direct, rather than create a final product. Kostas Terzidis calls algorithms a “vehicle for exploration.”21 Like the Game of Life, the designer must set the system into motion, watch it evolve, and then make adjustments or restart the game, as necessary.[1-15]
 
 
 ### 生成设计（generative design/modeling）
@@ -390,7 +393,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5ODA1MDMwLC0xNTYzNjYxMjYzLDIwMj
+eyJoaXN0b3J5IjpbNzM3NDI3NjY1LC0xNTYzNjYxMjYzLDIwMj
 U1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3
 MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLT
 EzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwxNDA0
