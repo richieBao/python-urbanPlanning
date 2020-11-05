@@ -324,6 +324,10 @@ Sensing tools have become a core part of the design process, both in the design 
 
 FIGURE 3.4.8 Collserola National Park analysis and interpretation through intensive workshops and collaborative design discussions, demonstrating forest light daylight access, vegetation variation analyses, and an application of tablet-based (7{doubleprime}) Rhino/Grasshopper simulation[1-13]
 
+[1-16]通篇
+
+
+
 ### 11. 图表报告及制图；
 
 
@@ -393,10 +397,10 @@ and futures in landscape architecture//[1]:89-116
 
 [1-15]Craig Reschke. From documents to directives: experimental fast matter[M]//[1]:268-278
 
-[
+[1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzM3MjExMywtOTUxNjM1MDE4LC0xNT
+eyJoaXN0b3J5IjpbMTY1NjQ5NDQ0MiwtOTUxNjM1MDE4LC0xNT
 YzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0
 MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC
 00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkz
