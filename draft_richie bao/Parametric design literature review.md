@@ -419,10 +419,10 @@ and futures in landscape architecture//[1]:89-116
 
 [2-1]Phil Bernstein. Foreword[M]//[2]:VI-IX
 
-
+[2-2]Brady Peters,Terri Peters. [M]//[2]:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUwODAwMjQsMTMzMzEyODU3MCw4Mj
+eyJoaXN0b3J5IjpbLTE3NDA4Nzg2NjgsMTMzMzEyODU3MCw4Mj
 AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
 MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
 wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
