@@ -302,6 +302,10 @@ Some new tools are addressing the need for Ecotect’s functionality. Ladybug is
 
 In the last five years, there have been a wealth of new open-source and commercially available environmental simulation tools that are easy-to-learn and designer-friendly, such as Ladybug, Honeybee and DIVA. These tools plug in to familiar computer-aided design (CAD) software and respond to the increasing pressure on design teams to carry out early-stage environmental simulations.[2-3]
 
+such as EnergyPlus, are collections of average weather data, including temperature and humidity readings averaged over 15 to 30 years of data based on selected weather station locations (typically airports).[2-3]
+
+In fact, as illustrated in the later chapters of this book, there is an extremely broad range in how well, how accurately, and how often, these tools are used in practice. [2-3]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -441,11 +445,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxNDQ0MjQsMTY0ODg3MjUzOSwxNj
-E1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2
-MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLD
-IwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1
-OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyND
-UsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwx
-NDA0NTk0NDg1XX0=
+eyJoaXN0b3J5IjpbLTI0MjM5NDEzMCwxNjQ4ODcyNTM5LDE2MT
+U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
+NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
+AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
+OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgwMzI0NS
+wtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwODI2LDE0
+MDQ1OTQ0ODVdfQ==
 -->
