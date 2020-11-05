@@ -215,7 +215,7 @@ What our new computational media and new methods of construction allow is a fund
 
 design—for instance, GIS for site analysis, Grasshopper for parametric design, and digital fabrication tools such as laser cutting and 3D milling for topographic representation.[1-12]
 
-The recent adoption of computational and simulation techniques is not only changing the range of the technically possible, but also altering the social structures that architects operate within.[2-3]
+The recent adoption of computational and simulation techniques is not only changing the range of the technically possible, but also altering the social structures that architects operate within.[2-4]
 
 ## 参数化应用的主要方向
 
@@ -378,6 +378,8 @@ FIGURE 4.3.6 Attuner, a real-time responsive model that monitors and modifies th
 ### 12. 工具建筑者(tool maker)；
 [2-4]通篇
 
+The rapid adoption of Grasshopper and its suite of simulation plug-ins demonstrates designers’ interest in computing the environment. As simulation is now accessible within the architect’s everyday design environment, it can be customised and integrated into various design tasks. Designers have gone from being tool users to tool makers.[2-4]
+
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
 [1-6]通篇
@@ -457,11 +459,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMT
-E5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1
-NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOT
-UxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0
-OTg0ODUsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMC
-wyMDI5NDA1MDg2LC00Mzk4MDMyNDUsLTEzMjc4MDA1NjMsMTE2
-MTIxMzA5NV19
+eyJoaXN0b3J5IjpbMjA0MTU5NTk0LDI3ODY4OTUwMiwtMTg5OT
+Y0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3
+OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mz
+g1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2
+MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC
+01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC0xMzI3
+ODAwNTYzXX0=
 -->
