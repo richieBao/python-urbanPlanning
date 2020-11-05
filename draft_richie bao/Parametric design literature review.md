@@ -296,10 +296,11 @@ It is a different workflow and decisionmaking process, so it depends on the desi
 
 The most commonly used base algorithm for whole building energy simulation is EnergyPlus, created by the United States Department of Energy as a free, open-source and cross-platform program that outputs to text files.(6) It is not a standard practice for designers to use this software due to its complexity and non-graphical interface. However, it is the underlying engine behind a range of other programs that are increasingly being used by designers, such as Sefaira, Honeybee, IES, Termite and Archsim.[2-3]
 
+If it is carried out at early design stages, before the design is fixed, it could lead to design iterations that lower energy use. It could also make renewable energy seem like a more attractive option, and offers designers and clients more options when considering trade-offs and compromises.[2-3]
 
+Some new tools are addressing the need for Ecotect’s functionality. Ladybug is a new environmental analysis tool that works as a plug-in for Grasshopper. Developed by Mostapha Sadeghipour Roudsari (see Chapter 19), Ladybug allows designers to import and analyse standard weather data in Grasshopper and draw diagrams such as sun path, wind rose and radiation rose. These can be customised in several ways to run radiation analyses, create shadow studies and carry out view analyses. Another tool by Roudsari is Honeybee, a plug-in that connects Grasshopper3D to validated simulation engines such as EnergyPlus, Radiance, Daysim and OpenStudio for building energy, comfort, daylighting and lighting simulation. These open-source tools are increasingly becoming more well-used and powerful (see Figures 8–11). [2-3]
 
-
-
+In the last five years, there have been a wealth of new open-source and commercially available environmental simulation tools that are easy-to-learn and designer-friendly, such as Ladybug, Honeybee and DIVA. These tools plug in to familiar computer-aided design (CAD) software and respond to the increasing pressure on design teams to carry out early-stage environmental simulations.[2-3]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -440,11 +441,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-3]Terri Peters. New dialogues about energy: performance, carbon and climate [M]//[2]:14-27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjQzMDkxLDE2NDg4NzI1MzksMTYxNT
-kwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0
-Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMD
-I1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEzNTk5
-NzI0LC01MTU4MDMwMjAsMjAyOTQwNTA4NiwtNDM5ODAzMjQ1LC
-0xMzI3ODAwNTYzLDExNjEyMTMwOTUsLTE5Mzg1MzA4MjYsMTQw
-NDU5NDQ4NV19
+eyJoaXN0b3J5IjpbLTEzNzIxNDQ0MjQsMTY0ODg3MjUzOSwxNj
+E1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2
+MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLD
+IwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0MiwyMTM1
+OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4MDMyND
+UsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMDgyNiwx
+NDA0NTk0NDg1XX0=
 -->
