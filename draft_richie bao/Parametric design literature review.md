@@ -278,6 +278,7 @@ Parametric design will impact our environment at a regional, city, and site scal
 
 The digital age has certainly changed those heuristics, and we are only now beginning to understand the implications of those changes. Where the architectural design process in the predigital age was one of careful contemplation, limited calculation, experienced intuition and, ultimately judgement, today’s designer can rely on an array of analytical, simulative and visualisation tools that enhance understanding of an emergent design and predict its ultimate performance.[2-1]
 
+As hand drawing gave way to computer-aided design (CAD), and CAD to building information modelling (BIM), we now have much of the informational infrastructure and data fidelity needed to bring on the next technological era in design, characterised by algorithmic design combined with big data. Digital tools can now help designers to reason and optimise their designs with measurable results, changing the design process itself, as well as the roles and responsibilities of architects and engineers, in the systems of delivery of building.[2-1]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -415,11 +416,11 @@ and futures in landscape architecture//[1]:89-116
 [2-1]Phil Bernstein. Foreword[M]//[2]:VI-IX
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzM2OTk1Niw4MjAwNjc4NTUsLTEwMD
-YyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEy
-NjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLD
-IxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0MDUwODYsLTQzOTgw
-MzI0NSwtMTMyNzgwMDU2MywxMTYxMjEzMDk1LC0xOTM4NTMwOD
-I2LDE0MDQ1OTQ0ODUsNDA0ODA3NTQ5LC04NzM0NDQ2MTksLTEz
-OTg4NDcyMl19
+eyJoaXN0b3J5IjpbLTE5NTk5MTU2MjQsODIwMDY3ODU1LC0xMD
+A2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYx
+MjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIyNzk0MDg0Mi
+wyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5NDA1MDg2LC00Mzk4
+MDMyNDUsLTEzMjc4MDA1NjMsMTE2MTIxMzA5NSwtMTkzODUzMD
+gyNiwxNDA0NTk0NDg1LDQwNDgwNzU0OSwtODczNDQ0NjE5LC0x
+Mzk4ODQ3MjJdfQ==
 -->
