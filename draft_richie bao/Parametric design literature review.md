@@ -528,12 +528,15 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
+
+[2-6]Terri Peters.Use data: computing life-cycle and real-time visualisation[M]//[2]:58-73
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOT
-M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
-MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
-YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
-NjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2My
-wyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEz
-NTk5NzI0XX0=
+eyJoaXN0b3J5IjpbLTE5Mjc4MTk1MiwxMDM3OTY1NDE1LDE0Mj
+kxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0
+NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMT
+Y0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3
+ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC
+0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIy
+Nzk0MDg0Ml19
 -->
