@@ -374,6 +374,9 @@ CREATING USEFUL INFORMATION FROM REAL-TIME ENVIRONMENTAL DATA Predicting environ
 
 10 Autodesk Research, Project Dasher, 210 King Street, Toronto, Canada, 2011 These diagrams show locations of sensors deployed in the office cubicle and the prototype physical layer. The sensors collect data on temperature, humidity, light, motion, CO2 and send it via Wi-Fi.[2-6]
 
+The appropriate and interactive real-time data visualisation is highly successful in this project and allows the building’s data, too often not shared with or understood by occupants or the design team, to be collected as a source of useful information potentially informing future similar projects. [2-6]
+
+As programmable hardware becomes cheaper and easier to use, there are new possibilities for embedding climate responsive behaviour into architectural elements. Architect and software developer Timur Dogan (see Chapter 19) and Peter Stec worked with architecture students to develop a workflow for rotating mirrored light shelves that can tilt in two directions based on the sun’s direction, using real-time monitoring and rapid prototyping.(16) They used Radiance for daylight simulations and Arduino circuit boards to actuate and control the system. Dogan and Stec credit ‘the convergence of rapid prototyping, parametric design and environmental modelling software’ as making it easier to ‘evolve a dynamic, direct-reflective daylight redirection system’ that can be compared against normal static louvre systems.(16)[2-6]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -541,7 +544,7 @@ and futures in landscape architecture//[1]:89-116
 [2-6]Terri Peters.Use data: computing life-cycle and real-time visualisation[M]//[2]:58-73
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg1MTA0NDYsMTAzNzk2NTQxNSwxND
+eyJoaXN0b3J5IjpbLTE5MzU1NzI3MDQsMTAzNzk2NTQxNSwxND
 I5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2
 NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LD
 E2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2
