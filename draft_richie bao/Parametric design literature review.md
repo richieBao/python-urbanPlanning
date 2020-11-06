@@ -366,9 +366,14 @@ New tools could visualise, and virtualise, the qualities of user experience in b
 
 Finally, what is required is the integration of the representational aspects of multi-simulation in the design model—a BIM/SIM model.[2-5]
 
-At a larger scale, studies of buildings and cities in use and their related environmental impacts and emissions are being informed by real-time data and simulated to show impacts over time. One such initiative, the Megacities Carbon Project, demonstrates new measurement and simulation techniques for urban emissions using computational design tools. Figure 1 shows the Los Angeles pilot study, which simulated and analysed data about emissions and their sources at urban and regional scales.(4)[2-5]
+At a larger scale, studies of buildings and cities in use and their related environmental impacts and emissions are being informed by real-time data and simulated to show impacts over time. One such initiative, the Megacities Carbon Project, demonstrates new measurement and simulation techniques for urban emissions using computational design tools. Figure 1 shows the Los Angeles pilot study, which simulated and analysed data about emissions and their sources at urban and regional scales.(4)[2-6]
 
-CARBON CALCULATOR Another comparative tool using a firm’s own projects is the Carbon Calculator developed by engineering group Thornton Tomasetti’s in-house research team CORE studio (see Chapter 15). CORE developed a tool that was able to calculate the total embodied energy and carbon of any design configuration early in the design phase. (11) The team referenced the Inventory of Carbon and Energy (ICE) database to create an array of Grasshopper components that calculate and visualise embodied carbon in real time with the design process. The tool shows data for the total amount of embodied carbon emissions produced by the structural engineering projects carried out by the firm. While currently only using their own data, this application could be a model for sharing and comparing other data sets. They also developed the FootPrint app that shows the carbon footprint of all of their offices by year, emissions source and office location for easy comparison.(12)[2-5]
+CARBON CALCULATOR Another comparative tool using a firm’s own projects is the Carbon Calculator developed by engineering group Thornton Tomasetti’s in-house research team CORE studio (see Chapter 15). CORE developed a tool that was able to calculate the total embodied energy and carbon of any design configuration early in the design phase. (11) The team referenced the Inventory of Carbon and Energy (ICE) database to create an array of Grasshopper components that calculate and visualise embodied carbon in real time with the design process. The tool shows data for the total amount of embodied carbon emissions produced by the structural engineering projects carried out by the firm. While currently only using their own data, this application could be a model for sharing and comparing other data sets. They also developed the FootPrint app that shows the carbon footprint of all of their offices by year, emissions source and office location for easy comparison.(12)[2-6]
+
+CREATING USEFUL INFORMATION FROM REAL-TIME ENVIRONMENTAL DATA Predicting environmental performance is important, as is collecting post-occupancy data, but what about in-occupancy data? How can designers collect and make sense of data about their buildings while they are being used, in order to make them run better, fine-tune systems and prepare for future renovations? Pointelist is another collaboration by KT Innovations, in this case a way of collecting and making use of environmental data using sensors.(15) After years of experimenting with low-cost sensor networks on their own projects, they have developed and commercialised a product for designers: a low-cost sensor network of data points that test temperature and humidity that uses existing sensor technologies in ways applicable to designers. The data collected by the sensors is automatically uploaded using Wi-Fi to the online interface every five minutes, and data can be visualised, compared and graphed easily using a desktop or mobile device. Pointelist is new, and so far in beta testing only, but it could have a big impact on how designers are able to gather knowledge about buildings in use. [2-6]
+
+10 Autodesk Research, Project Dasher, 210 King Street, Toronto, Canada, 2011 These diagrams show locations of sensors deployed in the office cubicle and the prototype physical layer. The sensors collect data on temperature, humidity, light, motion, CO2 and send it via Wi-Fi.[2-6]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -536,11 +541,11 @@ and futures in landscape architecture//[1]:89-116
 [2-6]Terri Peters.Use data: computing life-cycle and real-time visualisation[M]//[2]:58-73
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzQxODQ5OCwxMDM3OTY1NDE1LDE0Mj
-kxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0
-NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMT
-Y0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3
-ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC
-0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIy
-Nzk0MDg0Ml19
+eyJoaXN0b3J5IjpbLTEwMTg1MTA0NDYsMTAzNzk2NTQxNSwxND
+I5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2
+NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LD
+E2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2
+Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOC
+wtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0y
+Mjc5NDA4NDJdfQ==
 -->
