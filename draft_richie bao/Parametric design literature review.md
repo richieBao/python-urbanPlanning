@@ -368,6 +368,8 @@ Finally, what is required is the integration of the representational aspects of 
 
 At a larger scale, studies of buildings and cities in use and their related environmental impacts and emissions are being informed by real-time data and simulated to show impacts over time. One such initiative, the Megacities Carbon Project, demonstrates new measurement and simulation techniques for urban emissions using computational design tools. Figure 1 shows the Los Angeles pilot study, which simulated and analysed data about emissions and their sources at urban and regional scales.(4)[2-5]
 
+CARBON CALCULATOR Another comparative tool using a firm’s own projects is the Carbon Calculator developed by engineering group Thornton Tomasetti’s in-house research team CORE studio (see Chapter 15). CORE developed a tool that was able to calculate the total embodied energy and carbon of any design configuration early in the design phase. (11) The team referenced the Inventory of Carbon and Energy (ICE) database to create an array of Grasshopper components that calculate and visualise embodied carbon in real time with the design process. The tool shows data for the total amount of embodied carbon emissions produced by the structural engineering projects carried out by the firm. While currently only using their own data, this application could be a model for sharing and comparing other data sets. They also developed the FootPrint app that shows the carbon footprint of all of their offices by year, emissions source and office location for easy comparison.(12)[2-5]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -534,11 +536,11 @@ and futures in landscape architecture//[1]:89-116
 [2-6]Terri Peters.Use data: computing life-cycle and real-time visualisation[M]//[2]:58-73
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM4NTY4NTAsMTAzNzk2NTQxNSwxND
-I5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2
-NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LD
-E2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2
-Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOC
-wtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0y
-Mjc5NDA4NDJdfQ==
+eyJoaXN0b3J5IjpbLTIzMzQxODQ5OCwxMDM3OTY1NDE1LDE0Mj
+kxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0
+NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMT
+Y0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3
+ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC
+0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIy
+Nzk0MDg0Ml19
 -->
