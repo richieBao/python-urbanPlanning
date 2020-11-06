@@ -378,6 +378,8 @@ The appropriate and interactive real-time data visualisation is highly successfu
 
 As programmable hardware becomes cheaper and easier to use, there are new possibilities for embedding climate responsive behaviour into architectural elements. Architect and software developer Timur Dogan (see Chapter 19) and Peter Stec worked with architecture students to develop a workflow for rotating mirrored light shelves that can tilt in two directions based on the sun’s direction, using real-time monitoring and rapid prototyping.(16) They used Radiance for daylight simulations and Arduino circuit boards to actuate and control the system. Dogan and Stec credit ‘the convergence of rapid prototyping, parametric design and environmental modelling software’ as making it easier to ‘evolve a dynamic, direct-reflective daylight redirection system’ that can be compared against normal static louvre systems.(16)[2-6]
 
+USE DATA: COMPUTING LIFE-CYCLE AND REAL-TIME VISUALISATION Designers are using computational design and simulation at multiple scales to experiment in order to better understand the human dimensions of comfort and experience as well as energy use. Collecting, sorting and storing data about a building is challenging, and there needs to be more focus on monitoring and evaluating buildings over time. Sustainable design is not a ‘solution’ or an end state; its meaning is constantly shifting and not the result of any one intervention. The location of the building and its uses, the selection of materials and specifying of construction processes, the designing of interior relationships and sizing of rooms are all among the myriad of decisions that are made during the sustainable design of buildings. The next chapter will continue to examine ways in which designers are seeking to collect, analyse and usefully integrate real-time site and climatic data to improve their designs.[2-6]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -544,11 +546,11 @@ and futures in landscape architecture//[1]:89-116
 [2-6]Terri Peters.Use data: computing life-cycle and real-time visualisation[M]//[2]:58-73
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU1NzI3MDQsMTAzNzk2NTQxNSwxND
-I5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2
-NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LD
-E2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2
-Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOC
-wtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0y
-Mjc5NDA4NDJdfQ==
+eyJoaXN0b3J5IjpbMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0Mj
+kxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0
+NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMT
+Y0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3
+ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC
+0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0ODUsLTIy
+Nzk0MDg0Ml19
 -->
