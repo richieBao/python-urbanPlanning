@@ -358,6 +358,10 @@ Thermal comfort is a condition of mind, and a subjective evaluation, which relat
 
 In practice today, new simulation techniques are helping designers to predict how people interact with building designs, and how to shape the designs to achieve maximum comfort and experience.[2-5]
 
+One such open-source piece of software is OpenFOAM. It has been around since 2004, and has a large user base, an extensive range of features, and is used widely in industry and research. OpenFOAM is being used as the simulation engine for two new software projects that connect to Rhino Grasshopper: Albatross, developed by Timur Dogan, and Butterfly, developed by Mostapha Sadeghipour Roudsari.[2-5]
+
+The goal of new simulation methods can be to transform physical phenomena, such as light, sound, air speed, temperature and humidity, into computable models. We can use the multi-faceted potentials of simulation to predict the atmosphere of our future buildings. There are intersections and interdependencies between those who design and those who develop simulations—between tool users and tool makers. Perhaps one of the reasons that this issue is emerging is because of the current intersection where designers are becoming tool makers, creating methods through which their design interests can be explored. As aesthetics can now be considered as a part of ecology, atmosphere must become a part of architectural design. [2-5]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -522,7 +526,7 @@ and futures in landscape architecture//[1]:89-116
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjY4NTE2MywxNDI5MTYzOTQ2LDEzOT
+eyJoaXN0b3J5IjpbMTQxMDgwODQwMCwxNDI5MTYzOTQ2LDEzOT
 M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
 MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
 YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
