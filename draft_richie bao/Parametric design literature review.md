@@ -384,10 +384,14 @@ FIGURE 4.3.6 Attuner, a real-time responsive model that monitors and modifies th
 ### 11. 图表报告及制图；
 
 
-### 12. 工具建筑者(tool maker)；
+### 12. 工具建构者(tool maker)；
 [2-4]通篇
 
 The rapid adoption of Grasshopper and its suite of simulation plug-ins demonstrates designers’ interest in computing the environment. As simulation is now accessible within the architect’s everyday design environment, it can be customised and integrated into various design tasks. Designers have gone from being tool users to tool makers.[2-4]
+
+In the last 20 years, there has been a shift in architectural design techniques from the use of software, to the development and customisation of software. As tools have literally defined the profession of architecture(3), this shift from tool user to tool maker is profound.[2-4]
+
+
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -468,11 +472,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcxNzQwMDQsLTE4ODg2MzAxMjEsNj
-Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
-MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
-gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
-NTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4ND
-g1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAy
-OTQwNTA4Nl19
+eyJoaXN0b3J5IjpbMTUyMzE3ODA1NiwtMTg4ODYzMDEyMSw2Nj
+Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
+NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
+IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
+MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0OD
+UsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5
+NDA1MDg2XX0=
 -->
