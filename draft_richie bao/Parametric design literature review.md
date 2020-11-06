@@ -182,6 +182,10 @@ However, early CAD software did not have the data integration, parametric capabi
 
 The work of some in-house research groups, such as Foster + Partners’ Specialist Modelling Group, and emerging communities such as Smartgeometry, inspired the creation of parametric design software, as well as numerous techniques and theories.(4) In 2003, Generative Components, a plug-in for CAD software MicroStation, became one of the first free and widely available types of parametric software designed specifically for architects.[2-4]
 
+There is a trend in architecture towards parametric design—in which the designers focus their attention on the creation of generating algorithms rather than specific instances. In this paradigm, variants of the design are produced through varying the parameters of the underlying algorithm, and it is in the evaluation of design variants where computer simulation can play a significant role.[2-4]
+
+
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -476,11 +480,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk3NTIzNDIsLTE4ODg2MzAxMjEsNj
-Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
-MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
-gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
-NTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4ND
-g1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAy
-OTQwNTA4Nl19
+eyJoaXN0b3J5IjpbNTkyMDgxNzc5LC0xODg4NjMwMTIxLDY2ND
+g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
+OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
+AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
+MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
+wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
+MDUwODZdfQ==
 -->
