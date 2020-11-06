@@ -335,6 +335,7 @@ The rapid adoption of Grasshopper and its suite of simulation plug-ins demonstra
 
 The ways in which simulation results are displayed, interpreted and mapped onto drawings and models play a crucial role in their effectiveness in influencing the ultimate building design. Up until recently, Ecotect was the most widely used building performance simulation tool used by architects.(11)[2-4]
 
+The examples from practice in the later chapters in this book demonstrate that architects and engineers are incorporating performance simulation, material knowledge, tectonic assembly logics and the parameters of production machinery in their design drawings. They are creating custom digital tools, enabling performance feedback at various stages of an architectural project, creating new design opportunities. Using these tools, structural, material or environmental performance can become a fundamental parameter in the creation of architectural form. [2-4]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -492,11 +493,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTUxMDA5MSwtMTg4ODYzMDEyMSw2Nj
-Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
-NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
-IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
-MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0OD
-UsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5
-NDA1MDg2XX0=
+eyJoaXN0b3J5IjpbLTkxMzE5NDk3LC0xODg4NjMwMTIxLDY2ND
+g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
+OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
+AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
+MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
+wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
+MDUwODZdfQ==
 -->
