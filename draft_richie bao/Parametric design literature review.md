@@ -344,6 +344,10 @@ benefits to the use of simulation, with the major benefits being improved perfor
 
 The goal of high performance buildings must be to improve indoor environmental quality rather than simply meeting minimum standards. [2-5]
 
+There are four primary areas of comfort that should be considered when designing a building: visual, thermal, air quality and acoustic. Visual comfort largely relates to lighting, whether this is natural daylighting or artificial lighting. Thermal comfort links with air temperature, humidity and speed. Air quality describes clean and fresh air. Acoustic comfort relates to background noise levels, as well as appropriate acoustic characteristics—primarily reverberation time, but also the types of sounds, the loudness and clarity of signals. To capture the experience of building is a nuanced condition that currently simulation tools are challenged to predict and communicate.[2-5]
+
+However, with the rise of parametric and algorithmic design, there is a move towards mass customisation and a rejection of homogeneity. Many architects and designers are now exploring the concept of heterogeneity, of ‘differentiated’ geometry, structure and performance.[2-5]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -509,11 +513,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyOTA3NjUsMTQyOTE2Mzk0NiwxMzkzNz
-gyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIs
-LTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MT
-U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
-NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
-AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
-OTcyNF19
+eyJoaXN0b3J5IjpbMTI0NDk2NTc4MSwxNDI5MTYzOTQ2LDEzOT
+M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
+MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
+YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
+NjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2My
+wyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEz
+NTk5NzI0XX0=
 -->
