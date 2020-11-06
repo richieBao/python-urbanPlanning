@@ -49,6 +49,8 @@ In studios across professional landscape architecture programs, students downloa
 
 [2-4]通篇
 
+2007 saw the introduction of Grasshopper, a new visual scripting plug-in for Rhinoceros. Similar to the popular visual programming language Max/MSP, first introduced in the late 1980s, functional components are represented as graphic nodes and are directionally wired together to create an algorithmic logic. The architectural community was ready for an algorithmic design tool, so Grasshopper rapidly gained in popularity.[2-4]
+
 * case
 
 Aerial view of
@@ -77,6 +79,8 @@ BA: When designing computational tools, some strategies we use to ensure our too
 Bill Allen (BA)
 Computational Designer
 Partner and Director of Building Information[1-3]
+
+A visual scripting environment and online community are now being developed in Dynamo—a plug-in for Revit software for BIM (building information modelling)[2-4]
 
 
 #### python
@@ -480,7 +484,7 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMDgxNzc5LC0xODg4NjMwMTIxLDY2ND
+eyJoaXN0b3J5IjpbMjY1ODI1OTY4LC0xODg4NjMwMTIxLDY2ND
 g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
 OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
 AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
