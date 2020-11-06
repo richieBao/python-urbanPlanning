@@ -188,6 +188,7 @@ The work of some in-house research groups, such as Foster + Partners’ Speciali
 
 There is a trend in architecture towards parametric design—in which the designers focus their attention on the creation of generating algorithms rather than specific instances. In this paradigm, variants of the design are produced through varying the parameters of the underlying algorithm, and it is in the evaluation of design variants where computer simulation can play a significant role.[2-4]
 
+For parametric studies, Rhino/Grasshopper appears to be the current industry favourite, while other examples of parametric design platforms include Dynamo/Revit, CATIA and Maya. The creation of custom computer scripts, which was a predominant mode of computational design prior to the development of Grasshopper and Dynamo, is still widely in evidence, but is now an approach that is used when the limits of visual programming are reached.[2-4]
 
 
 ### 复杂系统（complex system）
@@ -415,6 +416,8 @@ However, the customisation of these tools requires high-level specialist knowled
 
 The mathematical model is constructed from a mixture of wellestablished theoretical principles, some physical insights and some clever mathematical tricks. The model is transformed into a computable algorithm, and the computation of the equations over time is said to simulate the system under study.(8) In simulation, drawings are not simply expanded to models, but multiplied through time to create time-based situation-specific experiences. The epistemological nature of the architectural drawing is changing as many more layers of information are exposed and this is apparent in many aspects of architectural practice.[2-4]
 
+There are some designers who primarily use custom parametric software that they write themselves, as this gives ultimate control, scalability and the incorporation of unique performance analyses.[2-4]
+
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -495,7 +498,7 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTE4NzYzOCwtMTg4ODYzMDEyMSw2Nj
+eyJoaXN0b3J5IjpbMTk4ODEwNjk2MiwtMTg4ODYzMDEyMSw2Nj
 Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
 NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
 IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
