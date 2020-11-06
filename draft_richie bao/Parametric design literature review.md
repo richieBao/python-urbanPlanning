@@ -331,6 +331,8 @@ Kjell Anderson writes that while design simulation is often seen as a specialist
 
 1 Design tools for simulation and design: geometry, generation and analysis A selection of currently available computational tools for architectural performance analysis: red – acoustics, dark red – materials and life cycle, orange – energy, yellow – solar/daylight, green – people movement, blue – uid dynamics, purple – CAD, pink – parametric plug-ins to CAD, grey – software used but no longer supported. [2-4]
 
+The rapid adoption of Grasshopper and its suite of simulation plug-ins demonstrates designers’ interest in computing the environment. As simulation is now accessible within the architect’s everyday design environment, it can be customised and integrated into various design tasks. Designers have gone from being tool users to tool makers [2-4]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -484,11 +486,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1ODI1OTY4LC0xODg4NjMwMTIxLDY2ND
-g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
-OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
-AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
-MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
-wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
-MDUwODZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzIxNjE5OTksLTE4ODg2MzAxMjEsNj
+Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
+MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
+gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
+NTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4ND
+g1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAy
+OTQwNTA4Nl19
 -->
