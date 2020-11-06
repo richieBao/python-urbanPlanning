@@ -340,6 +340,8 @@ The examples from practice in the later chapters in this book demonstrate that a
 
 Oxman suggests that concepts such as parametric and performance-based design can be considered ‘form without formalism’ and promote ‘new ways of thinking about form and its generation’. As designers adopt approaches that are more material-, construction- and environmentally focused, new design theory and new building forms will emerge.(12)[2-4]
 
+benefits to the use of simulation, with the major benefits being improved performance and customised interior environments in our buildings. Anderson has identified several advantages of performance simulation by architects: first, that it enables architects to gain an intuitive understanding of how their designs can affect light, heat and airflow; second, that analyses can be done in a matter of hours, enabling more evaluations and better designs to evolve; third, that the use of simulation makes designers think about performance, and enables them to engage in higher-level discussions with engineers; fourth, that it enables designers to answer questions about a design’s performance and enables a comparison of design options in real time while designing; and fifth, that architects will often graphically map results onto a 3D model, creating clear communication devices that offer proof of design concepts.(2) [2-4]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -500,11 +502,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2OTQwNzI2LC0xODg4NjMwMTIxLDY2ND
-g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
-OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
-AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
-MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
-wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
-MDUwODZdfQ==
+eyJoaXN0b3J5IjpbLTM1NjczMzg4NiwtMTg4ODYzMDEyMSw2Nj
+Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
+NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
+IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
+MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0OD
+UsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5
+NDA1MDg2XX0=
 -->
