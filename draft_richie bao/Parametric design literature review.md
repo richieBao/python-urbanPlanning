@@ -342,6 +342,10 @@ Oxman suggests that concepts such as parametric and performance-based design can
 
 benefits to the use of simulation, with the major benefits being improved performance and customised interior environments in our buildings. Anderson has identified several advantages of performance simulation by architects: first, that it enables architects to gain an intuitive understanding of how their designs can affect light, heat and airflow; second, that analyses can be done in a matter of hours, enabling more evaluations and better designs to evolve; third, that the use of simulation makes designers think about performance, and enables them to engage in higher-level discussions with engineers; fourth, that it enables designers to answer questions about a design’s performance and enables a comparison of design options in real time while designing; and fifth, that architects will often graphically map results onto a 3D model, creating clear communication devices that offer proof of design concepts.(2) [2-4]
 
+The goal of high performance buildings must be to improve indoor environmental quality rather than simply meeting minimum standards. [2-5]
+
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -505,11 +509,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTE3MzI1NCwxNDI5MTYzOTQ2LDEzOT
-M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
-MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
-YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
-NjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2My
-wyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEz
-NTk5NzI0XX0=
+eyJoaXN0b3J5IjpbMzUyOTA3NjUsMTQyOTE2Mzk0NiwxMzkzNz
+gyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIs
+LTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MT
+U5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYw
+NDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMj
+AyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIxMzU5
+OTcyNF19
 -->
