@@ -348,6 +348,11 @@ There are four primary areas of comfort that should be considered when designing
 
 However, with the rise of parametric and algorithmic design, there is a move towards mass customisation and a rejection of homogeneity. Many architects and designers are now exploring the concept of heterogeneity, of ‘differentiated’ geometry, structure and performance.[2-5]
 
+4 How microclimate is calculated by using Honeybee and Ladybug[2-5]
+
+First developed in 1985, Radiance is today the most widely used simulation engine for daylight and solar design. Radiance was made free and open-source in 1989 and has since been embedded in many research and commercial architectural engineering software applications. Radiance has benefited from an enthusiastic, active user group, and it continues to be developed and improved. One of the key goals in the development of Radiance was to produce physically accurate light simulation and visualisation for architecture and lighting design. Radiance uses a backwards ray-tracing algorithm, which provides a profound benefit over other calculation strategies.(9) It includes specular, diffuse and directional-diffuse reflection, and transmission in any combination to any level in any environment, including complicated curved geometries. [2-5]
+
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -513,7 +518,7 @@ and futures in landscape architecture//[1]:89-116
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDk2NTc4MSwxNDI5MTYzOTQ2LDEzOT
+eyJoaXN0b3J5IjpbLTM3ODgyMjE1NSwxNDI5MTYzOTQ2LDEzOT
 M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
 MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
 YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
