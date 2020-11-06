@@ -418,6 +418,8 @@ The mathematical model is constructed from a mixture of wellestablished theoreti
 
 There are some designers who primarily use custom parametric software that they write themselves, as this gives ultimate control, scalability and the incorporation of unique performance analyses.[2-4]
 
+A decade ago, the majority of designers were using Ecotect. However, now it is the plug-ins for Grasshopper that offer the first tool of choice for many practices[2-4]
+
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -498,11 +500,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODEwNjk2MiwtMTg4ODYzMDEyMSw2Nj
-Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
-NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
-IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
-MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0OD
-UsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5
-NDA1MDg2XX0=
+eyJoaXN0b3J5IjpbMzU2OTQwNzI2LC0xODg4NjMwMTIxLDY2ND
+g0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2
+OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4Mj
+AwNjc4NTUsLTEwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUw
+MTgsLTE1NjM2NjEyNjMsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NS
+wtMjI3OTQwODQyLDIxMzU5OTcyNCwtNTE1ODAzMDIwLDIwMjk0
+MDUwODZdfQ==
 -->
