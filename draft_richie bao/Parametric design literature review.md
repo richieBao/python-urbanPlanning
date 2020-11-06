@@ -333,6 +333,7 @@ Kjell Anderson writes that while design simulation is often seen as a specialist
 
 The rapid adoption of Grasshopper and its suite of simulation plug-ins demonstrates designers’ interest in computing the environment. As simulation is now accessible within the architect’s everyday design environment, it can be customised and integrated into various design tasks. Designers have gone from being tool users to tool makers [2-4]
 
+The ways in which simulation results are displayed, interpreted and mapped onto drawings and models play a crucial role in their effectiveness in influencing the ultimate building design. Up until recently, Ecotect was the most widely used building performance simulation tool used by architects.(11)[2-4]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -491,11 +492,11 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM1ODk4MjMsLTE4ODg2MzAxMjEsNj
-Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
-MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
-gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
-NTAxOCwtMTU2MzY2MTI2MywyMDI1NTQ2MDY3LC0xNDAzNDk4ND
-g1LC0yMjc5NDA4NDIsMjEzNTk5NzI0LC01MTU4MDMwMjAsMjAy
-OTQwNTA4Nl19
+eyJoaXN0b3J5IjpbMTE5NTUxMDA5MSwtMTg4ODYzMDEyMSw2Nj
+Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
+NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
+IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
+MDE4LC0xNTYzNjYxMjYzLDIwMjU1NDYwNjcsLTE0MDM0OTg0OD
+UsLTIyNzk0MDg0MiwyMTM1OTk3MjQsLTUxNTgwMzAyMCwyMDI5
+NDA1MDg2XX0=
 -->
