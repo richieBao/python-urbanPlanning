@@ -422,6 +422,8 @@ There are some designers who primarily use custom parametric software that they 
 
 A decade ago, the majority of designers were using Ecotect. However, now it is the plug-ins for Grasshopper that offer the first tool of choice for many practices[2-4]
 
+The integration of simulation engines with design software has the potential to address many current issues that have been identified with building-performance simulation. Recent developments in simulation software and its application in practice, as shown by the case studies in this book, demonstrate that digital design with its computational customisability through various programming interfaces enables a flexible modular computational approach. This is enabling data exchange and interoperability between simulation and design software. The accessibility of simulation engines is encouraging architects to experiment and therefore increase awareness and intuition about building performance. While there do not appear to be common approaches to optimisation, new tools such as Galapagos and Octopus are now available, which can integrate optimisation into design and simulation processes. As algorithmic design is essentially a definition of design space, the exploration of this design space is where future developments seem to lie.[2-4]
+
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -502,7 +504,7 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjczMzg4NiwtMTg4ODYzMDEyMSw2Nj
+eyJoaXN0b3J5IjpbMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2Nj
 Q4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTky
 NjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsOD
 IwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1
