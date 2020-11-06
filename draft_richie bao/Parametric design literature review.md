@@ -249,6 +249,8 @@ Many of these problems can be productively addressed with a relatively recent ap
 
 In this particular case, the agents do not interact with other agents but only with their environment based on a few rules defined using the scripting engine Grasshopper together with the looping plug-in Anemone.[1-8]
 
+Quelea is a plug-in for Grasshopper, created by Alex Fischer, which enables designers to simulate user behaviour through agent modelling.(11) Through the assigning of forces and behaviours to systems of agents to create interaction, designers can create complex simulations and analyses, and generate geometric forms through the combination of simple rules.[2-5]
+
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
@@ -353,6 +355,8 @@ However, with the rise of parametric and algorithmic design, there is a move tow
 First developed in 1985, Radiance is today the most widely used simulation engine for daylight and solar design. Radiance was made free and open-source in 1989 and has since been embedded in many research and commercial architectural engineering software applications. Radiance has benefited from an enthusiastic, active user group, and it continues to be developed and improved. One of the key goals in the development of Radiance was to produce physically accurate light simulation and visualisation for architecture and lighting design. Radiance uses a backwards ray-tracing algorithm, which provides a profound benefit over other calculation strategies.(9) It includes specular, diffuse and directional-diffuse reflection, and transmission in any combination to any level in any environment, including complicated curved geometries. [2-5]
 
 Thermal comfort is a condition of mind, and a subjective evaluation, which relates directly to our bodies’ heat gain and loss, with the goal to achieve some sort of a balance between our own body and its environment. The primary factors influencing it are: metabolic rate, clothing, insulation, air temperature, mean radiant temperature, air speed and relative humidity, although psychological parameters also play a role. [2-5]
+
+In practice today, new simulation techniques are helping designers to predict how people interact with building designs, and how to shape the designs to achieve maximum comfort and experience.[2-5]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -518,11 +522,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-5]Brady Peters. Designing atmospheres: simulating experience[M]//[2]:43-57
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAzODcyNDksMTQyOTE2Mzk0NiwxMz
-kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
-MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
-E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
-MDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNj
-MsMjAyNTU0NjA2NywtMTQwMzQ5ODQ4NSwtMjI3OTQwODQyLDIx
-MzU5OTcyNF19
+eyJoaXN0b3J5IjpbLTY2MjY4NTE2MywxNDI5MTYzOTQ2LDEzOT
+M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
+MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
+YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
+NjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2My
+wyMDI1NTQ2MDY3LC0xNDAzNDk4NDg1LC0yMjc5NDA4NDIsMjEz
+NTk5NzI0XX0=
 -->
