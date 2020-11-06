@@ -407,6 +407,9 @@ In the last 20 years, there has been a shift in architectural design techniques 
 
 Many of the plug-ins for Rhino’s Grasshopper are building performance simulation software tools. These enable the connection of CAD geometry to simulation software natively within the architect’s design environment, offering the ability to simulate designs during the design process. This method is faster and easier for architects to integrate into their workflow. It is easier to visualise and to understand the results, and the coupling of design and analysis enables formation processes to be linked to analysis routines.[2-4]
 
+However, the customisation of these tools requires high-level specialist knowledge. It is the creation of applications that link programs like Radiance, to Grasshopper, such as DIVA and Honeybee, which is making simulation accessible to a greater number of designers.[2-4]
+
+The mathematical model is constructed from a mixture of wellestablished theoretical principles, some physical insights and some clever mathematical tricks. The model is transformed into a computable algorithm, and the computation of the equations over time is said to simulate the system under study.(8) In simulation, drawings are not simply expanded to models, but multiplied through time to create time-based situation-specific experiences. The epistemological nature of the architectural drawing is changing as many more layers of information are exposed and this is apparent in many aspects of architectural practice.[2-4]
 
 
 ##  参数化设计方法未来发展趋势预测
@@ -488,7 +491,7 @@ and futures in landscape architecture//[1]:89-116
 [2-4]Brady Peters.Parametric environmental design: simulation and generative processes[M]//[2]:28-42
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEzMDMzNDYsLTE4ODg2MzAxMjEsNj
+eyJoaXN0b3J5IjpbLTE5NTM1ODk4MjMsLTE4ODg2MzAxMjEsNj
 Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
 MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
 gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
