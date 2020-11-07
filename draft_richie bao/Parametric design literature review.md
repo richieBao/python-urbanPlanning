@@ -462,6 +462,10 @@ Currently, Knott, together with the SMART Solutions group, is developing a Rhino
 
 [2-12]通篇
 
+Designing the performance of the invisible aspects of the environment, such as light, air and sound, is at the heart of Max Fordham’s work, and the firm’s approach to computing the environment incorporates digital simulation, physical testing and multiple overlapping analyses, using digital tools to visualise and realise experiential aspects of architecture.[2-13]
+
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -659,11 +663,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMz
-M2NzA2ODIsMTA2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5
-MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMT
-k3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2
-Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NC
-wyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4
-ODcyNTM5XX0=
+eyJoaXN0b3J5IjpbMTYwNzc5NjM1NiwtMTgyMTg0MDIxMyw3MD
+Y4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUx
+NjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3NTgsMT
+EyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2
+NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMj
+EsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjEx
+OTU5MjY4XX0=
 -->
