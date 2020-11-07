@@ -679,9 +679,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-15]Terri Peters. Core: integrated computation and research[M]//[2]:184-191
 
-[]
+[2-16]Brady Peters. Superspace: computing human-centric architecture [M]//[2]:192-200
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjE0NzE5MiwtMTAyNjkyMjM0MiwxMT
+eyJoaXN0b3J5IjpbMTk0MjQzNjY0NywtMTAyNjkyMjM0MiwxMT
 czOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLDcwNjgz
 NTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLTIwNjg2NTE2NT
 UsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5
