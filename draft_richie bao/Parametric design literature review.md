@@ -244,6 +244,8 @@ Foster + Partners founded the Specialist Modelling Group (SMG), The SMG is an in
 
 The SMG believes that there is a need to integrate architecture and engineering on a digital workflow level.[2-8]
 
+Open-source software enables the team to access the source code, so that they can customise the tool to meet their needs. An in-depth understanding of how the software is working is crucial, so that it can be customised to carry out specific analysis tasks.[2-8]
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -590,11 +592,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTQzNTU0LDExMjk1MTk4MjcsMTk3OT
-k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
-NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
-g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
-NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
-EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
-NjEyNjNdfQ==
+eyJoaXN0b3J5IjpbMTIyMzQxOTY3OSwxMTI5NTE5ODI3LDE5Nz
+k5Njk3NTAsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5
+NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMj
+c4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3
+MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC
+0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYz
+NjYxMjYzXX0=
 -->
