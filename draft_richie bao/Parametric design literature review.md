@@ -205,6 +205,12 @@ There is a trend in architecture towards parametric design—in which the design
 
 For parametric studies, Rhino/Grasshopper appears to be the current industry favourite, while other examples of parametric design platforms include Dynamo/Revit, CATIA and Maya. The creation of custom computer scripts, which was a predominant mode of computational design prior to the development of Grasshopper and Dynamo, is still widely in evidence, but is now an approach that is used when the limits of visual programming are reached.[2-4]
 
+[3]全书
+
+However, one should keep an important fact in mind: parametric and algorithmic thinking is not about any one piece of computer software or any one particular syntax, but about logic, geometry, topology and interaction.[3-6_7] 
+
+
+
 
 ### 复杂系统（complex system）
 
@@ -724,11 +730,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1Mz
-M1OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0x
-MDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4Mj
-E4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1
-NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMT
-IxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMy
-NjQ4XX0=
+eyJoaXN0b3J5IjpbOTM1NTQyMDY1LDUwMTkzMzk2OCw5MjI2MD
+gzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0
+MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NT
+U4MjQ5LC0xODIxODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgy
+LDEwNjMwMzU5NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMD
+ExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3
+NTBdfQ==
 -->
