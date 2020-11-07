@@ -167,6 +167,8 @@ First and foremost, there is a general evasion of all-encompassing terms such as
 
 Computation design will increasingly facilitate our understanding of complex urban, social, environmental, and economic sciences. This continual evolution suggests that landscape architects must be adaptive and resilient and possess the skills to address a wide range of issues. As with technology, humans must develop the personal bandwidth to deal with diverse and complex issues.[1-14]
 
+The development of computational tools tends to be tailored to a specific brief and for the automation of tasks. Derix says that computation has been used largely as a ‘problem-solving tool’ for ‘structural, geometric, climatic or statistical’ aspects of design(3); that computing has been used ‘to erase differences with engineers, not enhance (architects’) own knowledge of the key aspects of architecture: occupation and space’.(3) Both building information modelling (BIM) and parametricism serve the purposes of automating professional deliverables where computation is seen as design tool.[2-16]
+
 ### 参数化（prametric design）
 The roots of understanding computational and parametric design do not lie buried beneath complex mathematical formulas or coding syntax. Instead, they reside in the organization of thoughts and a design approach. When designers understand code and computation in this manner, it is possible to then frame design problems through this lens, opening up a dialogue between design intent and computational iteration and generation.[1-2]
 
@@ -685,11 +687,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyODg5NTM3LDE5NDI0MzY2NDcsLTEwMj
-Y5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0
-MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC
-0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEz
-Njc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2ND
-gsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4
-ODg2MzAxMjFdfQ==
+eyJoaXN0b3J5IjpbMTEyNjMxNDM1NywxOTQyNDM2NjQ3LC0xMD
+I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
+NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NS
+wtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIx
+MzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNj
+Q4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0x
+ODg4NjMwMTIxXX0=
 -->
