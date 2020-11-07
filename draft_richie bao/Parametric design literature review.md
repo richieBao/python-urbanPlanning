@@ -600,12 +600,14 @@ and futures in landscape architecture//[1]:89-116
 [2-7]Terri Peters. Near future developments: advances in simulation and real-time feedback[M]//[2]:74-93
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OT
-k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
-NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
-g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
-NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
-EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
-NjEyNjNdfQ==
+eyJoaXN0b3J5IjpbMjAxMTA0NTU0NiwxMjEzNjc3NTgsMTEyOT
+UxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQx
+NSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNj
+Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
+MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
+gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
+NTAxOF19
 -->
