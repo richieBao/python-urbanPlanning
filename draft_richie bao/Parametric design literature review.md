@@ -445,6 +445,9 @@ Using sensors, energy modelling and an indoor environmental quality app, guests 
 
 GXN has a broad focus, seeking to support design processes and advance multiple streams of green research. The daylight simulation and early-stage design optioning are central to the architects’ work, but in the future they aim to focus more on real-time energy monitoring, building on the success of their Green Solution House. It is imagined that this stream of inquiry will lead to new workflows for architects and more interactivity with people in their design environments. GXN’s work illustrates not only how a variety of environmental computation approaches can shape building form, but also how this can shape users’ behaviour.[2-10]
 
+2 Foster + Partners, Samba Bank New Head Office, Riyadh, Saudi Arabia, under construction Parametric facade design tool by BuroHappold for glazing optimisation to maximise daylight factor, and to limit solar and conduction gains [2-11]
+
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -638,7 +641,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODI1NzYzMywxMDYzMDM1OTU1LC0yMD
+eyJoaXN0b3J5IjpbLTU0Mzg3NDAzMywxMDYzMDM1OTU1LC0yMD
 Y4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3
 NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMT
 AzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2
