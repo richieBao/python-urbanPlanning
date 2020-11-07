@@ -386,6 +386,7 @@ USE DATA: COMPUTING LIFE-CYCLE AND REAL-TIME VISUALISATION Designers are using c
 
 The Private Microclimates workshop cluster at Smartgeometry 2014 was led by architects Mani Williams and Mehrnoush Latifi, and aerospace engineer Daniel Prohasky, all from RMIT. They investigated how to gain and visualise environmental feedback for wind and airflows by using hybrid physical and digital methods.[2-7]
 
+In 2016, SIAL researchers carried out another real-time investigation of gaining feedback from digital and physical environmental data sources[2-7]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -557,7 +558,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTI5MDg3NSwxOTc5OTY5NzUwLDEzNT
+eyJoaXN0b3J5IjpbMTI4NTQ4NzQ5NywxOTc5OTY5NzUwLDEzNT
 QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
 MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
 g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
