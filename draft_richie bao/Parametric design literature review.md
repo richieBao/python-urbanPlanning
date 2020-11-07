@@ -288,6 +288,10 @@ In terms of future applications for this kind of simulation, she explains: ‘hu
 
 SuperSpace is a multidisciplinary team that champions the use of bottom-up algorithms and has pioneered many models of artificial intelligence (AI), artificial life (AL), spatial analysis, data visualisation, and spatialisation in architectural and urban design.[2-16]
 
+Derix argues that while explicit parametric models will eventually automate the definition of metrically efficient spaces, it is a bottom-up approach that will enable architects and urban designers to focus on designing the experience of users and qualitative spatial correlations.(4) [2-16]
+
+He felt that the functionalist tradition was an oversimplification, and that through the complex emergent systems, sought to determine the structure of the pre-industrial architecture and cities. In the systems developed, the designer ‘became a “systems designer” and the ultimate design was the emergent outcome of the complex interactions taking place under the software’s control on the aggregating system’. Coates explains: ‘If architects are systems designers they will need to think algorithmically’.(5)[2-16]
+
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
@@ -693,11 +697,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDM3MDMxOSwxOTQyNDM2NjQ3LC0xMD
-I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
-NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NS
-wtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIx
-MzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNj
-Q4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0x
-ODg4NjMwMTIxXX0=
+eyJoaXN0b3J5IjpbLTEwNTc1MTA4OTcsMTk0MjQzNjY0NywtMT
+AyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIx
+ODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NT
+UsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEy
+MTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMj
+Y0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwt
+MTg4ODYzMDEyMV19
 -->
