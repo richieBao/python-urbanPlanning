@@ -474,6 +474,7 @@ White has several specialist teams of designers and researchers, focused on deve
 
 The designers are spread between different offices, and specialise in using digital tools for daylight studies, energy modelling, thermal comfort calculations, wind simulations and life-cycle-based analysis.(2)[2-14]
 
+[2-15]通篇
 
 
 
@@ -569,6 +570,8 @@ A decade ago, the majority of designers were using Ecotect. However, now it is t
 The integration of simulation engines with design software has the potential to address many current issues that have been identified with building-performance simulation. Recent developments in simulation software and its application in practice, as shown by the case studies in this book, demonstrate that digital design with its computational customisability through various programming interfaces enables a flexible modular computational approach. This is enabling data exchange and interoperability between simulation and design software. The accessibility of simulation engines is encouraging architects to experiment and therefore increase awareness and intuition about building performance. While there do not appear to be common approaches to optimisation, new tools such as Galapagos and Octopus are now available, which can integrate optimisation into design and simulation processes. As algorithmic design is essentially a definition of design space, the exploration of this design space is where future developments seem to lie.[2-4]
 
 [2-12]通篇
+
+[2-15]通篇
 
 ### 数据收集
 Data collection is becoming easier, with data supplied from personal devices and other small wearable devices. It may be too easy nowadays, I have experienced projects where people jumped into data collection without much thought on what they want to know, and realised afterwards all the data they collected was rubbish. I see the future to be more data-driven, feedback-based design—ongoing evaluation and iterative/adaptive design to archive the desirable outcome (14).[2-7]
@@ -674,15 +677,15 @@ and futures in landscape architecture//[1]:89-116
 
 [2-14]Terri Peters. White architects: build the future[M]//[2]:176-183
 
-[]
+[2-15]Terri Peters. Core: integrated computation and research[M]//[2]:184-191
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwODM5MzQ3LDExNzM5MDIzOTMsLTEwMT
-c1NTgyNDksLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2
-ODIsMTA2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLD
-IwMTEwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2
-OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0Ni
-wxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2
-ODk1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMT
+AxNzU1ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMTMzMzY3
+MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUxNjU1LDE5MzIxMDkwND
+IsMjAxMTA0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5
+OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOT
+Q2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3
+ODY4OTUwMl19
 -->
