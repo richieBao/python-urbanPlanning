@@ -433,6 +433,8 @@ At Tulane University in 2013, they installed a network of 150 sensors in the exi
 
 In summer 2016, the wireless sensor network research was branded as Pointelist, and it offered free kits to beta testers.(8) The hardware and software can be integrated with a web app, and users can export .csv files to use the data elsewhere. It has an open .api file extension, making it suitable for users to adapt to their own needs and workflows. Pointelist enables the collection of realtime temperature and humidity data, sending environmental data over Wi-Fi in five-minute intervals.[2-9]
 
+KieranTimberlake is able to create its own custom weather files, and combine the real-time sensor network data with weather station data. Over the past year, the office has installed 10 low-cost custom weather stations, known as personal weather stations (PWS), on sites for clients, and it has found that there is a growing market in this area.(10) The designers find that the data does vary from site to site, even within a neighbourhood. [2-9]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -622,7 +624,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTk0NDY0NCwxOTMyMTA5MDQyLDIwMT
+eyJoaXN0b3J5IjpbLTgxODY5NjQwOSwxOTMyMTA5MDQyLDIwMT
 EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
 MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
 kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
