@@ -255,6 +255,8 @@ In this particular case, the agents do not interact with other agents but only w
 
 Quelea is a plug-in for Grasshopper, created by Alex Fischer, which enables designers to simulate user behaviour through agent modelling.(11) Through the assigning of forces and behaviours to systems of agents to create interaction, designers can create complex simulations and analyses, and generate geometric forms through the combination of simple rules.[2-5]
 
+In terms of future applications for this kind of simulation, she explains: ‘human behaviour is complex, the ways people determine how to behave in a new environment depends on many factors. Yes you can model a simple behaviour model like a random walk, but you’d be more close to reality if you base your simulation on real data collected from the users’.[2-7]
+
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
@@ -565,11 +567,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNDk2MzksMTk3OTk2OTc1MCwxMzU0MT
-MyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4
-LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OT
-k2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4
-NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwNDMsOD
-M4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAyNTU0
-NjA2N119
+eyJoaXN0b3J5IjpbNjI4NTYzODIxLDE5Nzk5Njk3NTAsMTM1ND
+EzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4Mjkw
+OCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5NTAyLC0xOD
+k5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0
+ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLD
+gzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYzNjYxMjYzLDIwMjU1
+NDYwNjddfQ==
 -->
