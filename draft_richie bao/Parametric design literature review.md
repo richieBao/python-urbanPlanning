@@ -182,6 +182,9 @@ When we consider the implication of this view on parametric and computation desi
 
 It all boils down to this: designers want feedback. It’s that simple. —Billie Faircloth, 2016(2)[2-7]
 
+Through the development of custom digital tools that integrate engineering calculations within parametric geometry models, the designers can more rapidly produce more relevant analysis—from days to hours or even minutes.(2) [2-8]
+
+
 
 
 [2-4]通篇
@@ -585,11 +588,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzIzMjk2OCwxMTI5NTE5ODI3LDE5Nz
-k5Njk3NTAsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5
-NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMj
-c4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3
-MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC
-0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYz
-NjYxMjYzXX0=
+eyJoaXN0b3J5IjpbLTE3Nzc0MjAxMjQsMTEyOTUxOTgyNywxOT
+c5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYz
+OTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LD
+I3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4
+NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NS
+wtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2
+MzY2MTI2M119
 -->
