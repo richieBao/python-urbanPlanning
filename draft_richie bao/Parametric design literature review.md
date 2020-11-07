@@ -278,6 +278,8 @@ Quelea is a plug-in for Grasshopper, created by Alex Fischer, which enables desi
 
 In terms of future applications for this kind of simulation, she explains: ‘human behaviour is complex, the ways people determine how to behave in a new environment depends on many factors. Yes you can model a simple behaviour model like a random walk, but you’d be more close to reality if you base your simulation on real data collected from the users’.[2-7]
 
+SuperSpace is a multidisciplinary team that champions the use of bottom-up algorithms and has pioneered many models of artificial intelligence (AI), artificial life (AL), spatial analysis, data visualisation, and spatialisation in architectural and urban design.[2-16]
+
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
@@ -683,11 +685,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjQzNjY0NywtMTAyNjkyMjM0MiwxMT
-czOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLDcwNjgz
-NTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLTIwNjg2NTE2NT
-UsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5
-NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMjY0OCwxMDM3OTY1ND
-E1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2
-NjQ4NDY0NTRdfQ==
+eyJoaXN0b3J5IjpbOTkyODg5NTM3LDE5NDI0MzY2NDcsLTEwMj
+Y5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0
+MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC
+0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEz
+Njc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2ND
+gsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4
+ODg2MzAxMjFdfQ==
 -->
