@@ -470,6 +470,11 @@ Increasing environmental performance specifications means that multiple scales a
 
 The office developed geometric models to predict the acoustic environment inside each space, with particular attention to the surface finishes and location.[2-13]
 
+White has several specialist teams of designers and researchers, focused on developing and utilising digital design tools for environmental simulation and computation. For example, the Dsearch group, which is led by Jonas Runberger, focuses on digital design tools and parametric design. A collective of about 12 designers has formed a working group focused on building performance simulations (BPS), specifically relating to daylight and energy modelling to explore the ways in which building performance simulation tools are used in the office.(1[2-14]
+
+The designers are spread between different offices, and specialise in using digital tools for daylight studies, energy modelling, thermal comfort calculations, wind simulations and life-cycle-based analysis.(2)[2-14]
+
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -671,11 +676,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNTQxNTM1LC0xMDE3NTU4MjQ5LC0xOD
-IxODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5
-NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LD
-EyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEz
-MjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOC
-wtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5NTAyLC0xODk5
-NjQxMjg0XX0=
+eyJoaXN0b3J5IjpbMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMT
+gyMTg0MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1
+OTU1LC0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0Ni
+wxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQx
+MzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MD
+gsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5
+OTY0MTI4NF19
 -->
