@@ -456,6 +456,7 @@ Typically, when confronted with a complex performance issue on a project, BuroHa
 
 Performance issues involve multiple parameters, and the selection of parameters, and how the parameters are weighted, are key questions being investigated, which are always project specific. While optimisation is often talked about, Knott says that often it is best not to optimise at all—better results can be found more efficiently just by using parametric modelling, analysing all different options, and then visualising the trade-off curves.(3) Knott explains that ‘there are benefits to keeping the computational processes relatively simple as it is a balance of speed and graphic sophistication’. He has developed a library of digital tools in Excel, many of which now have user interfaces that enable other designers and engineers to use them. Additionally, he has developed an in-house database so that the methods and results from previous projects can be easily referenced.(3)[2-11]
 
+The SMART Solutions group develops computational tools to model, analyse and map performance.(4) Many of these design tools have been implemented in Rhino and Grasshopper, such as SmartForm, SmartMove and SmartSpaceAnalyzer.[2-11]
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -649,11 +650,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA2NTAxNzEsMTA2MzAzNTk1NSwtMj
-A2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3
-NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LD
-EwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4
-NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyOD
-QsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4NzksMTMz
-MzEyODU3MF19
+eyJoaXN0b3J5IjpbMTA4NTk1MDkwMSwxMDYzMDM1OTU1LC0yMD
+Y4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3
+NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMT
+AzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2
+MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NC
+wtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMz
+MTI4NTcwXX0=
 -->
