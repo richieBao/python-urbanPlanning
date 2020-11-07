@@ -439,6 +439,8 @@ The sensor and weather data can have an impact on the building’s form to work 
 
 The Solar Modeler tool was designed to use typical meteorological year (TMY) data or site-based sensor measurements and to give analysis in a format that would be useful as feedback for the design process. It is designed to integrate with Rhino and it has evolved on the basis of user feedback.[2-9]
 
+GXN used Ladybug for Rhino, which utilised climate data. This allowed designers to understand and design for specific local site conditions. Ladybug provides visualisation tools for wind, rain, sun-path, solar isolation and cloud cover. Jensen has stated that ‘90 per cent of a building’s form is decided in the first 10 per cent of our design process. To inform our architecture we use software that provides live feedback on daylight quality and environmental impact, right from the first early sketches’.(2) [2-10]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -631,7 +633,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Nzk3MTI2MSwtMjA2ODY1MTY1NSwxOT
+eyJoaXN0b3J5IjpbLTM5OTY1Mzk2NCwtMjA2ODY1MTY1NSwxOT
 MyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4
 MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMT
 QyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0
