@@ -677,7 +677,7 @@ and futures in landscape architecture//[1]:89-116
 
 [1-16]Leif Estrada. Towards sentience[M]//[1]:279-288
 
-
+---
 
 [2]Brady Peters, Terri Peters.Computing the Environment: Digital Design Tools for Simulation and Visualisation of Sustainable Architecture[M].Italy:Wiley, April, 2018: page range.
 
@@ -717,15 +717,17 @@ and futures in landscape architecture//[1]:89-116
 
 [2-18]Brady Peters, Terri Peters. Global environmental challenges[M]//[2]:218-235
 
+---
+
 [3]Wassim Jabi. Parametric design for architecture[M]. London:Laurence King Publishing, September, 2013 : page range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjg0ODcwNCwyMTMxNTMzNTk0LDYxMT
-cxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNjkyMjM0
-MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLD
-cwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLTIwNjg2
-NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2Nzc1OC
-wxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMjY0OCwxMDM3
-OTY1NDE1XX0=
+eyJoaXN0b3J5IjpbOTIyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MT
+c3ODEsNjA1MDkzNjc1LDE5NDI0MzY2NDcsLTEwMjY5MjIzNDIs
+MTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0MDIxMyw3MD
+Y4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUx
+NjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3NTgsMT
+EyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2
+NTQxNV19
 -->
