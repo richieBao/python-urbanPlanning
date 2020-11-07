@@ -464,6 +464,10 @@ Currently, Knott, together with the SMART Solutions group, is developing a Rhino
 
 Designing the performance of the invisible aspects of the environment, such as light, air and sound, is at the heart of Max Fordham’s work, and the firm’s approach to computing the environment incorporates digital simulation, physical testing and multiple overlapping analyses, using digital tools to visualise and realise experiential aspects of architecture.[2-13]
 
+Cramp explains: ‘We used a program created in Grasshopper for Rhino to run a genetic algorithm to size the pyramidal roof lights to keep out direct sun year round, and a second program to check for the transfer of specular reflections between panes of glass into the gallery below’.(2) Parametric modelling was an important part of the design process, and the team developed and programmed algorithms to simulate diffuse daylight and direct sunlight into the gallery spaces. Max Fordham partner Hareth Pochee adds: ‘Rather than directly designing objects, we design algorithms (sets of rules) that in turn design the objects. Thousands of design options were tested by rapid, virtual prototyping to find one or more solutions that were the best fit’.(2)[2-13]
+
+Increasing environmental performance specifications means that multiple scales and modes of analyses are required. There is a rapidly growing number of digital tools for environmental analysis, and on a given project, Max Fordham employs a variety of tools. Cramp says that the team regularly uses Ecotect, DIVA, Ladybug and Grasshopper, as well as writing custom scripts and plug-ins for software like Radiance as needed. Depending on the project, the designers also use open-source codes such as OpenFOAM for complex fluid dynamics (CFD).[2-13]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -663,11 +667,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzc5NjM1NiwtMTgyMTg0MDIxMyw3MD
-Y4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUx
-NjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3NTgsMT
-EyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2
-NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMj
-EsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjEx
-OTU5MjY4XX0=
+eyJoaXN0b3J5IjpbOTY1NzE4MjcsLTE4MjE4NDAyMTMsNzA2OD
+M1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NSwtMjA2ODY1MTY1
+NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LDExMj
+k1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0
+MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLD
+Y2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1
+OTI2OF19
 -->
