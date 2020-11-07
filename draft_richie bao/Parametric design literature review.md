@@ -74,6 +74,8 @@ Grasshopper was then used to generate a responsive model for the custom play str
 
 typically achieved with pen and paper. It also can lead to unanticipated outcomes. A parametric program can allow for the generation of infinite iterations, some of which may never have been conceived. At times, mistakes made in data entry can lead a designer onto a new path of exploration. Yet it is still up to the designer to make the final call in selecting what is worth further developent. Great design often comes from challenging rules and conventions, from responding to insurmountable constraints with solutions. It also comes from human intellect and experience. Memory, experience, emotion, and humor are not yet parameters that can be input into a parametric definition.[1-5]
 
+One of the roles of the group is to find better ways of doing standard analysis routines. The group develops workflows using Grasshopper with Honeybee and Ladybug, and then disseminates this knowledge to design teams. In terms of developments in environmental performance, Gallou sees that interoperability is improving, ‘designers don’t need to export and import into Ecotect as solar analysis tools are available right in Rhino’.(1) The SMG has written a custom tool for MicroStation that implements Radiance, and has created its own wrapper for widely available environmental tools Ladybug and Honeybee called Ladybee. [2-8]
+
 #### dynamo
 BA: When designing computational tools, some strategies we use to ensure our tools are robust and not subject to failure is to try building them as natively as possible. What do I mean when I say that? There has been this HUGE push to open-source tools (which is amazing), but comes with its own set of challenges. As an example, Dynamo is an open-source program to which the industry can contribute its own custom packages, or add-ins. The challenge when using someone else’s open-source package is that you are now subject to the integrity of their tool. If there is a flaw in their tool, or if it no longer works when a new release of Dynamo comes out, you are now subject to that defect. We prefer to use our own custom nodes, as it gives us greater control over the tool and its integrity.
 Bill Allen (BA)
@@ -588,11 +590,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc0MjAxMjQsMTEyOTUxOTgyNywxOT
-c5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYz
-OTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LD
-I3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4
-NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NS
-wtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2
-MzY2MTI2M119
+eyJoaXN0b3J5IjpbMTgzNTQzNTU0LDExMjk1MTk4MjcsMTk3OT
+k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
+NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
+g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
+NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
+EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
+NjEyNjNdfQ==
 -->
