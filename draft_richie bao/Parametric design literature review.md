@@ -520,6 +520,8 @@ The integration of simulation engines with design software has the potential to 
 ### 数据收集
 Data collection is becoming easier, with data supplied from personal devices and other small wearable devices. It may be too easy nowadays, I have experienced projects where people jumped into data collection without much thought on what they want to know, and realised afterwards all the data they collected was rubbish. I see the future to be more data-driven, feedback-based design—ongoing evaluation and iterative/adaptive design to archive the desirable outcome (14).[2-7]
 
+deployment of high-density, low-cost sensor networks that offer real-time feedback of environmental conditions on a site. Paired with other environmental standards and data sets, it offers designers the possibility of knowing the particular thermal conditions on their sites. After tests with commercially available, off-the-shelf sensors, beginning in 2007 at Loblolly House, the firm developed its own wireless sensor networks. The designers tested these systems in two major installations in 2013, including the renovation of building 661 at the Consortium for Building Energy Innovation at the Philadelphia Navy Yard.(6) They used their own offices in a former bottling facility in the Northern Liberties district in Philadelphia as a test bed in 2014, installing 300 temperature and humidity sensors in the facades, roof, interiors and floors before they moved in. They aimed to harvest fine-grained environmental data to identify locally specific design solutions for increasing comfort and reducing mechanical systems.[2-9]
+
 
 ##  参数化设计方法未来发展趋势预测
 ### 智能化与未来
@@ -611,11 +613,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MzgxNDM0LDE5MzIxMDkwNDIsMjAxMT
-A0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUw
-LDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOT
-M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
-MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
-YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
-NjA0M119
+eyJoaXN0b3J5IjpbLTE5NjQ2MTAzMiwxOTMyMTA5MDQyLDIwMT
+EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
+MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
+kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
+MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
+E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
+MDYwNDNdfQ==
 -->
