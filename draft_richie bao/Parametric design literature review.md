@@ -468,6 +468,8 @@ Cramp explains: ‘We used a program created in Grasshopper for Rhino to run a g
 
 Increasing environmental performance specifications means that multiple scales and modes of analyses are required. There is a rapidly growing number of digital tools for environmental analysis, and on a given project, Max Fordham employs a variety of tools. Cramp says that the team regularly uses Ecotect, DIVA, Ladybug and Grasshopper, as well as writing custom scripts and plug-ins for software like Radiance as needed. Depending on the project, the designers also use open-source codes such as OpenFOAM for complex fluid dynamics (CFD).[2-13]
 
+The office developed geometric models to predict the acoustic environment inside each space, with particular attention to the surface finishes and location.[2-13]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -667,11 +669,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NzE4MjcsLTE4MjE4NDAyMTMsNzA2OD
-M1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NSwtMjA2ODY1MTY1
-NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LDExMj
-k1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0
-MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLD
-Y2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1
-OTI2OF19
+eyJoaXN0b3J5IjpbLTEwMTc1NTgyNDksLTE4MjE4NDAyMTMsNz
+A2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NSwtMjA2ODY1
+MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LD
+ExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5
+NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMT
+IxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OTk2NDEyODQsLTIx
+MTk1OTI2OF19
 -->
