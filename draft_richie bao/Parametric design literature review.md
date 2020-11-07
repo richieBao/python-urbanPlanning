@@ -209,6 +209,8 @@ For parametric studies, Rhino/Grasshopper appears to be the current industry fav
 
 However, one should keep an important fact in mind: parametric and algorithmic thinking is not about any one piece of computer software or any one particular syntax, but about logic, geometry, topology and interaction.[3-6_7] 
 
+However, becoming an expert in parametric design – and scripting in particular – is a journey that can take months, if not years.[3-6_7] 
+
 
 
 
@@ -730,11 +732,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NTQyMDY1LDUwMTkzMzk2OCw5MjI2MD
-gzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0
-MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NT
-U4MjQ5LC0xODIxODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgy
-LDEwNjMwMzU5NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMD
-ExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNj
+A4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5
+NDI0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMTAxNz
+U1ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4
+MiwxMDYzMDM1OTU1LC0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMj
+AxMTA0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5
+NzUwXX0=
 -->
