@@ -250,6 +250,8 @@ Open-source software enables the team to access the source code, so that they ca
 
 Commercially available software, open-source code and bespoke software solutions are often combined together in creative new design workflows that enable design teams to realise the office’s innovative and sustainable architecture.[2-8]
 
+De Kestelier concludes that ‘the next step is to design buildings based on the user experience, to design buildings that feel great, that are amazing, and that just work. Because the tools are better, we can do what architects did before by intuition and experience, to determine what it is that you want to feel, design the surfaces around that, and give the user the experience they expect’.(1)[2-8]
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -417,6 +419,7 @@ The trajectories and experiments highlighted in this chapter point to exciting n
 
 At the same time, they took a collection of recordings of the signature elements of San Francisco, birds singing, types of traffic, fountains, street musicians, the elements that make the city unique, and through comparing the different sounds of the city, the design team could better define the soundscape that they aspired to create.[2-8]
 
+simulation gives young architects a tool to understand how the environment will work inside the building. These simulation tools let them understand how the light comes in’.[2-8]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -598,11 +601,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzNDUzNDIsMTEyOTUxOTgyNywxOT
-c5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYz
-OTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LD
-I3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4
-NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NS
-wtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2
-MzY2MTI2M119
+eyJoaXN0b3J5IjpbMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OT
+k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
+NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
+g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
+NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
+EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
+NjEyNjNdfQ==
 -->
