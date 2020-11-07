@@ -596,6 +596,8 @@ The integration of simulation engines with design software has the potential to 
 
 [2-15]通篇
 
+ZHACODE, the research group at Zaha Hadid Architects (ZHA), uses bespoke design tools to ‘sketch with performance’—that is to say, through the creation of custom design tools, the architects can immediately interact with a model to make informed decisions on customisable aspects of building performance.Both the ZHACODE group, and the wider office, consider aspects of performance at a variety of scales in their projects. The office is known for the concept of parametricism, whereby all elements of a design can be seen as interlinked constraints in a computational design process. Developed by ZHA director Patrik Schumacher, parametricism exists because of sophisticated techniques such as scripting and parametric modelling, that he sees are becoming the new normal in contemporary practice. Schumacher writes that ‘one of the most pervasive current techniques involves populating modulated surfaces with adaptive components … components might be constructed from multiple elements constrained/ cohered by associative relations so that the overall component might sensibly adapt to various local conditions’. In parametricism, through computational techniques ‘forms are the result of lawfully interacting forces’.(2)[2-17]
+
 ### 数据收集
 Data collection is becoming easier, with data supplied from personal devices and other small wearable devices. It may be too easy nowadays, I have experienced projects where people jumped into data collection without much thought on what they want to know, and realised afterwards all the data they collected was rubbish. I see the future to be more data-driven, feedback-based design—ongoing evaluation and iterative/adaptive design to archive the desirable outcome (14).[2-7]
 
@@ -706,11 +708,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-17]Terri Peters. Zhacode: sketching with performance[M]//[2]:201-209
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkyNDM0NTMsNjA1MDkzNjc1LDE5ND
-I0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1
-ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4Mi
-wxMDYzMDM1OTU1LC0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMjAx
-MTA0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5Nz
-UwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEz
-OTM3ODI5MDhdfQ==
+eyJoaXN0b3J5IjpbMTUyMjUzNjEwMSw2MDUwOTM2NzUsMTk0Mj
+QzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4
+MjQ5LC0xODIxODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLD
+EwNjMwMzU5NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDEx
+MDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NT
+AsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5
+Mzc4MjkwOF19
 -->
