@@ -262,6 +262,7 @@ As opposed to the current trend with visual programming where fewer people are r
 
 SuperSpace develops its own software in line with its agenda to build an experience-based, human-centric, spatial architecture. This approach allows for an even deeper dive into human comfort and wellbeing. Through a holistic analysis of environments, interior programmes and material assembly, SuperSpace simulates and optimises building performance to achieve dynamic experiential goals.[2-16]
 
+For urban design, the team of designers creates flexible tools, divided into components, with compatible inputs and outputs, where applications can be replaced by their manual input and output, thus many different workflows can be assembled.[2-16]
 
 
 
@@ -701,11 +702,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY5ODU1NDQsMTk0MjQzNjY0NywtMT
-AyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIx
-ODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NT
-UsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEy
-MTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMj
-Y0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwt
-MTg4ODYzMDEyMV19
+eyJoaXN0b3J5IjpbMTc5MzU0MzY4OSwxOTQyNDM2NjQ3LC0xMD
+I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
+NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NS
+wtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIx
+MzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNj
+Q4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0x
+ODg4NjMwMTIxXX0=
 -->
