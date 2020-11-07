@@ -625,11 +625,13 @@ and futures in landscape architecture//[1]:89-116
 
 [2-9]Terri Peters. Designers need feedback: research and practice by kierantimberlake [M]//[2]:118-127
 
-[]
+[2-10]Terri Peters.Architecture shapes performance: gxn advances solar modelling and sensing[M]//[2]:128-137
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzA4Mjc2NSwtMjA2ODY1MTY1NSwxOT
+eyJoaXN0b3J5IjpbMTk0Nzk3MTI2MSwtMjA2ODY1MTY1NSwxOT
 MyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4
 MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMT
 QyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0
