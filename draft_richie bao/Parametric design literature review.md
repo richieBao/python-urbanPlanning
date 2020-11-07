@@ -425,6 +425,11 @@ At the same time, they took a collection of recordings of the signature elements
 
 simulation gives young architects a tool to understand how the environment will work inside the building. These simulation tools let them understand how the light comes in’.[2-8]
 
+deployment of high-density, low-cost sensor networks that offer real-time feedback of environmental conditions on a site. Paired with other environmental standards and data sets, it offers designers the possibility of knowing the particular thermal conditions on their sites. After tests with commercially available, off-the-shelf sensors, beginning in 2007 at Loblolly House, the firm developed its own wireless sensor networks. The designers tested these systems in two major installations in 2013, including the renovation of building 661 at the Consortium for Building Energy Innovation at the Philadelphia Navy Yard.(6) They used their own offices in a former bottling facility in the Northern Liberties district in Philadelphia as a test bed in 2014, installing 300 temperature and humidity sensors in the facades, roof, interiors and floors before they moved in. They aimed to harvest fine-grained environmental data to identify locally specific design solutions for increasing comfort and reducing mechanical systems.[2-9]
+
+By bringing together multiple sources––their experienced observations on the site, the outputs of the real-time sensor data and the government-issued weather data from the site––they were able to learn about how the building’s performance varied around the building and over time. This information informed their renovation of the space, and various studies including interior daylight and airflow analysis. Based on the feedback, they decided not to use mechanical cooling, and rely on using desk fans and operable windows, and to monitor the environment using the sensors. In addition, the team gathered weekly survey data from staff about comfort levels and satisfaction with their work environments, sending emails to staff about options for keeping comfortable in the office in relation to outdoor conditions.(6) This qualitative data produced another layer of data about the environment, and it was useful for making decisions about the building and understanding its performance. The environmental performance of the office is continually being tracked and monitored, and this means that it is being updated and adjusted, creating an ongoing model for analysing the environment.[2-9]
+
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -520,7 +525,7 @@ The integration of simulation engines with design software has the potential to 
 ### 数据收集
 Data collection is becoming easier, with data supplied from personal devices and other small wearable devices. It may be too easy nowadays, I have experienced projects where people jumped into data collection without much thought on what they want to know, and realised afterwards all the data they collected was rubbish. I see the future to be more data-driven, feedback-based design—ongoing evaluation and iterative/adaptive design to archive the desirable outcome (14).[2-7]
 
-deployment of high-density, low-cost sensor networks that offer real-time feedback of environmental conditions on a site. Paired with other environmental standards and data sets, it offers designers the possibility of knowing the particular thermal conditions on their sites. After tests with commercially available, off-the-shelf sensors, beginning in 2007 at Loblolly House, the firm developed its own wireless sensor networks. The designers tested these systems in two major installations in 2013, including the renovation of building 661 at the Consortium for Building Energy Innovation at the Philadelphia Navy Yard.(6) They used their own offices in a former bottling facility in the Northern Liberties district in Philadelphia as a test bed in 2014, installing 300 temperature and humidity sensors in the facades, roof, interiors and floors before they moved in. They aimed to harvest fine-grained environmental data to identify locally specific design solutions for increasing comfort and reducing mechanical systems.[2-9]
+
 
 
 ##  参数化设计方法未来发展趋势预测
@@ -613,11 +618,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ2MTAzMiwxOTMyMTA5MDQyLDIwMT
-EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
-MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
-kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
-MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
-E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
-MDYwNDNdfQ==
+eyJoaXN0b3J5IjpbNTU1Njc3MjgzLDE5MzIxMDkwNDIsMjAxMT
+A0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUw
+LDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOT
+M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
+MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
+YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
+NjA0M119
 -->
