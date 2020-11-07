@@ -264,6 +264,8 @@ Growing access to computer-aided design and manufacturing tools has undoubtedly 
 
 Nicholas de Monchaux, an associate professor of architecture and urban design at the University of California, Berkeley, has worked since 2009 on Local Code, a project that seeks to design socially and ecologically active landscapes using abandoned urban sites in various cities throughout the United States and abroad. Many of these metropolitan areas have hundreds if not thousands of these sites, thus de Monchaux and his team have sought to find a method for systematically generating designs based on local contexts rather than designing each site one by one. To facilitate this process, de Monchaux’s team developed a set of Grasshopper components, collectively called “Finches,” which build connections between geospatial data and Rhino geometry.20 Finches includes components for importing, batch processing, and exporting shapefiles (.shp) within Rhino, meaning that different types of geodata such as parcel boundaries and topography can be combined with Grasshopper’s existing parametric modeling tools to generate 3D designs for many sites at once.[1-12]
 
+At Smartgeometry 2016, Phil Bernstein introduced the generative design concepts and explained that this process allowed the automatic creation, evaluation and evolution of thousands of options to meet the project goals.(15) The aim was to make informed data-driven trade-offs. Generative design paired with performance evaluation was used to develop the brief, the interior concept and layout, the design components and furniture, and to determine how the project could be evaluated. Further feedback came from the construction of full-scale mock-ups. Autodesk moved into its new space in late 2016.[2-7]
+
 #### CA
 The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
 
@@ -570,11 +572,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYzMzg1MTYsMTk3OTk2OTc1MCwxMz
-U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
-OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
-E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
-MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwND
-MsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAy
-NTU0NjA2N119
+eyJoaXN0b3J5IjpbMTUzMTMxNTkwMywxOTc5OTY5NzUwLDEzNT
+QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
+MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
+g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
+NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
+w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
+NTQ2MDY3XX0=
 -->
