@@ -499,6 +499,9 @@ The designers are spread between different offices, and specialise in using digi
 
 [2-15]通篇
 
+This chapter explores some recent projects where the ZHACODE group has created innovative site-specific responses, involving a range of environmental parameters.group works to integrate concepts for daylight, solar shading, wind studies and visibility analyses into projects of many scales. Some projects that have provided great breakthroughs in workflows and tools development remain unrealised, and the design teams learn from these and apply lessons in future projects. Ambitious and unbuilt projects are explored here as showing trajectories of environmentally ambitious parametric design.[2-17] 
+
+The team first works to abstract a complex design into geometric rule sets. Then it develops custom digital tools or adapts existing ones that integrate computational fluid dynamics (CFD) into the parametric geometry model. [2-17] 
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -708,11 +711,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-17]Terri Peters. Zhacode: sketching with performance[M]//[2]:201-209
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjUzNjEwMSw2MDUwOTM2NzUsMTk0Mj
-QzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4
-MjQ5LC0xODIxODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLD
-EwNjMwMzU5NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDEx
-MDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NT
-AsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5
-Mzc4MjkwOF19
+eyJoaXN0b3J5IjpbNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyND
+M2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgy
+NDksLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMT
+A2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEw
+NDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MC
+wxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkz
+NzgyOTA4XX0=
 -->
