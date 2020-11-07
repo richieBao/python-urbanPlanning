@@ -260,6 +260,8 @@ Their research approach is driven by the desire to improve the ‘collective int
 
 As opposed to the current trend with visual programming where fewer people are required to learn to program, designers at SuperSpace are finding they have to become even more technical and to increase their development skillset.[2-16]
 
+SuperSpace develops its own software in line with its agenda to build an experience-based, human-centric, spatial architecture. This approach allows for an even deeper dive into human comfort and wellbeing. Through a holistic analysis of environments, interior programmes and material assembly, SuperSpace simulates and optimises building performance to achieve dynamic experiential goals.[2-16]
+
 
 
 
@@ -300,6 +302,8 @@ Growing access to computer-aided design and manufacturing tools has undoubtedly 
 Nicholas de Monchaux, an associate professor of architecture and urban design at the University of California, Berkeley, has worked since 2009 on Local Code, a project that seeks to design socially and ecologically active landscapes using abandoned urban sites in various cities throughout the United States and abroad. Many of these metropolitan areas have hundreds if not thousands of these sites, thus de Monchaux and his team have sought to find a method for systematically generating designs based on local contexts rather than designing each site one by one. To facilitate this process, de Monchaux’s team developed a set of Grasshopper components, collectively called “Finches,” which build connections between geospatial data and Rhino geometry.20 Finches includes components for importing, batch processing, and exporting shapefiles (.shp) within Rhino, meaning that different types of geodata such as parcel boundaries and topography can be combined with Grasshopper’s existing parametric modeling tools to generate 3D designs for many sites at once.[1-12]
 
 At Smartgeometry 2016, Phil Bernstein introduced the generative design concepts and explained that this process allowed the automatic creation, evaluation and evolution of thousands of options to meet the project goals.(15) The aim was to make informed data-driven trade-offs. Generative design paired with performance evaluation was used to develop the brief, the interior concept and layout, the design components and furniture, and to determine how the project could be evaluated. Further feedback came from the construction of full-scale mock-ups. Autodesk moved into its new space in late 2016.[2-7]
+
+SuperSpace employs data-integrated techniques—generative models associate data to express morphologies and analytical models are used to learn patterns in data. The group applies computational design methods to predict human behaviour and map social and physical trends within organisations and cities: they ‘unlock the creative potential within big data’.(1) [2-16]
 
 #### CA
 The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
@@ -697,7 +701,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc1MTA4OTcsMTk0MjQzNjY0NywtMT
+eyJoaXN0b3J5IjpbLTE0OTY5ODU1NDQsMTk0MjQzNjY0NywtMT
 AyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIx
 ODQwMjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NT
 UsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEy
