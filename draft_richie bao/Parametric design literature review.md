@@ -76,6 +76,8 @@ typically achieved with pen and paper. It also can lead to unanticipated outcome
 
 One of the roles of the group is to find better ways of doing standard analysis routines. The group develops workflows using Grasshopper with Honeybee and Ladybug, and then disseminates this knowledge to design teams. In terms of developments in environmental performance, Gallou sees that interoperability is improving, ‘designers don’t need to export and import into Ecotect as solar analysis tools are available right in Rhino’.(1) The SMG has written a custom tool for MicroStation that implements Radiance, and has created its own wrapper for widely available environmental tools Ladybug and Honeybee called Ladybee. [2-8]
 
+By using Pachyderm in Rhino, he is able to both design and simulate using the same software, and therefore does not have to bother with translation[2-8]
+
 #### dynamo
 BA: When designing computational tools, some strategies we use to ensure our tools are robust and not subject to failure is to try building them as natively as possible. What do I mean when I say that? There has been this HUGE push to open-source tools (which is amazing), but comes with its own set of challenges. As an example, Dynamo is an open-source program to which the industry can contribute its own custom packages, or add-ins. The challenge when using someone else’s open-source package is that you are now subject to the integrity of their tool. If there is a flaw in their tool, or if it no longer works when a new release of Dynamo comes out, you are now subject to that defect. We prefer to use our own custom nodes, as it gives us greater control over the tool and its integrity.
 Bill Allen (BA)
@@ -411,6 +413,8 @@ Transsolar KlimaEngineering provided expertise relating to the CFD analysis as t
 
 The trajectories and experiments highlighted in this chapter point to exciting new directions for ‘computing the environment’. There is a need for a broader consideration of the ‘environment’, including not only built space and nature but also atmosphere and human behaviour. The Smartgeometry workshops, perhaps due to their changing themes within digital design, and their ability to curate and peer-review participants and topics, offer important venues for digital design experimentation. The works in this chapter point to more ambitious roles for architects in the simulation process. The increasing ease and speed of gaining feedback from physical and virtual testing enables new ways of designing. Real-time feedback, design for interaction with the environment, not only measuring or simulating its behaviour, and the inclusion of new metrics like sound, are flourishing in experimental projects, and are likely to come to mainstream practice in the near future.[2-7]
 
+At the same time, they took a collection of recordings of the signature elements of San Francisco, birds singing, types of traffic, fountains, street musicians, the elements that make the city unique, and through comparing the different sounds of the city, the design team could better define the soundscape that they aspired to create.[2-8]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -592,11 +596,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzQxOTY3OSwxMTI5NTE5ODI3LDE5Nz
-k5Njk3NTAsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5
-NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMj
-c4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3
-MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC
-0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYz
-NjYxMjYzXX0=
+eyJoaXN0b3J5IjpbLTU4MzAzMjY0LDExMjk1MTk4MjcsMTk3OT
+k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
+NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
+g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
+NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
+EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
+NjEyNjNdfQ==
 -->
