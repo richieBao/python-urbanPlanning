@@ -458,6 +458,9 @@ The experimental 1:1 material prototypes and new design workflows by architect D
 
 Prototypes have been developed using a thin transparent membrane surface with shape memory alloys, so that the materials contract along its length when electricity is passed through it. The result is a transparent film, and when you breathe into it, it gives the effect of breathing back[2-7]
 
+14 Philippe Rahm, simulation showing microclimates and people, Jade Eco Park, Taichung, Taiwan, 2012–2016[2-7]
+
+Transsolar KlimaEngineering provided expertise relating to the CFD analysis as the flow of air and microclimate was essential to the design. Rahm explained: ‘we began not to create the program, but first to create the climate’.(18) The site is very hot and ‘200 days per year it is more than 29 degrees celsius on this site’. So the design uses passive cooling strategies, and trees are planted for shading, and the different areas of the design are programmed around the air velocity, air temperature, noise levels and pollution levels. Rahm began by reinforcing cooler areas, diagramming heat maps, and considering seasonal and daily events on the site, and then thinking of the function[2-7]
 
 
 ### 11. 图表报告及制图；
@@ -572,11 +575,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTMxNTkwMywxOTc5OTY5NzUwLDEzNT
-QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
-MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
-g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
-NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
-w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
-NTQ2MDY3XX0=
+eyJoaXN0b3J5IjpbLTEwNzgwNjIwMjEsMTk3OTk2OTc1MCwxMz
+U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
+OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
+E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
+MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwND
+MsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAy
+NTU0NjA2N119
 -->
