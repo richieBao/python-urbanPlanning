@@ -633,12 +633,12 @@ and futures in landscape architecture//[1]:89-116
 
 [2-10]Terri Peters.Architecture shapes performance: gxn advances solar modelling and sensing[M]//[2]:128-137
 
-
+[2-11]Brady Peters. Bespoke tools for a better world: the art of sustainable design at burohappold engineering [M]//[2]:138-149
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODkyMjAxNywxMDYzMDM1OTU1LC0yMD
+eyJoaXN0b3J5IjpbMTc3ODI1NzYzMywxMDYzMDM1OTU1LC0yMD
 Y4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3
 NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMT
 AzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2
