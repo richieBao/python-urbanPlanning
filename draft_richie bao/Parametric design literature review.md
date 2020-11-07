@@ -235,6 +235,10 @@ design—for instance, GIS for site analysis, Grasshopper for parametric design,
 
 The recent adoption of computational and simulation techniques is not only changing the range of the technically possible, but also altering the social structures that architects operate within.[2-4]
 
+Foster + Partners founded the Specialist Modelling Group (SMG), The SMG is an inhouse consultancy, comprised of about 24 digital design specialists with expertise in geometry and modelling, parametric design, computer programming, building information modelling (BIM), digital fabrication, structural engineering, thermal comfort, lighting, acoustics and wind analysis, and post-occupancy evaluation and real-time sensoring.[2-8]
+
+The SMG believes that there is a need to integrate architecture and engineering on a digital workflow level.[2-8]
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -581,11 +585,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA0MTYyMTYsMTEyOTUxOTgyNywxOT
-c5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYz
-OTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LD
-I3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4
-NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NS
-wtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2
-MzY2MTI2M119
+eyJoaXN0b3J5IjpbLTc5MzIzMjk2OCwxMTI5NTE5ODI3LDE5Nz
+k5Njk3NTAsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5
+NDYsMTM5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMj
+c4Njg5NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3
+MjUzOSwxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC
+0xMDA2MjA2MDQzLDgzODUwMTExOCwtOTUxNjM1MDE4LC0xNTYz
+NjYxMjYzXX0=
 -->
