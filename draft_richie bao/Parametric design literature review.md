@@ -256,6 +256,8 @@ De Kestelier concludes that ‘the next step is to design buildings based on the
 
 Their research approach is driven by the desire to improve the ‘collective intelligence’ of the building industry. They pursue this not only through their many planning and architecture projects, but also by redesigning systems of design using computational approaches.[2-9]
 
+As opposed to the current trend with visual programming where fewer people are required to learn to program, designers at SuperSpace are finding they have to become even more technical and to increase their development skillset.[2-16]
+
 
 
 ## 参数化应用的主要方向
@@ -687,11 +689,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjMxNDM1NywxOTQyNDM2NjQ3LC0xMD
-I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
-NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NS
-wtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIx
-MzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNj
-Q4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0x
-ODg4NjMwMTIxXX0=
+eyJoaXN0b3J5IjpbMzYxMzAwNTksMTk0MjQzNjY0NywtMTAyNj
+kyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQw
+MjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLT
+IwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2
+Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMjY0OC
+wxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwtMTg4
+ODYzMDEyMV19
 -->
