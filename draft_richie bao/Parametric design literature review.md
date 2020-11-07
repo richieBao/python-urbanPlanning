@@ -252,6 +252,10 @@ Commercially available software, open-source code and bespoke software solutions
 
 De Kestelier concludes that ‘the next step is to design buildings based on the user experience, to design buildings that feel great, that are amazing, and that just work. Because the tools are better, we can do what architects did before by intuition and experience, to determine what it is that you want to feel, design the surfaces around that, and give the user the experience they expect’.(1)[2-8]
 
+Their research approach is driven by the desire to improve the ‘collective intelligence’ of the building industry. They pursue this not only through their many planning and architecture projects, but also by redesigning systems of design using computational approaches.[2-9]
+
+
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -605,11 +609,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMT
-M2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMjY0
-OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwtMT
-g4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQx
-Mjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LD
-EzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUw
-MTExOF19
+eyJoaXN0b3J5IjpbMTA1MjMyMzI1NCwxOTMyMTA5MDQyLDIwMT
+EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
+MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
+kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
+MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
+E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
+MDYwNDNdfQ==
 -->
