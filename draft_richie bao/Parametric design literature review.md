@@ -394,6 +394,13 @@ In 2016, SIAL researchers carried out another real-time investigation of gaining
 
 A fabric designer provided expertise in cutting the fabrics and selecting fabrics with various thermal properties, such as moisture wicking, and varying levels of absorbency, which impact the thermal behaviour of the structure. They used digital tools to visualise the data that they had collected from the sensored physical prototypes. In this workshop, participants developed a unique process for design that enabled them to design the modules at 1:1 scale, to make physical mock-ups and then to add changes to their prototypes in an iterative process based on the feedback that they had gained from the visualisation. The installation functioned as an experiential prototyping platform at full scale with many potential applications for the building industry, given that every building contains environmental microclimates.[2-7]
 
+14 Philippe Rahm, simulation showing microclimates and people, Jade Eco Park, Taichung, Taiwan, 2012–2016[2-7]
+
+Transsolar KlimaEngineering provided expertise relating to the CFD analysis as the flow of air and microclimate was essential to the design. Rahm explained: ‘we began not to create the program, but first to create the climate’.(18) The site is very hot and ‘200 days per year it is more than 29 degrees celsius on this site’. So the design uses passive cooling strategies, and trees are planted for shading, and the different areas of the design are programmed around the air velocity, air temperature, noise levels and pollution levels. Rahm began by reinforcing cooler areas, diagramming heat maps, and considering seasonal and daily events on the site, and then thinking of the function[2-7]
+
+The trajectories and experiments highlighted in this chapter point to exciting new directions for ‘computing the environment’. There is a need for a broader consideration of the ‘environment’, including not only built space and nature but also atmosphere and human behaviour. The Smartgeometry workshops, perhaps due to their changing themes within digital design, and their ability to curate and peer-review participants and topics, offer important venues for digital design experimentation. The works in this chapter point to more ambitious roles for architects in the simulation process. The increasing ease and speed of gaining feedback from physical and virtual testing enables new ways of designing. Real-time feedback, design for interaction with the environment, not only measuring or simulating its behaviour, and the inclusion of new metrics like sound, are flourishing in experimental projects, and are likely to come to mainstream practice in the near future.[2-7]
+
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -458,9 +465,8 @@ The experimental 1:1 material prototypes and new design workflows by architect D
 
 Prototypes have been developed using a thin transparent membrane surface with shape memory alloys, so that the materials contract along its length when electricity is passed through it. The result is a transparent film, and when you breathe into it, it gives the effect of breathing back[2-7]
 
-14 Philippe Rahm, simulation showing microclimates and people, Jade Eco Park, Taichung, Taiwan, 2012–2016[2-7]
 
-Transsolar KlimaEngineering provided expertise relating to the CFD analysis as the flow of air and microclimate was essential to the design. Rahm explained: ‘we began not to create the program, but first to create the climate’.(18) The site is very hot and ‘200 days per year it is more than 29 degrees celsius on this site’. So the design uses passive cooling strategies, and trees are planted for shading, and the different areas of the design are programmed around the air velocity, air temperature, noise levels and pollution levels. Rahm began by reinforcing cooler areas, diagramming heat maps, and considering seasonal and daily events on the site, and then thinking of the function[2-7]
+
 
 
 ### 11. 图表报告及制图；
@@ -575,11 +581,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgwNjIwMjEsMTk3OTk2OTc1MCwxMz
-U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
-OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
-E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
-MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwND
-MsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAy
-NTU0NjA2N119
+eyJoaXN0b3J5IjpbMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNT
+QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
+MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
+g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
+NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
+w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
+NTQ2MDY3XX0=
 -->
