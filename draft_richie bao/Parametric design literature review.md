@@ -633,6 +633,8 @@ Given the complexity of these factors, modeling and understanding of our dynamic
 
 A new kind of landscape design practitioner, one with degrees in landscape architecture and computer science or computational design, will emerge. All staff, however, must have a sense of the capabilities and limits of the technology. The challenge of how to make productive use of all the data at our fingertips will require the creative contribution of all of us. [1-14]
 
+[2-18]通篇
+
 
 ## 结论与讨论
 
@@ -710,12 +712,14 @@ and futures in landscape architecture//[1]:89-116
 [2-16]Brady Peters. Superspace: computing human-centric architecture [M]//[2]:192-200
 
 [2-17]Terri Peters. Zhacode: sketching with performance[M]//[2]:201-209
+
+[2-18]Brady Peters, Terri Peters. Global environmental challenges[M]//[2]:218-235
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyND
-M2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgy
-NDksLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMT
-A2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEw
-NDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MC
-wxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkz
-NzgyOTA4XX0=
+eyJoaXN0b3J5IjpbMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MD
+kzNjc1LDE5NDI0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5
+MywtMTAxNzU1ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMT
+MzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUxNjU1LDE5MzIx
+MDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNy
+wxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5
+MTYzOTQ2XX0=
 -->
