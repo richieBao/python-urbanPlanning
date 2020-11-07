@@ -451,6 +451,9 @@ GXN has a broad focus, seeking to support design processes and advance multiple 
 
 5 BuroHappold, proposed process map BuroHappold has created a variety of design workflows, depending on the stage and complexity of the project, and accuracy and efficiency of the results needed.[2-11]
 
+OPTIMISING DESIGN SOLUTIONS
+Typically, when confronted with a complex performance issue on a project, BuroHappold will implement a parametric design approach, to generate and analyse a range of building designs. The geometry and performance of these options can be visualised, which gives the architects and engineers knowledge of what works and what does not, and the relationship between form and performance. However, as the computer is generating and analysing the geometry, this computational process can be iteratively looped, so that the design ‘evolves’ to find a better performing building system. This optimisation strategy is called a ‘genetic algorithm’ as it imitates the process of evolution to optimise buildings and/or parts of buildings. The technique can involve hundreds of loops and result in the generation of thousands of different options. However, this technique can yield new and better performing geometries than could be found otherwise. This technique is powerful, but as Knott explains, the most important questions are still, ‘what is the goal of the optimisation?’ and ‘what is being optimised?’.(3)[2-11]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -644,7 +647,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkxNjA5ODUsMTA2MzAzNTk1NSwtMj
+eyJoaXN0b3J5IjpbLTE3ODI4MjkxNTEsMTA2MzAzNTk1NSwtMj
 A2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3
 NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNjQ4LD
 EwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0xODg4
