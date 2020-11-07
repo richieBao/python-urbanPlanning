@@ -248,6 +248,8 @@ The SMG believes that there is a need to integrate architecture and engineering 
 
 Open-source software enables the team to access the source code, so that they can customise the tool to meet their needs. An in-depth understanding of how the software is working is crucial, so that it can be customised to carry out specific analysis tasks.[2-8]
 
+Commercially available software, open-source code and bespoke software solutions are often combined together in creative new design workflows that enable design teams to realise the office’s innovative and sustainable architecture.[2-8]
+
 ## 参数化应用的主要方向
 
 ### 教学
@@ -596,11 +598,11 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzAzMjY0LDExMjk1MTk4MjcsMTk3OT
-k2OTc1MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0
-NiwxMzkzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNz
-g2ODk1MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcy
-NTM5LDE2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLT
-EwMDYyMDYwNDMsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2
-NjEyNjNdfQ==
+eyJoaXN0b3J5IjpbLTExNDYzNDUzNDIsMTEyOTUxOTgyNywxOT
+c5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYz
+OTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LD
+I3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4
+NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NS
+wtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2
+MzY2MTI2M119
 -->
