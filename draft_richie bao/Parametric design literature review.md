@@ -601,13 +601,15 @@ and futures in landscape architecture//[1]:89-116
 
 [2-8]Brady Peters. Designing environments and simulating experience: foster + partners specialist modelling group [M]//[2]:94-105
 
+[2-9]Terri Peters. Designers need feedback: research and practice by kierantimberlake [M]//[2]:118-127
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTA0NTU0NiwxMjEzNjc3NTgsMTEyOT
-UxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMTAzNzk2NTQx
-NSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2MzAxMjEsNj
-Y0ODQ2NDU0LDI3ODY4OTUwMiwtMTg5OTY0MTI4NCwtMjExOTU5
-MjY4LDE2NDg4NzI1MzksMTYxNTkwNDg3OSwxMzMzMTI4NTcwLD
-gyMDA2Nzg1NSwtMTAwNjIwNjA0Myw4Mzg1MDExMTgsLTk1MTYz
-NTAxOF19
+eyJoaXN0b3J5IjpbMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMT
+M2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMTM1NDEzMjY0
+OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4MjkwOCwtMT
+g4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5NTAyLC0xODk5NjQx
+Mjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1OTA0ODc5LD
+EzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2MjA2MDQzLDgzODUw
+MTExOF19
 -->
