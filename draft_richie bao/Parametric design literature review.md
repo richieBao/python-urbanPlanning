@@ -180,6 +180,10 @@ Just as many firms have CADD and BIM managers today, one can envision the positi
 
 When we consider the implication of this view on parametric and computation design on the profession, it suggests the need to create models that consider environmental, economic, social, and aesthetic factors in an integrative manner to better understand the relationships between these four areas of inquiry. [1-14]
 
+It all boils down to this: designers want feedback. It’s that simple. —Billie Faircloth, 2016(2)[2-7]
+
+
+
 [2-4]通篇
 
 However, early CAD software did not have the data integration, parametric capability or simulation potentials that were promised by Sketchpad.[2-4]
@@ -549,11 +553,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTM0MDM2MCwxOTc5OTY5NzUwLDEzNT
-QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
-MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
-g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
-NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
-w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
-NTQ2MDY3XX0=
+eyJoaXN0b3J5IjpbLTE5MjAyNjAyODAsMTk3OTk2OTc1MCwxMz
+U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
+OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
+E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
+MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwND
+MsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAy
+NTU0NjA2N119
 -->
