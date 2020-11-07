@@ -551,6 +551,8 @@ A decade ago, the majority of designers were using Ecotect. However, now it is t
 
 The integration of simulation engines with design software has the potential to address many current issues that have been identified with building-performance simulation. Recent developments in simulation software and its application in practice, as shown by the case studies in this book, demonstrate that digital design with its computational customisability through various programming interfaces enables a flexible modular computational approach. This is enabling data exchange and interoperability between simulation and design software. The accessibility of simulation engines is encouraging architects to experiment and therefore increase awareness and intuition about building performance. While there do not appear to be common approaches to optimisation, new tools such as Galapagos and Octopus are now available, which can integrate optimisation into design and simulation processes. As algorithmic design is essentially a definition of design space, the exploration of this design space is where future developments seem to lie.[2-4]
 
+[2-12]通篇
+
 ### 数据收集
 Data collection is becoming easier, with data supplied from personal devices and other small wearable devices. It may be too easy nowadays, I have experienced projects where people jumped into data collection without much thought on what they want to know, and realised afterwards all the data they collected was rubbish. I see the future to be more data-driven, feedback-based design—ongoing evaluation and iterative/adaptive design to archive the desirable outcome (14).[2-7]
 
@@ -649,15 +651,15 @@ and futures in landscape architecture//[1]:89-116
 
 [2-11]Brady Peters. Bespoke tools for a better world: the art of sustainable design at burohappold engineering [M]//[2]:138-149
 
-
+[2-12]Brady Peters. Big ideas: information driven design[M]//[2]:150-162
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDExMDM5MiwxMzMzNjcwNjgyLDEwNj
-MwMzU5NTUsLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1
-NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3NTAsMT
-M1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMTM5Mzc4
-MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5NTAyLC
-0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOSwxNjE1
-OTA0ODc5XX0=
+eyJoaXN0b3J5IjpbNjk1NDY3MDI5LDEzMzM2NzA2ODIsMTA2Mz
+AzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1
+NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMz
+U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
+OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
+E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
+MDQ4NzldfQ==
 -->
