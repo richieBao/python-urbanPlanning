@@ -384,6 +384,10 @@ As programmable hardware becomes cheaper and easier to use, there are new possib
 
 USE DATA: COMPUTING LIFE-CYCLE AND REAL-TIME VISUALISATION Designers are using computational design and simulation at multiple scales to experiment in order to better understand the human dimensions of comfort and experience as well as energy use. Collecting, sorting and storing data about a building is challenging, and there needs to be more focus on monitoring and evaluating buildings over time. Sustainable design is not a ‘solution’ or an end state; its meaning is constantly shifting and not the result of any one intervention. The location of the building and its uses, the selection of materials and specifying of construction processes, the designing of interior relationships and sizing of rooms are all among the myriad of decisions that are made during the sustainable design of buildings. The next chapter will continue to examine ways in which designers are seeking to collect, analyse and usefully integrate real-time site and climatic data to improve their designs.[2-6]
 
+The Private Microclimates workshop cluster at Smartgeometry 2014 was led by architects Mani Williams and Mehrnoush Latifi, and aerospace engineer Daniel Prohasky, all from RMIT. They investigated how to gain and visualise environmental feedback for wind and airflows by using hybrid physical and digital methods.[2-7]
+
+
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -553,11 +557,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAyNjAyODAsMTk3OTk2OTc1MCwxMz
-U0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgy
-OTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLT
-E4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5
-MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwND
-MsODM4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAy
-NTU0NjA2N119
+eyJoaXN0b3J5IjpbLTQwNTI5MDg3NSwxOTc5OTY5NzUwLDEzNT
+QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
+MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
+g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
+NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
+w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
+NTQ2MDY3XX0=
 -->
