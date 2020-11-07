@@ -429,6 +429,8 @@ simulation gives young architects a tool to understand how the environment will 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
+2 KieranTimberlake, iterative life-cycle analysis (LCA) workflows using Tally, 2013 Tally enables early-stage design feedback directly through Autodesk Revit, allowing designers to compare design options and benchmark environmental impacts, based on material selections as part of an iterative design process.[2-9]
+
 
 
 
@@ -609,11 +611,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjMyMzI1NCwxOTMyMTA5MDQyLDIwMT
-EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
-MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
-kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
-MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
-E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
-MDYwNDNdfQ==
+eyJoaXN0b3J5IjpbNDE3MzgxNDM0LDE5MzIxMDkwNDIsMjAxMT
+A0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUw
+LDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOT
+M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
+MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
+YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
+NjA0M119
 -->
