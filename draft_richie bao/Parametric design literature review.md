@@ -435,6 +435,9 @@ In summer 2016, the wireless sensor network research was branded as Pointelist, 
 
 KieranTimberlake is able to create its own custom weather files, and combine the real-time sensor network data with weather station data. Over the past year, the office has installed 10 low-cost custom weather stations, known as personal weather stations (PWS), on sites for clients, and it has found that there is a growing market in this area.(10) The designers find that the data does vary from site to site, even within a neighbourhood. [2-9]
 
+The sensor and weather data can have an impact on the building’s form to work in synergy with local environmental conditions.[2-9]
+
+The Solar Modeler tool was designed to use typical meteorological year (TMY) data or site-based sensor measurements and to give analysis in a format that would be useful as feedback for the design process. It is designed to integrate with Rhino and it has evolved on the basis of user feedback.[2-9]
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -624,11 +627,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODY5NjQwOSwxOTMyMTA5MDQyLDIwMT
-EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
-MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
-kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
-MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
-E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
-MDYwNDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMD
+ExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5ODI3LDE5Nzk5Njk3
+NTAsMTM1NDEzMjY0OCwxMDM3OTY1NDE1LDE0MjkxNjM5NDYsMT
+M5Mzc4MjkwOCwtMTg4ODYzMDEyMSw2NjQ4NDY0NTQsMjc4Njg5
+NTAyLC0xODk5NjQxMjg0LC0yMTE5NTkyNjgsMTY0ODg3MjUzOS
+wxNjE1OTA0ODc5LDEzMzMxMjg1NzAsODIwMDY3ODU1LC0xMDA2
+MjA2MDQzXX0=
 -->
