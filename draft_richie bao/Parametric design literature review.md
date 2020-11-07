@@ -715,10 +715,10 @@ and futures in landscape architecture//[1]:89-116
 
 [2-18]Brady Peters, Terri Peters. Global environmental challenges[M]//[2]:218-235
 
-[3]
+[3]Wassim Jabi, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU1NzA1LDIxMzE1MzM1OTQsNjExNz
+eyJoaXN0b3J5IjpbMTc3ODQ5MzQ5LDIxMzE1MzM1OTQsNjExNz
 E3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMDI2OTIyMzQy
 LDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4NDAyMTMsNz
 A2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NSwtMjA2ODY1
