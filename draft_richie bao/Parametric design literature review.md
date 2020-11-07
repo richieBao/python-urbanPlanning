@@ -429,6 +429,10 @@ deployment of high-density, low-cost sensor networks that offer real-time feedba
 
 By bringing together multiple sources––their experienced observations on the site, the outputs of the real-time sensor data and the government-issued weather data from the site––they were able to learn about how the building’s performance varied around the building and over time. This information informed their renovation of the space, and various studies including interior daylight and airflow analysis. Based on the feedback, they decided not to use mechanical cooling, and rely on using desk fans and operable windows, and to monitor the environment using the sensors. In addition, the team gathered weekly survey data from staff about comfort levels and satisfaction with their work environments, sending emails to staff about options for keeping comfortable in the office in relation to outdoor conditions.(6) This qualitative data produced another layer of data about the environment, and it was useful for making decisions about the building and understanding its performance. The environmental performance of the office is continually being tracked and monitored, and this means that it is being updated and adjusted, creating an ongoing model for analysing the environment.[2-9]
 
+At Tulane University in 2013, they installed a network of 150 sensors in the existing School of Architecture building, to understand mean radiant temperature across the facades. Using this data, they designed a renovation and addition with the goal of achieving maximum comfort using minimal energy. The team was surprised to find that in the winter, there was significant temperature stratification and the mean radiant temperature results were inconsistent throughout the building, whereas in the summer the interiors were relatively comfortable and consistent.(7) This data was plotted in a psychrometric chart, compared with other data, and considered in relation to the existing forced air system, which appeared to adequately achieve required comfort levels in the summer. The sensor data enabled them to predict areas of higher interior comfort and to inform systems sizing and design. Test cases such as this have proven to the team that sensor networks can offer useful data in the design process, and the team is planning further installations in other projects to be able to predict performance and tune the architecture to the local environment.[2-9]
+
+In summer 2016, the wireless sensor network research was branded as Pointelist, and it offered free kits to beta testers.(8) The hardware and software can be integrated with a web app, and users can export .csv files to use the data elsewhere. It has an open .api file extension, making it suitable for users to adapt to their own needs and workflows. Pointelist enables the collection of realtime temperature and humidity data, sending environmental data over Wi-Fi in five-minute intervals.[2-9]
+
 
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
@@ -618,11 +622,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1Njc3MjgzLDE5MzIxMDkwNDIsMjAxMT
-A0NTU0NiwxMjEzNjc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUw
-LDEzNTQxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOT
-M3ODI5MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUw
-MiwtMTg5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMT
-YxNTkwNDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIw
-NjA0M119
+eyJoaXN0b3J5IjpbLTYzMTk0NDY0NCwxOTMyMTA5MDQyLDIwMT
+EwNDU1NDYsMTIxMzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1
+MCwxMzU0MTMyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMz
+kzNzgyOTA4LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1
+MDIsLTE4OTk2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LD
+E2MTU5MDQ4NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYy
+MDYwNDNdfQ==
 -->
