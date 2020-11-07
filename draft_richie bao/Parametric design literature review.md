@@ -388,6 +388,8 @@ The Private Microclimates workshop cluster at Smartgeometry 2014 was led by arch
 
 In 2016, SIAL researchers carried out another real-time investigation of gaining feedback from digital and physical environmental data sources[2-7]
 
+A fabric designer provided expertise in cutting the fabrics and selecting fabrics with various thermal properties, such as moisture wicking, and varying levels of absorbency, which impact the thermal behaviour of the structure. They used digital tools to visualise the data that they had collected from the sensored physical prototypes. In this workshop, participants developed a unique process for design that enabled them to design the modules at 1:1 scale, to make physical mock-ups and then to add changes to their prototypes in an iterative process based on the feedback that they had gained from the visualisation. The installation functioned as an experiential prototyping platform at full scale with many potential applications for the building industry, given that every building contains environmental microclimates.[2-7]
+
 
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
@@ -558,7 +560,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTQ4NzQ5NywxOTc5OTY5NzUwLDEzNT
+eyJoaXN0b3J5IjpbMTg1MzY1ODU0NiwxOTc5OTY5NzUwLDEzNT
 QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
 MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
 g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
