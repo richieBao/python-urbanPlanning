@@ -458,6 +458,8 @@ Performance issues involve multiple parameters, and the selection of parameters,
 
 The SMART Solutions group develops computational tools to model, analyse and map performance.(4) Many of these design tools have been implemented in Rhino and Grasshopper, such as SmartForm, SmartMove and SmartSpaceAnalyzer.[2-11]
 
+Currently, Knott, together with the SMART Solutions group, is developing a Rhino Grasshopper digital tool that outputs both categories of metrics. Looking to the future, Knott argues that these soft metrics will become increasingly important and that the focus will shift away from energy and carbon. To design for sustainability is to design all aspects of the experienced environment, considering air, humidity, and temperature and people’s wellbeing.[2-11]
+
 ### 7. BIM（Building Information Model）建筑信息模型的参数化及平台转换数据接口；
 Ultimately, CAD and documentation should further become a by-product of the design process, as the potential of a landscape BIM (LIM) method may promise, although we are some way from a synthetic implementation of such a system.[1-13]
 
@@ -650,7 +652,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTk1MDkwMSwxMDYzMDM1OTU1LC0yMD
+eyJoaXN0b3J5IjpbMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMD
 Y4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEzNjc3
 NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2NDgsMT
 AzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4ODg2
