@@ -450,6 +450,11 @@ FIGURE 4.3.5 Depositor, an experimental real-time responsive model programmed to
 
 FIGURE 4.3.6 Attuner, a real-time responsive model that monitors and modifies the alluvial morphology of sedimentation based on the fluvial flux of water, resulting in land accretion. It constantly learns from its environment and context through a feedback loop Model: Leif Estrada; photograph: Robert Tangstrom, https://vimeo.com/166623512[1-16]
 
+The experimental 1:1 material prototypes and new design workflows by architect David Benjamin of the New York-based design practice, The Living, use real-time data for feedback into the design process. The studio has a range of projects and scales, all of which explore human relationships to our environment in different ways. Benjamin builds low-cost sensors, develops custom software and collaborates with artists, material researchers and software developers in his work to gather and utilise new kinds of environmental data.[2-7]
+
+Prototypes have been developed using a thin transparent membrane surface with shape memory alloys, so that the materials contract along its length when electricity is passed through it. The result is a transparent film, and when you breathe into it, it gives the effect of breathing back[2-7]
+
+
 
 ### 11. 图表报告及制图；
 
@@ -560,11 +565,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzY1ODU0NiwxOTc5OTY5NzUwLDEzNT
-QxMzI2NDgsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5
-MDgsLTE4ODg2MzAxMjEsNjY0ODQ2NDU0LDI3ODY4OTUwMiwtMT
-g5OTY0MTI4NCwtMjExOTU5MjY4LDE2NDg4NzI1MzksMTYxNTkw
-NDg3OSwxMzMzMTI4NTcwLDgyMDA2Nzg1NSwtMTAwNjIwNjA0My
-w4Mzg1MDExMTgsLTk1MTYzNTAxOCwtMTU2MzY2MTI2MywyMDI1
-NTQ2MDY3XX0=
+eyJoaXN0b3J5IjpbOTYyNDk2MzksMTk3OTk2OTc1MCwxMzU0MT
+MyNjQ4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4
+LC0xODg4NjMwMTIxLDY2NDg0NjQ1NCwyNzg2ODk1MDIsLTE4OT
+k2NDEyODQsLTIxMTk1OTI2OCwxNjQ4ODcyNTM5LDE2MTU5MDQ4
+NzksMTMzMzEyODU3MCw4MjAwNjc4NTUsLTEwMDYyMDYwNDMsOD
+M4NTAxMTE4LC05NTE2MzUwMTgsLTE1NjM2NjEyNjMsMjAyNTU0
+NjA2N119
 -->
