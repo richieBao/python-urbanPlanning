@@ -295,6 +295,8 @@ Derix argues that while explicit parametric models will eventually automate the 
 
 He felt that the functionalist tradition was an oversimplification, and that through the complex emergent systems, sought to determine the structure of the pre-industrial architecture and cities. In the systems developed, the designer ‘became a “systems designer” and the ultimate design was the emergent outcome of the complex interactions taking place under the software’s control on the aggregating system’. Coates explains: ‘If architects are systems designers they will need to think algorithmically’.(5)[2-16]
 
+Derix argues that three strands provide the basis for a humancentred design methodology: first, space as heuristic generation— generative algorithms and mathematical representations; second, interactions in the field—distributed computing through agent modelling; and third, cognitive conditions—spatial cognition theories and phenomenology.[2-16]
+
 #### 生成/进化（generation/evolution）
 [1-9]通篇
 
@@ -305,6 +307,8 @@ Nicholas de Monchaux, an associate professor of architecture and urban design at
 At Smartgeometry 2016, Phil Bernstein introduced the generative design concepts and explained that this process allowed the automatic creation, evaluation and evolution of thousands of options to meet the project goals.(15) The aim was to make informed data-driven trade-offs. Generative design paired with performance evaluation was used to develop the brief, the interior concept and layout, the design components and furniture, and to determine how the project could be evaluated. Further feedback came from the construction of full-scale mock-ups. Autodesk moved into its new space in late 2016.[2-7]
 
 SuperSpace employs data-integrated techniques—generative models associate data to express morphologies and analytical models are used to learn patterns in data. The group applies computational design methods to predict human behaviour and map social and physical trends within organisations and cities: they ‘unlock the creative potential within big data’.(1) [2-16]
+
+Derix explains that once the environmental conditions are computed and understood, then you need to operate on these patterns, and this requires a generative approach.[2-16]
 
 #### CA
 The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
@@ -702,11 +706,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzU0MzY4OSwxOTQyNDM2NjQ3LC0xMD
-I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
-NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NS
-wtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIx
-MzY3NzU4LDExMjk1MTk4MjcsMTk3OTk2OTc1MCwxMzU0MTMyNj
-Q4LDEwMzc5NjU0MTUsMTQyOTE2Mzk0NiwxMzkzNzgyOTA4LC0x
-ODg4NjMwMTIxXX0=
+eyJoaXN0b3J5IjpbNjA1MDkzNjc1LDE5NDI0MzY2NDcsLTEwMj
+Y5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0
+MDIxMyw3MDY4MzUyMzAsMTMzMzY3MDY4MiwxMDYzMDM1OTU1LC
+0yMDY4NjUxNjU1LDE5MzIxMDkwNDIsMjAxMTA0NTU0NiwxMjEz
+Njc3NTgsMTEyOTUxOTgyNywxOTc5OTY5NzUwLDEzNTQxMzI2ND
+gsMTAzNzk2NTQxNSwxNDI5MTYzOTQ2LDEzOTM3ODI5MDgsLTE4
+ODg2MzAxMjFdfQ==
 -->
