@@ -268,6 +268,18 @@ An algorithm is a set of rules or tasks that can be executed over and over again
 
 Parametric design software, such as Grasshopper, is already allowing designers to think in terms of logical questions and commands: copy this; scale according to the distance from X, etc. While Grasshopper is not iterative the way an algorithm is, it does begin to make designers respond in code, observe the results, and enact a response. Once the process is iterative, the exploration is amplified. Graphic-based coding, such as Grasshopper, also places design firmly in the realm of directives instead of documents With Grasshopper, the design work is in creating the process. The drawing, a representation of the process, can be created again and again.[1-15]
 
+[3_22]
+PART I ALGORITHMIC THINKING
+
+From the time of ancient Vitruvian geometric ideals to modern Corbusian regulating lines and Miesian modular grids, architecture has always been bound to (if not by) a conscious use of numbers.’ Brett Steele (‘Weapons of the Gods’ in The New Mathematics of Architecture by Jane Burry and Mark Burry)
+
+Rather than rely on an intuitive search for a solution, parametric design often involves precise, step-bystep techniques that yield a result according to rules and inputs. This way of thinking about the process of design as a rigorous rule-based system is referred to as algorithmic thinking. As Steele’s quote above hints, mathematical knowledge and algorithmic thinking have always been the traits of an architect, certainly at least since the times of the ancient Egyptians and Greeks. Today, individuals who wish to use parametric design in architecture find themselves faced with the challenge of learning algorithmic concepts (as well as mathematics) that are more familiar to software programmers than to designers. Behind every piece of software is a set of precise instructions and techniques that interact with the user, respond to events, and read, manipulate and display data. Collectively, we call these instructions and techniques algorithms. Derived from the name of a Persian mathematician (Muhammad ibn Musa Al-Kwarizmi), an algorithm is defined as a set of precise instructions to calculate a function. An algorithm usually takes input (which can be empty or undefined), goes through a number of successive states, and ends with a final state and a set of outputs.
+
+Learning programming concepts does not necessarily ensure that a designer will learn algorithmic thinking. The challenge is not dissimilar to learning cooking: one can learn the basics of mixing ingredients, heating, baking and so on, yet there is no guarantee of becoming an accomplished chef. As with most things, it takes a love for the craft, a methodical mind, some talent and, most importantly, practice. The metaphor also applies to the process itself: in the same way that cooking recipes vary in complexity, elegance and the taste of the final result, algorithms also vary in complexity, elegance, and the aesthetic and performative characteristics of the resulting design solution. While some recipes are invented from scratch, most are modifications of and variations on older recipes. The same applies in parametric design. The Internet is teeming with opensource algorithms that are offered for others to learn from, modify and expand. Beware, however, of the microwave variety: algorithms and definitions that are pre-packaged such that you cannot investigate and modify them. These types of algorithms are not always clear and readable, and this is where a book such as this becomes useful. The elegance, modularity and readability of an algorithm usually have a direct relationship to its ability not only to produce elegant design solutions, but also to be understood and modified by others.
+
+The good news, however, is that most designers wishing to use parametric techniques usually need to solve a relatively small and well-bounded design problem (unlike software developers, who create large and complex software products). For example, they might need to create a parametric building façade or a roof structure. They might need to mimic a natural phenomenon to create a design concept for their project. Algorithmic thinking allows designers to rationalize, control, iterate, analyze, and search for alternatives within a defined solution space. In the next section, we will explore the basics of algorithms. This brief introduction cannot replace a full discussion of algorithms and the inner workings of computer programming languages. For that information, there is a plethora of books on programming, online resources and university courses that are dedicated to this topic.
+[3_22]
+
 
 ### 生成设计（generative design/modeling）
 Landscape practices have recently been informed by two distinct lines of inquiry. Ecological and environmental concerns have thrust landscape and ecology into the center of design discourse in ways that explore the dynamic, operational, and even physical aspects of ecological systems as a starting point for generating design— whether landscape, building, or urbanism. Simultaneously, advances in software technologies have brought generative and associative modeling tools into the academic design studio and into the professional office, allowing for a new generation of techniques and fabrication technologies to emerge[1-4]
@@ -777,11 +789,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOT
-Y5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1OTQs
-NjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMDI2OT
-IyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4NDAy
-MTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMTA2MzAzNTk1NSwtMj
-A2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEwNDU1NDYsMTIxMzY3
-NzU4XX0=
+eyJoaXN0b3J5IjpbLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNT
+Q4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0
+LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyND
+M2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgy
+NDksLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMT
+A2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEw
+NDU1NDZdfQ==
 -->
