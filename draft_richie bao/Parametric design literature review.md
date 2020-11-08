@@ -257,6 +257,12 @@ In parametric CAD software, the term parameter usually signifi es a variable ter
 The remainder of this book presents a series of parametric design patterns of increasing complexity followed by exemplar case studies that refl ect the potential of the associated patterns. The book ends with a discussion of the future of parametric design and its potential to form a language of design. The afterword by Brian Johnson closes the discussion with advice on how to craft new solutions, based on knowledge gleaned from this book.
 [3_9-10]
 
+Parametrics is more about an attitude of mind than any particular software application. It has its roots in mechanical design, as such, for architects it is borrowed thought and technology. It is a way of thinking that some designers may find alien, but the first requirement is an attitude of mind that seeks to express and explore relationship[4_1-2]
+
+Integrated design teams make simultaneous, interrelated design decisions across disciplines and project phases. Such decisions concern interconnected subsystems with interfaces that propagate change through the overall system and allow the design team to create many design alternatives. In addition, investment in validation of design assumptions through analysis or simulation cycles can further reduce risks.[4_1-2]
+
+With parametric modeling, early design models become conceptually stronger than conventional CAD models and less constrained than building information models. Parameters express the concepts contained in these new models and give interactive behaviour to building components and systems. This means a change in how tools need to support design activities. For example tools like Bentley Systems' GenerativeComponents offer a fluid transition between a CAD-like modeling-based design approach on one side and a scripting-based design approach on the other side. These new parametric systems support a shift from one-off CAD-modeling to thinking in and working with geometric concepts and behaviour. Instead of building a single solution, designers explore an entire parametrically described solution space.[4_1-2]
+
 
 
 ### 复杂系统（complex system）
@@ -797,11 +803,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00Nz
-YwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgx
-MDI2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOT
-IyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1
-LDE5NDI0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMT
-AxNzU1ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMTMzMzY3
-MDY4Ml19
+eyJoaXN0b3J5IjpbMTQ4NDgzMjg2NSwtMTY4NzYzMDg0Myw4ND
+k3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTky
+NTk4LC01NDQ5ODEwMjYsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LD
+UwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4
+MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNjkyMjM0MiwxMT
+czOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLDcwNjgz
+NTIzMF19
 -->
