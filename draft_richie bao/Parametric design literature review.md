@@ -793,10 +793,10 @@ and futures in landscape architecture//[1]:89-116
 
 [3]Wassim Jabi. Parametric design for architecture[M]. London:Laurence King Publishing, September, 2013 : page range.
 
-[4]Robert Woodbury. Elements of Parametric Design[M]. 
+[4]Robert Woodbury. Elements of Parametric Design[M]. New York:Routledge, July, 2010 : page range.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMzcyNzIyLC00NzYwOTQ3MDAsLTI1Nj
+eyJoaXN0b3J5IjpbODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1Nj
 M2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1NDgy
 NDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4MzQsMjEzMT
 UzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5NDI0MzY2NDcs
