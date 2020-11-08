@@ -216,6 +216,7 @@ Designers must know the concepts that underlie the forms of media they use. In t
 
 
 
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -734,11 +735,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMT
-kzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2
-MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOT
-AyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLDcwNjgzNTIz
-MCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLTIwNjg2NTE2NTUsMT
-kzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2Nzc1OCwxMTI5NTE5
-ODI3XX0=
+eyJoaXN0b3J5IjpbLTE5MzQwODI0NTYsMTU0ODU0ODI0NiwxMj
+k2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0
+LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNj
+kyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQw
+MjEzLDcwNjgzNTIzMCwxMzMzNjcwNjgyLDEwNjMwMzU5NTUsLT
+IwNjg2NTE2NTUsMTkzMjEwOTA0MiwyMDExMDQ1NTQ2LDEyMTM2
+Nzc1OF19
 -->
