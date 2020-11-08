@@ -378,6 +378,11 @@ Derix explains that once the environmental conditions are computed and understoo
 #### CA
 The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
 
+#### 参数化/算法模式 parametric patterns
+-controller, force field, repetition, tiling, recursion,subdivision, packing, weaving and branching
+
+
+
 
 
 
@@ -791,7 +796,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDk1MjMxNCwtMTc3ODk5MjU5OCwtNT
+eyJoaXN0b3J5IjpbLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNT
 Q0OTgxMDI2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5
 NjgsOTIyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MD
 kzNjc1LDE5NDI0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5
