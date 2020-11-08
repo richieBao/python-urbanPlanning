@@ -379,6 +379,8 @@ Derix explains that once the environmental conditions are computed and understoo
 The use of cellular data allowed researchers at the AT&T Research Labs to map the mobility patterns of the residents of Los Angeles, New York, and San Francisco, and to compare the range and pattern of movement among these residents (Isaacman et al., 2010). [1-14]
 
 
+
+
 ### 3. 智能化设计——机器学习和深度学习；
 Researchers such as Bettencourt and West have suggested that the growth of cities follows power laws allowing prediction of change in land cover, employment, energy flows, and a host of other factors through the evolution of a city (West, 2017). [1-14]
 
@@ -789,11 +791,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNT
-Q4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0
-LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyND
-M2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgy
-NDksLTE4MjE4NDAyMTMsNzA2ODM1MjMwLDEzMzM2NzA2ODIsMT
-A2MzAzNTk1NSwtMjA2ODY1MTY1NSwxOTMyMTA5MDQyLDIwMTEw
-NDU1NDZdfQ==
+eyJoaXN0b3J5IjpbLTYxNDk1MjMxNCwtMTc3ODk5MjU5OCwtNT
+Q0OTgxMDI2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5
+NjgsOTIyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MD
+kzNjc1LDE5NDI0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5
+MywtMTAxNzU1ODI0OSwtMTgyMTg0MDIxMyw3MDY4MzUyMzAsMT
+MzMzY3MDY4MiwxMDYzMDM1OTU1LC0yMDY4NjUxNjU1LDE5MzIx
+MDkwNDJdfQ==
 -->
