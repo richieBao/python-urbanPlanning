@@ -720,6 +720,13 @@ In recent years, designers have developed processes for layering performance-bas
 “Form-finding” as defined by Andrew Kudless is “the self organization of material under force to discover stable forms.” Using both analog methods of tension-only models hung in chain and fabric, and using advanced software tools such as Thrust Network Analysis (Philippe Block), there are many examples included in the following pages of work which attempt to respond to the form as it falls into stasis with gravity. These tests can result in forms hung in space as with Feathered Edge (p. 198), by Ball Nogues, or the fabric-formed beams of Mark West and C.A.S.T. (p. 128). These forms can also be inverted to create compression-only forms as with Philippe Block’s Catalan Thin-Tile Vaulting (p. 154).
 [5_10-15]
 
+The intent of this text is to map through materiality the simplest methods for making complex parametric forms, whether constructed by unskilled labor, or using complex systems of hybrid materials and assembly with 7-axis robots.[5_10-15]
+
+This text will provide clear narrative and diagrammatic, dissections of the computational and physical construction processes used in some of the more inventive solutions constructed since the advent of widespread parametric design.[5_10-15]
+
+The ubiquity and availability of CNC technology was driven by the mass production of servo and stepper motors, the most widespread method by which computers precisely control machine components.[5_10-15]
+
+
 
 
 
@@ -939,11 +946,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDc0MDQ1OSwxNTI2ODMwMTA5LC0xNT
-I0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5
-NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLD
-E0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYw
-OTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMD
-I2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIy
-NjA4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MjEyODE4NzcsMTUyNjgzMDEwOSwtMT
+UyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgw
+OTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMS
+wxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2
+MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MT
+AyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDky
+MjYwODM0XX0=
 -->
