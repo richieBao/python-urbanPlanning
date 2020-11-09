@@ -917,13 +917,15 @@ and futures in landscape architecture//[1]:89-116
 
 [5]Christopher Beorkrem. Material strategies in digital fabrication[M].Oxon :Routledg, July, 2017:page range.
 
-[6]Christopher Beorkrem. Material Strategies in Digital Fabrication[M]. 
+[6]Christopher Beorkrem. Material Strategies in Digital Fabrication[M]. Oxon :Routledg, July, 2017:page range.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjY5NTE1NywyODM5ODA5NSwtNTA2Mz
-M0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4
-NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLT
-I1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1
-NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4MzQsMj
-EzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5NDI0MzY2
-NDddfQ==
+eyJoaXN0b3J5IjpbOTE3OTIwODQzLDI4Mzk4MDk1LC01MDYzMz
+Q3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2
+NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMj
+U2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMjYsMTU0ODU0
+ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMT
+MxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0
+N119
 -->
