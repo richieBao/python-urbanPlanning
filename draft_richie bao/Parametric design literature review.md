@@ -311,6 +311,15 @@ One of the many reasons for near-hierarchies is that the limited interactions am
 
 Using a divide-and-conquer strategy is to organize a parametric design into parts so that there are limited and understandable links from part to part. Directional of data flow assures a hierarchical model, with parts higher in the flow typically being assemblies - organizing concepts. Parts at the bottom of the flow usually correspond to physical parts of the design.[4_23-48]
 
+Parts have names. This is designerly practice, not physical law. But there is a good reason for this -names facilitate communication.[4_23-48]
+
+To abstract a parametric model is to make it applicable in new situations, to make it depend only on essential inputs and to remove reference to and use of overly specific terms. It is particularly important because much modeling work is similar, and time is always in short supply. If part (remember divideand- conquer?) of one model can be used in another, it displays some abstraction by the very fact of reuse. Well-crafted abstractions are a key part of efficient modeling. [4_23-48]
+
+An important form of abstraction for parametric modeling is condensing and expanding graph nodes. In any graph, a collection of nodes can be condensed into a single node; and graphs with condensed nodes are called compound graphs[4_23-48]
+
+A condensed node can be expanded to restore the graph to its original state. Condensing and expanding implement hierarchy and aid divide-and-conquer strategies. Parametric modelers implement this strategy to create new kinds of multi-property nodes, to support copying and reuse of parts of a graph and thus to build user-defined libraries of parametric models. See Section 3.3.7 on p. 45.[4_23-48]
+
+
 
 ### 复杂系统（complex system）
 
@@ -850,7 +859,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTE3OTUwNSwtMTQ1MzA2NzMwMSwxND
+eyJoaXN0b3J5IjpbLTU5OTM3MzExMiwtMTQ1MzA2NzMwMSwxND
 g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
 NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
 wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
