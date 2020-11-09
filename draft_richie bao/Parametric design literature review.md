@@ -271,6 +271,24 @@ It turns out that these ideas are not easy, at least for those with typical desi
 
 Using patterns to think and work may help designers master the new complexity imposed on them by parametric modeling.[4_7-10]
 
+[4_11-22]
+Chapter 2
+What is parametric modeling? The archetypal design medium is pencil and paper. More precisely: pencil, eraser and paper. The pencil adds and the eraser subtracts. Add a few tools, like aT-square, triangle, compass and scale, and drawings can become accurate and precise models of a design idea. Designers are used to working in this mode; add marks and take them away, with conventions for relating marks together.
+
+Conventional design systems are straightforward emulations of this centuriesold means of work. Parametric modeling (also known as constraint modeling) introduces a fundamental change: "marks", that is, parts of a design, relate and change together in a coordinated way. No longer must designers simply add and erase. They now add, erase, relate and repair. The act of relating requires explicit thinking about the kind of relation: is this point on the line, or near to it? Repairing occurs after an erasure, when the parts that depend on an erased part are related again to the parts that remain. Relating and repairing impose fundamental changes on systems and the work that is done with them.
+
+Many parametric systems have been built both in research laboratories and by companies. An increasing number are present in the marketplace. Certainly the most mature parametric system is the spreadsheet, which operates over a usually rectangular table of cells rather than a design. In some design disciplines, like mechanical engineering, they are now the normal medium for work. In others, such as architecture, their substantial effects started only about the year 2000.
+
+The first computer-aided design system was parametric. Ivan Sutherland's PhD thesis on Sketchpad (1963) provided both a propagation-based mechanism and a simultaneous solver based on relaxation. It was the first report of a feature that became central to many constraint languages - the merge operator that combines two similar structures into a single structure governed by the union of all the constramts on ns arguments.
+
+Hoffmann andJoan-Arinyo (2005) provide an overview of different kinds of parametric systems. Each is defined by its approach to constraint solving, and each has its own characteristics and implications for design work. Graph-based approaches represent objects as nodes in a graph and constraints as links. The solver attempts to condition a graph so that it divides into easily solvable subproblems, solves these problems and composes their answers into to complete solution. Logic-based approaches describe problems as axioms, over which search for a solution occurs by applying logical inference rules. Algebraic approaches translate a set of constraints into a non-linear system of equations, which is then solved by one or a variety of techniques. Constraints must be expressed before they can be solved. Large designs can embody thousands of constraints, which must be clearly expressed, checked and debugged as design proceeds. In addition to their contributions to solving constraints, several research projects have focused on devising clear languages for expressing constraints. Berning's ThingLab (1981) had both graphical and programming constructs for constraints. At the same time, Steele and Sussman (1980) reported a LISP-based language for constraints. Constraint languages such as ASCEND (Piela eta!., 1993) use a declarative object-oriented language design to build very large constraint models for engineering design. Constraint management systems, for example, Delta Blue (Sannella eta!., 1993) provides primitives and constraints that are not bundled together and with which the user can overconstrain the system, but must give some value (or utility) for the resolution of different constraints. In this system, a constraint manager does not need access to the structure of the primitives or the constraints. Rather its algorithm aims to find a particular directed acyclic graph that resolves the most highly valued constraints.
+
+Propagation-based systems (Aish and Woodbury, 2005) derive from one aspect of Hoffmann and Joan-Arinyo's graph-based approach. They presume that the user organizes a graph so that it can be directly solved. They are the most simple type of parametric system. In fact, they are so simple that the literature hardly mentions them, focusing rather on more complex systems that address problems beyond those directly solvable with propagation. Discussed in more detail later in this chapter, propagation arranges objects in a directed graph such that known information is upstream of unknown information. The system propagates from knowns to compute the unknowns.
+
+Of all types of parametric modeling, propagation has the relative advantages of reliability, speed and clarity. It is used in spreadsheets, dataflow programming and computei:-aided design due to the efficiency of its algorithms and simplicity of the decision-making required of the user. Propagation systems also support a simple form of end user extensibility through programming. This simplicity exacts a price. Some systems are not directly expressible, for instance, tensegrity structures. Also, the designer must explicitly decide what is known and order information from known to unknown. Propagation's simplicity makes it is a good place from which to start building an acount of parametric modeling. The rest of this chapter explains the basic structure and operation of a propagationbased parametric modeling system.
+
+It is useful to be precise with language. The following section defines terms needed for accurate dicsussion of parametric modeling systems. These terms are generic. Any particular propagation-based system has a similar description, though some details will vary.
+[4_11-22]
 
 
 
@@ -812,11 +830,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMzk0MzA2LDE0ODQ4MzI4NjUsLTE2OD
-c2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2
-MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1NDgyNDYsMT
-I5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4MzQsMjEzMTUzMzU5
-NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5NDI0MzY2NDcsLTEwMj
-Y5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0
-MDIxM119
+eyJoaXN0b3J5IjpbLTE0NTMwNjczMDEsMTQ4NDgzMjg2NSwtMT
+Y4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0
+NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMjYsMTU0ODU0ODI0Ni
+wxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMz
+NTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMT
+AyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIx
+ODQwMjEzXX0=
 -->
