@@ -332,8 +332,19 @@ whose execution requires no insight, cleverness,
 intuition, intelligence or perspicuity,
 and that, sooner or later, comes to an end.[4_23-48]
 
+[4_23-48]
+The first is "procedure":
+an algorithm is a process that must be specified step-by-step. Designers largely describe objects rather than processes. The second is "precise": one misplaced character means that an algorithm likely will not work. In contrast, designerly representations are replete with imprecision -they rely on human readers to interpret marks appropriately. It is hardly surprising then that many designers encounter difficulty in integrating algorithmic thinking into their work, in spite of over 30 years of valiant attempts to teach programming in design schools. It is even less surprising that computer-aided design relegates programming to the background. Almost all current systems have a so-called scripting language. These are programming languages; developers call them scripting languages to make them appear less foreboding. In almost all of these, to use the language your must remove yourself from the actual task and your accustomed visual, interactive representation. You must work in a domain of textual instructions. This is not surprising either - algorithmic thinking differs from almost all other forms of thought. But the sheer distance between representations familiar to designers and those needed for algorithms exacerbates the gap.
 
+In both conventional and parametric systems, the scripting language can be used to make designs. The language provides functions that can add, modify or erase objects in a model. In addition, parametric systems bring the algorithm closer to design models. They do this by localizing algorithms in nodes of a graph, either as constraint expressions or as update methods. However, designers still must grasp and use algorithmic thought if they are to get the most out of such systems
 
+3.3 New strategies
+Conceiving data flow; dividing to conquer; naming; and thinking abstractly, mathematically and algorithmically form the base for designers to build their parametric craft.
+[4_23-48]
+
+Parametric models are, by their nature, dynamic. Once made, they can be rapidly changed to answer the archetypal design question: "What if...?" Sometimes a single model replaces pages of manual sketches. On the other hand, parametric models are definite, complex structures that take time to create. Too often, they are not quick. A challenge for system developers is to enable rapid modeling, so that their systems can better serve sketching in design.[4_23-48]
+
+In stark contract, much of the toolkit of computer programming (and parametric modeling is programming) aims at making clear code, reducing redundancy and fostering reuse. In the world of professional programming, these aims make eminent sense[4_23-48]
 
 ### 复杂系统（complex system）
 
@@ -873,7 +884,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjU2NTg0NCwtMTQ1MzA2NzMwMSwxND
+eyJoaXN0b3J5IjpbLTEzMTM1MTUwMCwtMTQ1MzA2NzMwMSwxND
 g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
 NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
 wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
