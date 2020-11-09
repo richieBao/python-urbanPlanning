@@ -726,7 +726,9 @@ This text will provide clear narrative and diagrammatic, dissections of the comp
 
 The ubiquity and availability of CNC technology was driven by the mass production of servo and stepper motors, the most widespread method by which computers precisely control machine components.[5_10-15]
 
-More recently, the use of 7-axis industrial robots has enabled a much broader array of processes and materials to be computationally manufactured. The end-effectors, attached and controlled by these arms, are as diverse as the materials they can process. These have included all of the typical cutting systems (circular saw, router bits, water-jet, plasma and Throughout this text the connection detail will be mapped as visibly as possible and discussed in language describing the specificity of its geometry (dimensions, angles, rotational capacity, and strength).[5_10-15]
+More recently, the use of 7-axis industrial robots has enabled a much broader array of processes and materials to be computationally manufactured. The end-effectors, attached and controlled by these arms, are as diverse as the materials they can process. These have included all of the typical cutting systems (circular saw, router bits, water-jet, plasma and laser-cutting), as well as grippers, benders, hot-wire cutters, and others. Additionally, the robots’ flexibility has allowed them to break the bounds of the factory floor, and operate on site.[5_10-15] 
+
+
 
 
 
@@ -948,7 +950,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY5MTMyMjYsMTUyNjgzMDEwOSwtMT
+eyJoaXN0b3J5IjpbLTEzMTg2NzU2OTMsMTUyNjgzMDEwOSwtMT
 UyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgw
 OTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMS
 wxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2
