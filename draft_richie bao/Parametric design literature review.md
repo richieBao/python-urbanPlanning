@@ -915,14 +915,14 @@ and futures in landscape architecture//[1]:89-116
 
 [4]Robert Woodbury. Elements of Parametric Design[M]. New York:Routledge, July, 2010 : page range.
 
-[5]Christopher Beorkrem. Material strategies in digital fabrication[M]. 
+[5]Christopher Beorkrem. Material strategies in digital fabrication[M]. :Routledg
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYxNTc3MzMsLTUwNjMzNDczMiwtMT
-M2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3
-NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3Nj
-IsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEy
-OTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1OT
-QsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMDI2
-OTIyMzQyXX0=
+eyJoaXN0b3J5IjpbOTE2NzE4OTc5LC01MDYzMzQ3MzIsLTEzNj
+E2NTM3OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NSwtMTY4NzYz
+MDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC
+0xNzc4OTkyNTk4LC01NDQ5ODEwMjYsMTU0ODU0ODI0NiwxMjk2
+OTM1NzQ1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0LD
+YxMTcxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNjky
+MjM0Ml19
 -->
