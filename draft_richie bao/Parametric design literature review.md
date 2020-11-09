@@ -712,6 +712,13 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 #### 数字建造 digital fabrication/formation
 In other, more recidivist cases, designers impose form on matter through more familiar parametric, fabrication, and most overtly, geometric processes. In some examples, formation is over-determined by the technics of fabrication.[5_8]
 
+[5_10-15]
+THE MATERIALLY RESPONSIVE PARAMETER
+
+In recent years, designers have developed processes for layering performance-based feedback into the early stages of design development.4 This is often a response to the tendencies of a construction industry that values efficiency-resulting in excessive waste-over environmental steadfastness. However, a systematic design process, applied specifically to material constraints could frame awareness of the interconnectivity between the mediums of ecology, parametric modeling, and CNC fabrication. David Gissen outlines an architectural ideology based upon the definition of Architectural Political Ecology.5 Gissen defines a variety of concepts to accomplish a “production of nature.” He is attempting to look beyond the superficialities of so-called “green” design to a set of strategies that embrace substantive design rather than the relatively mundane aesthetics of environmental awareness as an applied layer to architectural design. This type of substantive design is defined by the tangible knowledge of material characteristics, such as: dimensional properties, durability, deformation, waterproofing and weathering (if applicable), connection types, relative costs, color, texture, and finish. These characteristics define some of the performance criteria, which can and should be layered into the early stages of each design process, linked to their formal expression through parametric design. Further, these performance-based characteristics can be identified as the primary device for delimiting form through parametric design, most often through geometric relationships. 
+
+“Form-finding” as defined by Andrew Kudless is “the self organization of material under force to discover stable forms.” Using both analog methods of tension-only models hung in chain and fabric, and using advanced software tools such as Thrust Network Analysis (Philippe Block), there are many examples included in the following pages of work which attempt to respond to the form as it falls into stasis with gravity. These tests can result in forms hung in space as with Feathered Edge (p. 198), by Ball Nogues, or the fabric-formed beams of Mark West and C.A.S.T. (p. 128). These forms can also be inverted to create compression-only forms as with Philippe Block’s Catalan Thin-Tile Vaulting (p. 154).
+[5_10-15]
 
 
 
@@ -932,11 +939,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjgzMDEwOSwtMTUyNDYwNDUxOCwtMT
-k5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDcz
-MiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC
-0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYz
-NjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4Mj
-Q2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1
-MzM1OTRdfQ==
+eyJoaXN0b3J5IjpbMTkwNDc0MDQ1OSwxNTI2ODMwMTA5LC0xNT
+I0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5
+NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLD
+E0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYw
+OTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMD
+I2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIy
+NjA4MzRdfQ==
 -->
