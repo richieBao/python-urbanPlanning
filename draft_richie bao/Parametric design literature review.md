@@ -710,6 +710,8 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 ### 8. 制造装配、机器（人）建造与3D打印；
 #### 数字建造 digital fabrication/formation
+In other, more recidivist cases, designers impose form on matter through more familiar parametric, fabrication, and most overtly, geometric processes. In some examples, formation is over-determined by the technics of fabrication.[5_8]
+
 
 
 
@@ -927,15 +929,14 @@ and futures in landscape architecture//[1]:89-116
 
 [5]Christopher Beorkrem. Material strategies in digital fabrication[M].Oxon :Routledg, July, 2017:page range.
 
-[6]Christopher Beorkrem. Material Strategies in Digital Fabrication[M]. Oxon :Routledg, July, 2017:page range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ2MDQ1MTgsLTE5OTc4ODUyOTgsOT
-E3OTIwODQzLDI4Mzk4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3
-OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0My
-w4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4
-OTkyNTk4LC01NDQ5ODEwMjYsMTU0ODU0ODI0NiwxMjk2OTM1Nz
-Q1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcx
-Nzc4MV19
+eyJoaXN0b3J5IjpbMTUyNjgzMDEwOSwtMTUyNDYwNDUxOCwtMT
+k5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDcz
+MiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC
+0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYz
+NjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4Mj
+Q2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1
+MzM1OTRdfQ==
 -->
