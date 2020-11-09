@@ -515,7 +515,7 @@ Parametric modeling will also impact aesthetic decisions. A team of American and
 
 
 ### 4. 结构构建信息与建构、结构分析及协同优化；
-#### 建造 fabrication
+
 
 
 
@@ -709,6 +709,10 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 
 ### 8. 制造装配、机器（人）建造与3D打印；
+#### 建造 fabrication
+
+
+
 
 
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
@@ -925,11 +929,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mjc5ODk1LDkxNzkyMDg0MywyODM5OD
-A5NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAx
-LDE0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00Nz
-YwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgx
-MDI2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOT
-IyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1
-XX0=
+eyJoaXN0b3J5IjpbMTM4Mzc0OTk4Myw5MTc5MjA4NDMsMjgzOT
+gwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMw
+MSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtND
+c2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4
+MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LD
+kyMjYwODM0LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3
+NV19
 -->
