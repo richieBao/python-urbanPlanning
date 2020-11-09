@@ -263,6 +263,7 @@ Integrated design teams make simultaneous, interrelated design decisions across 
 
 With parametric modeling, early design models become conceptually stronger than conventional CAD models and less constrained than building information models. Parameters express the concepts contained in these new models and give interactive behaviour to building components and systems. This means a change in how tools need to support design activities. For example tools like Bentley Systems' GenerativeComponents offer a fluid transition between a CAD-like modeling-based design approach on one side and a scripting-based design approach on the other side. These new parametric systems support a shift from one-off CAD-modeling to thinking in and working with geometric concepts and behaviour. Instead of building a single solution, designers explore an entire parametrically described solution space.[4_1-2]
 
+Design is change. Parametric modeling represents change. It is an old idea, indeed one of the very first ideas in computer-aided design. In his 1963 PhD thesis, Ivan Sutherland was right in putting parametric change at the centre of the Sketchpad system. His invention of a representation that could adapt to changing context both created and foresaw one of the chief features of the computer-aided design (CAD) systems to come. The devices of the day kept Sutherland from fully expressing what he might well have seen, that parametric representations could deeply change design work itself. I believe that, today, the key to both using and making these systems lies in another, older idea. [4_7-10]
 
 
 ### 复杂系统（complex system）
@@ -803,11 +804,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDgzMjg2NSwtMTY4NzYzMDg0Myw4ND
-k3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTky
-NTk4LC01NDQ5ODEwMjYsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LD
-UwMTkzMzk2OCw5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4
-MSw2MDUwOTM2NzUsMTk0MjQzNjY0NywtMTAyNjkyMjM0MiwxMT
-czOTAyMzkzLC0xMDE3NTU4MjQ5LC0xODIxODQwMjEzLDcwNjgz
-NTIzMF19
+eyJoaXN0b3J5IjpbLTQxNTI4MDc2NiwxNDg0ODMyODY1LC0xNj
+g3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3
+NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LD
+EyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1
+OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMD
+I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
+NDAyMTNdfQ==
 -->
