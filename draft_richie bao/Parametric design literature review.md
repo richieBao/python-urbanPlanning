@@ -272,6 +272,8 @@ It turns out that these ideas are not easy, at least for those with typical desi
 Using patterns to think and work may help designers master the new complexity imposed on them by parametric modeling.[4_7-10]
 
 
+
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -810,7 +812,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NDI3NjE0LDE0ODQ4MzI4NjUsLTE2OD
+eyJoaXN0b3J5IjpbNDQwMzk0MzA2LDE0ODQ4MzI4NjUsLTE2OD
 c2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2
 MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1NDgyNDYsMT
 I5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4MzQsMjEzMTUzMzU5
