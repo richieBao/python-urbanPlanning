@@ -305,6 +305,12 @@ The cost may have a benefit. Parametric design and its requisite modes of though
 Defining relationships is a complex act of thinking. It involves strategies and skills, some new to designers and some familiar.
 [4_23-48]
 
+Data flows through a parametric model, from independent to dependent nodes. The way in which data flows deeply affects the designs possible and how a designer interacts with them. This can be illustrated with a very simple example:[4_23-48]
+
+One of the many reasons for near-hierarchies is that the limited interactions among system parts enables a divide-and-conquer design strategy - divide the design into parts, design the parts and combine the parts into an entire design, all the while managing the interactions among the parts. The strategy works best when the interactions are simple.[4_23-48]
+
+Using a divide-and-conquer strategy is to organize a parametric design into parts so that there are limited and understandable links from part to part. Directional of data flow assures a hierarchical model, with parts higher in the flow typically being assemblies - organizing concepts. Parts at the bottom of the flow usually correspond to physical parts of the design.[4_23-48]
+
 
 ### 复杂系统（complex system）
 
@@ -844,7 +850,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTM1NDQxMCwtMTQ1MzA2NzMwMSwxND
+eyJoaXN0b3J5IjpbMjEzMTE3OTUwNSwtMTQ1MzA2NzMwMSwxND
 g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
 NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
 wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
