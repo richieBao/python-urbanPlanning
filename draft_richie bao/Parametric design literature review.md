@@ -269,6 +269,8 @@ To the human enterprise of design, parametric systems bring fresh and needed new
 
 It turns out that these ideas are not easy, at least for those with typical design backgrounds. Mastering them requires us to be part designer, part computer scientist and part mathematician. It is hard enough to be an expert in one of these areas, yet alone all. Yet, some of the best and brightest (and mostly young) designers are doing just that - they are developing stunning skill in evoking the new and surprising. [4_7-10]
 
+Using patterns to think and work may help designers master the new complexity imposed on them by parametric modeling.[4_7-10]
+
 
 ### 复杂系统（complex system）
 
@@ -808,11 +810,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTM5MDE5NywxNDg0ODMyODY1LC0xNj
-g3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3
-NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LD
-EyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1
-OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMD
-I2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1NTgyNDksLTE4MjE4
-NDAyMTNdfQ==
+eyJoaXN0b3J5IjpbNjI1NDI3NjE0LDE0ODQ4MzI4NjUsLTE2OD
+c2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2
+MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1NDgyNDYsMT
+I5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4MzQsMjEzMTUzMzU5
+NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5NDI0MzY2NDcsLTEwMj
+Y5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1ODI0OSwtMTgyMTg0
+MDIxM119
 -->
