@@ -709,7 +709,7 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 
 ### 8. 制造装配、机器（人）建造与3D打印；
-#### 建造 fabrication
+#### 数字建造 digital fabrication
 
 
 
@@ -930,7 +930,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyODY1MTUsOTE3OTIwODQzLDI4Mz
+eyJoaXN0b3J5IjpbLTE5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mz
 k4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjcz
 MDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLT
 Q3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5
