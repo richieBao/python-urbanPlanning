@@ -715,6 +715,7 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 
 
+
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
 Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
 
@@ -929,11 +930,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzc0OTk4Myw5MTc5MjA4NDMsMjgzOT
-gwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMw
-MSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtND
-c2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4
-MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LD
-kyMjYwODM0LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3
-NV19
+eyJoaXN0b3J5IjpbLTEwNzgyODY1MTUsOTE3OTIwODQzLDI4Mz
+k4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjcz
+MDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLT
+Q3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5
+ODEwMjYsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OC
+w5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2
+NzVdfQ==
 -->
