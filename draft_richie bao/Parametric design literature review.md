@@ -363,6 +363,20 @@ Hundreds of books exist, and dozens of languages have new books published every 
 
 To design code is to understand the problem, decompose the problem into parts, devise data structures and algorithms for the parts and compose the parts into an entire program design.[4_49-64]
 
+Coding translates a design into a program. It takes the abstract ideas of a design and turns them into precise instructions in some programming language. Code seldom works as written. Sometimes, coding and design go together, especially at early, exploratory stages of an idea.[4_49-64]
+
+Programming is algorithmic thinking in action. Two programs may express an identical algorithm, yet differ in fundamental ways. Above the basics lies a craft of programming, which takes time to master.[4_49-64]
+
+Programming enters parametric modeling in four distinct ways: parametric model construction, update method programming, module development and meta-programming.[4_49-64]
+
+Almost all conventional CAD systems have a programming language, either internal or accessible from the system. Designers program in these languages to build and edit models. Once built, models can be changed either by hand or by the action of other programs. Certainly, parametric thinking can and does engage programming of this sort. Programmers use some of the variables that are passed to functions as parameters that link to new parametric structures created in the program.[4_49-64]
+
+The graphical user interface (GUI) has profoundly changed our engagement with computers. It does so by providing a shared visual metaphor that enables manual interactive tasks.[4_49-64]
+
+
+
+
+
 
 
 ### 复杂系统（complex system）
@@ -903,7 +917,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzAzMjQ0MywtMTM2MTY1Mzc5MywtMT
+eyJoaXN0b3J5IjpbMTkyNDc2NTYwNSwtMTM2MTY1Mzc5MywtMT
 Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
 ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OT
 gsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAx
