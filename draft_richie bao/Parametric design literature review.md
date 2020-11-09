@@ -353,6 +353,10 @@ Parametric modeling introduces a new strategy: deferral. A parametric design com
 
 Indeed, a principal financial argument for parametric modeling is its touted ability to support rapid change late in the design process.[4_23-48]
 
+It takes much effort to make a module work well and communities of practice develop surprisingly sophisticated module-making techniques. Almost always, the process iterates; through successive attempts modelers converge on stability.[4_23-48]
+
+The parametric medium is complex, perhaps more so than any other media in the history of design. Using it well necessarily combines conceiving data flow; new divide-and-conquer strategies; naming; abstraction; 3D visualization and mathematics; and thinking algorithmically. These are the basics, and mastery requires more. We can expect that new technique and strategy will flow from the practices and schools that invest time and effort in the tools.[4_23-48]
+
 
 ### 复杂系统（complex system）
 
@@ -892,11 +896,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwOTY3MTUzLC0xNDUzMDY3MzAxLDE0OD
-Q4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3
-MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LD
-E1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4
-MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5ND
-I0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1
-ODI0OV19
+eyJoaXN0b3J5IjpbLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMT
+Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
+NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMj
+YsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2
+MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMT
+k0MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3
+NTU4MjQ5XX0=
 -->
