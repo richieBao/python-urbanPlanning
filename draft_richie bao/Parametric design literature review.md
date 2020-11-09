@@ -709,7 +709,7 @@ Ultimately, CAD and documentation should further become a by-product of the desi
 
 
 ### 8. 制造装配、机器（人）建造与3D打印；
-#### 数字建造 digital fabrication
+#### 数字建造 digital fabrication/f
 
 
 
@@ -930,11 +930,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mz
-k4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjcz
-MDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLT
-Q3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5
-ODEwMjYsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OC
-w5MjI2MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2
-NzVdfQ==
+eyJoaXN0b3J5IjpbMTgwMTA4MDcyNywtMTk5Nzg4NTI5OCw5MT
+c5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5
+MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLD
+g0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5
+OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3ND
+UsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1OTQsNjExNzE3
+NzgxXX0=
 -->
