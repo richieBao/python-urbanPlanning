@@ -515,6 +515,10 @@ Parametric modeling will also impact aesthetic decisions. A team of American and
 
 
 ### 4. 结构构建信息与建构、结构分析及协同优化；
+#### 建造 fabrication
+
+
+
 
 
 ### 5. 数据管理及处理，云平台、数据库及运算；
@@ -921,11 +925,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3OTIwODQzLDI4Mzk4MDk1LC01MDYzMz
-Q3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2
-NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMj
-U2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMjYsMTU0ODU0
-ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2MDgzNCwyMT
-MxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMTk0MjQzNjY0
-N119
+eyJoaXN0b3J5IjpbLTM4Mjc5ODk1LDkxNzkyMDg0MywyODM5OD
+A5NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAx
+LDE0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00Nz
+YwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgx
+MDI2LDE1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOT
+IyNjA4MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1
+XX0=
 -->
