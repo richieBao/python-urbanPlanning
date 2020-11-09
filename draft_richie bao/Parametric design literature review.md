@@ -373,7 +373,7 @@ Almost all conventional CAD systems have a programming language, either internal
 
 The graphical user interface (GUI) has profoundly changed our engagement with computers. It does so by providing a shared visual metaphor that enables manual interactive tasks.[4_49-64]
 
-
+End-user programming comes with costs. Increasing capability adds complexity. First introduced by Dertouzos et a!. (1992) as gentle-slope systems and further developed by Myers et al. (2000), each end-user programming system has an informal function showing how difficulty increases with capability. Systems typically display steps in these functions that correspond to the need to learn new programming constructs and ideas. [4_49-64]
 
 
 
@@ -917,7 +917,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDc2NTYwNSwtMTM2MTY1Mzc5MywtMT
+eyJoaXN0b3J5IjpbLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMT
 Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
 ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OT
 gsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAx
