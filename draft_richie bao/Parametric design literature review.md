@@ -265,6 +265,10 @@ With parametric modeling, early design models become conceptually stronger than 
 
 Design is change. Parametric modeling represents change. It is an old idea, indeed one of the very first ideas in computer-aided design. In his 1963 PhD thesis, Ivan Sutherland was right in putting parametric change at the centre of the Sketchpad system. His invention of a representation that could adapt to changing context both created and foresaw one of the chief features of the computer-aided design (CAD) systems to come. The devices of the day kept Sutherland from fully expressing what he might well have seen, that parametric representations could deeply change design work itself. I believe that, today, the key to both using and making these systems lies in another, older idea. [4_7-10]
 
+To the human enterprise of design, parametric systems bring fresh and needed new capabilities in adapting to context and contingency and exploring the possibilities inherent in an idea. [4_7-10]
+
+It turns out that these ideas are not easy, at least for those with typical design backgrounds. Mastering them requires us to be part designer, part computer scientist and part mathematician. It is hard enough to be an expert in one of these areas, yet alone all. Yet, some of the best and brightest (and mostly young) designers are doing just that - they are developing stunning skill in evoking the new and surprising. [4_7-10]
+
 
 ### 复杂系统（complex system）
 
@@ -804,7 +808,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTI4MDc2NiwxNDg0ODMyODY1LC0xNj
+eyJoaXN0b3J5IjpbMTE5NTM5MDE5NywxNDg0ODMyODY1LC0xNj
 g3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3
 NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LD
 EyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1
