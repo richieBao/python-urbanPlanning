@@ -346,6 +346,14 @@ Parametric models are, by their nature, dynamic. Once made, they can be rapidly 
 
 In stark contract, much of the toolkit of computer programming (and parametric modeling is programming) aims at making clear code, reducing redundancy and fostering reuse. In the world of professional programming, these aims make eminent sense[4_23-48]
 
+3.3.3 Copy and modify
+Designers may throw their own models away, but will invest considerable time in finding existing models and using them in their own context. This is hardly surprising. [4_23-48]
+
+Parametric modeling introduces a new strategy: deferral. A parametric design commits to a network of relations and defers commitment to specific locations and details.[4_23-48]
+
+Indeed, a principal financial argument for parametric modeling is its touted ability to support rapid change late in the design process.[4_23-48]
+
+
 ### 复杂系统（complex system）
 
 ### 算法（algorithm）
@@ -884,11 +892,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1MTUwMCwtMTQ1MzA2NzMwMSwxND
-g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
-NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
-wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
-ODM0LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOT
-QyNDM2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1
-NTgyNDldfQ==
+eyJoaXN0b3J5IjpbMzAwOTY3MTUzLC0xNDUzMDY3MzAxLDE0OD
+Q4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3
+MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LD
+E1NDg1NDgyNDYsMTI5NjkzNTc0NSw1MDE5MzM5NjgsOTIyNjA4
+MzQsMjEzMTUzMzU5NCw2MTE3MTc3ODEsNjA1MDkzNjc1LDE5ND
+I0MzY2NDcsLTEwMjY5MjIzNDIsMTE3MzkwMjM5MywtMTAxNzU1
+ODI0OV19
 -->
