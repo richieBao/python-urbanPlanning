@@ -728,12 +728,14 @@ The ubiquity and availability of CNC technology was driven by the mass productio
 
 More recently, the use of 7-axis industrial robots has enabled a much broader array of processes and materials to be computationally manufactured. The end-effectors, attached and controlled by these arms, are as diverse as the materials they can process. These have included all of the typical cutting systems (circular saw, router bits, water-jet, plasma and laser-cutting), as well as grippers, benders, hot-wire cutters, and others. Additionally, the robots’ flexibility has allowed them to break the bounds of the factory floor, and operate on site.[5_10-15] 
 
+While material knowledge gained through computational tools is different, it can be argued that this understanding is not less informed but fundamentally different, more directly linked to the interaction between tool and material [5_10-15] 
 
+THE APPLICATIONS (SOFTWARE) OF PARAMETRICS
+Parametric software creates systems defined not by Cartesian coordinate systems, but by linkages and constraints between geometry. By their nature parametric systems do not have a specific solution but are capable of accommodating a range of possibilities.6 The mapping of material constraints can be parameterized in two ways, through scripted or defined variables or through the definition of geometric relationships. As of publication, there are four primary pieces of software, which are typically employed for this type of user-defined parametric mapping: Gehry Technologies Digital Project, Robert McNeel and Associates’ Grasshopper 7 scripting plug-in developed for Rhinoceros, and Dynamo, objected-oriented scripting for Autodesk Revit and Generative Components developed by Bentley Systems, Inc.[5_10-15]
 
+The underlying geometric definitions of Digital Project allow designers to map limitations across a surface or across its edges. These limitations fail when an iteration of the surface is too dramatic for the constraints of the respective construction system. The topological nature of a form, when combined with the complexities of parametric systems, allow for variation through relationships, instead of individual parts. Additionally, other components of the software (Knowledgeware) can be used to map the maximum deviation of each piece of the system away from the original surface. When the deviation becomes too great compared to predefined standards (for aesthetic pairing or legibility of form) the system will identify the portions beyond those limits, so they may be adjusted. [5_10-15]  
 
-
-
-
+We are left to determine a set of values, in a process defined through experience, to guide our sense of craft with the machine[5_10-15]  
 
 
 
@@ -950,11 +952,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg2NzU2OTMsMTUyNjgzMDEwOSwtMT
-UyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgw
-OTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMS
-wxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2
-MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MT
-AyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDky
-MjYwODM0XX0=
+eyJoaXN0b3J5IjpbNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1Mj
+Q2MDQ1MTgsLTE5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mzk4MDk1
+LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMT
+Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
+NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMj
+YsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2
+MDgzNF19
 -->
