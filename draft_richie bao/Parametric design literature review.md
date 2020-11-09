@@ -357,6 +357,9 @@ It takes much effort to make a module work well and communities of practice deve
 
 The parametric medium is complex, perhaps more so than any other media in the history of design. Using it well necessarily combines conceiving data flow; new divide-and-conquer strategies; naming; abstraction; 3D visualization and mathematics; and thinking algorithmically. These are the basics, and mastery requires more. We can expect that new technique and strategy will flow from the practices and schools that invest time and effort in the tools.[4_23-48]
 
+Algorithms are realized as programs, which in turn are written in precise and prescribed programming languages. Almost universally, designers learn to think algorithmically by learning a programming language to accomplish design work.[4_49-64]
+
+
 
 ### 复杂系统（complex system）
 
@@ -896,11 +899,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMT
-Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
-NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMj
-YsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2
-MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMT
-k0MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3
-NTU4MjQ5XX0=
+eyJoaXN0b3J5IjpbLTM5MDk2MjA2NywtMTM2MTY1Mzc5MywtMT
+Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
+ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OT
+gsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAx
+OTMzOTY4LDkyMjYwODM0LDIxMzE1MzM1OTQsNjExNzE3NzgxLD
+YwNTA5MzY3NSwxOTQyNDM2NjQ3LC0xMDI2OTIyMzQyLDExNzM5
+MDIzOTNdfQ==
 -->
