@@ -359,6 +359,10 @@ The parametric medium is complex, perhaps more so than any other media in the hi
 
 Algorithms are realized as programs, which in turn are written in precise and prescribed programming languages. Almost universally, designers learn to think algorithmically by learning a programming language to accomplish design work.[4_49-64]
 
+Hundreds of books exist, and dozens of languages have new books published every year. It aims rather to help the amateur (and often self taught) designer/programmer become better at combining parametric modeling and programming to do more effective design work.[4_49-64]
+
+To design code is to understand the problem, decompose the problem into parts, devise data structures and algorithms for the parts and compose the parts into an entire program design.[4_49-64]
+
 
 
 ### 复杂系统（complex system）
@@ -899,7 +903,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDk2MjA2NywtMTM2MTY1Mzc5MywtMT
+eyJoaXN0b3J5IjpbLTgxNzAzMjQ0MywtMTM2MTY1Mzc5MywtMT
 Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
 ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OT
 gsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAx
