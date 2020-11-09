@@ -319,6 +319,20 @@ An important form of abstraction for parametric modeling is condensing and expan
 
 A condensed node can be expanded to restore the graph to its original state. Condensing and expanding implement hierarchy and aid divide-and-conquer strategies. Parametric modelers implement this strategy to create new kinds of multi-property nodes, to support copying and reuse of parts of a graph and thus to build user-defined libraries of parametric models. See Section 3.3.7 on p. 45.[4_23-48]
 
+Parametric systems can make such mathematics active. By coding theorems and constructions into propagation graphs and node update methods, designers can experience mathematical ideas at play.[4_23-48]
+
+A parametric design is a graph. Its graph-dependent nodes contain either or both update methods and constraint expressions. Both are algorithms and can be changed by users, at least in principle. Long practice in using, programming and teaching parametric systems shows that, sooner or later, designers will need (or at least want) to write algorithms to make their intended designs.[4_23-48]
+
+An algorithm is
+a finite procedure,
+written in a fixed symbolic vocabulary,
+governed by precise instructions,
+moving in discrete steps, 1,2,3, ... ,
+whose execution requires no insight, cleverness,
+intuition, intelligence or perspicuity,
+and that, sooner or later, comes to an end.[4_23-48]
+
+
 
 
 ### 复杂系统（complex system）
@@ -859,7 +873,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTM3MzExMiwtMTQ1MzA2NzMwMSwxND
+eyJoaXN0b3J5IjpbMTI0MjU2NTg0NCwtMTQ1MzA2NzMwMSwxND
 g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
 NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
 wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
