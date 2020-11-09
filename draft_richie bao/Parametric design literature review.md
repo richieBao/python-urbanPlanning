@@ -290,7 +290,20 @@ Of all types of parametric modeling, propagation has the relative advantages of 
 It is useful to be precise with language. The following section defines terms needed for accurate dicsussion of parametric modeling systems. These terms are generic. Any particular propagation-based system has a similar description, though some details will vary.
 [4_11-22]
 
+3.1 Conventional and parametric design tools
+In conventional design tools it is "easy" to create an initial model - you just add parts, relating them to each other by such things as snaps as you go. Making changes to a model can be difficult. Even changing one dimension can require adjusting many other parts and all of this rework is manual. The more complex the model, the more work can be entailed. From a design perspective, decisions that should be changed can take too much work to change. Tools like these can limit exploration and effectively restrict design.[4_23-48]
 
+On the other hand, erasing conventional work is easy. You select and delete. Since parts are independent, that is, they have no lasting relationship to other parts, there is no more work to do to fix the representation. You might well have to fix the design, by adding parts to take the place of the thing erased or adjusting existing parts to fit the changed design.[4_23-48]
+
+[4_23-48]
+Parametric modeling aims to address these limitations. Rather than the designer creating the design solution (by direct manipulation) as in conventional design tools, the idea is that the designer establishes the relationships by which parts connect, builds up a design using these relationships and edits the relationships by observing and selecting from the results produced. The system takes care of keeping the design consistent with the relationships and thus increases designer ability to explore ideas by reducing the tedium of rework.
+
+Of course, there is a cost. Parametric design depends on defining relationships and the willingness (and ability) of the designer to consider the relationshipdefinition phase as an integral part of the broader design process. It initially requires the designer to take one step back from the direct activity of design and focus on the logic that binds the design together. This process of relationship creation requires a formal notation and introduces additional concepts that have not previously been considered as part of "design thinking".
+
+The cost may have a benefit. Parametric design and its requisite modes of thought may well extend the intellectual scope of design by explicitly representing ideas that are usually treated intuitively. Being able to explain concepts explicitly is a part of at least some real understanding.
+
+Defining relationships is a complex act of thinking. It involves strategies and skills, some new to designers and some familiar.
+[4_23-48]
 
 
 ### 复杂系统（complex system）
@@ -831,11 +844,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ5Nzk0MTEsLTE0NTMwNjczMDEsMT
-Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
-NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMj
-YsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2
-MDgzNCwyMTMxNTMzNTk0LDYxMTcxNzc4MSw2MDUwOTM2NzUsMT
-k0MjQzNjY0NywtMTAyNjkyMjM0MiwxMTczOTAyMzkzLC0xMDE3
-NTU4MjQ5XX0=
+eyJoaXN0b3J5IjpbMTQ3MTM1NDQxMCwtMTQ1MzA2NzMwMSwxND
+g0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0
+NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OTgsLTU0NDk4MTAyNi
+wxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAxOTMzOTY4LDkyMjYw
+ODM0LDIxMzE1MzM1OTQsNjExNzE3NzgxLDYwNTA5MzY3NSwxOT
+QyNDM2NjQ3LC0xMDI2OTIyMzQyLDExNzM5MDIzOTMsLTEwMTc1
+NTgyNDldfQ==
 -->
