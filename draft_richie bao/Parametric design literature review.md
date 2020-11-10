@@ -741,6 +741,8 @@ We are left to determine a set of values, in a process defined through experienc
 
 
 
+
+
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
 Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
 
@@ -955,11 +957,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OT
-IxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1
-Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMz
-YxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4NjUsLTE2ODc2
-MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2Mi
-wtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1NDg1NDgyNDYsMTI5
-NjkzNTc0NV19
+eyJoaXN0b3J5IjpbLTE5NDE2ODU2MzEsLTE3OTcyOTM3MSwxMj
+cxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0
+NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNT
+A2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4
+MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MD
+AsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1
+NDg1NDgyNDZdfQ==
 -->
