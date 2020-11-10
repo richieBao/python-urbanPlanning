@@ -951,11 +951,11 @@ and futures in landscape architecture//[1]:89-116
 
 [5]Christopher Beorkrem. Material strategies in digital fabrication[M].Oxon :Routledg, July, 2017:page range.
 
-[6]Carlos BAÑÓN, Félix RASPALL. 3d printing architecture: workflows, applications, and trends [M]. Singapore:Springer, October, 2020
+[6]Carlos BAÑÓN, Félix RASPALL. 3d printing architecture: workflows, applications, and trends [M]. Singapore:Springer, October, 2020:page range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjE5MDQ4MywxMjcxOTI2MDg1LDc4OT
+eyJoaXN0b3J5IjpbLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OT
 IxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1
 Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMz
 YxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4NjUsLTE2ODc2
