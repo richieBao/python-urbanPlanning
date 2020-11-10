@@ -740,6 +740,8 @@ We are left to determine a set of values, in a process defined through experienc
 [5_16-242]  案例某部分参考
 
 #### 3d printing
+3D Printing Architecture impressively brings together myriad important technologies that will play key roles in the application of 3D Printing to architecture. What sets it apart, and ahead of, the current literature is how it impressively integrates computational generative design of complex structures, simulation of functional performance, and multiple manufacturing process centered on 3D Printing into new digital workflow constructs. This results in a digital thread throughout the entire design and production supply chain including materials, manufacturing logistics, assembly logic, cost, and validation and verification. 3D Printing is the integrative production technology that ties these together, enables new advances in the individual technologies, and sets the stage for a digital design and production paradigm where increased design freedom is availed, informed design decisions can be made earlier in the process, and appealing system effects are exploited throughout the value chain [6_Foreword]  
+
 
 
 
@@ -958,11 +960,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMj
-cxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0
-NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNT
-A2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4
-MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC00NzYwOTQ3MD
-AsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0OTgxMDI2LDE1
-NDg1NDgyNDZdfQ==
+eyJoaXN0b3J5IjpbLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OT
+cyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5
+LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyOD
+M5ODA5NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3
+MzAxLDE0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC
+00NzYwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0
+OTgxMDI2XX0=
 -->
