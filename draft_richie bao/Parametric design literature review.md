@@ -737,6 +737,8 @@ The underlying geometric definitions of Digital Project allow designers to map l
 
 We are left to determine a set of values, in a process defined through experience, to guide our sense of craft with the machine[5_10-15]  
 
+[5_16-242]  案例某部分参考
+
 
 
 ### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
@@ -952,11 +954,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1Mj
-Q2MDQ1MTgsLTE5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mzk4MDk1
-LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMT
-Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
-NDcwMCwtMjU2MzY0NzYyLC0xNzc4OTkyNTk4LC01NDQ5ODEwMj
-YsMTU0ODU0ODI0NiwxMjk2OTM1NzQ1LDUwMTkzMzk2OCw5MjI2
-MDgzNF19
+eyJoaXN0b3J5IjpbMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNj
+gzMDEwOSwtMTUyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4
+NDMsMjgzOTgwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMT
+Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
+ODEwMywtNDc2MDk0NzAwLC0yNTYzNjQ3NjIsLTE3Nzg5OTI1OT
+gsLTU0NDk4MTAyNiwxNTQ4NTQ4MjQ2LDEyOTY5MzU3NDUsNTAx
+OTMzOTY4XX0=
 -->
