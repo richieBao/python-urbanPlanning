@@ -756,6 +756,17 @@ Any structural connection has to both enable the continuity of the geometric for
 
 Much research and development remain to be done across all of the elements of the digital design and manufacturing workflows as well as with the workflows themselves. This spans multiple fields, including design algorithms and technologies, new 3D Printing materials and processes for faster, more consistent printing, failure analysis in complex 3D-printed geometries and materials, and optimization of supply chains for the manufacture and assembly of large-scale architecture. All of these, when integrated into seamless digital workflows, will unlock unprecedented innovation in mass customized architecture and product development. It is inevitable that this will happen. As it does, 3D Printing Architecture will be recognized as a catalytic contributor to its happening.[6_Foreword]
 
+Architectural design progresses in tandem with improvements in material technologies. Today, 3D Printing technologies deliver faster, bigger, stronger, and cheaper outputs. Novel workflows from the early concepts to subsequent project development, advanced manufacturing processes, and integration into fully functional products become available. The integration of parametric modeling with performance optimization in the design process is redefining the design process, as the material is computationally allocated where it is the most needed. As a result, forms are efficient and geometrically more intricate. Hence, 3D Printing becomes indispensable by enabling the manufacturing of these intricate artifacts where other well-established technologies fall short.[6_1-11]
+
+With 3D Printing, bespoke forms and multi-functional parts bear the same cost as standard ones; hence, complexity becomes inexpensive, and intricacy can appear at a very conceptual stage. An entirely new set of design opportunities, spanning from extreme levels of precision to minimal tolerances and seamless transitions between printed and standard non-printed components, requires the use of custom-built software and dynamic parametric models to conceptualize and advance a new conception of architecture.[6_1-11]
+
+As a group, these projects explore real examples of how additive manufacturing connects to and expands contemporary architectural trends such as freeform design, computational optimization, ornament, sustainability, and integration of systems. In addition, they elaborate design workflows, covering parametric modeling, optimization, file-to-factory manufacturing, and complex assembly sequence design. Individually, the projects engage on the specific topics of structural optimization, material selection and transition, mechanical properties, manufacturing process, logistics, and assembly procedures. Figure 1.1 exhibits a collection of built designs.[6_1-11]
+
+1.1.1 Expressionist Trend: Formal Complexity
+
+The development of parametric modeling software made the creation and precise control of complex geometries available to architects. Software originally tailored to computer graphics animations and car and aerospace design was applied to the design of physical spaces. From freeform NURBs surfaces to complex part assemblies, the parametric computer-aided design provided a platform to control increasingly complex projects. However, with an exponential increase in the number of unique parts, manufacturing and logistics of projects became progressively more challenging. In architecture and construction, computer numerical control fabrication (CNC), primarily CNC routing, became the go-to solution for complex geometry projects.[6_1-11]
+
+For the manufacturing of complex geometry projects, 3D Printing offers new realms of possibilities. Not limited by subtractive methods, where times and wastage can quickly become immense, additive manufacturing can accomplish true freeform projects with little formal constraints and reduced waste.[6_1-11]
 
 
 
@@ -968,11 +979,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3OD
-M4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwODUsNzg5MjE2MTcx
-LDE1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLTE5OTc4ODUyOTgsOT
-E3OTIwODQzLDI4Mzk4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3
-OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0My
-w4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4
-OTkyNTk4XX0=
+eyJoaXN0b3J5IjpbMTc3NzQ1Mjk0OCwxMTg1OTg4ODY0LC04OD
+E4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3MTkyNjA4
+NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUyNDYwNDUxOCwtMT
+k5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDcz
+MiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC
+0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYz
+NjQ3NjJdfQ==
 -->
