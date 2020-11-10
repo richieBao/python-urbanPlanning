@@ -768,6 +768,14 @@ The development of parametric modeling software made the creation and precise co
 
 For the manufacturing of complex geometry projects, 3D Printing offers new realms of possibilities. Not limited by subtractive methods, where times and wastage can quickly become immense, additive manufacturing can accomplish true freeform projects with little formal constraints and reduced waste.[6_1-11]
 
+1.1.3 Performative Trend: Structural Optimization
+
+Structural modeling software, once accessible only to specialized engineers, is becoming more accessible and compatible with modeling tools familiar to designers. Therefore, the collaboration between design and engineering gets more fluid and dynamic. Kara and Bosia build this argument through the concept of design engineering [3]. The integration of structural modeling into parametric design modeling tools enables the development of generative models in which designs are automatically adjusted to enhance structural performance. Optimized structures are highly efficient, but often, at the expense of increased geometric complexity. As structural requirements continually change throughout a structure, the geometry and topology of optimized projects reflects these variations with highly differentiated and non-standard components. 3D Printing is an ideal technology for structurally optimized projects because it can achieve complex geometry and bespoke components without increase in cost and manufacturing effort.[6_1-11]
+
+The direct benefits of additive manufacturing in conjunction with data-driven digital models also contribute to other environmental issues, such as reduction of material consumption, wastage, water usage, and emissions. From this point of view, additive manufacturing can contribute to achieving a circular economy model. The development of parametric modeling tools with energy modeling functionalities brings environmental information to designers during their design stage and ultimately improves building’s performance [5].[6_1-11]
+
+
+
 
 
 
@@ -979,11 +987,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzQ1Mjk0OCwxMTg1OTg4ODY0LC04OD
-E4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3MTkyNjA4
-NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUyNDYwNDUxOCwtMT
-k5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDcz
-MiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC
-0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYz
-NjQ3NjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NzU4NjI4MDksMTE4NTk4ODg2NCwtOD
+gxODI5NiwtMTA3ODM4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYw
+ODUsNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLT
+E5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mzk4MDk1LC01MDYzMzQ3
+MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NS
+wtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2
+MzY0NzYyXX0=
 -->
