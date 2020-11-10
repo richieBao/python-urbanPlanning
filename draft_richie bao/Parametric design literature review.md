@@ -739,6 +739,7 @@ We are left to determine a set of values, in a process defined through experienc
 
 [5_16-242]  案例某部分参考
 
+#### 3d printing
 
 
 
@@ -957,7 +958,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE2ODU2MzEsLTE3OTcyOTM3MSwxMj
+eyJoaXN0b3J5IjpbLTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMj
 cxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0
 NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNT
 A2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4
