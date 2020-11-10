@@ -774,7 +774,7 @@ Structural modeling software, once accessible only to specialized engineers, is 
 
 The direct benefits of additive manufacturing in conjunction with data-driven digital models also contribute to other environmental issues, such as reduction of material consumption, wastage, water usage, and emissions. From this point of view, additive manufacturing can contribute to achieving a circular economy model. The development of parametric modeling tools with energy modeling functionalities brings environmental information to designers during their design stage and ultimately improves building’s performance [5].[6_1-11]
 
-
+This argument is often presented by proponents of Building Information Modeling (BIM), stating that BIM can integrate technical information at an early design stage [6].[6_1-11]
 
 
 
@@ -987,11 +987,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU4NjI4MDksMTE4NTk4ODg2NCwtOD
-gxODI5NiwtMTA3ODM4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYw
-ODUsNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLT
-E5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mzk4MDk1LC01MDYzMzQ3
-MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NS
-wtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2
-MzY0NzYyXX0=
+eyJoaXN0b3J5IjpbMTk5MDQzNTAxNywxMTg1OTg4ODY0LC04OD
+E4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3MTkyNjA4
+NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUyNDYwNDUxOCwtMT
+k5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMzNDcz
+MiwtMTM2MTY1Mzc5MywtMTQ1MzA2NzMwMSwxNDg0ODMyODY1LC
+0xNjg3NjMwODQzLDg0OTc1ODEwMywtNDc2MDk0NzAwLC0yNTYz
+NjQ3NjJdfQ==
 -->
