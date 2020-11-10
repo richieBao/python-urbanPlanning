@@ -750,6 +750,12 @@ We are left to determine a set of values, in a process defined through experienc
 Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
 
 
+These have taken 3D-printed architecture to new heights. While the examples highlight the power of the 3D Printing technologies when integrated in digital workflows focused on architecture, the implications and knowledge are much more broadly impactful to other types of products ranging from aerospace structures to medical devices.[6_Foreword]
+
+Any structural connection has to both enable the continuity of the geometric form and provide the required mechanical and functional performance and durability. A major challenge, in addition to the assembly and fabrication ones, is the complexity of analyzing and qualifying the mechanical performance of the connection, either through existing design codes or more sophisticated but expensive numerical analysis and experiments. The 3D-printed node approach elegantly solves this by decoupling the geometrical continuity and mechanical integrity elements of a joint by creating a complex-shaped structural node that connects to (possibly many) standard structural members in any geometric configuration by using simple standard joining methods. The standard joints between the structural member and the node can be analyzed and qualified by established methods of stress and failure analysis. The body of the node then enables the complex geometric continuity. While it has a complex shape itself, the parametric design technologies BAÑÓN and RASPALL have developed allow it to be generated in an automated way that can control stress concentrations while imparting an appropriate aesthetic quality consistent with the overall architecture. While the shapes are complicated, 3D Printing allows their fabrication as a homogeneous solid which then can also be analyzed and qualified by methods of 3D stress and failure analysis routinely used in various engineering fields.[6_Foreword]
+
+
+
 
 
 ### 10. 交互硬件，实验设备数据流及分析、控制；IOT
@@ -960,11 +966,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OT
-cyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5
-LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyOD
-M5ODA5NSwtNTA2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3
-MzAxLDE0ODQ4MzI4NjUsLTE2ODc2MzA4NDMsODQ5NzU4MTAzLC
-00NzYwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3ODk5MjU5OCwtNTQ0
-OTgxMDI2XX0=
+eyJoaXN0b3J5IjpbLTE2NzI2NjczMTIsLTg4MTgyOTYsLTEwNz
+gzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3
+MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LD
+kxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMzYxNjUz
+NzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4NjUsLTE2ODc2MzA4ND
+MsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3
+ODk5MjU5OF19
 -->
