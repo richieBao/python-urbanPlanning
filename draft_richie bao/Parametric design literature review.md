@@ -754,6 +754,8 @@ These have taken 3D-printed architecture to new heights. While the examples high
 
 Any structural connection has to both enable the continuity of the geometric form and provide the required mechanical and functional performance and durability. A major challenge, in addition to the assembly and fabrication ones, is the complexity of analyzing and qualifying the mechanical performance of the connection, either through existing design codes or more sophisticated but expensive numerical analysis and experiments. The 3D-printed node approach elegantly solves this by decoupling the geometrical continuity and mechanical integrity elements of a joint by creating a complex-shaped structural node that connects to (possibly many) standard structural members in any geometric configuration by using simple standard joining methods. The standard joints between the structural member and the node can be analyzed and qualified by established methods of stress and failure analysis. The body of the node then enables the complex geometric continuity. While it has a complex shape itself, the parametric design technologies BAÑÓN and RASPALL have developed allow it to be generated in an automated way that can control stress concentrations while imparting an appropriate aesthetic quality consistent with the overall architecture. While the shapes are complicated, 3D Printing allows their fabrication as a homogeneous solid which then can also be analyzed and qualified by methods of 3D stress and failure analysis routinely used in various engineering fields.[6_Foreword]
 
+Much research and development remain to be done across all of the elements of the digital design and manufacturing workflows as well as with the workflows themselves. This spans multiple fields, including design algorithms and technologies, new 3D Printing materials and processes for faster, more consistent printing, failure analysis in complex 3D-printed geometries and materials, and optimization of supply chains for the manufacture and assembly of large-scale architecture. All of these, when integrated into seamless digital workflows, will unlock unprecedented innovation in mass customized architecture and product development. It is inevitable that this will happen. As it does, 3D Printing Architecture will be recognized as a catalytic contributor to its happening.[6_Foreword]
+
 
 
 
@@ -966,11 +968,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI2NjczMTIsLTg4MTgyOTYsLTEwNz
-gzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3
-MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LD
-kxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMzYxNjUz
-NzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4NjUsLTE2ODc2MzA4ND
-MsODQ5NzU4MTAzLC00NzYwOTQ3MDAsLTI1NjM2NDc2MiwtMTc3
-ODk5MjU5OF19
+eyJoaXN0b3J5IjpbMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3OD
+M4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwODUsNzg5MjE2MTcx
+LDE1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLTE5OTc4ODUyOTgsOT
+E3OTIwODQzLDI4Mzk4MDk1LC01MDYzMzQ3MzIsLTEzNjE2NTM3
+OTMsLTE0NTMwNjczMDEsMTQ4NDgzMjg2NSwtMTY4NzYzMDg0My
+w4NDk3NTgxMDMsLTQ3NjA5NDcwMCwtMjU2MzY0NzYyLC0xNzc4
+OTkyNTk4XX0=
 -->
