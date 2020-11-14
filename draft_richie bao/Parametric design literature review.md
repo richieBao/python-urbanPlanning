@@ -990,12 +990,13 @@ and futures in landscape architecture//[1]:89-116
 [6]Carlos BAÑÓN, Félix RASPALL. 3d printing architecture: workflows, applications, and trends [M]. Singapore:Springer, October, 2020:page range.
 
 [7]郭湧.论风景园林信息模型的概念内涵和技术应用体系[J].中国园林,2020,36(09):17-22.
+[8]赖文波,杜春兰,贾铠针,江虹.景观信息模型(LIM)框架构建研究——以重庆大学B校区三角地改造为例[J].中国园林,2015,31(07):26-30.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MD
-gxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYs
-LTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OT
-IxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1
-Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMz
-YxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4MzI4NjUsLTE2ODc2
-MzA4NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDQ2MjA3ODQsLTk0NjgxNDk4NywxNT
+c5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4
+NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMj
+cxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0
+NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNT
+A2MzM0NzMyLC0xMzYxNjUzNzkzLC0xNDUzMDY3MzAxLDE0ODQ4
+MzI4NjVdfQ==
 -->
