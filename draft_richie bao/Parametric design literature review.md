@@ -914,6 +914,8 @@ A new kind of landscape design practitioner, one with degrees in landscape archi
 
 ### GIS 
 
+
+
 ## 7.	机器人建造与3D打印；
 
 ## 8.	交互硬件与信息数据流；
@@ -1024,11 +1026,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9] Alfredo Andia, Thomas Spiegelhalter.  Post-parametric Automation in Design and Construction[M].Norwood :Artech House, November, 2014
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAyOTA1NDksLTE1ODI4OTUwMTIsOD
-QxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5ODcsMTU3OTMz
-NzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1OTg4ODY0LC
-04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3MTky
-NjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUyNDYwNDUxOC
-wtMTk5Nzg4NTI5OCw5MTc5MjA4NDMsMjgzOTgwOTUsLTUwNjMz
-NDczMl19
+eyJoaXN0b3J5IjpbLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4ND
+EzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3
+NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQsLT
+g4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2
+MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC
+0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0
+NzMyXX0=
 -->
