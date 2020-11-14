@@ -992,12 +992,14 @@ and futures in landscape architecture//[1]:89-116
 [7]郭湧.论风景园林信息模型的概念内涵和技术应用体系[J].中国园林,2020,36(09):17-22.
 
 [8]赖文波,杜春兰,贾铠针,江虹.景观信息模型(LIM)框架构建研究——以重庆大学B校区三角地改造为例[J].中国园林,2015,31(07):26-30.
+
+[9] Alfredo Andia, Thomas Spiegelhalter.  Post-parametric Automation in Design and Construction[M].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05ND
-Y4MTQ5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAx
-NywxMTg1OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNz
-k3MjkzNzEsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEw
-OSwtMTUyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4NDMsMj
-gzOTgwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMTQ1MzA2
-NzMwMV19
+eyJoaXN0b3J5IjpbMTU1NTgyOTAxNiw4NDEzOTc3MzAsLTE5ND
+Q2MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3
+NSwxOTkwNDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNz
+gzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3
+MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LD
+kxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0NzMyLC0xMzYxNjUz
+NzkzXX0=
 -->
