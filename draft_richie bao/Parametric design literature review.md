@@ -742,14 +742,6 @@ We are left to determine a set of values, in a process defined through experienc
 #### 3d printing
 3D Printing Architecture impressively brings together myriad important technologies that will play key roles in the application of 3D Printing to architecture. What sets it apart, and ahead of, the current literature is how it impressively integrates computational generative design of complex structures, simulation of functional performance, and multiple manufacturing process centered on 3D Printing into new digital workflow constructs. This results in a digital thread throughout the entire design and production supply chain including materials, manufacturing logistics, assembly logic, cost, and validation and verification. 3D Printing is the integrative production technology that ties these together, enables new advances in the individual technologies, and sets the stage for a digital design and production paradigm where increased design freedom is availed, informed design decisions can be made earlier in the process, and appealing system effects are exploited throughout the value chain [6_Foreword]  
 
-
-
-
-
-### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
-Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
-
-
 These have taken 3D-printed architecture to new heights. While the examples highlight the power of the 3D Printing technologies when integrated in digital workflows focused on architecture, the implications and knowledge are much more broadly impactful to other types of products ranging from aerospace structures to medical devices.[6_Foreword]
 
 Any structural connection has to both enable the continuity of the geometric form and provide the required mechanical and functional performance and durability. A major challenge, in addition to the assembly and fabrication ones, is the complexity of analyzing and qualifying the mechanical performance of the connection, either through existing design codes or more sophisticated but expensive numerical analysis and experiments. The 3D-printed node approach elegantly solves this by decoupling the geometrical continuity and mechanical integrity elements of a joint by creating a complex-shaped structural node that connects to (possibly many) standard structural members in any geometric configuration by using simple standard joining methods. The standard joints between the structural member and the node can be analyzed and qualified by established methods of stress and failure analysis. The body of the node then enables the complex geometric continuity. While it has a complex shape itself, the parametric design technologies BAÑÓN and RASPALL have developed allow it to be generated in an automated way that can control stress concentrations while imparting an appropriate aesthetic quality consistent with the overall architecture. While the shapes are complicated, 3D Printing allows their fabrication as a homogeneous solid which then can also be analyzed and qualified by methods of 3D stress and failure analysis routinely used in various engineering fields.[6_Foreword]
@@ -775,6 +767,15 @@ Structural modeling software, once accessible only to specialized engineers, is 
 The direct benefits of additive manufacturing in conjunction with data-driven digital models also contribute to other environmental issues, such as reduction of material consumption, wastage, water usage, and emissions. From this point of view, additive manufacturing can contribute to achieving a circular economy model. The development of parametric modeling tools with energy modeling functionalities brings environmental information to designers during their design stage and ultimately improves building’s performance [5].[6_1-11]
 
 This argument is often presented by proponents of Building Information Modeling (BIM), stating that BIM can integrate technical information at an early design stage [6].[6_1-11]
+
+
+
+### 9. GIS(Geographic Information System )地理信息系统的参数化融合及规划/生态分析、模拟；
+Through the analysis of such data we will be able to model and test the impact of alternative urban forms to improve mobility, enhance human health, and strengthen social relationships. Current route and network analysis, utilizing geographic information systems, will be supplanted by more sophisticated analysis that will model human movement three-dimensionally in response to design changes.[1-14]
+
+
+
+
 
 
 
@@ -990,11 +991,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwODE0OTc1LDE5OTA0MzUwMTcsMTE4NT
-k4ODg2NCwtODgxODI5NiwtMTA3ODM4NDI0NSwtMTc5NzI5Mzcx
-LDEyNzE5MjYwODUsNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1Mj
-Q2MDQ1MTgsLTE5OTc4ODUyOTgsOTE3OTIwODQzLDI4Mzk4MDk1
-LC01MDYzMzQ3MzIsLTEzNjE2NTM3OTMsLTE0NTMwNjczMDEsMT
-Q4NDgzMjg2NSwtMTY4NzYzMDg0Myw4NDk3NTgxMDMsLTQ3NjA5
-NDcwMF19
+eyJoaXN0b3J5IjpbMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MD
+QzNTAxNywxMTg1OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1
+LC0xNzk3MjkzNzEsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNj
+gzMDEwOSwtMTUyNDYwNDUxOCwtMTk5Nzg4NTI5OCw5MTc5MjA4
+NDMsMjgzOTgwOTUsLTUwNjMzNDczMiwtMTM2MTY1Mzc5MywtMT
+Q1MzA2NzMwMSwxNDg0ODMyODY1LC0xNjg3NjMwODQzLDg0OTc1
+ODEwM119
 -->
