@@ -927,6 +927,14 @@ Brief History of Parametric in Architecture
 
 Parametric is not new. Parametric ideas in design modeling were an essential feature of the fi rst CAD program, Sketchpad, developed by Ivan Sutherland in 1962. Parametric was also part of the pioneering CAD systems in the early 1970s such as SSHA, CEDAR, HARNESS,and OXSYS. These CAD systems had particular parametric features that were associated to a particular type of knowledge base to serve particular organizations and building types [7]. OXSYS was the precursor of building design system ( BDS) and really usable computer-aided production system (RUCAPS), which became available commercially in the UK in the 1970s and surfaced with concepts very similar to today’s BIM systems. All these systems had a common vision: to construct virtually a 3-D building by modeling all their building elements and assemblies. They allowed multi-users to manipulate a single parametric 3-D model in which graphic reports and 2-D drawings were mere automatic derivatives created from the main 3-D model. By the mid-1980s a second wave of 3-D parametrically based software, such as SONATA, Refl ex, CHEOPS, GDS, CATIA, GE/CALMA, Pro/Engineer, Solid Works, and many others, achieved a commercial presence. Many of these pioneering parametric programs in the 1980s became standard in industries such as electronics, infrastructures, aerospace, naval engineering, and car manufacturing. However, most practices in the AEC industry preferred to implement 2-D CAD systems in PCs. It took close to two decades for the 3-D parametric model to make a signifi cant comeback in the AEC industry.[9-2]
 
+### future
+[9-2]
+Post-Parametric Era
+
+Contemporary parametric metaphors found in scripting and BIM are only scratching the surface of a more profound transformation. Parametric allows for the coding of human reasoning. But parametric is still a manual, labor-intensive, and slow process. These systems are based on defi ning a large number of rules. However, anyone that has attempted to describe design processes with rule systems clearly knows that these systems get extremely complex after 50 to 100 variables are included. Parametric will not automate signifi cantly design processes and will only slightly affect the economy of the whole AEC industry.
+
+In Part II of this book we present a diverse array of cases of technologically progressive architectural and eEngineering firms that are at the forefront of this post-parametric era. The narratives of this post-parametric era are not singular or homogeneous, but on the contrary, they are very diverse and expanding every day. The major thread that brings together these fi rms are their questions about how they can further automate their own custom design workfl ows. These firms are moving beyond CAD/ BIM/ parametric modeling and into semiautonomous and algorithmically driven processes across different platforms to carry specific project tasks. Part II moves through a large array of case studies on algorithmically driven building simulation optimization, controlled façade shades, buildings, infrastructure projects, and urban design tasks.[9-2]
+
 ## 1.	参数化设计工具界面体验；
 
 ## 2.	数据管理、处理及云平台；
@@ -934,6 +942,13 @@ Parametric is not new. Parametric ideas in design modeling were an essential fea
 ## 3.	设计空间形式的分析、构建、到优化生成和机器学习；
 ### machine learning
 With learning algorithms we are moving away from manually coding systems to designing systems that learn from experience. We are in the first steps of creating sophisticated machine learning algorithms that develop specifi c intelligence in design synthesis, building simulation, operation, control, and benchmarking[9-1]
+
+[9-2]
+Automating Architecture and Engineering via Machine Learning
+
+In computer science, parametric is considered the most primitive stage of artifi cial intelligence ( AI). As will be described in detail in Chapter 17, most of the major automation projects we see today in other industries are part of the second era of AI: the machine learning period. In this second era AI algorithms are no longer designed to perform particular tasks, but they are designed to learn without being explicitly programmed to do that task.
+
+Machine learning algorithms are deployed to learn from data. They discover patterns and develop predictive behaviors or models to do particular jobs. In many industries these learning algorithms do tasks like the guiding of automated cars, the maneuvering of robots, or detecting patterns in data. AI algorithms allow apparatuses to perform tasks in real-time without being controlled by remote equipment or human. In Part II we show some extraordinary examples of how fi rms are moving into further automating their workfl ows as we move into post- parametric paradigms.[9-2]
 
 
 
@@ -1077,11 +1092,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNz
-U5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4
-OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5OD
-csMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1
-OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNz
-EsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUy
-NDYwNDUxOF19
+eyJoaXN0b3J5IjpbLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNj
+EyNDY4OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3
+NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3OD
+QsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkw
+NDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyND
+UsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2
+ODMwMTA5XX0=
 -->
