@@ -1135,9 +1135,9 @@ and futures in landscape architecture//[1]:89-116
 
 [9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 
-
+[9-4]Alfredo Andia and Thomas Spiegelhalter.Post-Parametric Workflows in Architectural and Engineering Offices[M]//[9]:35-38
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyMjk3NzEsLTE5MjgwOTE3NTEsMT
+eyJoaXN0b3J5IjpbLTE5MDkzNzY1NjUsLTE5MjgwOTE3NTEsMT
 U5NDY3MzkzOSwtMzcxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5
 NjczMiwtMTYxMjQ2ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyND
 Q5LC05MjM1NzU3MDUsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0x
