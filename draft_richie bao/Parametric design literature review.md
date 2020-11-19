@@ -910,6 +910,7 @@ Three Parametric Paradigms
 As 3-D parametric software and tools are being rediscovered by architecture and engineering firms, they are beginning to change their design workfl ows. Contemporary design practices have developed at least three different narratives with regard to parametric design:
 
 1. Parametric formalism: Parametric modeling and scripting has been used by a large number of digital avant-garde designers in intricate complex formal compositions [8]. Designers using this narrative use parametric techniques to substitute the manual designer in form-finding functions.[9-2]
+Recently, however, computers and parametric modeling platforms are allowing designers to manage and engage with some of these forms of complexity in ways that have never been possible before. In particular, computationally driven strategies for conducting searches of large design spaces and for capturing complex systemic relationships are beginning to emerge within the design professions. Not only do these types of tools allow for better management of the complexities of our design problems, they can even be leveraged to drive those design processe[9-5]
 
 ### automation
 Today algorithms, scripting, robots, digital manufacturing, and new autonomous workflow systems are once more transforming the meaning of the term automation. [9-2]
@@ -1145,11 +1146,11 @@ and futures in landscape architecture//[1]:89-116
 [9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ2ODA0NDQsLTkyNTQ0MjA0NiwtMT
-kyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1MDMwMTksLTQxNDkx
-NjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4OTcwLDE3NTk0MDUyND
-ksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4
-NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4NywxNTc5Mz
-M3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQs
-LTg4MTgyOTZdfQ==
+eyJoaXN0b3J5IjpbMTk5MTExMzExLC0xMDY0NjgwNDQ0LC05Mj
+U0NDIwNDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAz
+MDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MC
+wxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1
+ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MT
+Q5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywx
+MTg1OTg4ODY0XX0=
 -->
