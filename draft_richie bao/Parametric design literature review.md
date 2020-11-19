@@ -921,7 +921,9 @@ In the 1990s design and engineering companies in the developed world were implem
 
 The most basic conceptualization of parametric refers to a 3-D digital model or digital environment associated with knowledge structures, information, performance properties, and automatic procedures that can aid the designer to construct quick scenarios during design. These models can be updated over time through the Cloud and reused.[9-2]
 
+For instance, automation processes with feedback loop capabilities are natural partners to help designers improve the parameter inputs, predictions, optimize scheduling, identify patterns, and coordinate clashes and interferences. This also includes control and monitoring of ineffi cient energy and water systems in a building or even a city.[9-3]
 
+However, the next generation of computational programming will begin to occur inside the automation domain and not in terms of software design.[9-3]
 
 ### history
 [9-2]
@@ -958,6 +960,9 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 
 
 ## 5.	可持续性设计及设计空间形式协同优化；
+### Carbon
+The targets for carbon neutrality can temporarily be accomplished through interoperable parametric-algorithmic design optimization processes to predict the future of the operational resource use of buildings. These design workfl ows also incorporate total life-cycle scenario tools for performance, material properties and resource use, and design-to-factory procedures. The intended interoperability for these building information model ( BIM) platforms is the capability of autonomous, heterogeneous systems to work together as seamlessly as possible to exchange information in an effi cient and usable way. The advantage is described that these 3-D- BIM design platforms links variables, dimensions, and materials to geometry in a way that when an input or simulation value changes, the 3-D/4-D/5-D model automatically updates all life-cycle scenarios and components simultaneously.[9-3]
+
 
 ## 6.	BIM和GIS的参数化途径；
 ### BIM.
@@ -965,6 +970,8 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 2. Parametric BIM: BIM has become one of the central themes in the computerization of architectural practice today. BIM software and processes allow architects and engineers to construct virtual models that accurately replicate building systems, materials, performance, and lifecycle processes. BIM narratives in practice have mostly concentrated in what the AEC industry calls 3-D, 4-D, 5-D, and 6-D BIM.
 
 3-D BIM refers to collision detection models; 4-D BIM is used for construction sequence models; 5-D BIM models are associated with cost estimation; and 6-D BIM models are used for facilities management during the life span of the building. The merging of these parametric BIM models with embedded sensors procurement procedures, building simulation modeling, intelligent 3-D libraries, price engines, and bidding systems will move the narrative further. However, in spite of the exaggerated claims in the media that BIM is “revolutionizing” the AEC industry, BIM is still a labor-intensive procedure, and it is not a radically more intelligent method.[9-2]
+
+Some of those interoperable BIM platforms allow free plug-ins for several CAD tools (Graphisoft, ArchiCAD, Autodesk’s Revit Architecture & MEP, Rhino, SketchUp, Grasshopper, Bentley, etc.).[9-3]
 
 ### GIS 
 
@@ -1113,11 +1120,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE3MjY1MzcsMTU5NDY3MzkzOSwtMz
-cxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2
-ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MD
-UsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05
-NDY4MTQ5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNT
-AxNywxMTg1OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0x
-Nzk3MjkzNzFdfQ==
+eyJoaXN0b3J5IjpbNTAyMzY1NTk0LDE1OTQ2NzM5MzksLTM3MT
+UwMzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5
+NzAsMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC
+0xNTgyODk1MDEyLDg0MTM5NzczMCwtMTk0NDYyMDc4NCwtOTQ2
+ODE0OTg3LDE1NzkzMzc0NzUsNzcwODE0OTc1LDE5OTA0MzUwMT
+csMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3ODM4NDI0NSwtMTc5
+NzI5MzcxXX0=
 -->
