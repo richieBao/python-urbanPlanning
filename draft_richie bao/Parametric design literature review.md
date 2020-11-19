@@ -942,6 +942,9 @@ In Part II of this book we present a diverse array of cases of technologically p
 ## 1.	参数化设计工具界面体验；
 
 ## 2.	数据管理、处理及云平台；
+In addition, the next generation of platforms will also include personal supercomputer systems and interoperable Cloud service worldwide.[9-3]
+
+It is also available via the cloud, meaning it can be accessed from anywhere.[9-3]
 
 ## 3.	设计空间形式的分析、构建、到优化生成和机器学习；
 ### machine learning
@@ -954,6 +957,8 @@ In computer science, parametric is considered the most primitive stage of artifi
 
 Machine learning algorithms are deployed to learn from data. They discover patterns and develop predictive behaviors or models to do particular jobs. In many industries these learning algorithms do tasks like the guiding of automated cars, the maneuvering of robots, or detecting patterns in data. AI algorithms allow apparatuses to perform tasks in real-time without being controlled by remote equipment or human. In Part II we show some extraordinary examples of how fi rms are moving into further automating their workfl ows as we move into post- parametric paradigms.[9-2]
 
+there will be a more complex portion of software with integrated high-speed machine-learning and data analytics algorithms that automatically translate in real time new models into executable software.[9-3]
+
 
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
@@ -962,6 +967,9 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 ## 5.	可持续性设计及设计空间形式协同优化；
 ### Carbon
 The targets for carbon neutrality can temporarily be accomplished through interoperable parametric-algorithmic design optimization processes to predict the future of the operational resource use of buildings. These design workfl ows also incorporate total life-cycle scenario tools for performance, material properties and resource use, and design-to-factory procedures. The intended interoperability for these building information model ( BIM) platforms is the capability of autonomous, heterogeneous systems to work together as seamlessly as possible to exchange information in an effi cient and usable way. The advantage is described that these 3-D- BIM design platforms links variables, dimensions, and materials to geometry in a way that when an input or simulation value changes, the 3-D/4-D/5-D model automatically updates all life-cycle scenarios and components simultaneously.[9-3]
+
+### BAS building automation systems
+Today’s building automation systems ( BAS) are centralized, interlinked, and sensor driven human-computer-interface (HCI) networks of hardware and software. They monitor, control, and optimize in real time the environment in residential, commercial, industrial, and institutional facilities. While managing various building systems, the learning automation system ensures the operational performance (transportation, light, water, HVAC, energy generation, storage and distribution, etc.) of the facility as well as the comfort and safety of building occupants[9-3]
 
 
 ## 6.	BIM和GIS的参数化途径；
@@ -1120,11 +1128,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzY1NTk0LDE1OTQ2NzM5MzksLTM3MT
-UwMzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5
-NzAsMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC
-0xNTgyODk1MDEyLDg0MTM5NzczMCwtMTk0NDYyMDc4NCwtOTQ2
-ODE0OTg3LDE1NzkzMzc0NzUsNzcwODE0OTc1LDE5OTA0MzUwMT
-csMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3ODM4NDI0NSwtMTc5
-NzI5MzcxXX0=
+eyJoaXN0b3J5IjpbMjA3MDU3MDQ5MSwxNTk0NjczOTM5LC0zNz
+E1MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4
+OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNS
+wtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0
+NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MD
+E3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3
+OTcyOTM3MV19
 -->
