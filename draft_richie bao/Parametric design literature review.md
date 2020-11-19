@@ -916,6 +916,7 @@ With learning algorithms we are moving away from manually coding systems to desi
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
 
+
 ## 5.	可持续性设计及设计空间形式协同优化；
 
 ## 6.	BIM和GIS的参数化途径；
@@ -927,6 +928,9 @@ With learning algorithms we are moving away from manually coding systems to desi
 
 
 ## 7.	机器人建造与3D打印；
+architects and engineers are developing custom fabrication and mass customization techniques by developing in one case a large number of subassembly units just-intime and in another case using robotics to achieve very unique design performance and life-cycle design quality.[9-1]
+
+Today we have experienced only 3-D digital manufacturing platforms such as 3-D printing, computer numerical control ( CNC), laser cutting, and infl exible robotics. 3-D digital manufacturing alters materials on a large scale. We are quickly entering into a 4-D digital manufacturing period in which we will be able to design, create, and print all sorts of new environmentally sound materials at a microscopic level, inventing materials that cannot be found in nature. In a longer horizon we will began to see the emergence of an N-D digital manufacturing era in which materials can be programmed and be malleable at will.[9-1]
 
 ## 8.	交互硬件与信息数据流；
 
@@ -1041,7 +1045,7 @@ and futures in landscape architecture//[1]:89-116
 
 [9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:13-14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODQ5NTk0MiwtMTg2NjAxMjQ0OSwtOT
+eyJoaXN0b3J5IjpbMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOT
 IzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5NzczMCwtMTk0NDYy
 MDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0NzUsNzcwODE0OTc1LD
 E5OTA0MzUwMTcsMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3ODM4
