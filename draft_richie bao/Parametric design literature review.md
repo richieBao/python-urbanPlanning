@@ -963,6 +963,8 @@ Today we have experienced only 3-D digital manufacturing platforms such as 3-D p
 ## 9.	图表报告及制图
 
 ## misc
+3. Workflow parametric: A third type of narrative is emerging inside design firms that are using parametric features to automate specific design workflows for projects such as façade design, environmental benchmarking, or structural optimization procedures. These groups are usually project-driven, part of special units inside the fi rms, and they work in aiding designers to explore generative and analytical computational processes in design.
+[9-2]
 	
 
 
@@ -1075,11 +1077,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NDU3MDkzLC0xNjEyNDY4OTcwLDE3NT
-k0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMTU4Mjg5
-NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4Ny
-wxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5
-ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcyOTM3MS
-wxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0
-NjA0NTE4XX0=
+eyJoaXN0b3J5IjpbMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNz
+U5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4
+OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5OD
+csMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1
+OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNz
+EsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUy
+NDYwNDUxOF19
 -->
