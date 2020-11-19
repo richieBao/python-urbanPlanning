@@ -922,6 +922,7 @@ A new kind of landscape design practitioner, one with degrees in landscape archi
 
 ## 9.	图表报告及制图
 
+## misc
 	
 
 
@@ -1030,11 +1031,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:13-14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMT
-U4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0Njgx
-NDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LD
-ExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcy
-OTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC
-0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5
-ODA5NV19
+eyJoaXN0b3J5IjpbLTIxNDM0NTQ1NzMsLTE4NjYwMTI0NDksLT
+kyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2
+MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NS
+wxOTkwNDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgz
+ODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MS
+wxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkx
+NzkyMDg0M119
 -->
