@@ -973,6 +973,25 @@ architects and engineers are developing custom fabrication and mass customizatio
 
 Today we have experienced only 3-D digital manufacturing platforms such as 3-D printing, computer numerical control ( CNC), laser cutting, and infl exible robotics. 3-D digital manufacturing alters materials on a large scale. We are quickly entering into a 4-D digital manufacturing period in which we will be able to design, create, and print all sorts of new environmentally sound materials at a microscopic level, inventing materials that cannot be found in nature. In a longer horizon we will began to see the emergence of an N-D digital manufacturing era in which materials can be programmed and be malleable at will.[9-1]
 
+[9-2]
+Automating Construction via the Future of Digital Manufacturing The prefabrication and manufacturing automation narratives described in Part III are extraordinary but are by no means the ultimate image of automation in construction. On the contrary, they are just the preparation acts. Chapter 18 argues that digital manufacturing will ultimately challenge not only the way we process materials but also create completely new materials and eventually programmable matter—materials that can transform their physical properties via programmable control. The impacts of digital manufacturing will come in three different stages:
+
+1. 3-D digitally manufacturing any forms;
+
+2. 4-D digitally manufacturing completely new materials;
+
+3. N-D manufacturing via programmable matter.
+
+First, today an array of digitally controlled machines such as 3-D printers, CNC machines, robotic arms, and laser cutters is allowing us to manipulate any construction material with extreme accuracy. However, most of these impacts are at the level of manipulating materials at the human scale, but these changes do not affect signifi cantly the performance of materials. Today we are entering into a 4-D digitally manufacturing era. In this second period we can use multimaterial printers and nanotechnology to manufacture completely new materials that cannot be found in nature. Further into the future a third epoch of N-D digital manufacturing will emerge when we are able to program materials to perform interactively
+
+On the one hand we look at how a large number of architectural and engineering fi rms are transforming their practices by using parametric, BIM, and scripting tools that help them automate parts of their design and analytical routine work from design to fabrication. On the other hand we observe how large engineers/contractors have begun to transform their construction practices by moving gradually into prefabrication, modularization, and manufacturing.
+
+Both narratives are incomplete. The design automation led by architects and engineers using parametric will not succeed in automating a signifi cant number of workfl ows in the AEC industry. Instead, machine learning algorithms such as the ones used in many other industries will allow the design fields to automate their processes in a more effective way than parameter adjustments.
+
+The current trend from engineers/contractors for prefabrication and modularization will potentially encounter the rise of 3-D multimaterials printers and synthetic biology processes. These methods can produce all types of new materials and biomaterials that can be designed at the microand nanometer level to respond to very particular conditions. This will lead to a completely new way of looking at digital manufacturing.
+
+The advent of a more precise way of construction will eventually lead to a transformation of the designer and the traditional design process. Traditional design processes, either via hand-drawing or even with parametric CAD, are unable to plan with designing material performance at the macroscopic and microscopic levels. Machine learning design automation will have to play an increasingly important role in design synthesis for the construction elements that use multimaterials in the near future. As was observed at the beginning of this chapter, automation implies important themes in saving labor, energy, and materials, as well as construction quality, and sustainability. The last factor will be an important factor throughout this book and the subject of the next chapter. The construction sector is in urgent need of modernizing and shifting toward sustainable construction practices as this has been identifi ed by the United Nations (UN) as a key industry in the attempt to solve global warming [11].[9-2]
+
 ## 8.	交互硬件与信息数据流；
 
 ## 9.	图表报告及制图
@@ -1092,11 +1111,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNj
-EyNDY4OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3
-NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3OD
-QsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkw
-NDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyND
-UsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2
-ODMwMTA5XX0=
+eyJoaXN0b3J5IjpbLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMz
+AxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2NjAx
+MjQ0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5NzczMC
+wtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0NzUsNzcw
+ODE0OTc1LDE5OTA0MzUwMTcsMTE4NTk4ODg2NCwtODgxODI5Ni
+wtMTA3ODM4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwODUsNzg5
+MjE2MTcxXX0=
 -->
