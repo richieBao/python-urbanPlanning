@@ -961,12 +961,15 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 
 there will be a more complex portion of software with integrated high-speed machine-learning and data analytics algorithms that automatically translate in real time new models into executable software.[9-3]
 
+### generative design
+For example in one approach they used self-organization-based agent models with attractrepel algorithms in which a user can interactively generate space planning and quick massing studies. Other methods include urban spatial planning, access design, and occupancy and behavioral mapping. The chapter emphasizes that architecture is meant to provide experiences by using spaces and observes that digital design procedures should be able to help generate, visualize, and evaluate the heuristics of places and users.[9-4]
+
 
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
 Genetic algorithms are used in performative searches for structural and environmental control solutions and metrics.[9-4]
 
-
+In Chapter 7, Lucio Blandini, Albert Schuster, and Thomas Spiegelhalter illustrate how a large-scale infrastructure project is designed, coded, and scripted through a highly automated workflow process of nonlinear analysis and structural behavior optimization methods. Scripting was hereby a very helpful method for the automated modeling and optimization of all the workfl ow scenarios between the different professionals involved. Besides the structural optimization, the project was also algorithmically modeled to discover the most effi cient low-energy scenarios and assembly strategies. Compared to an average railway station structure with the same spans, this team was able to reduce the overall structure to one-hundredth of span, resulting in the use of much less material. The new zero-energy railway station is discussed as a prototype of a new generation of railway typologies that will provide passenger comfort with passive strategies on the highest level.[9-4]
 
 ## 5.	可持续性设计及设计空间形式协同优化；
 ### Carbon
@@ -1139,7 +1142,7 @@ and futures in landscape architecture//[1]:89-116
 
 [9-4]Alfredo Andia and Thomas Spiegelhalter.Post-Parametric Workflows in Architectural and Engineering Offices[M]//[9]:35-38
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODEyNjgyNCwtMTkyODA5MTc1MSwxNT
+eyJoaXN0b3J5IjpbLTkyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNT
 k0NjczOTM5LC0zNzE1MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2
 NzMyLC0xNjEyNDY4OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0ND
 ksLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5
