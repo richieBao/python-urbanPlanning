@@ -1024,13 +1024,17 @@ and futures in landscape architecture//[1]:89-116
 
 [8]赖文波,杜春兰,贾铠针,江虹.景观信息模型(LIM)框架构建研究——以重庆大学B校区三角地改造为例[J].中国园林,2015,31(07):26-30.
 
+---
+
 [9] Alfredo Andia, Thomas Spiegelhalter.  Post-parametric Automation in Design and Construction[M].Norwood :Artech House, November, 2014
+
+[9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:218-235
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4ND
-EzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3
-NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQsLT
-g4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2
-MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC
-0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5ODA5NSwtNTA2MzM0
-NzMyXX0=
+eyJoaXN0b3J5IjpbLTE0Nzc0OTA0NTEsLTkyMzU3NTcwNSwtMT
+U4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0Njgx
+NDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LD
+ExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcy
+OTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC
+0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkxNzkyMDg0MywyODM5
+ODA5NV19
 -->
