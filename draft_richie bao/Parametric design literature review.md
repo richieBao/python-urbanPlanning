@@ -946,6 +946,8 @@ In addition, the next generation of platforms will also include personal superco
 
 It is also available via the cloud, meaning it can be accessed from anywhere.[9-3]
 
+The future of green building automation will be Cloud-computingcontrolled buildings. Cloud-controlled buildings provide the fl exibility to expand wireless infrastructures with sensor-collected trend data and self-programming data analytics algorithms. The Cloud will be where the applications run and where the data is analyzed and acted upon as it arrives. Digital data is changing; we are moving into a world with an ever growing number of data sources. As the amount of the data and the requirement for algorithms that act on the fl y increase, a green BAS cloud will be able to automatically do real-time stream analytics of different variables in seconds and expand itself to accommodate the operation and peak load control needs on any scale from buildings to cities.[9-3]
+
 ## 3.	设计空间形式的分析、构建、到优化生成和机器学习；
 ### machine learning
 With learning algorithms we are moving away from manually coding systems to designing systems that learn from experience. We are in the first steps of creating sophisticated machine learning algorithms that develop specifi c intelligence in design synthesis, building simulation, operation, control, and benchmarking[9-1]
@@ -968,8 +970,13 @@ there will be a more complex portion of software with integrated high-speed mach
 ### Carbon
 The targets for carbon neutrality can temporarily be accomplished through interoperable parametric-algorithmic design optimization processes to predict the future of the operational resource use of buildings. These design workfl ows also incorporate total life-cycle scenario tools for performance, material properties and resource use, and design-to-factory procedures. The intended interoperability for these building information model ( BIM) platforms is the capability of autonomous, heterogeneous systems to work together as seamlessly as possible to exchange information in an effi cient and usable way. The advantage is described that these 3-D- BIM design platforms links variables, dimensions, and materials to geometry in a way that when an input or simulation value changes, the 3-D/4-D/5-D model automatically updates all life-cycle scenarios and components simultaneously.[9-3]
 
+Today and in the future, automated green building manufacturing will go naturally together with faster and more flexible customization, and corporate sustainability strategies to reduce manufacturers’ carbon footprints and energy costs for revenue growth with return on capital employed (ROCE).[9-3]
+
 ### BAS building automation systems
 Today’s building automation systems ( BAS) are centralized, interlinked, and sensor driven human-computer-interface (HCI) networks of hardware and software. They monitor, control, and optimize in real time the environment in residential, commercial, industrial, and institutional facilities. While managing various building systems, the learning automation system ensures the operational performance (transportation, light, water, HVAC, energy generation, storage and distribution, etc.) of the facility as well as the comfort and safety of building occupants[9-3]
+
+### sustainable
+Sustainable traditions from the craftsman era that were either lost or underscored during the era of mass production can now be individually integrated in green manufacturing and 3-D printing settings.[9-3]
 
 
 ## 6.	BIM和GIS的参数化途径；
@@ -1128,11 +1135,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDU3MDQ5MSwxNTk0NjczOTM5LC0zNz
-E1MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4
-OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNS
-wtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0
-NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MD
-E3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3
-OTcyOTM3MV19
+eyJoaXN0b3J5IjpbLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMz
+cxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2
+ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MD
+UsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05
+NDY4MTQ5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNT
+AxNywxMTg1OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0x
+Nzk3MjkzNzFdfQ==
 -->
