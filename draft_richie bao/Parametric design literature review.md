@@ -1091,7 +1091,7 @@ and futures in landscape architecture//[1]:89-116
 
 [3]Wassim Jabi. Parametric design for architecture[M]. London:Laurence King Publishing, September, 2013 : page range.
 
-[4]Robert Woodbury. Elements of Parametric Design[M]. New York:Routledge, July, 2010 : page range.
+[4]Robert Woodbury. Elements of Parametric Design[M]. New York:Routledge, July, 2010 : page r-ange.
 
 [5]Christopher Beorkrem. Material strategies in digital fabrication[M].Oxon :Routledg, July, 2017:page range.
 
@@ -1109,13 +1109,13 @@ and futures in landscape architecture//[1]:89-116
 
 [9-2]Alfredo Andia, Thomas Spiegelhalter. Toward Automating Design and Construction[M]//[9]:19-25
 
-
+[9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMz
-AxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2NjAx
-MjQ0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5NzczMC
-wtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0NzUsNzcw
-ODE0OTc1LDE5OTA0MzUwMTcsMTE4NTk4ODg2NCwtODgxODI5Ni
-wtMTA3ODM4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwODUsNzg5
-MjE2MTcxXX0=
+eyJoaXN0b3J5IjpbMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC00MT
+Q5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNzU5NDA1
+MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4OTUwMT
+IsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5ODcsMTU3
+OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1OTg4OD
+Y0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3
+MTkyNjA4NV19
 -->
