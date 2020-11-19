@@ -1028,9 +1028,9 @@ and futures in landscape architecture//[1]:89-116
 
 [9] Alfredo Andia, Thomas Spiegelhalter.  Post-parametric Automation in Design and Construction[M].Norwood :Artech House, November, 2014
 
-[9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:218-235
+[9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:13-14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc0OTA0NTEsLTkyMzU3NTcwNSwtMT
+eyJoaXN0b3J5IjpbLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMT
 U4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0Njgx
 NDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LD
 ExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcy
