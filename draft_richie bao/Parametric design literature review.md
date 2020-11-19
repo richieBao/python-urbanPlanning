@@ -1142,13 +1142,14 @@ and futures in landscape architecture//[1]:89-116
 
 [9-4]Alfredo Andia and Thomas Spiegelhalter.Post-Parametric Workflows in Architectural and Engineering Offices[M]//[9]:35-38
 
+[9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzczNTAwNiwtOTI1NDQyMDQ2LC0xOT
-I4MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2
-NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OS
-wtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0
-MTM5NzczMCwtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3LDE1NzkzMz
-c0NzUsNzcwODE0OTc1LDE5OTA0MzUwMTcsMTE4NTk4ODg2NCwt
-ODgxODI5Nl19
+eyJoaXN0b3J5IjpbLTEwNjQ2ODA0NDQsLTkyNTQ0MjA0NiwtMT
+kyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1MDMwMTksLTQxNDkx
+NjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4OTcwLDE3NTk0MDUyND
+ksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4
+NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4NywxNTc5Mz
+M3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQs
+LTg4MTgyOTZdfQ==
 -->
