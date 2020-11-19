@@ -964,6 +964,8 @@ there will be a more complex portion of software with integrated high-speed mach
 
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
+Genetic algorithms are used in performative searches for structural and environmental control solutions and metrics.[9-4]
+
 
 
 ## 5.	可持续性设计及设计空间形式协同优化；
@@ -1137,11 +1139,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-4]Alfredo Andia and Thomas Spiegelhalter.Post-Parametric Workflows in Architectural and Engineering Offices[M]//[9]:35-38
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzNzY1NjUsLTE5MjgwOTE3NTEsMT
-U5NDY3MzkzOSwtMzcxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5
-NjczMiwtMTYxMjQ2ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyND
-Q5LC05MjM1NzU3MDUsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0x
-OTQ0NjIwNzg0LC05NDY4MTQ5ODcsMTU3OTMzNzQ3NSw3NzA4MT
-Q5NzUsMTk5MDQzNTAxNywxMTg1OTg4ODY0LC04ODE4Mjk2LC0x
-MDc4Mzg0MjQ1XX0=
+eyJoaXN0b3J5IjpbLTkzODEyNjgyNCwtMTkyODA5MTc1MSwxNT
+k0NjczOTM5LC0zNzE1MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2
+NzMyLC0xNjEyNDY4OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0ND
+ksLTkyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5
+NDQ2MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxND
+k3NSwxOTkwNDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEw
+NzgzODQyNDVdfQ==
 -->
