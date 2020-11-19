@@ -897,12 +897,22 @@ A new kind of landscape design practitioner, one with degrees in landscape archi
 
 ## 结论与讨论
 
+## 参数化
+
+In the next decade automation will move the subject of computers in design way beyond the computer graphic narratives (computer-aided design ( CAD)/building information modeling ( BIM)/ parametric) that
+have dominated architecture and engineering in the past two decades.[9-1]
+
+Software metaphors such as computer graphics and parametric systems are considered in design theory of computer sciences as the most primitive stage of artificial intelligence.[9-1]
 
 ## 1.	参数化设计工具界面体验；
 
 ## 2.	数据管理、处理及云平台；
 
 ## 3.	设计空间形式的分析、构建、到优化生成和机器学习；
+### machine learning
+With learning algorithms we are moving away from manually coding systems to designing systems that learn from experience. We are in the first steps of creating sophisticated machine learning algorithms that develop specifi c intelligence in design synthesis, building simulation, operation, control, and benchmarking[9-1]
+
+
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
 
@@ -1031,11 +1041,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-1]Alfredo Andia, Thomas Spiegelhalter. Post-Parametric Automation in Design and Construction[M]//[9]:13-14
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM0NTQ1NzMsLTE4NjYwMTI0NDksLT
-kyMzU3NTcwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2
-MjA3ODQsLTk0NjgxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NS
-wxOTkwNDM1MDE3LDExODU5ODg4NjQsLTg4MTgyOTYsLTEwNzgz
-ODQyNDUsLTE3OTcyOTM3MSwxMjcxOTI2MDg1LDc4OTIxNjE3MS
-wxNTI2ODMwMTA5LC0xNTI0NjA0NTE4LC0xOTk3ODg1Mjk4LDkx
-NzkyMDg0M119
+eyJoaXN0b3J5IjpbMTQzODQ5NTk0MiwtMTg2NjAxMjQ0OSwtOT
+IzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5NzczMCwtMTk0NDYy
+MDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0NzUsNzcwODE0OTc1LD
+E5OTA0MzUwMTcsMTE4NTk4ODg2NCwtODgxODI5NiwtMTA3ODM4
+NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwODUsNzg5MjE2MTcxLD
+E1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLTE5OTc4ODUyOTgsOTE3
+OTIwODQzXX0=
 -->
