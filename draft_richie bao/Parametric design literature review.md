@@ -921,6 +921,8 @@ In the 1990s design and engineering companies in the developed world were implem
 
 The most basic conceptualization of parametric refers to a 3-D digital model or digital environment associated with knowledge structures, information, performance properties, and automatic procedures that can aid the designer to construct quick scenarios during design. These models can be updated over time through the Cloud and reused.[9-2]
 
+
+
 ### history
 [9-2]
 Brief History of Parametric in Architecture
@@ -1111,11 +1113,11 @@ and futures in landscape architecture//[1]:89-116
 
 [9-3]Alfredo Andia,Thomas Spiegelhalter.Green Automation: Design Optimization, Manufacturing, and Life-Cycle Sustainability[M]//[9]:27-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC00MT
-Q5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNzU5NDA1
-MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4OTUwMT
-IsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5ODcsMTU3
-OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1OTg4OD
-Y0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNzEsMTI3
-MTkyNjA4NV19
+eyJoaXN0b3J5IjpbLTE1ODE3MjY1MzcsMTU5NDY3MzkzOSwtMz
+cxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2
+ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MD
+UsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05
+NDY4MTQ5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNT
+AxNywxMTg1OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0x
+Nzk3MjkzNzFdfQ==
 -->
