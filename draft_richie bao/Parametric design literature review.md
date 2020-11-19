@@ -1038,6 +1038,8 @@ The advent of a more precise way of construction will eventually lead to a trans
 ## misc
 3. Workflow parametric: A third type of narrative is emerging inside design firms that are using parametric features to automate specific design workflows for projects such as façade design, environmental benchmarking, or structural optimization procedures. These groups are usually project-driven, part of special units inside the fi rms, and they work in aiding designers to explore generative and analytical computational processes in design.
 [9-2]
+
+In order to design these types of integrated systems of systems, designers need better tools for managing the information they are working with[9-5]
 	
 
 
@@ -1155,7 +1157,7 @@ and futures in landscape architecture//[1]:89-116
 [9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU4MjYxNzcsLTEwNjQ2ODA0NDQsLT
+eyJoaXN0b3J5IjpbLTE1ODQyMTc2MTMsLTEwNjQ2ODA0NDQsLT
 kyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1
 MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4OT
 cwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwt
