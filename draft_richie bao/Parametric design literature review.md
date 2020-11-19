@@ -909,7 +909,8 @@ Three Parametric Paradigms
 
 As 3-D parametric software and tools are being rediscovered by architecture and engineering firms, they are beginning to change their design workfl ows. Contemporary design practices have developed at least three different narratives with regard to parametric design:
 
-1. Parametric formalism: Parametric modeling and scripting has been used by a large number of digital avant-garde designers in intricate complex formal compositions [8]. Designers using this narrative use parametric techniques to substitute the manual designer in form-finding functions.[9-2]
+Parametric formalism: Parametric modeling and scripting has been used by a large number of digital avant-garde designers in intricate complex formal compositions [8]. Designers using this narrative use parametric techniques to substitute the manual designer in form-finding functions.[9-2]
+
 Recently, however, computers and parametric modeling platforms are allowing designers to manage and engage with some of these forms of complexity in ways that have never been possible before. In particular, computationally driven strategies for conducting searches of large design spaces and for capturing complex systemic relationships are beginning to emerge within the design professions. Not only do these types of tools allow for better management of the complexities of our design problems, they can even be leveraged to drive those design processe[9-5]
 
 ### automation
@@ -965,12 +966,20 @@ there will be a more complex portion of software with integrated high-speed mach
 ### generative design
 For example in one approach they used self-organization-based agent models with attractrepel algorithms in which a user can interactively generate space planning and quick massing studies. Other methods include urban spatial planning, access design, and occupancy and behavioral mapping. The chapter emphasizes that architecture is meant to provide experiences by using spaces and observes that digital design procedures should be able to help generate, visualize, and evaluate the heuristics of places and users.[9-4]
 
+Another search technique being used on design problems is the genetic algorithm ( GA). With a GA, the designer must fi rst characterize the design as a series of numeric variables that correlate to the geometric properties of the design, essentially its genome. These values are free to change during the course of the algorithm’s execution as it searches for the combinations of values that lead to the creation of the best solutions. Again, the designer must also describe “best” in terms the computer can calculate and measure [9-5]
+
 
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
 Genetic algorithms are used in performative searches for structural and environmental control solutions and metrics.[9-4]
 
 In Chapter 7, Lucio Blandini, Albert Schuster, and Thomas Spiegelhalter illustrate how a large-scale infrastructure project is designed, coded, and scripted through a highly automated workflow process of nonlinear analysis and structural behavior optimization methods. Scripting was hereby a very helpful method for the automated modeling and optimization of all the workfl ow scenarios between the different professionals involved. Besides the structural optimization, the project was also algorithmically modeled to discover the most effi cient low-energy scenarios and assembly strategies. Compared to an average railway station structure with the same spans, this team was able to reduce the overall structure to one-hundredth of span, resulting in the use of much less material. The new zero-energy railway station is discussed as a prototype of a new generation of railway typologies that will provide passenger comfort with passive strategies on the highest level.[9-4]
+
+Figure 3.1 Optimal truss research: This series of images reveals the optimal structural form for a truss, given a specific set of loading, restraint, and meshing criteria, generated using a force-density algorithm.[9-5]
+
+An ongoing research initiative in our structural engineering studio is exploring the concept of effi cient truss topologies. One strategy being leveraged in this exploration is an optimization method called the force-density method. In this search technique, the solution space is a somewhat arbitrarily defi ned block of material with explicitly defi ned supports and applied loads. The search algorithm works like a sculptor, iteratively removing pieces of the block of material that are doing the least amount of work in the transfer of the forces from the loading points to the supports. The result of this iterative subtraction process is a truss form that corresponds to the most effi cient use of the available material; in other words, a structurally optimal truss. If the loading or support conditions are changed, the resulting form will be changed as well. [9-5]
+
+With built-in palettes of NURBS-based shape generation tools, geometry modeling programs like Rhino, Grasshopper, and Digital Project have made it relatively easy for designers to create building shapes that are highl complex and curvilinear. These complex curvilinear geometries must then be rationalized into curtain wall cladding systems, generally consisting of quadrilateral panels of glass and aluminum framing systems. Additionally, the structural systems (including the fl oor slabs, perimeter columns, and substructural components) that hold up the curtain wall system must also be rationalized to refl ect the surface geometry of the building. [9-5]
 
 ## 5.	可持续性设计及设计空间形式协同优化；
 ### Carbon
@@ -1146,11 +1155,11 @@ and futures in landscape architecture//[1]:89-116
 [9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTExMzExLC0xMDY0NjgwNDQ0LC05Mj
-U0NDIwNDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAz
-MDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MC
-wxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1
-ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MT
-Q5ODcsMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywx
-MTg1OTg4ODY0XX0=
+eyJoaXN0b3J5IjpbLTE4ODU4MjYxNzcsLTEwNjQ2ODA0NDQsLT
+kyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1
+MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNjEyNDY4OT
+cwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwt
+MTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0Nj
+gxNDk4NywxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3
+LDExODU5ODg4NjRdfQ==
 -->
