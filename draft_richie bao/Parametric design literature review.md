@@ -904,6 +904,9 @@ have dominated architecture and engineering in the past two decades.[9-1]
 
 Software metaphors such as computer graphics and parametric systems are considered in design theory of computer sciences as the most primitive stage of artificial intelligence.[9-1]
 
+### automation
+Today algorithms, scripting, robots, digital manufacturing, and new autonomous workflow systems are once more transforming the meaning of the term automation. [9-2]
+
 ## 1.	参数化设计工具界面体验；
 
 ## 2.	数据管理、处理及云平台；
@@ -1049,11 +1052,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMT
-g2NjAxMjQ0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5
-NzczMCwtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0Nz
-UsNzcwODE0OTc1LDE5OTA0MzUwMTcsMTE4NTk4ODg2NCwtODgx
-ODI5NiwtMTA3ODM4NDI0NSwtMTc5NzI5MzcxLDEyNzE5MjYwOD
-UsNzg5MjE2MTcxLDE1MjY4MzAxMDksLTE1MjQ2MDQ1MTgsLTE5
-OTc4ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTcyNzc1ODUxNiwtMTYxMjQ2ODk3MCwxNz
+U5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4
+OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5OD
+csMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1
+OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNz
+EsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUy
+NDYwNDUxOF19
 -->
