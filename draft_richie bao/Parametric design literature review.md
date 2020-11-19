@@ -904,6 +904,13 @@ have dominated architecture and engineering in the past two decades.[9-1]
 
 Software metaphors such as computer graphics and parametric systems are considered in design theory of computer sciences as the most primitive stage of artificial intelligence.[9-1]
 
+[9-2]
+Three Parametric Paradigms
+
+As 3-D parametric software and tools are being rediscovered by architecture and engineering firms, they are beginning to change their design workfl ows. Contemporary design practices have developed at least three different narratives with regard to parametric design:
+
+1. Parametric formalism: Parametric modeling and scripting has been used by a large number of digital avant-garde designers in intricate complex formal compositions [8]. Designers using this narrative use parametric techniques to substitute the manual designer in form-finding functions.[9-2]
+
 ### automation
 Today algorithms, scripting, robots, digital manufacturing, and new autonomous workflow systems are once more transforming the meaning of the term automation. [9-2]
 
@@ -937,7 +944,10 @@ With learning algorithms we are moving away from manually coding systems to desi
 
 ## 6.	BIM和GIS的参数化途径；
 ### BIM.
+[9-2]
+2. Parametric BIM: BIM has become one of the central themes in the computerization of architectural practice today. BIM software and processes allow architects and engineers to construct virtual models that accurately replicate building systems, materials, performance, and lifecycle processes. BIM narratives in practice have mostly concentrated in what the AEC industry calls 3-D, 4-D, 5-D, and 6-D BIM.
 
+3-D BIM refers to collision detection models; 4-D BIM is used for construction sequence models; 5-D BIM models are associated with cost estimation; and 6-D BIM models are used for facilities management during the life span of the building. The merging of these parametric BIM models with embedded sensors procurement procedures, building simulation modeling, intelligent 3-D libraries, price engines, and bidding systems will move the narrative further. However, in spite of the exaggerated claims in the media that BIM is “revolutionizing” the AEC industry, BIM is still a labor-intensive procedure, and it is not a radically more intelligent method.[9-2]
 
 ### GIS 
 
@@ -1065,7 +1075,7 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NjgyOTUzLC0xNjEyNDY4OTcwLDE3NT
+eyJoaXN0b3J5IjpbODU1NDU3MDkzLC0xNjEyNDY4OTcwLDE3NT
 k0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMTU4Mjg5
 NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4Ny
 wxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5
