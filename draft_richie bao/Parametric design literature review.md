@@ -907,6 +907,19 @@ Software metaphors such as computer graphics and parametric systems are consider
 ### automation
 Today algorithms, scripting, robots, digital manufacturing, and new autonomous workflow systems are once more transforming the meaning of the term automation. [9-2]
 
+[9-2]
+The Automation Themes in Architecture and Engineering: From CAD to Parametric
+
+In the 1990s design and engineering companies in the developed world were implementing small computerization themes by introducing software such as computer-aided design ( CAD) and enterprise programs on personal computers (PCs). However, PC technology only affected skill/ manual labor [6]. From the early 2000s the possibilities of doing small automation routines that can script design workfl ows have moved into the forefront. Some architects and engineers began to use parametric software and scripting to develop parametric design processes.
+
+The most basic conceptualization of parametric refers to a 3-D digital model or digital environment associated with knowledge structures, information, performance properties, and automatic procedures that can aid the designer to construct quick scenarios during design. These models can be updated over time through the Cloud and reused.[9-2]
+
+### history
+[9-2]
+Brief History of Parametric in Architecture
+
+Parametric is not new. Parametric ideas in design modeling were an essential feature of the fi rst CAD program, Sketchpad, developed by Ivan Sutherland in 1962. Parametric was also part of the pioneering CAD systems in the early 1970s such as SSHA, CEDAR, HARNESS,and OXSYS. These CAD systems had particular parametric features that were associated to a particular type of knowledge base to serve particular organizations and building types [7]. OXSYS was the precursor of building design system ( BDS) and really usable computer-aided production system (RUCAPS), which became available commercially in the UK in the 1970s and surfaced with concepts very similar to today’s BIM systems. All these systems had a common vision: to construct virtually a 3-D building by modeling all their building elements and assemblies. They allowed multi-users to manipulate a single parametric 3-D model in which graphic reports and 2-D drawings were mere automatic derivatives created from the main 3-D model. By the mid-1980s a second wave of 3-D parametrically based software, such as SONATA, Refl ex, CHEOPS, GDS, CATIA, GE/CALMA, Pro/Engineer, Solid Works, and many others, achieved a commercial presence. Many of these pioneering parametric programs in the 1980s became standard in industries such as electronics, infrastructures, aerospace, naval engineering, and car manufacturing. However, most practices in the AEC industry preferred to implement 2-D CAD systems in PCs. It took close to two decades for the 3-D parametric model to make a signifi cant comeback in the AEC industry.[9-2]
+
 ## 1.	参数化设计工具界面体验；
 
 ## 2.	数据管理、处理及云平台；
@@ -1052,11 +1065,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzc1ODUxNiwtMTYxMjQ2ODk3MCwxNz
-U5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4
-OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5OD
-csMTU3OTMzNzQ3NSw3NzA4MTQ5NzUsMTk5MDQzNTAxNywxMTg1
-OTg4ODY0LC04ODE4Mjk2LC0xMDc4Mzg0MjQ1LC0xNzk3MjkzNz
-EsMTI3MTkyNjA4NSw3ODkyMTYxNzEsMTUyNjgzMDEwOSwtMTUy
-NDYwNDUxOF19
+eyJoaXN0b3J5IjpbOTY0NjgyOTUzLC0xNjEyNDY4OTcwLDE3NT
+k0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NTcwNSwtMTU4Mjg5
+NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQsLTk0NjgxNDk4Ny
+wxNTc5MzM3NDc1LDc3MDgxNDk3NSwxOTkwNDM1MDE3LDExODU5
+ODg4NjQsLTg4MTgyOTYsLTEwNzgzODQyNDUsLTE3OTcyOTM3MS
+wxMjcxOTI2MDg1LDc4OTIxNjE3MSwxNTI2ODMwMTA5LC0xNTI0
+NjA0NTE4XX0=
 -->
