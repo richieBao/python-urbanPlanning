@@ -1040,8 +1040,9 @@ The advent of a more precise way of construction will eventually lead to a trans
 [9-2]
 
 In order to design these types of integrated systems of systems, designers need better tools for managing the information they are working with[9-5]
-	
 
+## algorithms
+A series of bespoke algorithms were developed following underlying mathematical principles inspired from the universal order of orbital motion.[9-6]
 
 
 
@@ -1161,11 +1162,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzA4NzczMywxODg4MjQwMSwtMTU4ND
-IxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkx
-NzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LD
-ExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2
-NjAxMjQ0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5Nz
-czMCwtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3LDE1NzkzMzc0NzUs
-NzcwODE0OTc1XX0=
+eyJoaXN0b3J5IjpbLTExMzYzNDEyMjEsMTUxNzA4NzczMywxOD
+g4MjQwMSwtMTU4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQy
+MDQ2LC0xOTI4MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOS
+wtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1
+OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC0xNTgyOD
+k1MDEyLDg0MTM5NzczMCwtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3
+LDE1NzkzMzc0NzVdfQ==
 -->
