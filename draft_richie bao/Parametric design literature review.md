@@ -1417,13 +1417,13 @@ and futures in landscape architecture//[1]:89-116
 
 [10]Benjamin Aranda.Tooling[M].New York:Princeton Architectural Pres, December, 2005.
 
-[11] Christoph Gengnagel,Christoph Gengnagel,
+[11] Christoph Gengnagel,Christoph Gengnagel,Jane Burry editor.Impact: Design With All Senses: Proceedings of the Design Modelling Symposium, Berlin 2019[M].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI1MDMyMDIsNzY4MjI3ODQsLTQ5Mz
-IwODE1OCw2ODA2NjEyMywtMjAwODI4Mzg2NCwtMTU3NDU1NzAy
-NCwtMTE0MjYzNjY5NSw3NzgyMDgxNTksLTM2MjY4NTk3OSwyMD
-M2NjMwMzA4LDExMzk2NzE4MDksMTkzMTE3MDAwMCwxNTE3MDg3
-NzMzLDE4ODgyNDAxLC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC
-05MjU0NDIwNDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcx
-NTAzMDE5XX0=
+eyJoaXN0b3J5IjpbMTIyNDUwMzg4OCw3NjgyMjc4NCwtNDkzMj
+A4MTU4LDY4MDY2MTIzLC0yMDA4MjgzODY0LC0xNTc0NTU3MDI0
+LC0xMTQyNjM2Njk1LDc3ODIwODE1OSwtMzYyNjg1OTc5LDIwMz
+Y2MzAzMDgsMTEzOTY3MTgwOSwxOTMxMTcwMDAwLDE1MTcwODc3
+MzMsMTg4ODI0MDEsLTE1ODQyMTc2MTMsLTEwNjQ2ODA0NDQsLT
+kyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1
+MDMwMTldfQ==
 -->
