@@ -1390,9 +1390,9 @@ and futures in landscape architecture//[1]:89-116
 
 [9-10]Alfredo Andia.Automating Design via Machine Learning Algorithms[M]//[9]:191-199
 
-【】
+[9-11]Alfredo Andia. Automating Construction via n-D Digital Manufacturing[M]//[9]:201-206
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTEyMDEwNCw2ODA2NjEyMywtMjAwOD
+eyJoaXN0b3J5IjpbLTY2MjIzNTM1Niw2ODA2NjEyMywtMjAwOD
 I4Mzg2NCwtMTU3NDU1NzAyNCwtMTE0MjYzNjY5NSw3NzgyMDgx
 NTksLTM2MjY4NTk3OSwyMDM2NjMwMzA4LDExMzk2NzE4MDksMT
 kzMTE3MDAwMCwxNTE3MDg3NzMzLDE4ODgyNDAxLC0xNTg0MjE3
