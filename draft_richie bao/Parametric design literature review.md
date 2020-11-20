@@ -989,6 +989,8 @@ An ongoing research initiative in our structural engineering studio is exploring
 
 With built-in palettes of NURBS-based shape generation tools, geometry modeling programs like Rhino, Grasshopper, and Digital Project have made it relatively easy for designers to create building shapes that are highl complex and curvilinear. These complex curvilinear geometries must then be rationalized into curtain wall cladding systems, generally consisting of quadrilateral panels of glass and aluminum framing systems. Additionally, the structural systems (including the fl oor slabs, perimeter columns, and substructural components) that hold up the curtain wall system must also be rationalized to refl ect the surface geometry of the building. [9-5]
 
+It was recognized at the start of the project that a parametric design process was necessary to effi ciently analyze and document the buildings while still providing freedom for variation within the design. Cox and Arup collaborated to construct the parametric model using Rhino and its parametric design plug-in, Grasshopper. The architect set up and controlled the components that generated the overall shape of the building and the centerlines of the portal frames, while the engineer dictated the required structural properties and performed topology and section optimization. A script was developed to generate the structural framing of the halls from the architectural input with minimal adjustment.[9-7]
+
 ## 5.	可持续性设计及设计空间形式协同优化；
 ### Carbon
 The targets for carbon neutrality can temporarily be accomplished through interoperable parametric-algorithmic design optimization processes to predict the future of the operational resource use of buildings. These design workfl ows also incorporate total life-cycle scenario tools for performance, material properties and resource use, and design-to-factory procedures. The intended interoperability for these building information model ( BIM) platforms is the capability of autonomous, heterogeneous systems to work together as seamlessly as possible to exchange information in an effi cient and usable way. The advantage is described that these 3-D- BIM design platforms links variables, dimensions, and materials to geometry in a way that when an input or simulation value changes, the 3-D/4-D/5-D model automatically updates all life-cycle scenarios and components simultaneously.[9-3]
@@ -1169,14 +1171,14 @@ and futures in landscape architecture//[1]:89-116
 
 [9-6]Abdulmajid Karanouh.Algorithmic Principles for Façade and Building Automation Systems: Al-Bahar Towers, Abu Dhabi[M]//[9]:59-74
 
-[9-7]Clayton Binkley, Paul Jeffries,  Mathew Vola.Design Computation at Arup[M]//[9]:112-
+[9-7]Clayton Binkley, Paul Jeffries,  Mathew Vola.Design Computation at Arup[M]//[9]:112-118
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ5OTg2NDUsMTkzMTE3MDAwMCwxNT
-E3MDg3NzMzLDE4ODgyNDAxLC0xNTg0MjE3NjEzLC0xMDY0Njgw
-NDQ0LC05MjU0NDIwNDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOS
-wtMzcxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYx
-MjQ2ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1Nz
-U3MDUsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0
-LC05NDY4MTQ5ODddfQ==
+eyJoaXN0b3J5IjpbMTEzOTY3MTgwOSwxOTMxMTcwMDAwLDE1MT
+cwODc3MzMsMTg4ODI0MDEsLTE1ODQyMTc2MTMsLTEwNjQ2ODA0
+NDQsLTkyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNTk0NjczOTM5LC
+0zNzE1MDMwMTksLTQxNDkxNjQ0OSwxMTMwMTk2NzMyLC0xNjEy
+NDY4OTcwLDE3NTk0MDUyNDksLTE4NjYwMTI0NDksLTkyMzU3NT
+cwNSwtMTU4Mjg5NTAxMiw4NDEzOTc3MzAsLTE5NDQ2MjA3ODQs
+LTk0NjgxNDk4N119
 -->
