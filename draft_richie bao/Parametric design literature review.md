@@ -971,7 +971,7 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 
 there will be a more complex portion of software with integrated high-speed machine-learning and data analytics algorithms that automatically translate in real time new models into executable software.[9-3]
 
-### generative design
+### generative design/genetic algorithems
 For example in one approach they used self-organization-based agent models with attractrepel algorithms in which a user can interactively generate space planning and quick massing studies. Other methods include urban spatial planning, access design, and occupancy and behavioral mapping. The chapter emphasizes that architecture is meant to provide experiences by using spaces and observes that digital design procedures should be able to help generate, visualize, and evaluate the heuristics of places and users.[9-4]
 
 Another search technique being used on design problems is the genetic algorithm ( GA). With a GA, the designer must fi rst characterize the design as a series of numeric variables that correlate to the geometric properties of the design, essentially its genome. These values are free to change during the course of the algorithm’s execution as it searches for the combinations of values that lead to the creation of the best solutions. Again, the designer must also describe “best” in terms the computer can calculate and measure [9-5]
@@ -1278,11 +1278,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2MzY2OTUsNzc4MjA4MTU5LC0zNj
-I2ODU5NzksMjAzNjYzMDMwOCwxMTM5NjcxODA5LDE5MzExNzAw
-MDAsMTUxNzA4NzczMywxODg4MjQwMSwtMTU4NDIxNzYxMywtMT
-A2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkxNzUxLDE1OTQ2
-NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3Mz
-IsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwt
-OTIzNTc1NzA1XX0=
+eyJoaXN0b3J5IjpbLTE1NzQ1NTcwMjQsLTExNDI2MzY2OTUsNz
+c4MjA4MTU5LC0zNjI2ODU5NzksMjAzNjYzMDMwOCwxMTM5Njcx
+ODA5LDE5MzExNzAwMDAsMTUxNzA4NzczMywxODg4MjQwMSwtMT
+U4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4
+MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2ND
+Q5LDExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwt
+MTg2NjAxMjQ0OV19
 -->
