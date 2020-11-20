@@ -913,6 +913,14 @@ Parametric formalism: Parametric modeling and scripting has been used by a large
 
 Recently, however, computers and parametric modeling platforms are allowing designers to manage and engage with some of these forms of complexity in ways that have never been possible before. In particular, computationally driven strategies for conducting searches of large design spaces and for capturing complex systemic relationships are beginning to emerge within the design professions. Not only do these types of tools allow for better management of the complexities of our design problems, they can even be leveraged to drive those design processe[9-5]
 
+Computation: The above lends itself quite well to parametric design enabling the use of different types of tools efficiently. This included using various packages like Grasshopper, Digital Project ( CATIA), Tekla, Inventor, and the use of SolidWorks, among many others. This allowed direct data extraction from the digital models and feed into CNC machines for fabrication and then into topographic survey machines on site for installation. Over 15 different software and packages were used by various parties to develop and deliver their scopes. [9-6]
+
+The Al-Bahar Tower’s project presented several remarkable opportunities for parametric design, nonlinear optimization, and kinematic simulation, particularly in the mechanical design of the sophisticated Mashrabiya system.[9-6]
+
+“We began with a full parameterization of the model, which allowed us to compare various stochastically optimized global forms for their relative envelope area to volume ratio, and thus their environmental performance.[9-6]
+
+Adaptive Principles Optimization, Construction, and Performance Manual[9-6]
+
 ### automation
 Today algorithms, scripting, robots, digital manufacturing, and new autonomous workflow systems are once more transforming the meaning of the term automation. [9-2]
 
@@ -1051,6 +1059,8 @@ A series of bespoke algorithms were developed following underlying mathematical 
 
 
 
+
+
 ## 参考文献（>50）
 > 阅读顺序
 
@@ -1162,11 +1172,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzNDEyMjEsMTUxNzA4NzczMywxOD
-g4MjQwMSwtMTU4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQy
-MDQ2LC0xOTI4MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOS
-wtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1
-OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC0xNTgyOD
-k1MDEyLDg0MTM5NzczMCwtMTk0NDYyMDc4NCwtOTQ2ODE0OTg3
-LDE1NzkzMzc0NzVdfQ==
+eyJoaXN0b3J5IjpbMTkzMTE3MDAwMCwxNTE3MDg3NzMzLDE4OD
+gyNDAxLC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC05MjU0NDIw
+NDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC
+00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNzU5
+NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4OT
+UwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5ODcs
+MTU3OTMzNzQ3NV19
 -->
