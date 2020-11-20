@@ -1252,6 +1252,25 @@ The second issue that has stalled robotics is that the large computation power r
 
 A robust robotic operating system and an explosive number of applications in the Cloud will signifi cantly lower the cost and expand the design of robotic apparatuses well beyond the fi xed robotic arms we see in manufacturing lines today, eventually transforming the craft-based construction assembly processes and construction equipment that remain relatively unchanged since they consolidated during the industrial revolution.[9-9]
 
+[9-11]
+At the Dawn of Three New Manufacturing Eras
+
+3-D manufacturing today encompasses automated additive technologies such as 3-D printing and subtractive technologies like computercontrolled machines ( CNC), laser and water cutters, as well as automated assembly technologies such as industrial robots, quadricopters, and other programmable equipment.
+
+The fi rst thing to understand about computer-controlled 3-D manufacturing and 3-D printing is that these technologies are not going away. On the contrary, they are growing exponentially in many different directions in a very short time frame. What we are witnessing today is just the fi rst generation of digital manufacturing. Computer-controlled manufacturing will be transforming in the coming years in three different distinct stages:
+
+1. 3-D digitally controlled manufacturing: Today we are at the maturing stages of the fi rst era of digital manufacturing in which 3-D printers, CNC, laser cutters, robotic arms, and a whole array of digitally automated machines can print, cut, and carve any shape on industrialized materials.
+
+2. 4-D digitally controlled manufacturing: In a second period sophisticated multimaterial printers and nanotechnology will allow us to create new materials that can be designed and fabricated at a microscopic and atomic level. These new artifi cial materials will perform more effi ciently than raw industrialized materials and will have behaviors that cannot be found in natural materials.
+
+3. n-D digitally controlled manufacturing: In a third period there will be the emergence of programmable matter, synthetic biology, and evolutionary robotics; it will be an epoch in which we can manufacture digitally transformable matter that can be programmed at will. We will also witness the emergence of apparatuses that can self-design and self-manufacture at different scales.
+
+The advent of new multimaterials printers also implies that the designer and the design process will also have to change. Traditional design processes that use CAD or BIM are usually unable to plan for material performance at the macroscopic and microscopic level. Design automation will have to play an increasingly important role in design synthesis for the construction elements that use multimaterials. Jonathan Hiller and Hod Lipson from the Creative Machine Lab at Cornell University have presented a genetic algorithm ( GA) method that is used to optimize the geometry of a multimaterial cantilever beam [2].
+
+These authors state that the GAs are “suitable for designing the complex multi-material objects that have recently become possible to fabricate using additive manufacturing techniques... Instead of designing an object using traditional CAD programs, genetic algorithms allow an engineer to simply set high-level goals to be fulfi lled and the blueprint is autonomously generated” [2].
+
+A second period of digital manufacturing will emerge when technologies such as 4-D multimaterial printers and nanotechnology mature to alter materials at a very small scale. In this second age we will be able to digitally manufacture materials that cannot be found in nature. Further in the future, a fi nal third period of multidimensional or n-D digital manufacturing will emerge as materials can be programmed, bio-engineered, and selfreplicated at even a nanometer scale.[9-11]
+
 ## 8.	交互硬件与信息数据流；
 
 ## 9.	图表报告及制图
@@ -1392,7 +1411,7 @@ and futures in landscape architecture//[1]:89-116
 
 [9-11]Alfredo Andia. Automating Construction via n-D Digital Manufacturing[M]//[9]:201-206
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjIzNTM1Niw2ODA2NjEyMywtMjAwOD
+eyJoaXN0b3J5IjpbLTQ5MzIwODE1OCw2ODA2NjEyMywtMjAwOD
 I4Mzg2NCwtMTU3NDU1NzAyNCwtMTE0MjYzNjY5NSw3NzgyMDgx
 NTksLTM2MjY4NTk3OSwyMDM2NjMwMzA4LDExMzk2NzE4MDksMT
 kzMTE3MDAwMCwxNTE3MDg3NzMzLDE4ODgyNDAxLC0xNTg0MjE3
