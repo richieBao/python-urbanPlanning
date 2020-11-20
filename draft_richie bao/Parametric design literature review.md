@@ -976,6 +976,92 @@ For example in one approach they used self-organization-based agent models with 
 
 Another search technique being used on design problems is the genetic algorithm ( GA). With a GA, the designer must fi rst characterize the design as a series of numeric variables that correlate to the geometric properties of the design, essentially its genome. These values are free to change during the course of the algorithm’s execution as it searches for the combinations of values that lead to the creation of the best solutions. Again, the designer must also describe “best” in terms the computer can calculate and measure [9-5]
 
+[9-8]通篇
+
+Generic Optimization Algorithms for Building Energy Demand Optimization: Concept 2226, Austria
+
+Lars Junghans
+
+Introduction
+
+The need for computer software in building planning processes to calculate the performance of a project is self-evident nowadays. Building simulation programs are used to calculate the energy demand, the structural load, or even the cost of a building. 
+
+Building design and renovation projects are multivariable parameter problems that include a large number of possible combinations of parameter settings. The parametric study often used in planning processes involves changing one parameter while leaving others constant. These studies can miss important interactive effects [1]. One way to fi nd a global optimal solution is to use enumerative search methods where all possible parameter settings are combined with each other. Because of the large number of combinations, however, this optimization process is computationally expensive and would take too much time. A more promising solution is to use an automated building optimization algorithm coupled with a simulation program to fi nd an optimal solution [2].
+
+The term “building optimization” refers to an automated method that uses algorithms to fi nd the optimal combination of parameter settings for building design and renovation. The objective of the method is to fi nd an optimum for the lowest energy demand, cost, or greenhouse gas emission. When building design parameters of the building envelope, the building automation as well the HVAC system can be included in the optimization process. The term automated building optimization indicates that the building optimization algorithm provides optimal solutions without extensive user interaction. The user still needs to defi ne the problem and needs to provide necessary material data. A typical future task of automated building optimization algorithms would be to defi ne the optimal properties of a climate-responsive building façade. In this task, the optimal combination of window to wall ratio, glazing, insulation, and shading geometry will be found to reduce the energy demand for heating, cooling, and artifi cial lighting. Automated building optimization will even be able to defi ne the shape of a building within a given building program. In the building sector the goal of a building optimization algorithm should be:
+
+1. Reduction of computation time
+
+2. Robustness of the results
+
+3. User-friendliness of the application of the algorithm.
+
+Reduction of the computation time is especially important for automated building optimization algorithms because they are using time-consuming thermal dynamic simulation software. A calculation time of several hourslike in a multiparameter optimization problem, can be critical in a planning process, especially in the early design stages.
+
+The robustness and reliability of the calculation results in a recommendation of the global optimal solution that is especially important for the user. Some of the current available optimization algorithms are not adjusted for the special needs in building optimization problems, which are different than the needs in other scientifi c optimization problems with a much larger problem space.
+
+The user-friendliness is important for the use of a building optimization algorithm in planning projects where no expert knowledge is available. Some currently available building optimization algorithms need expert knowledge in the use of the algorithm and its connection to the simulation software tool. This often not existing expert knowledge is a reason for the currently limited use of building optimization software in practicing planning offi ces.
+
+In this chapter, strategies are described as the elements in a search space. Each strategy has a combination of parameter settings. To defi ne the performance of each strategy a thermal building simulation is necessary. In general, optimization approaches taken toward achieving the objective described above can be classifi ed as discrete and continuous parameter optimization methods.
+
+Discrete parameter methods are mostly used for building optimization. For example, a fi nite number of available construction types and thicknesses are available when adding insulation to a wall. In contrast, continuous parameter methods do not use fi xed numbers for the parameter setting for building shape or dimension such as the window-to-wall ratio, building orientation, or compactness.
+
+Continuous parameter methods based on numerical optimization were studied as early as the 1990s [3]. Although researchers found that numerical building optimization algorithms based on simulations have nonsmooth functions and can fail to fi nd the optimum solution [4], several optimization methods using continuous parameters have been successfully developed for building shape and dimension optimization. These methods include the simplex method [5], the pattern search algorithm [6], the harmony search algorithm [7], the multidirectional search algorithm [8], and the simulated annealing algorithm. However, even given their theoretical success in fi nding optimal building shapes, these methods are limited because building optimization projects have a combination of discrete and continuous parameters and are not useful for these studies. Instead, optimization methods using discrete parameters, like the genetic algorithm, particle swarm, and sequential search methods, are more suitable.
+
+Optimization Methods: Probabilistic Optimization Methods
+
+1. Genetic algorithm. The GA is a probabilistic search technique for solving complicated problems using evolutionary principles to fi nd optimal solutions [9]. It searches for an optimal solution to a multiparameter problem by simulating the natural selection over generations. A potential combination of parameter settings is described as genes on a chromosome. A population is created in every generation where the performance of each population is expressed in a fi tness factor. Members of the populationa re paired up to create a new generation. The selection for the parents is selected randomly, where members with a better fi tness factor have a better chance to be selected.
+
+As with organisms in nature, a crossover of the chromosomes takes place to defi ne the property of the genes of the children. In some GAs, a mutation process takes place to refresh the gene pool. The process of producing new generations is repeated until an adequate optimal solution is found. The GA is seen to be a robust search technique to avoid local minima. However, with each iteration or generation of the algorithm, a different path toward an optimal solution occurs and the end result may also be different [10].
+
+An advantage of this algorithm is that it avoids generating local optimal solutions, which is a problem with the numerical optimization algorithm. The GA has many practical uses in building science, including the optimization of structural systems, building shape [11,12], and building HVAC [13]. However, experiments have illustrated that this algorithm does not always result in good solutions. Currently, the optimization process must be repeated several times to prove that the recommended solution is the global optimum. This repeating simulation process has the disadvantage of extending the overall calculation time of the optimization process. This is the reason why the GA has not found its way into practicing planning offi ces.
+
+2. Multiobjective genetic optimization. The GA can be used for multiobjective optimization problems. Rather than only having one fi tness criterion like the energy demand or the life-cycle cost, a multiobjective optimization algorithm will provide optimal solutions for two or more fi tness criteria. The multiobjective GA normally provides pareto-optimal solutions. Researchers have used the multiobjective GA to fi nd optimal solutions for the life-cycle cost and the life-cycle of greenhouse gas emissions.
+
+3. Particle swarm optimization method. The particle swarm optimization method has many similarities to the GA and also proceeds by probabilistic parameter settings [14,15]. However, unlike the GA, the particle swarm method is based on the social behavior of birds or schools of fi sh rather than on evolutionary principles like mutation and crossover. In each iteration step, parameter settings are changed randomly, and strategies, or swarm particles, in the search space are compared to each other. Changes to parameter settings of the most successful particle are adopted by the other particles in the search space. The process is repeated as long as necessary to fi nd the optimum. Although this method has been used successfully for building optimization, the method has been found to be more computationally intensive than the GA [10].
+
+Optimization Methods: Sequential Search Algorithms
+
+1. Sequential search algorithms. A sequential search algorithm is a top-down optimization method that iteratively improves the building performance. Unlike other optimization algorithms, sequential search algorithms are not based on randomly defi ned parameter settings. In each iteration step, the most effective solution is found by comparing the results of previously defi ned strategies and parameter settings. The process is repeated until an optimal solution is found. A vector path is found from the initial design of the building to the optimal combination of parameter settings. The optimal strategy in the search space is found according to its marginal benefi t and recorded in each iteration step. Because of this sequential approach,this algorithm has a signifi cant advantage over optimization algorithms that provide only the optimal solution in that it ranks the recommended strategies and also provides the marginal benefit.
+
+A difference in the sequential optimization process, or greedy search, used for building simulation compared to the problems in microeconomics or mathematics is that the starting values, such as energy demand or lifecycle cost, will change dynamically in each iteration step in relation to reductions in operation energy demand in each successive step. Only topdown sequential approaches can be used because forecasting the results in future iterations is not possible. Thus, there is a risk that large improving strategies can be overlooked in earlier iteration steps.
+
+
+2. Equimarginal optimization. The equimarginal optimization algorithm (EO) is a sequential top-down algorithm that solves the problem of the greedy algorithm and uses concepts from microeconomics [16]. As background, marginal utility (MU) is the benefi t or satisfaction from the purchase or consumption of a selected quantity unit of a good or service.
+
+The EO is based on the diminishing marginal utility that is the effect when the MU decreases with the increasing quantity of a good or service. The EO has the advantage compared to other building optimization algorithms that it provides the marginal benefi t of the investment for each possible recommended strategy. It also ranks the recommended renovation strategies according to their reduction of energy demand or life-cycle cost Architects and decision-makers are thus able to fi nd the balance between the long-term life-cycle cost and the short-term investment. Because the EO is a top-down search method, it has its advantages in building renovation projects, where a nonrenovated building with high energy demand will be improved.
+
+Available Optimization tools
+
+1. GenOpt. GenOpt is an optimization tool developed by the Lawrence Berkeley Laboratory in 2001. It is based on the Nelder-Mead pattern search technique, which is a special form of the simplex method. The algorithm needs concave functions in its parameter-setting description. GenOpt can be used as an optimization platform for simulation software tools like EnergyPlus or TRNSYS. Researchers have used GenOpt for building and system optimization where concave functions of the parameter settings are available. So far, expert knowledge is necessary to integrate GenOpt in simulation software.
+
+2. BEopt. BEopt is based on a sequential search algorithm and is a version of the greedy search technique. It uses the DOE 2 and TRNSYS as a simulation environment. For each iteration, the most cost-effective strategy is chosen based on the reduction of life-cycle cost. As in most forms of sequential search algorithms or the greedy algorithm, the chosen strategy is then removed from the parameter search space for future evaluation. The developer of BEopt modifi ed the algorithm to overcome the problem of overlooking large improvement strategies and negative interactions between strategies. BEopt keeps track of solutions in previous iterations and compares them with the current solution. Interactions between parameter settings must be identifi ed by the user before using the algorithm so technical expertise is necessary [10].
+
+3. Genetic algorithm. A number of free available optimization tools are available that are based on the GA. These tools are mostly based on computer language codes like Java, C++, or Python. The MATLAB program also has a number of GAs in its library. All these tools require expert knowledge in the use of the optimization algorithm. Additionally, computer coding is necessary for their use in building optimization.
+
+Future Developments in Generic Building Optimization
+
+1. Improvement of usability in the architectural praxis. Current optimization algorithms need expert knowledge for their use in building optimization. Future building optimization algorithms should be adapted to the needs of building optimization. A goal must be to develop optimization algorithms that can be used by architects and planners without expert knowledge in optimization theory and computer science. The robustness of the outcome of a building optimization process must be improved so that the user can rely on the outcome of the process.
+
+2. Improvement of the calculation time. Large energy reductions in the built environment can be achieved in early design stages in the planning process. When a building is designed or renovated, it is often not clear which part of the building envelope or technical system is most effective to renew, improve, or replace. To meet these requirements, the algorithm used in the early design stages must feature a short calculation time to meet economical aspects. The following calculation methods currently exist and will be discussed in the following sections: static calculations,
+dynamic calculations, and climate surface calculations.
+
+Static calculation methods that appear in national building codes are based on simple equations with a limited number of values representing the specifi c climate. An advantage of these methods is that they do not have a long calculation time. However, these methods do not consider the time correlation of outside air temperature, solar radiation, internal thermal mass, and internal heat gains. Therefore, the imprecise results of the static calculation cannot be used for building optimization. 
+
+Dynamic calculation methods using dynamic simulation software programs such as DOE2, EnergyPlus, and Trnsys have been introduced into the scientifi c community. The programs calculate the energy demand in short simulation time intervals of an hour or shorter based on hourly weather data of a reference year. Unlike static calculation methods, advantages of these dynamic methods are that they consider time-correlation, are more precise, and consider different qualities of the built environment. However, the programs are too time-consuming because they are based on a large number of thermal dynamic calculation processes in each iteration step.
+
+Burmeister and Keller [16] introduced a concept called the climate surfaces. Dynamic presimulations are necessary to generate the data matrix for the climate surface of a specifi c building type. This fast-calculating method can overcome the disadvantage of the computationally expensive dynamic simulation tools. However, the climate surface method needs to be extended with factors like natural ventilation, daylight, shading, and psychrometrics.
+
+3. Clarifi cation of uncertainties in building optimization. The GA and EO derive their usefulness in building optimization through the use of thermal dynamic simulation tools for energy demand predictions. These tools are based on a vast set of climate data and can thus produce accurate predictions, which is critical for sustainable and economic building evaluations. However, life-cycle assessments for greenhouse gas emissions and costs in building science commonly suffer from signifi cant uncertainty due to lack of information. Uncertainties occur as a result of differences between the physical reality and the simulation calculation model [17], cost defi nitions [18], and defi nition of the specifi c environmental impacts of building material and systems. Because of these uncertainties, the proposed optimal solution given by computer-based building optimization can create unreliable results [19].
+
+For building planners, designers, and project decision-makers, it would be very helpful to be able to quantify the uncertainties of the results in a building optimization process. Depending on the assessment criteria, an option with a smaller predicted return and a smaller risk might be preferred to an option with a larger predicted return and a larger uncertainty or risk. When information is severely uncertain, a decision-maker may want to make a decision that will yield a reasonably satisfactory result over a large range of realizations of the uncertain parameters.
+
+Conclusion
+
+Automated building optimization algorithms and systems are becoming more and more useful in architectural design processes. Great energy use reductions, cost reductions, and greenhouse gas reductions are expected by the use of these generic software tools. By the integration of faster calculating simulation tools, optimization processes will be applied by architects in early design stages.
+
+In the near future, architects will be able to design buildings and building elements with a higher confi dence in optimal solutions than in the past. Results will be presented as continuous values, including the mean value, expected value, and the deviation. An improved risk management will be possible. It will be up to the architect or decision-maker to decide how far an automated building optimization decision support system will go.[9-8]
+
 
 
 ## 4.	结构分析、构建与设计空间形式协同优化；
@@ -1177,11 +1263,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjYzMDMwOCwxMTM5NjcxODA5LDE5Mz
-ExNzAwMDAsMTUxNzA4NzczMywxODg4MjQwMSwtMTU4NDIxNzYx
-MywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkxNzUxLD
-E1OTQ2NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMzAx
-OTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2NjAxMj
-Q0OSwtOTIzNTc1NzA1LC0xNTgyODk1MDEyLDg0MTM5NzczMCwt
-MTk0NDYyMDc4NF19
+eyJoaXN0b3J5IjpbLTM2MjY4NTk3OSwyMDM2NjMwMzA4LDExMz
+k2NzE4MDksMTkzMTE3MDAwMCwxNTE3MDg3NzMzLDE4ODgyNDAx
+LC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC05MjU0NDIwNDYsLT
+E5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC00MTQ5
+MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNzU5NDA1Mj
+Q5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4OTUwMTIs
+ODQxMzk3NzMwXX0=
 -->
