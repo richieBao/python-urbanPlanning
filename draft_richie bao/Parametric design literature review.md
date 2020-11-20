@@ -1417,9 +1417,13 @@ and futures in landscape architecture//[1]:89-116
 
 [10]Benjamin Aranda.Tooling[M].New York:Princeton Architectural Pres, December, 2005.
 
-[11] Christoph Gengnagel,Christoph Gengnagel,Jane Burry editor.Impact: Design With All Senses: Proceedings of the Design Modelling Symposium, Berlin 2019[M].
+---
+
+[11] Christoph Gengnagel,Christoph Gengnagel,Jane Burry editor.Impact: Design With All Senses: Proceedings of the Design Modelling Symposium, Berlin 2019[M].Switzerland:Springer,August, 2019
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDUwMzg4OCw3NjgyMjc4NCwtNDkzMj
+eyJoaXN0b3J5IjpbLTQ1NDI5ODAyOSw3NjgyMjc4NCwtNDkzMj
 A4MTU4LDY4MDY2MTIzLC0yMDA4MjgzODY0LC0xNTc0NTU3MDI0
 LC0xMTQyNjM2Njk1LDc3ODIwODE1OSwtMzYyNjg1OTc5LDIwMz
 Y2MzAzMDgsMTEzOTY3MTgwOSwxOTMxMTcwMDAwLDE1MTcwODc3
