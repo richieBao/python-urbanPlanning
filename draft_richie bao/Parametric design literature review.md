@@ -1156,10 +1156,12 @@ and futures in landscape architecture//[1]:89-116
 
 [9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
-[]
+[9-6]Abdulmajid Karanouh.Algorithmic Principles for Façade and Building Automation Systems: Al-Bahar Towers, Abu DhabiM]//[9]:59-74
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzMyMjM0OSwxODg4MjQwMSwtMTU4ND
+eyJoaXN0b3J5IjpbMTUxNzA4NzczMywxODg4MjQwMSwtMTU4ND
 IxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkx
 NzUxLDE1OTQ2NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LD
 ExMzAxOTY3MzIsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2
