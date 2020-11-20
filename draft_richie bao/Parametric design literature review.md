@@ -1167,16 +1167,16 @@ and futures in landscape architecture//[1]:89-116
 
 [9-5]Keith Besserud.Engaging with Complexity: Computational Algorithms in Architecture and Urban Design[M]//[9]:39-45
 
-[9-6]Abdulmajid Karanouh.Algorithmic Principles for Façade and Building Automation Systems: Al-Bahar Towers, Abu DhabiM]//[9]:59-74
+[9-6]Abdulmajid Karanouh.Algorithmic Principles for Façade and Building Automation Systems: Al-Bahar Towers, Abu Dhabi[M]//[9]:59-74
 
-
+[9-7]Clayton Binkley, Paul Jeffries,  Mathew Vola.Design Computation at Arup[M]//[9]:112-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTE3MDAwMCwxNTE3MDg3NzMzLDE4OD
-gyNDAxLC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC05MjU0NDIw
-NDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC
-00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYxMjQ2ODk3MCwxNzU5
-NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1NzU3MDUsLTE1ODI4OT
-UwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0LC05NDY4MTQ5ODcs
-MTU3OTMzNzQ3NV19
+eyJoaXN0b3J5IjpbLTE0NzQ5OTg2NDUsMTkzMTE3MDAwMCwxNT
+E3MDg3NzMzLDE4ODgyNDAxLC0xNTg0MjE3NjEzLC0xMDY0Njgw
+NDQ0LC05MjU0NDIwNDYsLTE5MjgwOTE3NTEsMTU5NDY3MzkzOS
+wtMzcxNTAzMDE5LC00MTQ5MTY0NDksMTEzMDE5NjczMiwtMTYx
+MjQ2ODk3MCwxNzU5NDA1MjQ5LC0xODY2MDEyNDQ5LC05MjM1Nz
+U3MDUsLTE1ODI4OTUwMTIsODQxMzk3NzMwLC0xOTQ0NjIwNzg0
+LC05NDY4MTQ5ODddfQ==
 -->
