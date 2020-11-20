@@ -959,6 +959,8 @@ It is also available via the cloud, meaning it can be accessed from anywhere.[9-
 The future of green building automation will be Cloud-computingcontrolled buildings. Cloud-controlled buildings provide the fl exibility to expand wireless infrastructures with sensor-collected trend data and self-programming data analytics algorithms. The Cloud will be where the applications run and where the data is analyzed and acted upon as it arrives. Digital data is changing; we are moving into a world with an ever growing number of data sources. As the amount of the data and the requirement for algorithms that act on the fl y increase, a green BAS cloud will be able to automatically do real-time stream analytics of different variables in seconds and expand itself to accommodate the operation and peak load control needs on any scale from buildings to cities.[9-3]
 
 ## 3.	设计空间形式的分析、构建、到优化生成和机器学习；
+[10] 目录 Spiraling, packing, weaving, blending, cracking, flocking, tiling.
+
 ### machine learning
 With learning algorithms we are moving away from manually coding systems to designing systems that learn from experience. We are in the first steps of creating sophisticated machine learning algorithms that develop specifi c intelligence in design synthesis, building simulation, operation, control, and benchmarking[9-1]
 
@@ -1415,11 +1417,11 @@ and futures in landscape architecture//[1]:89-116
 
 [10]Benjamin Aranda.Tooling[M].New York:Princeton Architectural Pres, December, 2005.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTM1OTgxMCwtNDkzMjA4MTU4LDY4MD
-Y2MTIzLC0yMDA4MjgzODY0LC0xNTc0NTU3MDI0LC0xMTQyNjM2
-Njk1LDc3ODIwODE1OSwtMzYyNjg1OTc5LDIwMzY2MzAzMDgsMT
-EzOTY3MTgwOSwxOTMxMTcwMDAwLDE1MTcwODc3MzMsMTg4ODI0
-MDEsLTE1ODQyMTc2MTMsLTEwNjQ2ODA0NDQsLTkyNTQ0MjA0Ni
-wtMTkyODA5MTc1MSwxNTk0NjczOTM5LC0zNzE1MDMwMTksLTQx
-NDkxNjQ0OV19
+eyJoaXN0b3J5IjpbNzY4MjI3ODQsLTQ5MzIwODE1OCw2ODA2Nj
+EyMywtMjAwODI4Mzg2NCwtMTU3NDU1NzAyNCwtMTE0MjYzNjY5
+NSw3NzgyMDgxNTksLTM2MjY4NTk3OSwyMDM2NjMwMzA4LDExMz
+k2NzE4MDksMTkzMTE3MDAwMCwxNTE3MDg3NzMzLDE4ODgyNDAx
+LC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC05MjU0NDIwNDYsLT
+E5MjgwOTE3NTEsMTU5NDY3MzkzOSwtMzcxNTAzMDE5LC00MTQ5
+MTY0NDldfQ==
 -->
