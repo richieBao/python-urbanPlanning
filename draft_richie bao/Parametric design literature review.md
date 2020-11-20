@@ -1127,6 +1127,19 @@ The current trend from engineers/contractors for prefabrication and modularizati
 
 The advent of a more precise way of construction will eventually lead to a transformation of the designer and the traditional design process. Traditional design processes, either via hand-drawing or even with parametric CAD, are unable to plan with designing material performance at the macroscopic and microscopic levels. Machine learning design automation will have to play an increasingly important role in design synthesis for the construction elements that use multimaterials in the near future. As was observed at the beginning of this chapter, automation implies important themes in saving labor, energy, and materials, as well as construction quality, and sustainability. The last factor will be an important factor throughout this book and the subject of the next chapter. The construction sector is in urgent need of modernizing and shifting toward sustainable construction practices as this has been identifi ed by the United Nations (UN) as a key industry in the attempt to solve global warming [11].[9-2]
 
+Real life-cycle requirements can be simulated in various situations, such as ergonomic human-machine interactions, maintenance intervals and shift patterns, or infrastructural resource input and output fl ows. Once a factory is built and in operation, the digital life-cycle metamodel enables users to run optimization experiments and what-if scenarios without disturbing an existing production system of the entire plant. The case study also explains the latest developments for learning algorithms based on neural networks, and wasp swarm optimization of logistic systems and automation in the fi elds of engineering, manufacturing, infrastructure, city, and building automation. In particular it describes how machine learning and adapting mechanisms are used for black box modeling and optimizations of process automation in self-learning factories and product distribution systems with other factories. [9-9]
+
+the Heim Automated Parts Pickup System ( HAPPS). The system automatically translates design parameters and plans from architects, engineers, and clients directly into parametricalgorithmically processed production plans, bills of materials (BOMs) and data needed to operate the fully automated production. Sekisui builds and sells approximately 13,000 Heim-Unit houses annually, including their Zero-Utility Cost House with solar energy generation systems. All the units are prefabricated in the factory to 80% completion, which minimizes signifi cantly the assembly process.[9-9] 
+
+[9-9]
+Going back to the fi rst chapter of this section, the robotic technology we fi nd in the car manufacturing industry is still very infl exible, expensive, and needs high levels of expertise to operate. Robotic technology is still in an age very similar to when each computer company or cell phone provider had their own operating system and was not connected to the Internet. However, the robotics technology is about to rapidly accelerate its pace of development.
+
+There are two items that have hindered the explosion of robotics. The fi rst one is a robust operating system across platforms that can propel robot software development; just as iOS and Android did for the explosion of applications in the smartphone platform. Google’s recent acquisition of a large number of robotic companies seems to be geared toward consolidating a universal operating system for robots.
+
+The second issue that has stalled robotics is that the large computation power robots need has been traditionally onboard. This is a largely expensive architecture, that is battery-demanding, cooling-intensive, and creates a space problem. The emerging concept of Cloud robotics will allow robot apparatuses to be connected to the Internet, which permits the migration of their intensive need for computation power to the grid on demand. Robots connected to the Cloud promote collective robot learning from other robots’ experiences and an instantaneous open access to new algorithms—all aspects that will signifi cantly reduce the cost of computing, weight, battery, cooling, and space requirements of robots on the job site.
+
+A robust robotic operating system and an explosive number of applications in the Cloud will signifi cantly lower the cost and expand the design of robotic apparatuses well beyond the fi xed robotic arms we see in manufacturing lines today, eventually transforming the craft-based construction assembly processes and construction equipment that remain relatively unchanged since they consolidated during the industrial revolution.[9-9]
+
 ## 8.	交互硬件与信息数据流；
 
 ## 9.	图表报告及制图
@@ -1265,11 +1278,11 @@ and futures in landscape architecture//[1]:89-116
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MjA4MTU5LC0zNjI2ODU5NzksMjAzNj
-YzMDMwOCwxMTM5NjcxODA5LDE5MzExNzAwMDAsMTUxNzA4Nzcz
-MywxODg4MjQwMSwtMTU4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOT
-I1NDQyMDQ2LC0xOTI4MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUw
-MzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5Nz
-AsMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwtOTIzNTc1NzA1LC0x
-NTgyODk1MDEyXX0=
+eyJoaXN0b3J5IjpbLTExNDI2MzY2OTUsNzc4MjA4MTU5LC0zNj
+I2ODU5NzksMjAzNjYzMDMwOCwxMTM5NjcxODA5LDE5MzExNzAw
+MDAsMTUxNzA4NzczMywxODg4MjQwMSwtMTU4NDIxNzYxMywtMT
+A2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkxNzUxLDE1OTQ2
+NzM5MzksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3Mz
+IsLTE2MTI0Njg5NzAsMTc1OTQwNTI0OSwtMTg2NjAxMjQ0OSwt
+OTIzNTc1NzA1XX0=
 -->
