@@ -971,6 +971,118 @@ Machine learning algorithms are deployed to learn from data. They discover patte
 
 there will be a more complex portion of software with integrated high-speed machine-learning and data analytics algorithms that automatically translate in real time new models into executable software.[9-3]
 
+[9-10]通篇
+Automating Design via Machine Learning
+Algorithms
+
+Introduction
+
+Part II dealt with a large number of narratives from architects and engineers who are automating their processes. These cases are extraordinary and are today at the forefront of practice. The cases presented clearly show that in this post-parametric era algorithmic thinking has moved designers into making higher-level decisions about how to automate their design workflow.
+
+This part will try to answer the following questions: What is next? Which computing methods could further automate signifi cant parts of architectural and engineering design processes? By automation we do not mean the development of systems that imitate what humans do today but we imply the creation of new methods that can signifi cantly augment and renovate contemporary design processes.
+
+Limitations of Parametric Systems
+
+In design theory in computer science parametric systems are considered the most primitive and archaic stage of artifi cial intelligence ( AI). In a parametric system an expert, a programmer, has to manually code all the parameters. Anyone that has dealt with parametric environments knows that major workfl ows in design are an extremely hard, if not impossible, task-to code. The more factors or rules you include in a parametric model the exponentially more diffi cult it becomes to bond design associations.
+
+Today a signifi cant number of narratives about automation deal with the concept of parametric or ruled-based scripting. These narratives have been developed with some success in a number of areas. However, these endeavors are limited and are far from fully automating major architectural and engineering design workfl ows in the AEC industry. Those that optimistically advocate parametricism imply that the more parameters are programmed into a digital environment the more automated the design process will became. They project linearly that if they can code with parametric tools the design of a façade, a series of panels, or a detail today then it is just a matter of time before all types of design and construction information could be manually coded into a universal parametric model.
+
+In this chapter, we put forward the idea that at present we are well into a second era of AI. In this new age, machine- learning algorithms can perform automated tasks by being trained from previous data. We suggest that these computing methods will be highly infl uential in the next generation of automation of design in the AEC industry.
+
+Algorithms vs. Learning Algorithms
+
+There is a difference between an algorithm and a learning algorithm. An algorithm is a set of instructions to perform a particular calculation or procedure. A learning algorithm is a set of instructions for a computer to learn from data and perform an action without the assistance of a human. Today learning algorithms that have been trained to detect traffi c signs double the performance than that of humans. A whole generation of diverse products, including Internet search, automated translation, forecasting energy production, the driverless car, automated trading, drug design, and fraud detection are the results of learning algorithms.
+
+With learning algorithms we are moving away from manually coding systems to designing systems that learn from experience. We present at the end of this chapter an example of how this could be possible between the framework of architectural design with a method that automatically generates programs, 2-D fl oor plans for residential buildings, and 3-D models in different architectural styles—100,000 iterations of 2-D fl oor plans in 35 seconds. We fi nally discuss why parametric is a limited paradigm for the future of design automation in the construction industry.
+
+Computers as Autopoietic, Self-Organizing, and Self-Learning Systems
+
+Terry Winograd and Fernando Flores wrote a book in 1987 called Understanding Computers and Cognition: A New Foundation for Design [1, 2]. Winograd is a highly infl uential AI professor at Stanford who was also the Ph.D. advisor of the doctoral thesis that was converted into Google. The book has proven to be deeply infl uential in computer design, however it is hardly known in architectural or engineering design circles. The book was written in a period in which AI was highly discredited.
+
+The book works on developing a new understanding of what intelligence and cognition mean in the context of designing computer systems. The authors discredit the rationalistic approach used in AI during the 1980s. At that time, AI was heavily based on formal representations of intelligence such as rules, knowledge bases, and operations that describe intelligence in very narrow terms.
+
+Instead the authors are inspired by the concept of autopoietic or selforganizing systems developed earlier by biologists Humberto Maturana and Francisco Varela [3]. These biologists argued that living organisms have extraordinary design intelligence because they self-organize by learning from their environments and they are not planned from the exterior.
+
+Winograd and Flores criticize the old rationalistic software design because they create intelligent systems that are programmed by an outside coder, thus are not self-organizing or autopoietic. They concluded at the time that new approaches for designing computer systems were needed and put forward the notion of computer systems that somehow learn by themselves from their environment and self-organize. Winograd and Flores put forward the notion that the design of AI systems would come in three different stages of computer learning:
+
+1. Parametric;
+
+2. Machine learning;
+
+3. General AI.
+
+Parametric: First Stage of AI
+
+In the fi rst and most prehistoric stage of AI one can fi nd parametric systems that via parameter adjustments or combinatorial search do basic intelligent operations. Winograd and Flores mention that after a short-lived peak in the 1950s and 1960s this type of work has been almost fully abandoned in the computer science community. Parametric allows for the coding of human reasoning; however, it always requires the hand of a coder that is expected to be able to observe all the potential steps of every condition of intelligent behavior.
+
+Contemporary parametric endeavors in the design of buildings are good examples of the fi rst age of AI in the architecture and engineering domain. This fi rst age has allowed architects to make more explicit their design processes, but most of these systems are not self-organizing or autopoietic. These parametric systems can usually only tackle a few parameters. They are usually used in very particular evaluations but cannot fully automate large workfl ows of design processes.
+
+Machine Learning: Second Stage of AI
+
+A second level of AI impacts occurs when computers perform concept learning and concept formation. Here algorithms learn from data. These learning algorithms fi nd patterns in data and build probability or predictive models for a specifi c job. Today learning algorithms work in a large array of tasks, they are usually very specifi c, and the techniques have spread rapidly in the computer science discipline.
+
+Arthur Samuel, one of the early pioneers of AI, described machine learning as the “fi eld of study that gives computers the ability to learn without being explicitly programmed” [4]. Automated learning systems learn from information using techniques such as artifi cial neural networks, decision tree learning, support vector machines, Bayesian networks, Boltzmann machines, and deep learning, among many others.
+
+Machine learning algorithms can be classifi ed into several types depending on the desired results and data available. They can be categorized as supervised learning, unsupervised learning, semisupervised learning, reinforcement learning, learning to learn, or transduction.
+
+Today, learning algorithms are everywhere. They are automatically selecting companies for venture capital fi rms, and they are automating the discovery processes of many large practices in the legal community. Complex algorithms are already replacing engineers in certain tasks of chip design, writing sport news, Web articles for Forbes Magazine, grading English essays, developing patrol routes for the Los Angeles police, and are at the core of the IBM’s Watson supercomputer that beat two former human champions of the TV game Jeopardy! after just 2 years of training.
+
+Examples of Machine Learning Algorithms Outside the AEC Industry
+
+An example of supervised learning is a driverless car that is trained how to drive by creating a neural network system that captures images of the road, 3-D laser data, and at the same time records the steering directions of human drivers. Once the system is trained the car will capture images and 3-D data of the road as the car moves, and the steering direction will be controlled by the neural network optimized results.
+
+Another example of learning algorithms is automated translation similar to Google Translate. A translating system developed with parametric techniques will require that the programmer manually code all meanings and double meanings of words from one language to another. Just a single word can have a vast array of meanings, which makes translation by parametric means an impossible task. Machine learning algorithms do not understand text but if they are fed two texts in two different languages they will be able to parse the text and detect probability patterns such as that every time the word “one” appears in English then the word “uno” shows up in the Spanish text. Complementary algorithms can further aid the process by creating phrase tables to help assure the particular meaning of a word or sets of words. The more text is fed to the algorithm the higher the certainty that the predictive model will fi nd the right translation.
+
+Learning Algorithms in Architectural Design
+
+Machine learning algorithms in the architectural design domain can evolve in several directions. In Chapter 10, Lars Junghans describes in detail the direction toward “ automated building optimization algorithms.” Another subject that has deserved signifi cant attention in the architectural domain has been the automation of fl oor plan design in the initial stages of a project. A large number of attempts can be traced back to the 1970s, including the work of Per Galle [5], Bill Mitchell [6], shape grammars, heuristic optimizations, or contemporary 3-D parametric modeling and scripting. Most of these previous approaches are rule-based systems that adjust particular arrangements. But none are able to fully automate the design synthesis process from creating automatically a program, 2-D plans, or 3-D models.
+
+The most advanced method in the area of automation in design synthesis can be found in the research led by Stanford professor Vladlen Koltun, whose work has been focused on visual computing and design synthesis using machine learning. These systems are not programmed with rules but are trained by feeding them a list of data sets such as shapes, program, size, and adjacencies found in the real world. The learning algorithms of this Stanford group have allowed for the automated generation of the architectural program, fl oor plans, sections, and 3-D models based on data feed from a book using machine learning techniques.
+
+Automated Design for Residential Building
+
+In 2010, Vladlen Koltun with Paul Merrell and Eric Schkufza guided the completion of a method for automatically generating the spatial design of residential buildings with a complete automated generation of architectural program, fl oor plan layouts, elevations, and 3-D models. The methodology used a Bayesian network. A Bayesian network is a type of statistical model that represents the probabilistic relationship between variables and conditional dependencies—a highly popular method in second generation types of AI endeavors.
+
+This Bayesian network is trained on existing residential housing data found in the book Essential House Plan Collection by Hanley Wood [7]. From that data the network produces an architectural program without human intervention. From the generated building program the team uses a stochastic optimization to automatically generate sets of fl oor plans. From  the plans entire 3-D buildings are generated in different styles that were also extracted from the book (Figure 17.1).
+
+Automating Building Layout Design
+
+The automation of fl oor plans has received intense interest since the 1960s. These endeavors have ended up in hundreds of methods that have resulted in numerous prototypes that have not truly automated the complete building layout process [8]. Most of those early endeavors programmed algorithms that tried to formalize design rules, criteria, and relationships manually, but none of them truly automated the process.
+
+Koltun and his group at Stanford studied how three residential architecture fi rms developed building layouts in practice. They observed that the architects entered into a very time-consuming iterative process that include the construction of bubble diagrams, adjacencies, program lists, and multiple concept drawings that attempted to match the room requirements in different fl oors. In 2010 they noted that “real-world architectural programs have signifi cant semantic structure.” For example, “the presence of three or more bedrooms increases the likelihood of a separate dining room” [9].
+
+They argue that these types of relationships are vast in the architectural domain. For them it is not clear how the implicit knowledge found in the architectural practice domain “can be represented with a hand-specifi ed set of rules or with an ad-hoc optimization approach. A data-driven technique is therefore more appropriate for capturing semantic relationships in architectural programs” [9]. Thus, instead of using a ruled-based system this method trains a Bayesian network with data obtained from the book.
+
+The automation of this building design methodology is a three-step process: (1) The generation of the architectural program, (2) the automatic generation of a set of fl oor plans, and (3) the automatic generation of a 3-D model. Figure 17.1 and also a short video of their 2010 published paper clearly shows the process followed by this method [10].
+
+I. Automatically generating architectural programs with Bayesian networks. The objective of the fi rst step of this method was the training of a Bayesian network with real-world architectural data. To nourish the system the team at Stanford manually coded architectural programs that were selected from  120 projects from a popular book about residential design [7]. Features from every room of these 120 residential cases were recorded. The features tabulated included the program type, square footage, aspect ratio, adjacency, and other aspects that traditionally mediate the relationship among the rooms such as doors or open-wall connections. An example is shown in Figure 17.2.
+
+The network-structured learning discovered a large number of relationships that were present in the data. For example, a room type such as a bedroom is an excellent forecaster of the room’s size and aspect ratio. From this data the Bayesian networks can generate specifi c programs after 10, 100, and 1,000 iterations (Figure 17.3).
+
+II. Automatically generating 100,000 fl oor plan iterations in 35 seconds. The second phase involves turning the architectural programs generated in the fi rst phase into entire fl oor plans for each fl oor. Several techniques are used to align walls and rooms. Figure 17.4 illustrates several ill-formed fl oor plans that do not comply with a set of specifi c terms such as accessibility, area, aspect ratio, or shape that were introduced to improve the quality of the fl oor plans. Figure 17.5 shows the fl oor optimization process from 200 to 100,000 iterations that “took 35 seconds using an Intel Core i7 clocked at 3.2GHz” [9], similar to a typical processor found in a desktop or laptop computer in 2014.
+
+III. Automatically generating 3-D models. From the building layouts generated in the second phase the team created 3-D models in different styles based on style templates that list the “geometric and material properties of every building element: windows, doors, wall segments,gables, stairs, roofs, and patio poles and banisters” [9]. Figure 17.6 illustrates four 3-D models in the cottage, Italianate, Tudor, and Craftsman styles that were automatically generated for the same 2-D building layout. The styles were extracted from the Hanley Wood book [7].
+
+The work directed by Professor Koltun at Stanford is a highly sophisticated machine learning methodology applicable to the architectural domain. A more sophisticated type of method can be developed by training the machine learning algorithms to become skilled at styles or design concepts found in a diverse population of work and designers. Style, in a creative realm, is a higher-level semantic problem found in design. Initial ground has been developed in drawing and painting learning algorithms [11] and will certainly continue to evolve in the creative domains.
+
+Machine Learning Hardware: Neuromorphic Processors
+
+Most of the explosive advances in the machine learning fi eld in the past decade has occurred in software design. However, the hardware of computers has remained very much related to the digital computer architecture that emerged from the mathematician John Von Neumann around 1945. In very simplistic terms the Von Neumann model is a device that can calculate at very fast speed using strings of 1s and 0s. Today’s machine learning algorithms usually have to represent, evaluate, and optimize data in a calculable format that a Von Neumann computer can handle. Thus, a signifi cant part of machine learning efforts to date has been based on statistical-oriented algorithms that employ brute force, using massive computer power to perform a colossal number of calculations on a huge number of data sets.
+
+Biological organisms are much more effi cient in developing intelligent behavior than contemporary computers. There is an emerging fi eld in hardware design that is developing neuromorphic processors that allow us to create a machine that truly learns by experience. Neuromorphic computer processors have an architecture that imitates the neurobiological design present in the nervous system of organisms. These electronic circuits are connected by wires, and their overall design mimics the morphology of neurons and biological synapses. Initial prototypes such as the ones sponsored by the DARPA SyNAPSE program at IBM and HRL Laboratories, Neurogrid at Stanford [12], and several projects under the sponsorship of the Human Brain Project (HBP) in Europe show early glimpses of computable brain simulation for tasks such as visual recognition, edge detection, music identifi cation, pattern recognition, color identifi cation, or smell. For example, a system of 120 neurons from HRL lab learned how to play the game Pong after fi ve rounds of playing with the paddle and sensing the ball from the game. The system was not programmed; it only received feedback via rewards for a good job or punishment for a failure.
+
+Neuromorphic systems will be complementary to today’s computers whose capabilities continue to grow explosively. Several companies are announcing the commercial release of neuromorphic systems in 2014. They represent the next generation of technology that can move us closer to a third stage of AI systems.
+
+General AI: Third Stage of AI
+
+A third generation of AI will emerge when a device is no longer programmed but evolves and develops primarily by learning and can produce other machines even more intelligent than itself. Computer power and technology today is far from achieving the third stage of AI. But according to authors like Ray Kurzweil, now head of the Google mind project, by 2029 computer power will allow us to reverse engineer the human brain, which will be a signifi cant advancement to create computers that learn by themselves [13]. Others like Jeff Hawkins, cofounder of the AI company Numenta, which has created some of the most sophisticated learning algorithms that operate like the neurons in the neocortex part of the brain, say they are very doubtful that this third stage will ever be achieved. In the meantime, at least for the next two decades, we are bound to observe the explosion of machine learning algorithms and hardware that are affecting many domains and industries.
+
+Conclusion
+
+The intention of this chapter was to place the automation efforts of the architecture and engineering community in context with the contemporary discourses of design theory in computer science today. We have put forth concrete examples about how machine learning is entering the domain of design. Machine learning algorithms are also entering into many others aspects in the construction industry such as BAS, procurement, and sensors systems.
+
+Still there are doubts whether learning algorithms and neuromorphic processors could scale up to truly imitate the sophistication of biological systems. The subjects of AI, machine learning, and deep learning will continue to expand as computer power grows exponentially. There will be big AI booms and also major busts along the way. The second generation of AI learning algorithms are transforming many aspects in many industries and as illustrated in this chapter will also impact the construction industry in this post- parametric period. The major limitation is that there is very limited expert knowledge in learning algorithms available in the design community, which is the reason for the narrow use of this method in the AEC industry today.[9-10]
+
 ### generative design/genetic algorithems
 For example in one approach they used self-organization-based agent models with attractrepel algorithms in which a user can interactively generate space planning and quick massing studies. Other methods include urban spatial planning, access design, and occupancy and behavioral mapping. The chapter emphasizes that architecture is meant to provide experiences by using spaces and observes that digital design procedures should be able to help generate, visualize, and evaluate the heuristics of places and users.[9-4]
 
@@ -1279,11 +1391,11 @@ and futures in landscape architecture//[1]:89-116
 [9-10]Alfredo Andia.Automating Design via Machine Learning Algorithms[M]//[9]:191-199
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgyODM4NjQsLTE1NzQ1NTcwMjQsLT
-ExNDI2MzY2OTUsNzc4MjA4MTU5LC0zNjI2ODU5NzksMjAzNjYz
-MDMwOCwxMTM5NjcxODA5LDE5MzExNzAwMDAsMTUxNzA4NzczMy
-wxODg4MjQwMSwtMTU4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1
-NDQyMDQ2LC0xOTI4MDkxNzUxLDE1OTQ2NzM5MzksLTM3MTUwMz
-AxOSwtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2MTI0Njg5NzAs
-MTc1OTQwNTI0OV19
+eyJoaXN0b3J5IjpbNjgwNjYxMjMsLTIwMDgyODM4NjQsLTE1Nz
+Q1NTcwMjQsLTExNDI2MzY2OTUsNzc4MjA4MTU5LC0zNjI2ODU5
+NzksMjAzNjYzMDMwOCwxMTM5NjcxODA5LDE5MzExNzAwMDAsMT
+UxNzA4NzczMywxODg4MjQwMSwtMTU4NDIxNzYxMywtMTA2NDY4
+MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4MDkxNzUxLDE1OTQ2NzM5Mz
+ksLTM3MTUwMzAxOSwtNDE0OTE2NDQ5LDExMzAxOTY3MzIsLTE2
+MTI0Njg5NzBdfQ==
 -->
