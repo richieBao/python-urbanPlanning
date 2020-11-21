@@ -1422,12 +1422,14 @@ and futures in landscape architecture//[1]:89-116
 [11] Christoph Gengnagel,Christoph Gengnagel,Jane Burry editor.Impact: Design With All Senses: Proceedings of the Design Modelling Symposium, Berlin 2019[M].Switzerland:Springer,August, 2019
 
 [11-1]Zeynep Aksöz,Clemens Preisinger.An Interactive Structural Optimization of Space Frame Structures Using Machine Learning[M]//[11]:18-31
+
+[12]刘司南,吕锐,王霞.参数化风景园林设计的方法实践——以成都市环城生态区桂溪生态公园景观为例[J].中国园林,2017,33(05):50-55.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAyNDcyNTMsLTQ1NDI5ODAyOSw3Nj
-gyMjc4NCwtNDkzMjA4MTU4LDY4MDY2MTIzLC0yMDA4MjgzODY0
-LC0xNTc0NTU3MDI0LC0xMTQyNjM2Njk1LDc3ODIwODE1OSwtMz
-YyNjg1OTc5LDIwMzY2MzAzMDgsMTEzOTY3MTgwOSwxOTMxMTcw
-MDAwLDE1MTcwODc3MzMsMTg4ODI0MDEsLTE1ODQyMTc2MTMsLT
-EwNjQ2ODA0NDQsLTkyNTQ0MjA0NiwtMTkyODA5MTc1MSwxNTk0
-NjczOTM5XX0=
+eyJoaXN0b3J5IjpbLTU5ODQyNTg5NCwtMTY3MDI0NzI1MywtND
+U0Mjk4MDI5LDc2ODIyNzg0LC00OTMyMDgxNTgsNjgwNjYxMjMs
+LTIwMDgyODM4NjQsLTE1NzQ1NTcwMjQsLTExNDI2MzY2OTUsNz
+c4MjA4MTU5LC0zNjI2ODU5NzksMjAzNjYzMDMwOCwxMTM5Njcx
+ODA5LDE5MzExNzAwMDAsMTUxNzA4NzczMywxODg4MjQwMSwtMT
+U4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4
+MDkxNzUxXX0=
 -->
