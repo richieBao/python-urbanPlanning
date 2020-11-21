@@ -1424,12 +1424,13 @@ and futures in landscape architecture//[1]:89-116
 [11-1]Zeynep Aksöz,Clemens Preisinger.An Interactive Structural Optimization of Space Frame Structures Using Machine Learning[M]//[11]:18-31
 
 [12]刘司南,吕锐,王霞.参数化风景园林设计的方法实践——以成都市环城生态区桂溪生态公园景观为例[J].中国园林,2017,33(05):50-55.
+[13]成玉宁,袁旸洋.山地环境中拟自然水景参数化设计研究[J].中国园林,2015,31(07):10-14.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODQyNTg5NCwtMTY3MDI0NzI1MywtND
-U0Mjk4MDI5LDc2ODIyNzg0LC00OTMyMDgxNTgsNjgwNjYxMjMs
-LTIwMDgyODM4NjQsLTE1NzQ1NTcwMjQsLTExNDI2MzY2OTUsNz
-c4MjA4MTU5LC0zNjI2ODU5NzksMjAzNjYzMDMwOCwxMTM5Njcx
-ODA5LDE5MzExNzAwMDAsMTUxNzA4NzczMywxODg4MjQwMSwtMT
-U4NDIxNzYxMywtMTA2NDY4MDQ0NCwtOTI1NDQyMDQ2LC0xOTI4
-MDkxNzUxXX0=
+eyJoaXN0b3J5IjpbMTk3NjAxMzI4NCwtNTk4NDI1ODk0LC0xNj
+cwMjQ3MjUzLC00NTQyOTgwMjksNzY4MjI3ODQsLTQ5MzIwODE1
+OCw2ODA2NjEyMywtMjAwODI4Mzg2NCwtMTU3NDU1NzAyNCwtMT
+E0MjYzNjY5NSw3NzgyMDgxNTksLTM2MjY4NTk3OSwyMDM2NjMw
+MzA4LDExMzk2NzE4MDksMTkzMTE3MDAwMCwxNTE3MDg3NzMzLD
+E4ODgyNDAxLC0xNTg0MjE3NjEzLC0xMDY0NjgwNDQ0LC05MjU0
+NDIwNDZdfQ==
 -->
