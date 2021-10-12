@@ -18,7 +18,7 @@
 #matplotlib==2.1.2
 #networkx==2.1
 #numpy==1.14.0
-opencv-python==3.4.0+contrib
+opencv-python==4.2.0.32
 pandas==0.22.0
 #peppercorn==0.5
 Pillow==5.0.0
