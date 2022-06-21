@@ -17,7 +17,7 @@ Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.1.2
 networkx==2.1
-numpy==1.14.0
+numpy==1.22.0
 opencv-python==3.4.0+contrib
 pandas==0.22.0
 peppercorn==0.5
