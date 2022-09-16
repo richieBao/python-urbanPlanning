@@ -13,7 +13,7 @@ Flask-SQLAlchemy==2.3.2
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.1.2
 networkx==2.1
